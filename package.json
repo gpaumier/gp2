@@ -6,6 +6,7 @@
   "author": "Guillaume Paumier",
   "license": "MIT",
   "dependencies": {
+    "jade": "^1.10.0",
     "metalsmith": "^1.7.0",
     "metalsmith-jade": "^2.0.0",
     "metalsmith-pandoc": "^0.1.2",
