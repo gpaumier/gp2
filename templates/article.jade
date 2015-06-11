@@ -5,8 +5,12 @@ html.no-js(lang='en')
         title= title
     body
         article
-            img(src= image)
+            if image
+                img(src= image)
+            else
+                img(src='/images/default_picture_full.jpg')
+                    
             h1 Hello world!
             p Yes why hello.
             div!= contents
-            p= tags
+            p= topics

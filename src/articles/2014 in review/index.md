@@ -4,7 +4,7 @@ date: 'Sun, 22 Feb 2015 23:24:15 GMT'
 template: 'article.jade'
 image: '2014-11-10 City park.jpg'
 slug: '2014-in-review'
-tags:
+topics:
 - 'General'
 - 'Wikimedia'
 ---
