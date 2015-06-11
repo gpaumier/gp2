@@ -3,7 +3,13 @@ title: '2014 in review, and the year ahead'
 date: 'Sun, 22 Feb 2015 23:24:15 GMT'
 template: 'article.jade'
 image: '2014-11-10 City park.jpg'
+slug: '2014-in-review'
+tags:
+- 'General'
+- 'Wikimedia'
 ---
+
+In 2014, I posted a few photos, I continued to work on technical communications at Wikimedia before a role change, I learned more about myself, I moved to California, and I hiked a lot.
 
 <section>
 2014 in failures
