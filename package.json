@@ -10,6 +10,8 @@
     "metalsmith": "^1.7.0",
     "metalsmith-jade": "^2.0.0",
     "metalsmith-pandoc": "^0.1.2",
-    "metalsmith-templates": "^0.7.0"
+    "metalsmith-serve": "0.0.3",
+    "metalsmith-templates": "^0.7.0",
+    "metalsmith-watch": "^1.0.1"
   }
 }
