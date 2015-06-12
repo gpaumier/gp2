@@ -4,13 +4,20 @@ var templates   = require('metalsmith-templates');
 var serve       = require('metalsmith-serve');
 var watch       = require('metalsmith-watch');
 var moment      = require('moment');
+var i18n        = require('i18next');
+
+//i18n.init({ lng: "fr-FR" });
+i18n.init({ lng: "en-US" });
+i18n.registerAppHelper(metalsmith);
+
 
 metalsmith(__dirname)
     .source('src')
     .use(markdown())
     .use(templates({
         engine: 'jade',
-        moment: moment
+        moment: moment,
+        i18n: i18n
     }))
     .destination('build')
     .use(serve({
