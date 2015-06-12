@@ -13,4 +13,4 @@ html.no-js(lang='en')
             h1= title
             div!= contents
             p= topics
-            div Published on #{moment(date).format("MMMM D, YYYY")}
+            div #{i18n.t("publishDate", {publishDate: moment(date).format("MMMM D, YYYY")})}
