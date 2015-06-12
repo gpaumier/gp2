@@ -10,7 +10,7 @@ html.no-js(lang='en')
             else
                 img(src='/images/default_picture_full.jpg')
                     
-            h1 Hello world!
-            p Yes why hello.
+            h1= title
             div!= contents
             p= topics
+            div Published on #{moment(date).format("MMMM D, YYYY")}
