@@ -5,11 +5,12 @@ html.no-js(lang='en')
         title= title
     body
         article
-            nav
-                ul
-                    each header in headings
-                        li
-                            a(href!="##{header.id}")!= header.text
+            if headings
+                nav
+                    ul
+                        each header in headings
+                            li
+                                a(href!="##{header.id}")!= header.text
             if image
                 img(src='#{image}')
             else
