@@ -5,6 +5,7 @@ var serve       = require('metalsmith-serve');
 var watch       = require('metalsmith-watch');
 var moment      = require('moment');
 var i18n        = require('i18next');
+var headings    = require('metalsmith-headings');
 
 //i18n.init({ lng: "fr-FR" });
 i18n.init({ lng: "en-US" });
@@ -14,6 +15,7 @@ i18n.registerAppHelper(metalsmith);
 metalsmith(__dirname)
     .source('src')
     .use(markdown())
+    .use(headings('h2'))
     .use(templates({
         engine: 'jade',
         moment: moment,
