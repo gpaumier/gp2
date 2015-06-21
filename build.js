@@ -6,10 +6,23 @@ var watch       = require('metalsmith-watch');
 var moment      = require('moment');
 var i18n        = require('i18next');
 var headings    = require('metalsmith-headings');
+var convert     = require('metalsmith-convert');
 
 //i18n.init({ lng: "fr-FR" });
 i18n.init({ lng: "en-US" });
 i18n.registerAppHelper(metalsmith);
+
+// Image handling: metalsmith-convert config
+
+var convertConfig = {
+    src: '**/*.jpg',
+    target: 'jpg',
+    resize: {
+        width: 320,
+        height: 320,
+        resizeStyle: 'aspectfit'
+    }    
+};
 
 
 metalsmith(__dirname)
@@ -21,6 +34,7 @@ metalsmith(__dirname)
         moment: moment,
         i18n: i18n
     }))
+    .use(convert(convertConfig))
     .destination('build')
     .use(serve({
         port: 8081
