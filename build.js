@@ -7,6 +7,7 @@ var moment      = require('moment');
 var i18n        = require('i18next');
 var headings    = require('metalsmith-headings');
 var convert     = require('metalsmith-convert');
+var permalinks  = require('metalsmith-permalinks');
 
 //i18n.init({ lng: "fr-FR" });
 i18n.init({ lng: "en-US" });
@@ -32,7 +33,14 @@ var templateConfig = {
     engine: 'jade',
     moment: moment,
     i18n: i18n
-}
+};
+
+
+// Permalinks handling: metalsmith-permalinks config
+
+var permalinksConfig = {
+    pattern: ':date/:slug'
+};
 
 
 metalsmith(__dirname)
@@ -41,6 +49,7 @@ metalsmith(__dirname)
     .use(headings('h2'))
     .use(templates(templateConfig))
     .use(convert(convertConfig))
+    .use(permalinks(permalinksConfig))
     .destination('build')
     .use(serve({
         port: 8081
