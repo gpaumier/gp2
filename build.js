@@ -12,6 +12,7 @@ var convert     = require('metalsmith-convert');
 i18n.init({ lng: "en-US" });
 i18n.registerAppHelper(metalsmith);
 
+
 // Image handling: metalsmith-convert config
 
 var convertConfig = {
@@ -21,19 +22,24 @@ var convertConfig = {
         width: 320,
         height: 320,
         resizeStyle: 'aspectfit'
-    }    
+    }
 };
+
+
+// Template handling: metalsmith-templates config
+
+var templateConfig = {
+    engine: 'jade',
+    moment: moment,
+    i18n: i18n
+}
 
 
 metalsmith(__dirname)
     .source('src')
     .use(markdown())
     .use(headings('h2'))
-    .use(templates({
-        engine: 'jade',
-        moment: moment,
-        i18n: i18n
-    }))
+    .use(templates(templateConfig))
     .use(convert(convertConfig))
     .destination('build')
     .use(serve({
