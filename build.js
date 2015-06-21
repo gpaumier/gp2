@@ -8,6 +8,7 @@ var i18n        = require('i18next');
 var headings    = require('metalsmith-headings');
 var convert     = require('metalsmith-convert');
 var permalinks  = require('metalsmith-permalinks');
+var collections = require('metalsmith-collections');
 
 //i18n.init({ lng: "fr-FR" });
 i18n.init({ lng: "en-US" });
@@ -42,14 +43,30 @@ var permalinksConfig = {
     pattern: ':date/:slug'
 };
 
+// Collections handling: metalsmith-collection config
+
+var collectionsConfig = {
+    articlesEN: {
+        pattern: 'articles/*/index.md',
+        sortBy: 'date',
+        reverse: true
+    },
+    articlesFR: {
+        pattern: 'articles/*/index.fr.md',
+        sortBy: 'date',
+        reverse: true
+    }
+}
+
 
 metalsmith(__dirname)
     .source('src')
+    .use(collections(collectionsConfig))
     .use(markdown())
     .use(headings('h2'))
-    .use(templates(templateConfig))
     .use(convert(convertConfig))
     .use(permalinks(permalinksConfig))
+    .use(templates(templateConfig))
     .destination('build')
     .use(serve({
         port: 8081

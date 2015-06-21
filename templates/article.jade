@@ -20,3 +20,11 @@ html.no-js(lang='en')
             div!= contents
             p= topics
             div #{i18n.t("publishDate", {publishDate: moment(date).format("MMMM D, YYYY")})}
+        nav
+            ul
+                if previous
+                    li
+                        a(href!="/#{previous.path}")= previous.title
+                if next
+                    li
+                        a(href!="/#{next.path}")= next.title
