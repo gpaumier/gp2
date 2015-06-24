@@ -6,8 +6,8 @@ html.no-js(lang='en')
     body
         article    
             h1= title
-            if collections.articlesEN && collections.articlesEN.length  > 0
-                each item in collections.articlesEN
+            if collections[archive] && collections[archive].length  > 0
+                each item in collections[archive]
                     h2
                         a(href='/'+item.path)!= item.title
             else
