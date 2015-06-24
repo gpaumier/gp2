@@ -1,0 +1,15 @@
+html.no-js(lang='en')
+    head
+        meta(charset='utf-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1.0')
+        title= title
+    body
+        article    
+            h1= title
+            if collections.articlesEN && collections.articlesEN.length  > 0
+                each item in collections.articlesEN
+                    h2
+                        a(href='/'+item.path)!= item.title
+            else
+                h2 No articles to display
+    
