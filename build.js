@@ -9,6 +9,8 @@ var headings    = require('metalsmith-headings');
 var convert     = require('metalsmith-convert');
 var permalinks  = require('metalsmith-permalinks');
 var collections = require('metalsmith-collections');
+var branch      = require('metalsmith-branch');
+var multiLanguage = require('metalsmith-multi-language');
 
 //i18n.init({ lng: "fr-FR" });
 i18n.init({ lng: "en-US" });
@@ -47,20 +49,24 @@ var permalinksConfig = {
 
 var collectionsConfig = {
     articlesEN: {
-        pattern: 'articles/*/index.md',
+        pattern: 'articles/*/index_en.md',
         sortBy: 'date',
         reverse: true
     },
     articlesFR: {
-        pattern: 'articles/*/index.fr.md',
+        pattern: 'articles/*/index_fr.md',
         sortBy: 'date',
         reverse: true
     }
 }
 
 
+
+// Processing pipeline
+
 metalsmith(__dirname)
     .source('src')
+    .use(multiLanguage({ default: 'en', locales: ['en', 'fr'] }))
     .use(collections(collectionsConfig))
     .use(markdown())
     .use(headings('h2'))
