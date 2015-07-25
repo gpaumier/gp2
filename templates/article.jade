@@ -22,6 +22,12 @@ html.no-js(lang='en')
             div #{i18n.t("publishDate", {publishDate: moment(date).format("MMMM D, YYYY")})}
         nav
             ul
+                if locale != 'en' && typeof(lang('en')) != 'undefined'
+                    li: a(href='/'+ lang('en').path) English
+                if locale != 'fr' && typeof(lang('fr')) != 'undefined'
+                    li: a(href='/'+ lang('fr').path) français
+        nav
+            ul
                 if previous
                     li
                         a(href!="/#{previous.path}")= previous.title
