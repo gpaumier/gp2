@@ -76,7 +76,7 @@ In many ways, Spock's traits are similar to autism, and many autistic people ide
 
 In this example, and in many others, Spock's perception filter prevents him from understanding human decisions mainly driven by emotion. Those actions appear foolish or nonsensical, because Spock interprets them through his own lens of logic. He lacks the cultural background, social norms and unspoken assumptions unconsciously shared by humans.
 
-The reverse is also true: Whenever humans are puzzled or annoyed by Spock, it is because they expect him to behave like a human; they are often confronted to a harsher truth than they would like. Humans interpret Spock's behavior through their own emotional perception filter. They often misunderstand his motives, assume malice and superimpose intents that change the meaning of his original words and actions.
+The reverse is also true: Whenever humans are puzzled or annoyed by Spock, it is because they expect him to behave like a human; they are often confronted with a harsher truth than they would like. Humans interpret Spock's behavior through their own emotional perception filter. They often misunderstand his motives, assume malice and superimpose intents that change the meaning of his original words and actions.
 
 
 ## Autism
@@ -132,7 +132,7 @@ Now this is what's happening from my perspective: I'm talking to someone I don't
 
 This illustrates one of many situations in which each person's perception filter caused a complete disconnect between how the situation was perceived on each side.
 
-There are also many professional hurdles associated with being on the autism spectrum, and autists are more affected by unemployment than neurotypicals[^npr-unemployment]. I'm privileged in that I've been able to find an environment in which I'm able to work, but many autists aren't so lucky. It's been well documented that people in higher-up positions aren't necessarily the best performers, but often people with the best social skills. With that in mind, imagine that can be the career opportunities for someone who is a terrible liar, who has a lot of interest in doing great work, but less interest in taking credit for it, who doesn't understand office politics, who not only makes social missteps and and angers their colleagues, but doesn't even know about it, someone who's unable to make small talk around the office. Imagine that person, and what kind of a career they can have even if they're very good at their job.
+There are also many professional hurdles associated with being on the autism spectrum, and autists are more affected by unemployment than neurotypicals[^npr-unemployment]. I'm privileged in that I've been able to find an environment in which I'm able to work, but many autists aren't so lucky. It's been well documented that people in higher-up positions aren't necessarily the best performers, but often people with the best social skills. With that in mind, imagine that can be the career opportunities for someone who is a terrible liar, who has a lot of interest in doing great work, but less interest in taking credit for it, who doesn't understand office politics, who not only makes social missteps and angers their colleagues but doesn't even know about it, someone who's unable to make small talk around the office. Imagine that person, and what kind of a career they can have even if they're very good at their job.
 
 [^npr-unemployment]: http://www.npr.org/blogs/health/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated
 
@@ -183,7 +183,7 @@ But still, neurodiversity has a cost. Sometimes, you'll be offended; sometimes, 
 
 As I mentioned earlier, I believe Spock was only able to build those relationships over time because people were aware of his difference, and learned to understand and embrace it. Spock also learned a lot from humans along the way.
 
-My goal here was to raise awareness of this difference that exists in our community, and encourage us to discuss our differences more openly, and to improve our understanding of each other.
+My goals here were to raise awareness of this difference that exists in our community, to encourage us to discuss our differences more openly, and to improve our understanding of each other.
 
 There is a lot I didn't get into in this essay, and I might expand on specific points later. In the meantime, I'm always happy to discuss this, whether in person or online.
 
