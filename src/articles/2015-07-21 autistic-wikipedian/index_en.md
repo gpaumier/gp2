@@ -29,7 +29,7 @@ I didn't know it at the time, but it would take me nearly 30 years to look back 
 
 I'm now 32 years old, and a lot has changed. Two years ago, after some difficulties at work, my partner decided to share his suspicions that I might be on the autism spectrum. I knew little about it at the time, but it was a hypothesis that seemed to explain a lot, and seemed worth exploring.
 
-Sure, the subject had come up before a few times, but it was always as a joke, an exaggeration of my behavior. I never thought I fitted that label. One problem is that autism is usually represented in a very uniform manner in popular culture. Movies like *Rain Man*  feature autistic savants who, although they have extraordinary abilities, live in a completely different world, and sometimes aren't verbal. The autism spectrum is much more diverse than those stereotypical examples.
+Sure, the subject had come up before a few times, but it was always as a joke, an exaggeration of my behavior. I never thought I fit that label. One problem is that autism is usually represented in a very uniform manner in popular culture. Movies like *Rain Man*  feature autistic savants who, although they have extraordinary abilities, live in a completely different world, and sometimes aren't verbal. The autism spectrum is much more diverse than those stereotypical examples.
 
 After I started researching the topic, and reading books on autism or autobiographies by autistic people, I realized how much of it applied to me.
 
@@ -64,7 +64,7 @@ Some of the funniest moments of the show are his arguments with the irascible Dr
 
 As a Vulcan, Spock's life is ruled by logic. Although he does feel emotions, they are deeply repressed. His speech pattern is very detached, almost clinical. Because of his logical and utilitarian perspective, Spock often appears dismissive, cold-hearted, or just plain rude to his fellow shipmates.
 
-In many ways, Spock's traits are similar to autism, and many autistic people identify with him. For example, in her book *Thinking in Pictures*, Temple Grandin, a renown autistic scientist and author, recounts how she related to Spock from a young age:
+In many ways, Spock's traits are similar to autism, and many autistic people identify with him. For example, in her book *Thinking in Pictures*, Temple Grandin, a renowned autistic scientist and author, recounts how she related to Spock from a young age:
 
 > Many people with autism are fans of the television show *Star Trek*. [...] I strongly identified with the logical Mr. Spock, since I completely related to his way of thinking.
 >
@@ -83,7 +83,7 @@ The reverse is also true: Whenever humans are puzzled or annoyed by Spock, it is
 
 TODO: add diagram
 
-You're probably familiar with the [conceptual models of communication](https://en.wikipedia.org/wiki/Models_of_communication) In many of those models, communication is represented as the transmission of a message between a sender and a receiver.
+You're probably familiar with the [conceptual models of communication](https://en.wikipedia.org/wiki/Models_of_communication). In many of those models, communication is represented as the transmission of a message between a sender and a receiver.
 
 If you apply this model to an oral conversation, you quickly see all the opportunities for miscommunication: From what the sender means, to what they actually say, to what the receiver hears, to what they understand, information can change radically, especially when you consider nonverbal communication. It's like a 2-person variation of the telephone game. In the words of psychologist Tony Attwood:
 
@@ -132,7 +132,7 @@ Now this is what's happening from my perspective: I'm talking to someone I don't
 
 This illustrates one of many situations in which each person's perception filter caused a complete disconnect between how the situation was perceived on each side.
 
-There are also many professional hurdles associated with being on the autism spectrum, and autists are more affected by unemployment than neurotypicals[^npr-unemployment]. I'm privileged in that I've been able to find an environment in which I'm able to work, but many autists aren't so lucky. It's been well documented that people in higher-up positions aren't necessarily the best performers, but often people with the best social skills. With that in mind, imagine that can be the career opportunities for someone who is a terrible liar, who has a lot of interest in doing great work, but less interest in taking credit for it, who doesn't understand office politics, who not only makes social missteps and and angers their colleagues, but doesn't even know about it, someone who's unable to make small talk around the office. Imagine that person, and what kind of a career they can have even if they're very good at their job.
+There are also many professional hurdles associated with being on the autism spectrum, and autists are more affected by unemployment than neurotypicals[^npr-unemployment]. I'm privileged in that I've been able to find an environment in which I'm able to work, but many autists aren't so lucky. It's been well documented that people in higher-up positions aren't necessarily the best performers, but often people with the best social skills. With that in mind, imagine that can be the career opportunities for someone who is a terrible liar, who has a lot of interest in doing great work, but less interest in taking credit for it, who doesn't understand office politics, who not only makes social missteps and angers their colleagues, but doesn't even know about it, someone who's unable to make small talk around the office. Imagine that person, and what kind of a career they can have even if they're very good at their job.
 
 [^npr-unemployment]: http://www.npr.org/blogs/health/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated
 
