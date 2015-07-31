@@ -1,18 +1,20 @@
 ---
-title:  Ma vie de Wikipédien autiste
+title:  Autiste et Wikipédien
 slug: wikipedien-autiste
 topics:
 - Wikimedia
 - Autisme
 ---
 
-Cet essai est à l'origine de ma présentation du même nom donnée lors de la conference Wikimania 2015. Ce n'est pas une retranscription fidèle. Vous pouvez [améliorer cette traduction](). TODO: ajouter le lien vers github
+Il y a deux ans, j'ai découvert que j'appartenais au spectre autistique. Cela m'a permis de mieux comprendre comment je fonctionnais, et comment mon cerveau fonctionnait; j'ai ainsi pu analyser mes expériences passées d'un nouvel œil. Dans cet essai, je souhaite partager ce que j'ai appris au cours de ce processus, à travers mes succès, mes échecs, et de nombreuses situations que je n'ai pas comprises à l'époque, notamment au cours de mes interactions avec d'autres Wikipédiens.
+
+*Cet essai est à l'origine de ma [présentation du même nom](https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian) donnée lors de la conférence Wikimania 2015. Il s'agit d'un brouillon, que j'ai décidé de publier maintenant afin d'éviter une attente trop longue ; je vais continuer à le peaufiner au cours des prochaines semaines, et [vous pouvez contribuer](https://github.com/gpaumier/gp2/blob/master/src/articles/2015-07-21%20autistic-wikipedian/index_fr.md) à son amélioration. Le [texte original en anglais](http://guillaumepaumier.com/2015/07/29/autistic-wikipedian/) est également disponible.*
 
 ## Introduction
 
 ![](maternelle.jpg)
 
-Ceci est une photo de moi prise quand j'avais 4 ans, à l'école maternelle
+Ceci est une photo de moi prise quand j'avais 4 ans, à l'école maternelle.
 
 Je n'ai pas beaucoup de souvenirs de cette époque, mais mes parents se rappellent notamment que, bien que je ne fus généralement pas très enthousiaste à l'idée d'aller à l'école durant la semaine, je demandais plus souvent à y aller le samedi matin, car la plupart des autres enfants n'étaient pas là.
 
@@ -20,7 +22,7 @@ Je n'avais rien contre eux personnellement ; l'école était simplement plus cal
 
 Je ne le savais pas à l'époque, mais il me faudrait près de 30 ans pour regarder cette anecdote sous un nouveau jour, et comprendre en quoi elle était en fait complètement logique.
 
-## Me aujourd'hui
+## Aujourd'hui
 
 J'ai maintenant 32 ans, et beaucoup de choses ont changé. Il y a deux ans, après quelques difficultés au travail, mon compagnon a décidé de me dire qu'il soupçonnait depuis quelque temps que j'appartenais au spectre autistique. Je ne savais que très peu sur l'autisme à l'époque, mais c'était une hypothèse qui semblait expliquer beaucoup de choses, et méritait d'être explorée.
 
@@ -44,9 +46,7 @@ Dans cet essai, je veux partager quelques unes des choses que j'ai apprises, et 
 
 Je veux commencer avec une mise en garde : l'autisme est un spectre. Il y a un dicton populaire parmi les communautés d'autistes sur internet : « Vous avez rencontré un autiste, vous avez rencontré *un* autiste. » Ce que je décris ici est basé sur mon expérience personnelle, et n'est pas applicable de façon universelle à toutes les personnes autistes.
 
-![Guillaume Paumier en 2007](Taipei_Wm2007_Guillaume.jpg)
-
-"[Taipei Wm2007Guillaume.jpg](https://commons.wikimedia.org/wiki/File:Taipei_Wm2007_Guillaume.jpg)", par [Cary Bass](https://commons.wikimedia.org/wiki/User:Bastique), sous licence [CC-By-SA 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/legalcode), depuis Wikimedia Commons.
+!["[Taipei Wm2007Guillaume.jpg](https://commons.wikimedia.org/wiki/File:Taipei_Wm2007_Guillaume.jpg)", par [Cary Bass](https://commons.wikimedia.org/wiki/User:Bastique), sous licence [CC-By-SA 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/legalcode), depuis Wikimedia Commons.](Taipei_Wm2007_Guillaume.jpg)
 
 La photo ci-dessus a été prise lors de la conférence Wikimania 2007 à Taipei, alors que j'explorais la ville avec Cary Bass (User:Bastique) et d'autres Wikimédiens. En regardant cette photo aujourd'hui, je remarque plusieurs choses qui m'avaient échappé auparavant :
 
@@ -57,11 +57,11 @@ La photo ci-dessus a été prise lors de la conférence Wikimania 2007 à Taipei
 
 ## Spock
 
-![Kirk et Spock](Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG)
+![Kirk et Spock. "[Leonard Nimoy William Shatner Star Trek 1968](https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG)", by NBC Television, dans le domaine public, depuis Wikimedia Commons.](Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG)
 
 "[Leonard Nimoy William Shatner Star Trek 1968](https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG)", by NBC Television, dans le domaine public, depuis Wikimedia Commons.
 
-Une bonne analogie pour aider à comprendre ce que ça fait d'être autiste dans une société neutotypique est de regarder M. Spock, dans la série originale *Star Trek*. Fils d'un père Vulcain et d'une mère humaine, Spock est techniquement à moitié humain, mais c'est son côté Vulcain qui est le plus visible lors de ses interactions avec l'équipage de l'*Enterprise*.
+Une bonne analogie pour aider à comprendre ce que ça fait d'être autiste dans une société neurotypique est de regarder M. Spock, dans la série originale *Star Trek*. Fils d'un père Vulcain et d'une mère humaine, Spock est techniquement à moitié humain, mais c'est son côté Vulcain qui est le plus visible lors de ses interactions avec l'équipage de l'*Enterprise*.
 
 Certains des moments les plus drôles de la série sont ses discussions animées avec l'irascible docteur McCoy, qui qualifie Spock d' « automate insensible » et d'« homme le plus dépourvu de sentiments qu'[il ait] jamais rencontré". Ce à quoi Spock répond: « Oh, je vous remercie, docteur." [^sttos120]
 
@@ -86,9 +86,11 @@ L'inverse est également vrai : Chaque fois que les humains sont perplexes ou en
 
 ## Autisme
 
-TODO: ajouter diagramme
+Vous avez probablement entendu parler des [modèles conceptuels de communication] (https://en.wikipedia.org/wiki/Models_of_communication). Dans de nombreux modèles, la communication est représentée comme la transmission d'un message entre un émetteur et un récepteur.
 
-Vous avez probablement entendu parler des modèles de communication] (https://en.wikipedia.org/wiki/Models_of_communication). Dans de nombreux modèles, la communication est représentée comme la transmission d'un message entre un émetteur et un récepteur.
+![Dans un modèle de communication simple, l'émetteur formule un message et le transmet au receveur, qui l'interprète. Le receveur fournit également un retour à l'émetteur.](communication_model1.svg)
+
+![Si l'on applique ce modèle à une discussion orale entre deux personnes, le modèle devient plus complexe à cause de la communication non verbale. Celle-ci fait intervenir de nombreux autres signaux, tels que l'intonation, les expressions faciales et le langage corporel.](communication_model2.svg)
 
 Si l'on applique ce modèle à une conversation orale, on voit rapidement toutes les possibilités de mauvaise communication : entre ce que l'émetteur pense, ce qu'il communique, ce que le récepteur entend, et ce qu'il comprend, l'information peut changer drastiquement, surtout quand on prend en compte la communication non verbale. C'est comme si les deux personnes jouaient au téléphone arabe. Le psychologue Tony Attwood l'explique ainsi :
 
@@ -106,7 +108,7 @@ Alan répond, très perplexe :
 
 > En quoi est-ce différent est-ce différent d'une discussion ? [...] Quand les gens parlent entre eux, ils ne disent jamais ce qu'ils pensent, ils disent autre chose. Et on est censé comprendre exactement ce qu'ils veulent dire. Seulement, moi, je ne comprends jamais.
 
-Les personnes autistes sont caractérisés par de nombreuses spécificités, mais l'un des plus répandus est la cécité sociale : nous avons du mal à lire les émotions des autres. Nous manquons de « [Théorie de l'esprit](https://fr.wikipedia.org/wiki/Theorie_de_l'esprit) », qui sert aux personnes neurotypiques à déterminer les états mentaux  (comme les croyances et les intentions) des autres. Nous prenons souvent les choses au premier degré, parce que nous les sous-entendus nous échappent: il est difficile pour nous de lire entre les lignes.
+Les personnes autistes sont caractérisés par de nombreuses spécificités, mais l'un des plus répandus est la cécité sociale : nous avons du mal à lire les émotions des autres. Nous manquons de « [Théorie de l'esprit](https://fr.wikipedia.org/wiki/Theorie_de_l'esprit) », qui sert aux personnes neurotypiques à déterminer les états mentaux (comme les croyances et les intentions) des autres. Nous prenons souvent les choses au premier degré, parce que nous les sous-entendus nous échappent: il est difficile pour nous de lire entre les lignes.
 
 Liane Holliday Willey, autiste, auteure et conférencière, l'explique ainsi :
 
@@ -114,20 +116,22 @@ Liane Holliday Willey, autiste, auteure et conférencière, l'explique ainsi :
 
 [^willey]: Liane Holliday Willey, dans *Le guide complet pour le syndrome d'Asperger*. Tony Attwood, p.126
 
-## exemples de discussions
+## Comment ça va ?
 
 Dans beaucoup de langues, il existe une expression usuelle pour demander à quelqu'un comment il va, que ce soit « Comment ça va ? » en français, « *How are you?* » en anglais, ou « *Wie geht's?* » en allemand.
 
 Quand je suis arrivé aux États-Unis, chaque fois que quelqu'un me demandais en anglais: « *How are you?* » (« Comment ça va ? »), je devais faire une pause de quelques secondes pour réfléchir à la réponse. Depuis, j'ai appris que c'est une expression phatique, une question rhétorique. Si l'on me pose cette question, je donne désormais la réponse attendue : « *Great, how are you?* » (« Très bien, et toi, comment ça va ? »). Mon cerveau n'a besoin que de quelques millisecondes pour court-circuiter le processus de question-réponse. Mais si les gens dévient de cette salutation habituelle, ce raccourci mental ne fonctionne plus.
 
-Il ya quelques semaines, quelqu'un de mon bureau m'a demandé: « *How is your world?* » (« Quoi de neuf dans ton univers ? »), et j'ai bloqué pendant quelques secondes. Afin de répondre à cette question, mon cerveau était en train de passer en revue tout ce qui se passait dans « mon univers » (et « mon univers » est immense !) ; après quelques secondes, je me suis rendu compte que j'avais seulement besoin de répondre « *Great, thank you!* » (« Super, merci ! ».
+Il y a quelques semaines, quelqu'un de mon bureau m'a demandé: « *How is your world?* » (« Quoi de neuf dans ton univers ? »), et j'ai bloqué pendant quelques secondes. Afin de répondre à cette question, mon cerveau était en train de passer en revue tout ce qui se passait dans « mon univers » (et « mon univers » est immense !) ; après quelques secondes, je me suis rendu compte que j'avais seulement besoin de répondre « *Great, thank you!* » (« Super, merci ! »).
+
+!["[Small talk](https://xkcd.com/222/)" par Randall Munroe, sous licence [CC-BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode), depuis xkcd.com.](small_talk.png)
 
 
 ## Privilège et oreilles pointues
 
 Ce problème de premier degré n'est qu'un exemple des nombreux défis rencontrés par les personnes autistes, et je voudrais maintenant parler de privilège neurotypique. Je suis un homme caucasien, cisgenre, et j'ai grandi dans une famille aimante de la classe moyenne d'un pays industrialisé. Par bien des égards, je suis très privilégié. Mais, en dépit de mes superpouvoirs, il n'en reste pas moins difficile d'être autiste dans une société essentiellement neurotypique.
 
-La conséquence la plus commune que je l'ai remarquée dans mon expérience, et dans les retours d'autres personnes autistes, est un sentiment de isolement profond. Le manque de théorie de l'esprit et le risque constant de mauvaise communication font qu'il est difficile de construire des relations avec les gens. Ce n'est pas la faute de qui que ce soit en particulier ; c'est un problème plus général de manque de sensibilisation.
+La conséquence la plus commune que je l'ai remarquée dans mon expérience, et dans les retours d'autres personnes autistes, est un sentiment d'isolement profond. Le manque de théorie de l'esprit et le risque constant de mauvaise communication font qu'il est difficile de construire des relations avec les gens. Ce n'est pas la faute de qui que ce soit en particulier ; c'est un problème plus général de manque de sensibilisation.
 
 ![Réception de bienenue à Wikimania 2014. "[Wikimania 2014 welcome reception 02](https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg)", by <a href="https://commons.wikimedia.org/wiki/User:Chris_McKenna_(WMUK)">Chris McKenna</a>, under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 International</a>, from Wikimedia Commons.](Wikimania_2014_welcome_reception_02.jpg)
 
@@ -137,7 +141,9 @@ Maintenant, voici ce qui est en train de se passer de mon point de vue : je suis
 
 Cet exemple illustre l'une des nombreuses situations dans lesquelles le filtre de perception de chaque personne crée une déconnexion complète entre les façons dont la situation est perçue de chaque côté.
 
-Il y a aussi de nombreux obstacles professionnels associés au fait d'être sur le spectre autistique, et les personnes autistes sont plus touchées par le chômage que les neurotypiques [^npr-unemployment]. J'ai la chance d'avoir pu trouver un environnement dans lequel je suis en mesure de travailler, mais de nombreux autistes ne sont pas aussi chanceux. Il est établi que que les personnes occupant des postes élevés ne sont pas nécessairement les employés les plus performants, mais bien souvent ceux ayant les meilleures compétences sociales. En gardant ça en tête, imaginez quelles sont les opportunités de carrière pour quelqu'un qui ne sait pas mentir, quemlqu'un pour qui faire de l'excellent travail compte beaucoup, mais qui ne s'inquiète pas de s'en attribuer le mérite, quelqu'un qui ne comprend pas les intrigues de bureau, qui non seulement  fait des faux-pas sociaux et fâche ses collègues, mais en plus ne s'en rend meme pas compte, quelqu'un qui est incapable de parler de la pluie et du beau temps. Imaginez cette personne, et quel genre de carrière ils peuvent avoir, même s'ils sont très bons dans leur travail.
+Il y a aussi de nombreux obstacles professionnels associés au fait d'être sur le spectre autistique, et les personnes autistes sont plus touchées par le chômage que les neurotypiques [^npr-unemployment]. J'ai la chance d'avoir pu trouver un environnement dans lequel je suis en mesure de travailler, mais de nombreux autistes ne sont pas aussi chanceux. Il est établi que que les personnes occupant des postes élevés ne sont pas nécessairement les employés les plus performants, mais bien souvent ceux ayant les meilleures compétences sociales.
+
+En gardant ça en tête, imaginez quelles sont les opportunités de carrière possibles pour quelqu'un qui ne sait pas mentir, quemlqu'un pour qui faire de l'excellent travail compte beaucoup, mais qui ne s'inquiète pas de s'en attribuer le mérite, quelqu'un qui ne comprend pas les intrigues de bureau, qui non seulement  fait des faux-pas sociaux et fâche ses collègues, mais en plus ne s'en rend meme pas compte, quelqu'un qui est incapable de parler de la pluie et du beau temps. Imaginez cette personne, et quel genre de carrière ils peuvent avoir, même s'ils sont très bons dans leur travail.
 
 [^npr-unemployment]: http://www.npr.org/blogs/health/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated
 
@@ -147,7 +153,9 @@ La plupart de ces problèmes surviennent parce qu'il est difficile pour les neur
 
 ## La communication par ordinateur
 
-Je voudrais revenir à ce modèle conceptuel de la communication. Imaginez comment ce modèle change si, au lieu de discuter en face à face, il s'agit d'une dicussion par internet : par e-mail, sur un wiki, ou sur IRC. Tous ces moyens de communication, bien connus des Wikimédiens, font appel à l'écriture, et sont généralement asynchrones. Pour de nombreux neurotypiques, ces moyens de communication sont frustrants, car ils font disparaitre la plupart des signaux non verbaux habituels comme le ton, les expressions faciales et le langage corporel.
+Je voudrais revenir à ce modèle conceptuel de la communication. Imaginez comment ce modèle change si, au lieu de discuter en face à face, il s'agit d'une discussion par internet : par e-mail, sur un wiki, ou sur IRC. Tous ces moyens de communication, bien connus des Wikimédiens, font appel à l'écriture, et sont généralement asynchrones. Pour de nombreux neurotypiques, ces moyens de communication sont frustrants, car ils font disparaitre la plupart des signaux non verbaux habituels comme le ton, les expressions faciales et le langage corporel.
+
+![Dans les discussions par internet, la plupart des signaux non verbaux disparaissent, pour ne laisser que les mots. Cette limitation peut être frustrante pour les personnes neurotypiques, mais elle se rapproche beaucoup plus du modèle de communication natif des personnes autistes.](communication_model1.svg)
 
 Toutefois, ce modèle de communication par ordinateur est beaucoup plus proche du modèle de communication des autistes comme moi. Il n'y a aucune communication non verbale à décrypter ; il y a moins d'interaction et d'anxiété sociale ; et généralement, l'environnement est connu. Il y a beaucoup moins de signaux à traiter, et ceux qui subsistent ne sont que des mots : certes, leur signification varie, mais elle est beaucoup plus codifiée et plus fiable que les signaux non verbaux.
 
@@ -162,7 +170,7 @@ Un exemple majeur de communication en ligne à grande échelle est le mouvement 
 
 [![La catégorie « Wikipédiens autistes » sur Wikipedia en anglais](wikipedians_with_autism.png)](https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism)
 
-Par exemple, ma première modification, il ya dix ans, a été pour corriger une faute d'orthographe. La deuxième, une faute de conjugaison. La troisième,  une faute d'orthographe *et* une faute de conjugaison. C'est comme ça que mon voyage de Wikipédien a commencé.
+Par exemple, ma première modification, il y a dix ans, a été pour corriger une faute d'orthographe. La deuxième, une faute de conjugaison. La troisième,  une faute d'orthographe *et* une faute de conjugaison. C'est comme ça que mon voyage de Wikipédien a commencé.
 
 Les Wikipédiens vénèrent les citations, les références et la vérifiabilité; les faits sont rois, et l'interprétation est tabou. Du moins tant que lon reste dans l'espace principal. Dès que l'on quitte les articles encyclopédiques et que l'on s'aventure dans les pages de discussion et "bistros", ces exigences ne s'appliquent plus. Les discussions entre Wikipédiens regorgent d'opinions, d'exagérations, et de déclarations non sourcées.
 
@@ -181,7 +189,7 @@ Steve Silberman, qui a écrit un livre sur l'histoire de l'autisme, explque le c
 
 [^silberman-ted]: http://www.ted.com/talks/steve_silberman_the_forgotten_history_of_autism
 
-Malgré tout, être autiste a un coût, et parfois, lors do nos interactions, vous vous sentirez vexé. Parfois, vous vous sentirez frustrés. Et parfois, vous vous direz « Waouh, je n'aurais jamais pensé à faire ça comme ça ».
+Malgré tout, être autiste a un coût, et parfois, lors de nos interactions, vous vous sentirez vexé. Parfois, vous vous sentirez frustrés. Et parfois, vous vous direz « Waouh, je n'aurais jamais pensé à faire ça comme ça ».
 
 Comme je l'ai mentionné plus tôt, je pense que Spock n'a été en mesure de construire une relation avec ses collègues au fil du temps que parce qu'ils étaient au courant de sa différence, et qu'ils ont appris à la comprendre et à l'adopter. Spock a également beaucoup appris des humains en cours de route.
 

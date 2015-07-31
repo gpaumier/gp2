@@ -11,7 +11,7 @@ topics:
 
 Two years ago, I discovered that I was on the autism spectrum. As I learned more about myself and the way my brain worked, I started to look at past experiences through the lens of this newly-found aspect. In this essay, I share some of what I've learned along the way about my successes, my failures, and many things that confused me in the past, notably in my experiences in the Wikimedia movement.
 
-This essay was the basis of the [talk of the same name](https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian) that I gave at the Wikimania 2015 conference. It is not an exact transcript. It is still a draft, which I'm publishing now in the interest of timeliness; I will continue to refine it over the next few weeks.
+*This essay was the basis of the [talk of the same name](https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian) that I gave at the Wikimania 2015 conference. It is not an exact transcript. It is still a draft, which I'm publishing now in the interest of timeliness; I will continue to refine it over the next few weeks; you can [help edit it](https://github.com/gpaumier/gp2/blob/master/src/articles/2015-07-21%20autistic-wikipedian/index_en.md). A [French version](https://guillaumepaumier.com/fr/2015/07/29/wikipedien-autiste/) is also available.*
 
 ## Introduction
 
@@ -25,7 +25,7 @@ It wasn't that I didn't like them; it was because the school was much quieter th
 
 I didn't know it at the time, but it would take me nearly 30 years to look back at this story and understand how it made complete sense.
 
-## Me today
+## Today
 
 I'm now 32 years old, and a lot has changed. Two years ago, after some difficulties at work, my partner decided to share his suspicions that I might be on the autism spectrum. I knew little about it at the time, but it was a hypothesis that seemed to explain a lot, and seemed worth exploring.
 
@@ -58,9 +58,9 @@ The picture above was taken during Wikimania 2007 in Taipei. I was exploring the
 
 A good analogy to help understand what it's like to be autistic in a neurotypical society is to look at Mr. Spock, in the Star Trek Original Series. The son of a Vulcan father and a human mother, Spock is technically half-human, but it is his Vulcan side that shows the most in its interactions with the crew of the *Enterprise*.
 
-Some of the funniest moments of the show are his arguments with the irascible Dr. McCoy, who calls him an "unfeeling automaton" and "the most cold-blooded man [he's] ever known". To which Spock responds: "Why, thank you, Doctor."[^sttos120]
+Some of the funniest moments of the show are his arguments with the irascible Dr. McCoy, who calls him an "unfeeling automaton" and "the most cold-blooded man [he's] ever known". To which Spock responds: "Why, thank you, Doctor." [^sttos120]
 
-[^sttos120]: https://en.wikipedia.org/wiki/Court_Martial_%28Star_Trek:_The_Original_Series%29
+[^sttos120]: from [https://en.wikipedia.org/wiki/Court_Martial_%28Star_Trek:_The_Original_Series%29](Court Martial (Star Trek: The Original Series))
 
 As a Vulcan, Spock's life is ruled by logic. Although he does feel emotions, they are deeply repressed. His speech pattern is very detached, almost clinical. Because of his logical and utilitarian perspective, Spock often appears dismissive, cold-hearted, or just plain rude to his fellow shipmates.
 
@@ -81,9 +81,11 @@ The reverse is also true: Whenever humans are puzzled or annoyed by Spock, it is
 
 ## Autism
 
-TODO: add diagram
-
 You're probably familiar with the [conceptual models of communication](https://en.wikipedia.org/wiki/Models_of_communication) In many of those models, communication is represented as the transmission of a message between a sender and a receiver.
+
+![In a basic communication model, the sender formulates the message, and transmits it to the receiver, who interprets it. The receiver also provides some feedback.](communication_model1.svg)
+
+![An oral discussion involves a lot more signals from nonverbal communication, like tone of voice, facial expressions and body language.](communication_model2.svg)
 
 If you apply this model to an oral conversation, you quickly see all the opportunities for miscommunication: From what the sender means, to what they actually say, to what the receiver hears, to what they understand, information can change radically, especially when you consider nonverbal communication. It's like a 2-person variation of the telephone game. In the words of psychologist Tony Attwood:
 
@@ -117,6 +119,7 @@ When I first moved to the US, every time someone asked me "How are you?", I woul
 
 A few weeks ago, someone in the Wikimedia Foundation office asked me "How is your world?", and I froze for a few seconds. In order to answer that question, my brain was reviewing everything that was happening in "my world" (and "my world" is big!), before I realized that I just needed to say "Great! Thanks!".
 
+!["[Small talk](https://xkcd.com/222/)" by Randall Munroe, under [CC-BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode), from xkcd.com.](small_talk.png)
 
 ## Privilege and pointed ears
 
@@ -132,9 +135,11 @@ Now this is what's happening from my perspective: I'm talking to someone I don't
 
 This illustrates one of many situations in which each person's perception filter caused a complete disconnect between how the situation was perceived on each side.
 
-There are also many professional hurdles associated with being on the autism spectrum, and autists are more affected by unemployment than neurotypicals[^npr-unemployment]. I'm privileged in that I've been able to find an environment in which I'm able to work, but many autists aren't so lucky. It's been well documented that people in higher-up positions aren't necessarily the best performers, but often people with the best social skills. With that in mind, imagine that can be the career opportunities for someone who is a terrible liar, who has a lot of interest in doing great work, but less interest in taking credit for it, who doesn't understand office politics, who not only makes social missteps and and angers their colleagues, but doesn't even know about it, someone who's unable to make small talk around the office. Imagine that person, and what kind of a career they can have even if they're very good at their job.
+There are also many professional hurdles associated with being on the autism spectrum, and autists are more affected by unemployment than neurotypicals [^npr-unemployment]. I'm privileged in that I've been able to find an environment in which I'm able to work, but many autists aren't so lucky. It's been well documented that people in higher-up positions aren't necessarily the best performers, but often people with the best social skills.
 
-[^npr-unemployment]: http://www.npr.org/blogs/health/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated
+With that in mind, imagine what the career opportunities (or lack thereof) can be for someone who is a terrible liar, who has a lot of interest in doing great work, but less interest in taking credit for it, who doesn't understand office politics, who not only makes social missteps and angers their colleagues, but doesn't even know about it, someone who's unable to make small talk around the office. Imagine that person, and what kind of a career they can have even if they're very good at their job.
+
+[^npr-unemployment]: Maanvi Singh. [http://www.npr.org/sections/health-shots/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated](Young Adults With Autism More Likely To Be Unemployed, Isolated). NPR.
 
 Casual relationships with colleagues and acquaintances are usually superficial; the stakes of the water cooler discussions are low, so people are more inclined to forgive missteps. However, friendship is another matter, and for most of my life, I have hardly had any friends, unless you use Facebook's definition of the term. Awkwardness is generally tolerated, but rarely sought after. It's not "cool".
 
@@ -143,6 +148,8 @@ Most of those issues arise because you don't have a way of *knowing* that the pe
 ## Computer-mediated communication
 
 Let me go back to that conceptual model of face-to-face communication. Now imagine how this model changes if you're communicating online, by email, on wiki, or on IRC. All those communication channels, that Wikimedians are all too familiar with, are based on text, and most of them are asynchronous. For many neurotypicals, these are frustrating modes of communication, because they're losing most of their usual nonverbal signals like tone, facial expressions, and body language.
+
+![In online discussions, most of the nonverbal communication disappears, leaving only words. This can frustrate neurotypicals, but is much closer to the native communication model of autistic people.](communication_model1.svg)
 
 However, this model of computer-mediated communication is much closer to the communication model of autists like me. There is no nonverbal communication to decrypt; less interaction and social anxiety; and usually, no unfamiliar environment either. There are much fewer signals, and those that remain are just words; their meaning still varies, but it's much more codified and reliable than nonverbal signals.
 
@@ -176,8 +183,7 @@ Steve Silberman, who wrote a book on the history of autism, presented it this wa
 >
 > By autistic standards, the normal human brain is easily distractible, obsessively social, and suffers from a deficit of attention to detail. [^silberman-ted]
 
-[^silberman-ted]: http://www.ted.com/talks/steve_silberman_the_forgotten_history_of_autism
-
+[^silberman-ted]: Steve Silberman. [http://www.ted.com/talks/steve_silberman_the_forgotten_history_of_autism](The forgotten history of autism). TED 2015.
 
 But still, neurodiversity has a cost. Sometimes, you'll be offended; sometimes, you'll be frustrated; and sometimes, you'll think "Wow, I would never have thought of that in a million years".
 
@@ -185,7 +191,7 @@ As I mentioned earlier, I believe Spock was only able to build those relationshi
 
 My goal here was to raise awareness of this difference that exists in our community, and encourage us to discuss our differences more openly, and to improve our understanding of each other.
 
-There is a lot I didn't get into in this essay, and I might expand on specific points later. In the meantime, I'm always happy to discuss this, whether in person or online.
+There is a lot I didn't get into in this essay, and I might expand on specific points later. In the meantime, I'm available if you're interested in continuing this discussion, and you should feel free to reach out to me, whether in person or online.
 
 Live long and prosper. \\///
 
