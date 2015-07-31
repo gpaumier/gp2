@@ -155,7 +155,7 @@ However, this model of computer-mediated communication is much closer to the com
 
 What there is online, instead, is plenty of time, time that we can use to collect our thoughts and formulate a carefully crafted answer. Whereas voice is synchronous and mostly irreversible, text can be edited, crafted, deleted, reworded, or rewritten until it's exactly what we want it to be; *then* we can send it. This is true of asynchronous channels like email and wikis, but it also extends to semi-synchronous tools like instant messaging or IRC.
 
-It's not all rainbows and unicorns, though. For example, autists like me are still very much clueless about politics and reading between the lines. We tend to be radically honest, which doesn't fly very well, whether online or offline. Autists are also more susceptible to trolling, and may not always realize that the way people act online isn't the same as the way they act in the physical world. The internet medium tends to desensitize people, and autists might emulate behavior that isn't actually acceptable, regardless of the venue.
+It's not all rainbows and unicorns, though. For example, autists like me are still very much clueless about politics and reading between the lines. We tend to be radically honest, which doesn't fly very well, whether online or offline. Autists are also more susceptible to trolling, and may not always realize that the way people act online isn't the same as the way they act in the physical world. The Internet medium tends to desensitize people, and autists might emulate behavior that isn't actually acceptable, regardless of the venue.
 
 
 ## Autism in the Wikimedia community
@@ -166,7 +166,7 @@ Of course, one major example of wide-scale online communication is the Wikimedia
 
 For example, my first edit ten years ago was to fix a spelling error. My second edit was to fix a conjugation error. My third edit was to fix both a spelling and a conjugation error. That's how my journey as a Wikipedian started ten years ago.
 
-Wikipedians are obsessed with citations, references, and verifiability; fact is king, and interpretation is taboo. As long as you stay in the main namespace, that is. As soon as you step out of article pages and venture into talk pages and village pumps, those high standards don't apply any more. There are plenty of unsourced, exaggerated and biased statements in Wikipedia discussions.
+Wikipedians are obsessed with citations, references, and verifiability; fact is king, and interpretation is taboo. As long as you stay in the main namespace, that is. As soon as you step out of article pages and venture into talk pages and community spaces like the "Village Pump", those high standards don't apply any more. There are plenty of unsourced, exaggerated and biased statements in Wikipedia *discussions*.
 
 That's in addition to the problems I mentioned earlier. As an autist, it can be hard to let go of arguments about things or people you care about. It's often said that autistic people lack empathy, which basically makes us look like cold-hearted robots. However, there is a distinction between being able to *read the feelings* of other people, and *feeling compassion* for other people.
 
