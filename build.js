@@ -11,6 +11,7 @@ var permalinks  = require('metalsmith-permalinks');
 var collections = require('metalsmith-collections');
 var branch      = require('metalsmith-branch');
 var multiLanguage = require('metalsmith-multi-language');
+var copy        = require('metalsmith-copy');
 
 //i18n.init({ lng: "fr-FR" });
 i18n.init({ lng: "en-US" });
@@ -39,12 +40,6 @@ var templateConfig = {
 };
 
 
-// Permalinks handling: metalsmith-permalinks config
-
-var permalinksConfig = {
-    pattern: ':date/:slug'
-};
-
 // Collections handling: metalsmith-collection config
 
 var collectionsConfig = {
@@ -61,7 +56,6 @@ var collectionsConfig = {
 }
 
 
-
 // Processing pipeline
 
 metalsmith(__dirname)
@@ -71,7 +65,21 @@ metalsmith(__dirname)
     .use(markdown())
     .use(headings('h2'))
     .use(convert(convertConfig))
-    .use(permalinks(permalinksConfig))
+    .use(branch('articles/*/*.html')
+        .use(permalinks({
+            pattern: ':locale/articles/:slug'
+        }))
+    )
+    .use(branch('pages/**/*.html')
+        .use(permalinks({
+            pattern: ':locale/:slug'
+        }))
+    )
+    .use(copy({
+        pattern: 'articles/*/*.+(svg|png|jpg)',
+        directory: 'files',
+        move: true
+    }))
     .use(templates(templateConfig))
     .destination('build')
     .use(serve({
