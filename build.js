@@ -12,6 +12,7 @@ var branch      = require('metalsmith-branch');
 var multiLanguage = require('metalsmith-multi-language');
 var copy        = require('metalsmith-copy');
 var i18n        = require('metalsmith-i18n');
+var gpimg       = require('./plugins/plugins').img;
 
 // Image handling: metalsmith-convert config
 
@@ -80,6 +81,9 @@ metalsmith(__dirname)
         move: true
     }))
     .use(templates(templateConfig))
+    .use(branch('**/*.html')
+        .use(gpimg())
+    )
     .destination('build')
     .use(serve({
         port: 8081
