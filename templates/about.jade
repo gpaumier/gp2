@@ -14,23 +14,14 @@ html.no-js(lang='en')
             if image
                 img(src='#{image}')
             else
-                img(src='/files/default_picture_full.jpg')
+                img(src='/images/default_picture_full.jpg')
                     
             h1= title
             div!= contents
             p= topics
-            div #{__('publishDate', moment(date).locale(locale).format('LL'))}
         nav#langs
             ul
                 if locale != 'en' && typeof(lang('en')) != 'undefined'
                     li.lang-en: a(href='/'+ lang('en').path) English
                 if locale != 'fr' && typeof(lang('fr')) != 'undefined'
                     li.lang-fr: a(href='/'+ lang('fr').path) français
-        nav#prevnext
-            ul
-                if previous
-                    li#navprevious
-                        a(href!="/#{previous.path}")= previous.title
-                if next
-                    li#navnext
-                        a(href!="/#{next.path}")= next.title

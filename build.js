@@ -4,7 +4,6 @@ var templates   = require('metalsmith-templates');
 var serve       = require('metalsmith-serve');
 var watch       = require('metalsmith-watch');
 var moment      = require('moment');
-var i18n        = require('i18next');
 var headings    = require('metalsmith-headings');
 var convert     = require('metalsmith-convert');
 var permalinks  = require('metalsmith-permalinks');
@@ -12,11 +11,7 @@ var collections = require('metalsmith-collections');
 var branch      = require('metalsmith-branch');
 var multiLanguage = require('metalsmith-multi-language');
 var copy        = require('metalsmith-copy');
-
-//i18n.init({ lng: "fr-FR" });
-i18n.init({ lng: "en-US" });
-i18n.registerAppHelper(metalsmith);
-
+var i18n        = require('metalsmith-i18n');
 
 // Image handling: metalsmith-convert config
 
@@ -35,8 +30,7 @@ var convertConfig = {
 
 var templateConfig = {
     engine: 'jade',
-    moment: moment,
-    i18n: i18n
+    moment: moment
 };
 
 
@@ -61,6 +55,11 @@ var collectionsConfig = {
 metalsmith(__dirname)
     .source('src')
     .use(multiLanguage({ default: 'en', locales: ['en', 'fr'] }))
+    .use(i18n({
+        default:   'en',
+        locales:   ['en', 'fr'],
+        directory: 'locales'
+    }))
     .use(collections(collectionsConfig))
     .use(markdown())
     .use(headings('h2'))
