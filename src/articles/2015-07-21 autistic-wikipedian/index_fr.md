@@ -166,13 +166,13 @@ Cela dit, tout n'est pas rose quand on communique par internet. Par exemple, mê
 
 ## Autisme dans la communauté Wikimedia
 
-Un exemple majeur de communication en ligne à grande échelle est le mouvement Wikimedia. À première vue, les sites Wikimedia, et Wikipédia en particulier, offrent une plate-forme do choix pour qui souhaite soigneusement compiler des faits sur leur obsession favorite, ou corriger méthodiquement la même erreur grammaticale encore et encore, tout en limitant les interactions sociales. Wikipedia semble être un appeau à autistes parfait.
+Un exemple majeur de communication en ligne à grande échelle est le mouvement Wikimedia. À première vue, les sites Wikimedia, et Wikipédia en particulier, offrent une plate-forme de choix pour qui souhaite soigneusement compiler des faits sur leur obsession favorite, ou corriger méthodiquement la même erreur grammaticale encore et encore, tout en limitant les interactions sociales. Wikipedia semble être un appeau à autistes parfait.
 
 [![La catégorie « Wikipédiens autistes » sur Wikipedia en anglais](wikipedians_with_autism.png)](https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism)
 
 Par exemple, ma première modification, il y a dix ans, a été pour corriger une faute d'orthographe. La deuxième, une faute de conjugaison. La troisième,  une faute d'orthographe *et* une faute de conjugaison. C'est comme ça que mon voyage de Wikipédien a commencé.
 
-Les Wikipédiens vénèrent les citations, les références et la vérifiabilité; les faits sont rois, et l'interprétation est tabou. Du moins tant que lon reste dans l'espace principal. Dès que l'on quitte les articles encyclopédiques et que l'on s'aventure dans les pages de discussion et "bistros", ces exigences ne s'appliquent plus. Les discussions entre Wikipédiens regorgent d'opinions, d'exagérations, et de déclarations non sourcées.
+Les Wikipédiens vénèrent les citations, les références et la vérifiabilité; les faits sont rois, et l'interprétation est tabou. Du moins tant que l'on reste dans l'espace principal. Dès que l'on quitte les articles encyclopédiques et que l'on s'aventure dans les pages de discussion et "bistros", ces exigences ne s'appliquent plus. Les discussions entre Wikipédiens regorgent d'opinions, d'exagérations, et de déclarations non sourcées.
 
 À tout ceci s'ajoutent les difficultés mentionnées plus tôt. En tant qu'autiste, il peut être difficile de lâcher prise au cours des débats et des disputes sur des sujets qui nous tiennent à cœur. On dit souvent que les personnes autistes manquent d'empathie, ce qui donne l'impression que nous sommes des robots dépourvus d'émotions. Cependant, il faut faire la différence entre la capacité à *lire les sentiments* de la personne en face de nous, et le fait d'*éprouver de la compassion* pour cette personne. Les personnes neurotypiques possèdent des neurones miroirs, qui vous font ressentir ce que la personne en face de vous ressent ; les personnes autistes en possèdent beaucoup moins, ce qui signifie qu'ils ont besoin de scruter les signaux et essayer de comprendre ce que l'interlocuteur ressent. Elles n'en restent pas moins des personnes avec des émotions.
 
@@ -181,7 +181,7 @@ Pour en savoir plus sur l'autisme au sein de la communauté Wikimedia, je vous i
 
 ## Conclusion
 
-Steve Silberman, qui a écrit un livre sur l'histoire de l'autisme, explque le concept de neurodiversité de la façon suivante :
+Steve Silberman, qui a écrit un livre sur l'histoire de l'autisme, explique le concept de neurodiversité de la façon suivante :
 
 > Une façon de comprendre la neurodiversité est de penser en termes de systèmes d'exploitation humains: Le fait qu'un PC n'utilise pas Windows ne veut pas dire qu'il est cassé.
 >
