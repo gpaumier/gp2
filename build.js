@@ -12,19 +12,30 @@ var branch      = require('metalsmith-branch');
 var multiLanguage = require('metalsmith-multi-language');
 var copy        = require('metalsmith-copy');
 var i18n        = require('metalsmith-i18n');
-var gpimg       = require('./plugins/plugins').img;
+var gpimg       = require('./plugins/plugins').rewriteImages;
 
 // Image handling: metalsmith-convert config
 
-var convertConfig = {
-    src: '**/*.jpg',
-    target: 'jpg',
-    resize: {
-        width: 320,
-        height: 320,
-        resizeStyle: 'aspectfit'
+var convertConfig = [
+    {
+        src: '**/*.jpg',
+        target: 'jpg',
+        resize: {
+            width: 320,
+            height: 320,
+            resizeStyle: 'aspectfit'
+        }
+    },
+    {
+        src: '**/*.svg',
+        target: 'png',
+        resize: {
+            width: 1024,
+            resizeStyle: 'aspectfill'
+        },
+        nameFormat: '%b%e'
     }
-};
+];
 
 
 // Template handling: metalsmith-templates config
