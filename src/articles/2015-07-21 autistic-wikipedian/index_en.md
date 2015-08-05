@@ -64,7 +64,7 @@ Some of the funniest moments of the show are his arguments with the irascible Dr
 
 As a Vulcan, Spock's life is ruled by logic. Although he does feel emotions, they are deeply repressed. His speech pattern is very detached, almost clinical. Because of his logical and utilitarian perspective, Spock often appears dismissive, cold-hearted, or just plain rude to his fellow shipmates.
 
-In many ways, Spock's traits are similar to autism, and many autistic people identify with him. For example, in her book *Thinking in Pictures*, Temple Grandin, a renown autistic scientist and author, recounts how she related to Spock from a young age:
+In many ways, Spock's traits are similar to autism, and many autistic people identify with him. For example, in her book *Thinking in Pictures*, Temple Grandin, a renowned autistic scientist and author, recounts how she related to Spock from a young age:
 
 > Many people with autism are fans of the television show *Star Trek*. [...] I strongly identified with the logical Mr. Spock, since I completely related to his way of thinking.
 >
