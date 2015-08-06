@@ -17,6 +17,9 @@ var gpimg       = require('./plugins/plugins').rewriteImages;
 // Image handling: metalsmith-convert config
 
 var convertConfig = [
+
+    // Resized bitmap files
+
     {
         src: '**/*.jpg',
         target: 'jpg',
@@ -26,12 +29,27 @@ var convertConfig = [
             resizeStyle: 'aspectfit'
         }
     },
+
+    // WebP alternatives for bitmap files
+
+    {
+        src: '**/*.+(jpg|png)',
+        target: 'webp',
+        resize: {
+            width: 1024,
+            resizeStyle: 'aspectfit'
+        },
+        nameFormat: '%b%e'
+    },
+
+    // PNG fallbacks for SVG files
+
     {
         src: '**/*.svg',
         target: 'png',
         resize: {
             width: 1024,
-            resizeStyle: 'aspectfill'
+            resizeStyle: 'aspectfit'
         },
         nameFormat: '%b%e'
     }
@@ -75,7 +93,6 @@ metalsmith(__dirname)
     .use(collections(collectionsConfig))
     .use(markdown())
     .use(headings('h2'))
-    .use(convert(convertConfig))
     .use(branch('articles/*/*.html')
         .use(permalinks({
             pattern: ':locale/articles/:slug'
@@ -91,6 +108,7 @@ metalsmith(__dirname)
         directory: 'files',
         move: true
     }))
+    .use(convert(convertConfig))
     .use(templates(templateConfig))
     .use(branch('**/*.html')
         .use(gpimg())
