@@ -20,15 +20,19 @@ function rewriteImages() {
 
                 $(this).attr('src', '/files/' + $(this).attr('src'));
 
-                // Mark SVG files
+                // Mark SVG, JPG and PNG files
 
-                if ($(this).attr('src').slice(-3) == 'svg' ) {
-                    $(this).addClass('img-svg')
-                };
+                var extension = $(this).attr('src').slice(-3);
+
+                if (['svg', 'jpg', 'png'].indexOf(extension)) {
+                    $(this).addClass('img-' + extension);
+                }
 
             });
 
             addSVGFallback($, 'png');
+            addWebP($, 'jpg');
+            addWebP($, 'png');
 
             files[file].contents = $.html();
         }
@@ -42,7 +46,7 @@ module.exports.rewriteImages = rewriteImages;
  * Rewrite SVG src attributes to use a PNG bitmap image by default for older browsers, and let newer browsers pick the SVG from <picture>.
  */
 
-function addSVGFallback($, extension) {
+function addSVGFallback($, fallbackExtension) {
 
     $('.img-svg').each(function (index, element) {
 
@@ -53,7 +57,32 @@ function addSVGFallback($, extension) {
             + $(this).attr('src')
             + '" />'
             + '<img src="'
-            + $(this).attr('src').slice(0,-3) + extension
+            + $(this).attr('src').slice(0,-3) + fallbackExtension
+            + '" alt="'
+            + $(this).attr('alt')
+            + '" class="'
+            + $(this).attr('class')
+            + '"></picture>'
+        );
+    });
+
+    return $;
+}
+
+/**
+ * Add WebP sources for JPG and PNG images in <picture>, for browsers that support it.
+ */
+
+function addWebP($, srcExtension) {
+
+    $('.img-' + srcExtension).each(function (index, element) {
+
+        $(this).replaceWith(
+            '<picture><source type="image/webp" srcset="'
+            + $(this).attr('src').slice(0,-srcExtension.length) + 'webp'
+            + '" />'
+            + '<img src="'
+            + $(this).attr('src')
             + '" alt="'
             + $(this).attr('alt')
             + '" class="'
