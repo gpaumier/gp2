@@ -63,7 +63,7 @@ La photo ci-dessus a été prise lors de la conférence Wikimania 2007 à Taipei
 
 Une bonne analogie pour aider à comprendre ce que ça fait d'être autiste dans une société neurotypique est de regarder M. Spock, dans la série originale *Star Trek*. Fils d'un père Vulcain et d'une mère humaine, Spock est techniquement à moitié humain, mais c'est son côté Vulcain qui est le plus visible lors de ses interactions avec l'équipage de l'*Enterprise*.
 
-Certains des moments les plus drôles de la série sont ses discussions animées avec l'irascible docteur McCoy, qui qualifie Spock d' « automate insensible » et d'« homme le plus dépourvu de sentiments qu'[il ait] jamais rencontré". Ce à quoi Spock répond: « Oh, je vous remercie, docteur." [^sttos120]
+Certains des moments les plus drôles de la série sont ses discussions animées avec l'irascible docteur McCoy, qui qualifie Spock d' « automate insensible » et d'« homme le plus dépourvu de sentiments qu'[il ait] jamais rencontré ». Ce à quoi Spock répond: « Oh, je vous remercie, docteur. » [^sttos120]
 
 [^sttos120]: https://en.wikipedia.org/wiki/Court_Martial_%28Star_Trek:_The_Original_Series%29
 
@@ -86,7 +86,7 @@ L'inverse est également vrai : Chaque fois que les humains sont perplexes ou en
 
 ## Autisme
 
-Vous avez probablement entendu parler des [modèles conceptuels de communication] (https://en.wikipedia.org/wiki/Models_of_communication). Dans de nombreux modèles, la communication est représentée comme la transmission d'un message entre un émetteur et un récepteur.
+Vous avez probablement entendu parler des [modèles conceptuels de communication](https://en.wikipedia.org/wiki/Models_of_communication). Dans de nombreux modèles, la communication est représentée comme la transmission d'un message entre un émetteur et un récepteur.
 
 ![Dans un modèle de communication simple, l'émetteur formule un message et le transmet au receveur, qui l'interprète. Le receveur fournit également un retour à l'émetteur.](communication_model1.svg)
 
@@ -102,7 +102,7 @@ Si cela est le cas pour les personnes neurotypiques (les gens avec un cerveau «
 
 ![Photo extraite du film *Imitation Game*. © 2014 The Weinstein Company. Tous droits réservés.](imitation_game.png)
 
-Si l'on met de côté les critiques liées à la liberté artistique et la dramatisation, l'un de mes moments préférés dans le film est quand le jeune Alan discute avec son ami Christopher de messages codés. Christopher explique la cryptographie comme des « messages que tout le monde peut voir, mais dont personne ne sait ce qu'ils signifient, sauf si l'on a la clé."
+Si l'on met de côté les critiques liées à la liberté artistique et la dramatisation, l'un de mes moments préférés dans le film est quand le jeune Alan discute avec son ami Christopher de messages codés. Christopher explique la cryptographie comme des « messages que tout le monde peut voir, mais dont personne ne sait ce qu'ils signifient, sauf si l'on a la clé. »
 
 Alan répond, très perplexe :
 
@@ -147,7 +147,7 @@ En gardant ça en tête, imaginez quelles sont les opportunités de carrière po
 
 [^npr-unemployment]: http://www.npr.org/blogs/health/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated
 
-Les discussions occasionnelles avec les collègues et les connaissances sont généralement superficielles ; les enjeux des discussions autour de la machine à café sont faibles, ce qui fait que les gens sont plus enclins à pardonner les faux-pas. Par contre, les relations amicales sont une autre paire de manches, et pour la plus grande partie de ma vie, je  n'ai pas vraiment eu d'amis (sauf si l'on utilise la définition de Facebook). La maladresse sociale est généralement tolérée, mais rarement recherchée. Elle n'est pas "cool".
+Les discussions occasionnelles avec les collègues et les connaissances sont généralement superficielles ; les enjeux des discussions autour de la machine à café sont faibles, ce qui fait que les gens sont plus enclins à pardonner les faux-pas. Par contre, les relations amicales sont une autre paire de manches, et pour la plus grande partie de ma vie, je  n'ai pas vraiment eu d'amis (sauf si l'on utilise la définition de Facebook). La maladresse sociale est généralement tolérée, mais rarement recherchée. Elle n'est pas « cool ».
 
 La plupart de ces problèmes surviennent parce qu'il est difficile pour les neurotypiques de savoir que la personne à qui ils sont en train de parler est différente. Spock lui, avait ses oreilles pointues pour signaler qu'il n'était pas humain. Si l'équipage de l'*Enterprise* l'a accepté en son sein, c'est en grande partie grâce aux relations qu'il a pu nouer avec ses compagnons de bord. Ces relations auraient sans doute été plus difficiles à établir si l'équipage n'avait pas su en quoi Spock était différent.
 
@@ -172,7 +172,7 @@ Un exemple majeur de communication en ligne à grande échelle est le mouvement 
 
 Par exemple, ma première modification, il y a dix ans, a été de corriger une faute d'orthographe. La deuxième, une faute de conjugaison. La troisième, une faute d'orthographe *et* une faute de conjugaison. C'est comme ça que mon voyage de Wikipédien a commencé.
 
-Les Wikipédiens vénèrent les citations, les références et la vérifiabilité ; les faits sont rois, et l'interprétation est taboue. Du moins tant que l'on reste dans l'espace principal. Dès que l'on quitte les articles encyclopédiques et que l'on s'aventure dans les pages de discussion et les "bistros", ces exigences ne s'appliquent plus. Les discussions entre Wikipédiens regorgent d'opinions, d'exagérations, et de déclarations non sourcées.
+Les Wikipédiens vénèrent les citations, les références et la vérifiabilité ; les faits sont rois, et l'interprétation est taboue. Du moins tant que l'on reste dans l'espace principal. Dès que l'on quitte les articles encyclopédiques et que l'on s'aventure dans les pages de discussion et autres « bistros » Wikipédiens, ces exigences ne s'appliquent plus. Les discussions entre Wikipédiens regorgent d'opinions, d'exagérations, et de déclarations non sourcées.
 
 À tout ceci s'ajoutent les difficultés mentionnées plus tôt. En tant qu'autiste, il peut être difficile de lâcher prise au cours des débats et des disputes sur des sujets qui nous tiennent à cœur. On dit souvent que les personnes autistes manquent d'empathie, ce qui donne l'impression que nous sommes des robots dépourvus d'émotions. Cependant, il faut faire la différence entre la capacité à *lire les sentiments* de la personne en face de nous, et le fait d'*éprouver de la compassion* pour cette personne. Les personnes neurotypiques possèdent des neurones miroirs, qui leur font ressentir ce que la personne en face d'elles ressent ; les personnes autistes en possèdent beaucoup moins, ce qui signifie qu'elles ont besoin de scruter les signaux et d'essayer de comprendre ce que l'interlocuteur ressent. Elles n'en restent pas moins des personnes avec des émotions.
 

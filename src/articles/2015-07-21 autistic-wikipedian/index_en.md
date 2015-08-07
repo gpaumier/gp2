@@ -29,7 +29,7 @@ I didn't know it at the time, but it would take me nearly 30 years to look back 
 
 I'm now 32 years old, and a lot has changed. Two years ago, after some difficulties at work, my partner decided to share his suspicions that I might be on the autism spectrum. I knew little about it at the time, but it was a hypothesis that seemed to explain a lot, and seemed worth exploring.
 
-Sure, the subject had come up before a few times, but it was always as a joke, an exaggeration of my behavior. I never thought I fit that label. One problem is that autism is usually represented in a very uniform manner in popular culture. Movies like *Rain Man*  feature autistic savants who, although they have extraordinary abilities, live in a completely different world, and sometimes aren't verbal. The autism spectrum is much more diverse than those stereotypical examples.
+Sure, the subject had come up before a few times, but it was always as a joke, an exaggeration of my behavior. I never thought that label applied to me. One problem is that autism is usually represented in a very uniform manner in popular culture. Movies like *Rain Man*  feature autistic savants who, although they have extraordinary abilities, live in a completely different world, and sometimes aren't verbal. The autism spectrum is much more diverse than those stereotypical examples.
 
 After I started researching the topic, and reading books on autism or autobiographies by autistic people, I realized how much of it applied to me.
 
@@ -54,7 +54,7 @@ The picture above was taken during Wikimania 2007 in Taipei. I was exploring the
 
 ## Spock
 
-![Spock and Kirk. "[Leonard Nimoy William Shatner Star Trek 1968](https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG)", by NBC Television, in the public domain, from Wikimedia Commons.](Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG)
+![Spock and Kirk. "[Leonard Nimoy William Shatner Star Trek 1968](https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG)", by NBC Television, in the public domain, from Wikimedia Commons.](Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg)
 
 A good analogy to help understand what it's like to be autistic in a neurotypical society is to look at Mr. Spock, in the Star Trek Original Series. The son of a Vulcan father and a human mother, Spock is technically half-human, but it is his Vulcan side that shows the most in its interactions with the crew of the *Enterprise*.
 
