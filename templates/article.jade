@@ -4,23 +4,35 @@ html.no-js(lang= locale)
         meta(charset='utf-8')
         meta(name='viewport', content='width=device-width, initial-scale=1.0')
         title= title
+        link(href='/bits/fumseck.css', rel='stylesheet')
+            
     body
         article
+            
+            if image
+                section.hero(style="background: url('/files/#{image}') no-repeat center center; background-size: cover;")
+                    div.row.intro
+                        div.small-centered.medium-centered.large-centered
+                            h1= title
+                            p #{__('publishDate', moment(date).locale(locale).format('LL'))}
+            else
+                section.hero
+                    div.row.intro
+                        div.small-centered.medium-centered.large-centered
+                            h1= title
+                            p #{__('publishDate', moment(date).locale(locale).format('LL'))}
+
             if headings
                 nav
                     ul
                         each header in headings
                             li
-                                a(href!="##{header.id}")!= header.text
-            if image
-                img(src='#{image}')
-            else
-                img(src='/files/default_picture_full.jpg')
+                                a(href!="##{header.id}")!= header.text        
                     
-            h1= title
-            div!= contents
+            
+            div.article-content!= contents
             p= topics
-            div #{__('publishDate', moment(date).locale(locale).format('LL'))}
+            
         nav#langs
             ul
                 if locale != 'en' && typeof(lang('en')) != 'undefined'
