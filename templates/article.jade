@@ -7,20 +7,32 @@ html.no-js(lang= locale)
         link(href='/bits/fumseck.css', rel='stylesheet')
             
     body
-        article
-            
+        header
             if image
                 section.hero(style="background: url('/files/#{image}') no-repeat center center; background-size: cover;")
+                    nav.top-bar(data-topbar role='navigation')
+                        ul.title-area
+                            li.name
+                                h1
+                                    a(href= __('topbar_home_link'), title= __('topbar_home_title')) guillaumepaumier
+                            li.toggle-topbar.menu-icon
+                                a(href='#') Menu
+                        section.top-bar-section
+                            ul.right
+                                each item in ['articles', 'about', 'projects']
+                                    li
+                                        a(href= __('topbar_' + item + '_link'), title= __('topbar_' + item + '_title')) #{__('topbar_' + item + '_label')}
+                    
                     div.row.intro
                         div.small-centered.medium-centered.large-centered
                             h1= title
-                            p #{__('publishDate', moment(date).locale(locale).format('LL'))}
+                            p #{__('publish_date', moment(date).locale(locale).format('LL'))}
             else
                 section.hero
                     div.row.intro
                         div.small-centered.medium-centered.large-centered
                             h1= title
-                            p #{__('publishDate', moment(date).locale(locale).format('LL'))}
+                            p #{__('publish_date', moment(date).locale(locale).format('LL'))}
 
             if headings
                 nav
@@ -29,8 +41,9 @@ html.no-js(lang= locale)
                             li
                                 a(href!="##{header.id}")!= header.text        
                     
-            
-            div.article-content!= contents
+        article
+                
+            div.article-content.row!= contents
             p= topics
             
         nav#langs
@@ -47,7 +60,7 @@ html.no-js(lang= locale)
                 if next
                     li#navnext
                         a(href!="/#{next.path}")= next.title
-
+        
         script(src='/bits/libs.js')
         script(src='/bits/fumseck.js')
         script require('bits/js/main').init()

@@ -1,3 +1,16 @@
 {
-    "publishDate": "Published on %s"
+	"publish_date": "Published on %s",
+	"topbar_home_link": "/",
+	"topbar_home_title": "Return to the website's home",
+	"topbar_articles_link": "/articles",
+	"topbar_articles_label": "Articles",
+	"topbar_articles_title": "Articles and essays",
+	"topbar_about_link": "/bio",
+	"topbar_about_label": "About",
+	"topbar_about_title": "About me and the site",
+	"topbar_projects_link": "/projects",
+	"topbar_projects_label": "Projects",
+	"topbar_projects_title": "Projects",
+	"topbar-home-link": "topbar-home-link",
+	"publishDate": "publishDate"
 }

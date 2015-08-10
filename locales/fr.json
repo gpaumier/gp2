@@ -1,3 +1,16 @@
 {
-    "publishDate": "Publié le %s"
+	"publish_date": "Publié le %s",
+	"topbar_home_link": "/fr",
+	"topbar_home_title": "Retour à la page d'accueil",
+	"topbar_articles_link": "/fr/articles",
+	"topbar_articles_label": "Articles",
+	"topbar_articles_title": "Articles et essais",
+	"topbar_about_link": "/fr/biographie",
+	"topbar_about_label": "Biographie",
+	"topbar_about_title": "Biographie",
+	"topbar_projects_link": "/fr/projets",
+	"topbar_projects_label": "Projets",
+	"topbar_projects_title": "Projets",
+	"topbar-home-link": "topbar-home-link",
+	"publishDate": "publishDate"
 }
