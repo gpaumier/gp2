@@ -70,7 +70,8 @@ In many ways, Spock's traits are similar to autism, and many autistic people ide
 >
 > I vividly remember one old episode because it portrayed a conflict between logic and emotion in a manner I could understand. A monster was attempting to smash the shuttle craft with rocks. A crew member had been killed. Logical Mr. Spock wanted to take off and escape before the monster wrecked the craft. The other crew members refused to leave until they had retrieved the body of the dead crew member. [...]
 >
-> I agreed with Spock, but I learned that emotions will often overpower logical thinking, even if these decisions prove hazardous. [^grandin]
+> I agreed with Spock, but I learned that emotions will often overpower logical thinking, even if these decisions prove hazardous.
+> <cite>Temple Grandin [^grandin]</cite>
 
 [^grandin]: Temple Grandin. *Thinking in Pictures*. p.152
 
