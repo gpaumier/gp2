@@ -28,3 +28,9 @@ node_modules
 
 # KDE stuff
 .directory
+
+# Bower dependencies
+bower_components
+
+# Metalsmith build directory
+build
