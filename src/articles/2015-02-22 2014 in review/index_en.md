@@ -11,7 +11,6 @@ topics:
 
 In 2014, I posted a few photos, I continued to work on technical communications at Wikimedia before a role change, I learned more about myself, I moved to California, and I hiked a lot.
 
-<section>
 2014 in failures
 ----------------
 
@@ -25,9 +24,7 @@ Let's begin with what didn't work and get it out of the way. In January 2014, I 
 The momentum didn't really last, though, and I ended up stopping after posting only seven photo articles. In retrospect, I think the issue wasn't really the photos themselves, but rather the accompanying texts. I've acknowledged this failure, and recently decided to retire the “Photo” section of this website. The photos are still online, but I've removed the navigation shortcut to that section.
 
 I may resume posting photos in the future, although it's not a priority at the moment. If I do, I might change the format of the posts and only feature the photos with a very short text, if any.
-</section>
 
-<section>
 2014 in work
 ------------
 
@@ -47,12 +44,10 @@ I attended the [Zürich hackathon](https://blog.wikimedia.org/2014/05/10/tech-wi
 In September, my role at the Wikimedia Foundation [changed](https://lists.wikimedia.org/pipermail/wikimediaannounce-l/2014-October/000993.html), and I started working on other projects, most notably the [File metadata cleanup drive](http://guillaumepaumier.com/project/file-metadata-cleanup-drive/). The drive is an initiative to decrease the number of files (on Wikimedia sites) whose information can't be read by programs.
 
 <figure>
-[![Screenshot of the MrMetadata tool, showing progress bars for different wikis](https://guillaumepaumier.com/wp-content/uploads/2015/02/MrMetadata-screenshot-760x616.png)](https://guillaumepaumier.com/wp-content/uploads/2015/02/MrMetadata-screenshot.png)
+![Screenshot of the MrMetadata tool, showing progress bars for different wikis](mrmetadata-screenshot.png)
 <figcaption>In September, my role at the Wikimedia Foundation changed, and I started to work on other projects, like the [File metadata cleanup drive](http://guillaumepaumier.com/project/file-metadata-cleanup-drive/).</figcaption>
 </figure>
-</section>
 
-<section>
 2014 in self-discovery
 ----------------------
 
@@ -66,9 +61,7 @@ In September, my role at the Wikimedia Foundation [changed](https://lists.wikime
 Throughout 2014, I continued to research and read on this topic. Doing so, I've continued to better understand my [blind spots](http://aspiesforpresident.tumblr.com/), and explored what I now refer to as my “super-powers”, a fancy way of characterizing [the unique way](http://arstechnica.com/science/2015/01/the-connections-in-autistic-brains-are-idiosyncratic-and-individualized/) in which my brain works.
 
 Notably, I started reading on a variety of specialized topics I was not familiar with but intrigued me. Doing so, I discovered that I was very fast at picking up and understand new concepts and disciplines. I had had a feeling that that was the case for a long time, but experimenting with this skill was particularly fun and rewarding (I've recently been reading about Civil engineering and Human spaceflight).
-</section>
 
-<section>
 2014 in transatlantic move
 --------------------------
 
@@ -80,9 +73,7 @@ The biggest change in 2014 was [our emigration from France to the US](http://gui
 </figure>
 
 Transitioning from a completely-remote environment to a tech open-space has required some adjustments, but overall we're very happy to have relocated.
-</section>
 
-<section>
 2014 in physical activity
 -------------------------
 
@@ -105,9 +96,7 @@ I love to hike and I occasionally run. In 2014, I knew we were going to relocate
 </figure>
 
 It had been years since I had skied downhill, but after a couple of days it all came back and I enjoyed it a lot. I also started snowshoeing, which was a really nice complementary activity. Where downhill skiing involves sprints and adrenalin, snowshoeing involves endurance and beautiful lesser-used forest trails.
-</section>
 
-<section>
 The year ahead
 --------------
 
@@ -125,4 +114,3 @@ I've also decided to learn to play the piano; we'll see how far I can go in one 
 </figure>
 
 Last, I intend to continue to populate this site with historical and new content. My current priority at the moment is finishing to [write about past projects](https://guillaumepaumier.com/projects/) before embarking on new ones, but I do think there will be room to post new content before next year's “year in review” post.
-</section>
