@@ -1,7 +1,9 @@
 module.exports = config:
     files:
         javascripts:
-            joinTo: 'fumseck.js'
+            joinTo:
+                'libs.js': /^(bower_components|vendor)/
+                'fumseck.js': /^bits/
         stylesheets:
             joinTo: 'fumseck.css'
     paths:

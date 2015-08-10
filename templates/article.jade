@@ -47,3 +47,7 @@ html.no-js(lang= locale)
                 if next
                     li#navnext
                         a(href!="/#{next.path}")= next.title
+
+        script(src='/bits/libs.js')
+        script(src='/bits/fumseck.js')
+        script require('bits/js/main').init()
