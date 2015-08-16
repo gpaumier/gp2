@@ -1,0 +1,133 @@
+$fonts-dir: "fonts";
+
+/**
+ * Font-face mixin to simplify the following.
+ */
+
+@mixin font-face ($family, $file-prefix, $weight: normal, $style: normal) {
+	@font-face {
+		font-family: $family;
+		src: url("#{$fonts-dir}/#{$file-prefix}.eot");
+		src: url("#{$fonts-dir}/#{$file-prefix}.eot?#iefix") format("embedded-opentype"),
+			url("#{$fonts-dir}/#{$file-prefix}.woff") format("woff"),
+			url("#{$fonts-dir}/#{$file-prefix}.ttf") format("truetype");
+		font-weight: $weight;
+		font-style: $style;
+	}
+}
+
+/**
+ * Latin Modern Roman
+ */
+
+@include font-face(
+	'Latin Modern Roman Regular',
+	'latinmodern/roman/lmroman10-regular-webfont',
+	normal,
+	normal
+);
+
+@include font-face(
+	'Latin Modern Roman Bold',
+	'latinmodern/roman/lmroman10-bold-webfont',
+	bold,
+	normal
+);
+
+@include font-face(
+	'Latin Modern Roman Italic',
+	'latinmodern/roman/lmroman10-italic-webfont',
+	normal,
+	italic
+);
+
+@include font-face(
+	'Latin Modern Roman Bold Italic',
+	'latinmodern/roman/lmroman10-bolditalic-webfont',
+	bold,
+	italic
+);
+
+@include font-face(
+	'Latin Modern Roman Caps Regular',
+	'latinmodern/roman/lmromancaps10-regular-webfont',
+	normal,
+	normal
+);
+
+@include font-face(
+	'Latin Modern Roman Caps Oblique',
+	'latinmodern/roman/lmromancaps10-oblique-webfont',
+	normal,
+	italic
+);
+
+$fumseck-serif: 'Latin Modern Roman Regular', 'Baskerville', 'Georgia', serif;
+
+/**
+ * Latin Modern Sans
+ */
+
+@include font-face(
+	'Latin Modern Sans Regular',
+	'latinmodern/sans/lmsans10-regular-webfont',
+	normal,
+	normal
+);
+
+@include font-face(
+	'Latin Modern Sans Bold',
+	'latinmodern/sans/lmsans10-bold-webfont',
+	bold,
+	normal
+);
+
+@include font-face(
+	'Latin Modern Sans Oblique',
+	'latinmodern/sans/lmsans10-oblique-webfont',
+	normal,
+	italic
+);
+
+@include font-face(
+	'Latin Modern Sans Bold Oblique',
+	'latinmodern/sans/lmsans10-boldoblique-webfont',
+	bold,
+	italic
+);
+
+$fumseck-sans: 'Latin Modern Sans Regular', 'Futura', 'Verdana', sans-serif;
+
+/**
+ * Latin Modern Monospace
+ */
+
+@include font-face(
+	'Latin Modern Monospace Regular',
+	'latinmodern/mono/lmmono10-regular-webfont',
+	normal,
+	normal
+);
+
+@include font-face(
+	'Latin Modern Monospace Italic',
+	'latinmodern/mono/lmmono10-italic-webfont',
+	normal,
+	italic
+);
+
+@include font-face(
+	'Latin Modern Monospace Light Bold',
+	'latinmodern/mono/lmmonolt10-bold-webfont',
+	bold,
+	normal
+);
+
+@include font-face(
+	'Latin Modern Monospace Light Bold Oblique',
+	'latinmodern/mono/lmmonolt10-boldoblique-webfont',
+	bold,
+	italic
+);
+
+$fumseck-monospace: 'Latin Modern Monospace Regular', 'Courier', monospace;
