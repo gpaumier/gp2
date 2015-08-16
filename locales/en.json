@@ -26,5 +26,8 @@
 	"iconbar_contact_label": "Contact",
 	"iconbar_sitemap_link": "/sitemap",
 	"iconbar_sitemap_class": "fa fa-map",
-	"iconbar_sitemap_label": "Site map"
+	"iconbar_sitemap_label": "Site map",
+	"topbar_langswitch_title": "Switch language",
+	"topbar_langswitch_class": "fa fa-language",
+	"topbar_langswitch_label": "Language"
 }

@@ -11,18 +11,30 @@ html.no-js(lang= locale)
         header
             if image
                 section.hero(style="background: url('/files/#{image}') no-repeat center center; background-size: cover;")
-                    nav.top-bar(data-topbar role='navigation')
+                    nav#topbar.top-bar(data-topbar role='navigation')
                         ul.title-area
                             li.name
                                 h1
-                                    a(href= __('topbar_home_link'), title= __('topbar_home_title')) guillaumepaumier
-                            li.toggle-topbar.menu-icon
-                                a(href='#') Menu
+                                    a(href= __('topbar_home_link'), title= __('topbar_home_title'))
+                                        span.show-for-large-up guillaumepaumier
+                                        span.show-for-medium-only gpaumier
+                                        span.show-for-small-only gp
+                                        
                         section.top-bar-section
                             ul.right
                                 each item in ['articles', 'about', 'projects']
-                                    li
+                                    li.show-for-large-up
                                         a(href= __('topbar_' + item + '_link'), title= __('topbar_' + item + '_title')) #{__('topbar_' + item + '_label')}
+                                    li.divider.show-for-large-up
+                                        
+                                li
+                                    a(href='#', title= __('topbar_langswitch_title'))
+                                        div.show-for-medium-up
+                                            i(class= __('topbar_langswitch_class'))
+                                            span.topbar-tool-label= __('topbar_langswitch_label')
+                                            
+                                        div.show-for-small-only
+                                            i(class= __('topbar_langswitch_class'))
                     
                     div.row.intro
                         div.small-centered.medium-centered.large-centered
