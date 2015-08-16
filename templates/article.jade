@@ -5,6 +5,7 @@ html.no-js(lang= locale)
         meta(name='viewport', content='width=device-width, initial-scale=1.0')
         title= title
         link(href='/bits/fumseck.css', rel='stylesheet')
+        link(href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css' rel='stylesheet')  
             
     body
         header
@@ -52,6 +53,7 @@ html.no-js(lang= locale)
                     li.lang-en: a(href='/'+ lang('en').path) English
                 if locale != 'fr' && typeof(lang('fr')) != 'undefined'
                     li.lang-fr: a(href='/'+ lang('fr').path) français
+                    
         nav#prevnext
             ul
                 if previous
@@ -60,7 +62,13 @@ html.no-js(lang= locale)
                 if next
                     li#navnext
                         a(href!="/#{next.path}")= next.title
-        
+                        
+        nav#iconbar.icon-bar.five-up
+            each page in ['home', 'articles', 'projects', 'contact', 'sitemap']
+                a.item(href= __('iconbar_' + page + '_link'))
+                    i(class= __('iconbar_' + page + '_class'))
+                    label= __('iconbar_' + page + '_label')
+
         script(src='/bits/libs.js')
         script(src='/bits/fumseck.js')
         script require('bits/js/main').init()
