@@ -11,6 +11,20 @@
 	"topbar_projects_link": "/projects",
 	"topbar_projects_label": "Projects",
 	"topbar_projects_title": "Projects",
-	"topbar-home-link": "topbar-home-link",
-	"publishDate": "publishDate"
+	"publishDate": "publishDate",
+	"iconbar_home_link": "/",
+	"iconbar_home_class": "fa fa-home",
+	"iconbar_home_label": "Home",
+	"iconbar_articles_link": "/articles",
+	"iconbar_articles_class": "fa fa-book",
+	"iconbar_articles_label": "Articles",
+	"iconbar_projects_link": "/projects",
+	"iconbar_projects_class": "fa fa-flask",
+	"iconbar_projects_label": "Projects",
+	"iconbar_contact_link": "/contact",
+	"iconbar_contact_class": "fa fa-envelope",
+	"iconbar_contact_label": "Contact",
+	"iconbar_sitemap_link": "/sitemap",
+	"iconbar_sitemap_class": "fa fa-map",
+	"iconbar_sitemap_label": "Site map"
 }
