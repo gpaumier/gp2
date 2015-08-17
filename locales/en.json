@@ -29,5 +29,10 @@
 	"iconbar_sitemap_label": "Site map",
 	"topbar_langswitch_title": "Switch language",
 	"topbar_langswitch_class": "fa fa-language",
-	"topbar_langswitch_label": "Language"
+	"topbar_langswitch_label": "Language",
+	"topbar_search_title": "Search",
+	"topbar_search_class": "fa fa-search",
+	"topbar_search_label": "Search",
+	"locale-autonym-en": "English",
+	"locale-autonym-fr": "français"
 }

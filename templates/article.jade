@@ -22,19 +22,43 @@ html.no-js(lang= locale)
                                         
                         section.top-bar-section
                             ul.right
+                                
+                                li.divider.show-for-large-up
+                                
                                 each item in ['articles', 'about', 'projects']
                                     li.show-for-large-up
                                         a(href= __('topbar_' + item + '_link'), title= __('topbar_' + item + '_title')) #{__('topbar_' + item + '_label')}
                                     li.divider.show-for-large-up
-                                        
+                                
+                                // We need a divider before our tools unless there's already one from the page links.
+                                
+                                li.divider.hide-for-large-up
+                                
                                 li
+                                    a(href='#', title= __('topbar_search_title'))
+                                        i(class= __('topbar_search_class'))
+                                        span.topbar-tool-label.fa-label= __('topbar_search_label')
+                                                
+                                li.divider
+                                
+                                li.has-dropdown
                                     a(href='#', title= __('topbar_langswitch_title'))
-                                        div.show-for-medium-up
-                                            i(class= __('topbar_langswitch_class'))
-                                            span.topbar-tool-label= __('topbar_langswitch_label')
+                                        i(class= __('topbar_langswitch_class'))
+                                        span.topbar-tool-label.fa-label= __('locale-autonym-' + locale)
                                             
-                                        div.show-for-small-only
-                                            i(class= __('topbar_langswitch_class'))
+                                    ul.dropdown
+                                        each loc in locales
+                                            if loc != locale
+                                                if typeof(lang(loc)) != 'undefined'
+                                                    li
+                                                        a(href='/'+ lang(loc).path) 
+                                                            i.fa.fa-angle-right
+                                                            span.fa-label=__('locale-autonym-' + loc)
+                                                else
+                                                    li.topbar-disabled-item
+                                                        i.fa.fa-ban
+                                                        span.fa-label=__('locale-autonym-' + loc)
+
                     
                     div.row.intro
                         div.small-centered.medium-centered.large-centered
@@ -58,13 +82,6 @@ html.no-js(lang= locale)
                 
             div.article-content.row!= contents
             p= topics
-            
-        nav#langs
-            ul
-                if locale != 'en' && typeof(lang('en')) != 'undefined'
-                    li.lang-en: a(href='/'+ lang('en').path) English
-                if locale != 'fr' && typeof(lang('fr')) != 'undefined'
-                    li.lang-fr: a(href='/'+ lang('fr').path) français
                     
         nav#prevnext
             ul

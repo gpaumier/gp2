@@ -1411,7 +1411,7 @@ $icon-bar-item-padding: 1rem;
 // Background color for the top bar
 // $topbar-bg-color: $oil;
 // $topbar-bg: $topbar-bg-color;
-$topbar-bg: none;
+$topbar-bg: rgba(#333333, .5); // We use the same $oil color, but add transparency; $oil is declared later so the value here is hardcoded. See _global.scss:239
 
 // Height and margin
 // $topbar-height: rem-calc(45);
@@ -1430,11 +1430,13 @@ $topbar-bg: none;
 // $topbar-link-font-size: rem-calc(13);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
+$topbar-link-bg: none;
 // $topbar-link-bg-hover: $jet;
 // $topbar-link-bg-color-hover: $charcoal;
 // $topbar-link-bg-active: $primary-color;
 // $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
 // $topbar-link-font-family: $body-font-family;
+$topbar-link-font-family: $fumseck-sans;
 // $topbar-link-text-transform: none;
 // $topbar-link-padding: ($topbar-height / 3);
 // $topbar-back-link-size: rem-calc(18);
@@ -1444,9 +1446,11 @@ $topbar-bg: none;
 
 // Style the top bar dropdown elements
 // $topbar-dropdown-bg: $oil;
+$topbar-dropdown-bg: none;
 // $topbar-dropdown-link-color: $white;
 // $topbar-dropdown-link-color-hover: $topbar-link-color-hover;
 // $topbar-dropdown-link-bg: $oil;
+$topbar-dropdown-link-bg: $topbar-bg;
 // $topbar-dropdown-link-bg-hover: $jet;
 // $topbar-dropdown-link-weight: $font-weight-normal;
 // $topbar-dropdown-toggle-size: 5px;
