@@ -1,0 +1,6 @@
+if headings
+    nav
+        ul
+            each header in headings
+                li
+                    a(href!="##{header.id}")!= header.text

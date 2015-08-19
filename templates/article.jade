@@ -1,0 +1,12 @@
+extends master.jade
+
+block header
+    include _hero
+
+block article
+    article
+        div.article-content.row!= contents
+        p= topics
+                
+block nav
+    include _prevnext
