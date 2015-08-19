@@ -1,0 +1,15 @@
+if image
+    section.hero(style="background: url('/files/#{image}') no-repeat center center; background-size: cover;")
+        
+        include _topbar.jade
+        
+        div.row.intro
+            div.small-centered.medium-centered.large-centered
+                h1= title
+                p #{__('publish_date', moment(date).locale(locale).format('LL'))}
+else
+    section.hero
+        div.row.intro
+            div.small-centered.medium-centered.large-centered
+                h1= title
+                p #{__('publish_date', moment(date).locale(locale).format('LL'))}

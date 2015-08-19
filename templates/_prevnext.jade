@@ -1,0 +1,8 @@
+nav#prevnext
+    ul
+        if previous
+            li#navprevious
+                a(href!="/#{previous.path}")= previous.title
+        if next
+            li#navnext
+                a(href!="/#{next.path}")= next.title

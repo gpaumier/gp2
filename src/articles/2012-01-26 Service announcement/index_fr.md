@@ -1,7 +1,5 @@
 ---
 title: Message de service
-date: 2012-01-26T11:07:08
-template: article.jade
 slug: message-de-service-2
 topics:
 - General

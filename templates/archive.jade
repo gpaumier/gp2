@@ -1,23 +1,12 @@
-doctype html
-html.no-js(lang= locale)
-    head
-        meta(charset='utf-8')
-        meta(name='viewport', content='width=device-width, initial-scale=1.0')
-        title= title
-    body
-        article    
-            h1= title
-            if collections[archive] && collections[archive].length  > 0
-                each item in collections[archive]
-                    h2
-                        a(href='/'+item.path)!= item.title
-            else
-                h2 No articles to display
+extends master.jade
+
+block article
+    if collections[archive] && collections[archive].length  > 0
+        each item in collections[archive]
+            h2
+                a(href='/'+item.path)!= item.title
+    else
+        h2 No articles to display
                 
-        nav#langs
-            ul
-                if locale != 'en' && typeof(lang('en')) != 'undefined'
-                    li.lang-en: a(href='/'+ lang('en').path) English
-                if locale != 'fr' && typeof(lang('fr')) != 'undefined'
-                    li.lang-fr: a(href='/'+ lang('fr').path) français
+
     

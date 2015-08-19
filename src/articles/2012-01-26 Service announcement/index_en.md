@@ -1,7 +1,7 @@
 ---
 title: Service announcement
 date: 2012-01-26T10:07:08
-template: article.jade
+template: missive.jade
 slug: service-announcement
 topics:
 - General
