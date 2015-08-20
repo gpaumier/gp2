@@ -108,7 +108,7 @@ Alan répond, très perplexe :
 
 > En quoi est-ce différent d'une discussion ? [...] Quand les gens parlent entre eux, ils ne disent jamais ce qu'ils pensent, ils disent autre chose. Et on est censé comprendre exactement ce qu'ils veulent dire. Seulement, moi, je ne comprends jamais.
 
-Les personnes autistes sont caractérisées par de nombreuses spécificités, mais l'une des plus répandues est la cécité sociale : nous avons du mal à lire les émotions des autres. Nous manquons de « [Théorie de l'esprit](https://fr.wikipedia.org/wiki/Theorie_de_l'esprit) », qui sert aux personnes neurotypiques à déterminer les états mentaux (comme les croyances et les intentions) des autres. Nous prenons souvent les choses au premier degré, parce que les sous-entendus nous échappent: il est difficile pour nous de lire entre les lignes.
+Les personnes autistes sont caractérisées par de nombreuses spécificités, mais l'une des plus répandues est la cécité sociale : nous avons du mal à lire les émotions des autres. Nous manquons de « [Théorie de l'esprit](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l%27esprit) », qui sert aux personnes neurotypiques à déterminer les états mentaux (comme les croyances et les intentions) des autres. Nous prenons souvent les choses au premier degré, parce que les sous-entendus nous échappent: il est difficile pour nous de lire entre les lignes.
 
 Liane Holliday Willey, autiste, auteure et conférencière, l'explique ainsi :
 
