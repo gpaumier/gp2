@@ -22,10 +22,12 @@ nav#topbar.top-bar(data-topbar role='navigation')
             li.divider.hide-for-large-up
             
             li
-                a(href='#', title= __('topbar_search_title'))
+                a(href='#', title= __('topbar_search_title'), data-dropdown='searchDrop', aria-controls='searchDrop', aria-expanded='false')
                     i(class= __('topbar_search_class'))
                     span.topbar-tool-label.fa-label= __('topbar_search_label')
-                            
+                div(id='searchDrop', data-dropdown-content, aria-hidden= true, tabindex='-1').f-dropdown.content.mega
+                    p test
+                    
             li.divider
             
             li.has-dropdown
