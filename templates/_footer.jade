@@ -2,7 +2,7 @@ nav#iconbar.icon-bar.five-up
     each page in ['home', 'articles', 'projects', 'contact', 'sitemap']
         a.item(href= __('iconbar_' + page + '_link'))
             i(class= __('iconbar_' + page + '_class'))
-            label= __('iconbar_' + page + '_label')
+            label.show-for-medium-up= __('iconbar_' + page + '_label')
 
 script(src='/bits/libs.js')
 script(src='/bits/fumseck.js')
