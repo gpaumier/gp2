@@ -12,6 +12,7 @@ var branch      = require('metalsmith-branch');
 var multiLanguage = require('metalsmith-multi-language');
 var copy        = require('metalsmith-copy');
 var i18n        = require('metalsmith-i18n');
+var feed        = require('metalsmith-feed');
 var gpimg       = require('./plugins/plugins').rewriteImages;
 
 // Image handling: metalsmith-convert config
@@ -80,9 +81,32 @@ var collectionsConfig = {
 }
 
 
+// Configuration for metalsmith-feed
+
+var feedConfigEN = {
+    collection: 'articlesEN',
+    destination: 'en/articles/feed.xml'
+}
+
+var feedConfigFR = {
+    collection: 'articlesFR',
+    destination: 'fr/articles/feed.xml'
+}
+
+// TODO: Add collections (and feeds) for Wikimedia categories (en and fr) for use in the associated Planets)
+
+var metadataConfig = {
+    site: {
+        title: 'Guillaume Paumier',
+        url: 'https://guillaumepaumier.com',
+        author: 'Guillaume Paumier'
+    }
+}
+
 // Processing pipeline
 
 metalsmith(__dirname)
+    .metadata(metadataConfig)
     .source('src')
     .use(multiLanguage({ default: 'en', locales: ['en', 'fr'] }))
     .use(i18n({
@@ -103,6 +127,8 @@ metalsmith(__dirname)
             pattern: ':locale/:slug'
         }))
     )
+    .use(feed(feedConfigEN))
+    .use(feed(feedConfigFR))
     .use(copy({
         pattern: 'articles/*/*.+(svg|png|jpg)',
         directory: 'files',
