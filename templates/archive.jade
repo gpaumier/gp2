@@ -4,9 +4,7 @@ block article
     article.row
         if collections[archive] && collections[archive].length  > 0
             each item in collections[archive]
-                include _snippet
+                block snippet
+                    include _snippet
             else
                 h3 No articles to display
-                
-
-    
