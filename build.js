@@ -108,7 +108,10 @@ var metadataConfig = {
 metalsmith(__dirname)
     .metadata(metadataConfig)
     .source('src')
-    .use(multiLanguage({ default: 'en', locales: ['en', 'fr'] }))
+    .use(multiLanguage({
+        default: 'en',
+        locales: ['en', 'fr']
+    }))
     .use(i18n({
         default:   'en',
         locales:   ['en', 'fr'],
