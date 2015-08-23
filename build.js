@@ -14,6 +14,7 @@ var copy        = require('metalsmith-copy');
 var i18n        = require('metalsmith-i18n');
 var feed        = require('metalsmith-feed');
 var excerpts    = require('metalsmith-excerpts');
+var paths       = require('metalsmith-paths');
 var gpimg       = require('./plugins/plugins').rewriteImages;
 
 // Image handling: metalsmith-convert config
@@ -101,6 +102,10 @@ var metadataConfig = {
         title: 'Guillaume Paumier',
         url: 'https://guillaumepaumier.com',
         author: 'Guillaume Paumier'
+    },
+    source: {
+        editPrefix: 'https://github.com/gpaumier/gp2/blob/master/src/',
+        historyPrefix: 'https://github.com/gpaumier/gp2/commits/master/src/'
     }
 }
 
@@ -109,6 +114,9 @@ var metadataConfig = {
 metalsmith(__dirname)
     .metadata(metadataConfig)
     .source('src')
+    .use(paths({
+        property: 'sourcePath'
+    }))
     .use(multiLanguage({
         default: 'en',
         locales: ['en', 'fr']

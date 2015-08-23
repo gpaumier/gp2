@@ -22,6 +22,7 @@
     "metalsmith-jade": "^2.0.0",
     "metalsmith-multi-language": "^0.1.1",
     "metalsmith-pandoc": "^0.1.2",
+    "metalsmith-paths": "^2.1.1",
     "metalsmith-permalinks": "^0.4.0",
     "metalsmith-serve": "0.0.3",
     "metalsmith-templates": "^0.7.0",
