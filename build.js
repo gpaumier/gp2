@@ -79,6 +79,16 @@ var collectionsConfig = {
         pattern: 'articles/*/index_fr.md',
         sortBy: 'date',
         reverse: true
+    },
+    projectsEN: {
+        pattern: 'projects/*/index_en.md',
+        sortBy: 'start',
+        reverse: true
+    },
+    projectsFR: {
+        pattern: 'projects/*/index_fr.md',
+        sortBy: 'start',
+        reverse: true
     }
 }
 
@@ -140,14 +150,19 @@ metalsmith(__dirname)
             pattern: ':locale/:slug'
         }))
     )
+    .use(branch('projects/*/*_en.html')
+        .use(permalinks({
+            pattern: ':locale/projects/:slug'
+        }))
+    )
     .use(feed(feedConfigEN))
     .use(feed(feedConfigFR))
     .use(copy({
-        pattern: 'articles/*/*.+(svg|png|jpg)',
+        pattern: '**/*.+(svg|png|jpg)',
         directory: 'files',
         move: true
     }))
-    .use(convert(convertConfig))
+    //.use(convert(convertConfig))
     .use(templates(templateConfig))
     .use(branch('**/*.html')
         .use(gpimg())
