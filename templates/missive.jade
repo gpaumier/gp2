@@ -7,6 +7,9 @@ block article
     article
         div.article-content.row!= contents
         p= topics
-            
+        
+block editLinks
+    include _editLinks
+        
 block nav
     include _prevnext
