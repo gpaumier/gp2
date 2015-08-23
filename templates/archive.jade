@@ -1,13 +1,12 @@
 extends master.jade
 
 block article
-    if collections[archive] && collections[archive].length  > 0
-        each item in collections[archive]
-            h2
-                a(href='/'+item.path)!= item.title
-            p= item.excerpt.slice(3, -4)
-    else
-        h2 No articles to display
+    article.row
+        if collections[archive] && collections[archive].length  > 0
+            each item in collections[archive]
+                include _snippet
+            else
+                h3 No articles to display
                 
 
     
