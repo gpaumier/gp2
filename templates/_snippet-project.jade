@@ -1,0 +1,7 @@
+extends _snippet
+
+block date
+    if item.ongoing    
+        p.snippet-date            #{moment(item.start).locale(locale).format('LL')} – #{__('project-status-ongoing')}
+    else
+        p.snippet-date #{moment(item.start).locale(locale).format('LL')} – #{moment(item.end).locale(locale).format('LL')}

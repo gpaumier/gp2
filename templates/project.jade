@@ -1,0 +1,13 @@
+extends master
+
+block header
+    include _hero
+
+block article
+    article
+        div.article-content.row!= contents
+        p= start
+        p= end
+    
+block editLinks
+    include _editLinks

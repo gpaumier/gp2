@@ -8,5 +8,8 @@ article.snippet
         div.snippet-text
             h3
                 a(href='/'+item.path)!= item.title
-            p= item.excerpt.slice(3, -4)
-            p.snippet-date= moment(item.date).locale(locale).format('LL')
+                if item.subtitle
+                    small – #{item.subtitle}
+            p!= item.excerpt.slice(3, -4)
+            block date
+                p.snippet-date= moment(item.date).locale(locale).format('LL')
