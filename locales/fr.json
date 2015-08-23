@@ -34,5 +34,9 @@
 	"topbar_search_class": "fa fa-search",
 	"topbar_search_label": "Rechercher",
 	"locale-autonym-en": "English",
-	"locale-autonym-fr": "français"
+	"locale-autonym-fr": "français",
+	"editlinks-edit-title": "Modifier cette page sur Github",
+	"editlinks-history-title": "Voir l'historique de cette page sur Github",
+	"editlinks-edit-label": "modifier",
+	"editlinks-history-label": "voir l'historique"
 }

@@ -1,5 +1,5 @@
 ul
     li
-        a(href= source.editPrefix + sourcePath.dir + '/' + sourcePath.base) edit
+        a(href= source.editPrefix + sourcePath.dir + '/' + sourcePath.base, title= __('editlinks-edit-title'))=  __('editlinks-edit-label')
     li
-        a(href= source.historyPrefix + sourcePath.dir + '/' + sourcePath.base) view history
+        a(href= source.historyPrefix + sourcePath.dir + '/' + sourcePath.base, title= __('editlinks-history-title'))= __('editlinks-history-label')
