@@ -5,6 +5,7 @@ block article
         each item in collections[archive]
             h2
                 a(href='/'+item.path)!= item.title
+            p= item.excerpt.slice(3, -4)
     else
         h2 No articles to display
                 
