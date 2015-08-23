@@ -106,6 +106,7 @@ $font-family-monospace: $fumseck-monospace;
 // $snow        : #F9F9F9;
 // $vapor       : #F6F6F6;
 // $white-smoke : #F5F5F5;
+$white-smoke : #F5F5F5;
 // $silver      : #EFEFEF;
 // $smoke       : #EEEEEE;
 // $gainsboro   : #DDDDDD;
@@ -131,6 +132,7 @@ $font-family-monospace: $fumseck-monospace;
 
 // We use these to control various global styles
 // $body-bg: $white;
+$body-bg: $white-smoke;
 // $body-font-color: $jet;
 $body-font-family: $font-family-serif;
 // $body-font-weight: $font-weight-normal;
@@ -1411,7 +1413,8 @@ $icon-bar-item-padding: 1rem;
 // Background color for the top bar
 // $topbar-bg-color: $oil;
 // $topbar-bg: $topbar-bg-color;
-$topbar-bg: rgba(#333333, .5); // We use the same $oil color, but add transparency; $oil is declared later so the value here is hardcoded. See _global.scss:239
+//$topbar-bg: rgba(#333333, .5); // We use the same $oil color, but add transparency; $oil is declared later so the value here is hardcoded. See _global.scss:239
+$topbar-bg: none;
 
 // Height and margin
 // $topbar-height: rem-calc(45);
@@ -1450,7 +1453,6 @@ $topbar-dropdown-bg: none;
 // $topbar-dropdown-link-color: $white;
 // $topbar-dropdown-link-color-hover: $topbar-link-color-hover;
 // $topbar-dropdown-link-bg: $oil;
-$topbar-dropdown-link-bg: $topbar-bg;
 // $topbar-dropdown-link-bg-hover: $jet;
 // $topbar-dropdown-link-weight: $font-weight-normal;
 // $topbar-dropdown-toggle-size: 5px;
