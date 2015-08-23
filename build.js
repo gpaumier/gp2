@@ -13,6 +13,7 @@ var multiLanguage = require('metalsmith-multi-language');
 var copy        = require('metalsmith-copy');
 var i18n        = require('metalsmith-i18n');
 var feed        = require('metalsmith-feed');
+var excerpts    = require('metalsmith-excerpts');
 var gpimg       = require('./plugins/plugins').rewriteImages;
 
 // Image handling: metalsmith-convert config
@@ -119,6 +120,7 @@ metalsmith(__dirname)
     }))
     .use(collections(collectionsConfig))
     .use(markdown())
+    .use(excerpts())
     .use(headings('h2'))
     .use(branch('articles/*/*.html')
         .use(permalinks({
