@@ -38,5 +38,6 @@
 	"editlinks-edit-title": "Edit this page on Github",
 	"editlinks-history-title": "View the history of this page on Github",
 	"editlinks-edit-label": "edit",
-	"editlinks-history-label": "view history"
+	"editlinks-history-label": "view history",
+	"project-status-ongoing": "ongoing"
 }
