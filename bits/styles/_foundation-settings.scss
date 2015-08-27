@@ -103,7 +103,7 @@ $font-family-monospace: $fumseck-monospace;
 
 // $white       : #FFFFFF;
 // $ghost       : #FAFAFA;
-// $snow        : #F9F9F9;
+$snow        : #F9F9F9;
 // $vapor       : #F6F6F6;
 // $white-smoke : #F5F5F5;
 $white-smoke : #F5F5F5;
@@ -119,7 +119,7 @@ $white-smoke : #F5F5F5;
 // $charcoal    : #555555;
 // $tuatara     : #444444;
 // $oil         : #333333;
-// $jet         : #222222;
+$jet         : #222222;
 // $black       : #000000;
 
 // We use these as default colors throughout
@@ -1414,7 +1414,7 @@ $icon-bar-item-padding: 1rem;
 // $topbar-bg-color: $oil;
 // $topbar-bg: $topbar-bg-color;
 //$topbar-bg: rgba(#333333, .5); // We use the same $oil color, but add transparency; $oil is declared later so the value here is hardcoded. See _global.scss:239
-$topbar-bg: none;
+$topbar-bg: $snow;
 
 // Height and margin
 // $topbar-height: rem-calc(45);
@@ -1426,15 +1426,20 @@ $topbar-bg: none;
 
 // Set the link colors and styles for top-level nav
 // $topbar-link-color: $white;
+$topbar-link-color: $jet;
 // $topbar-link-color-hover: $white;
+$topbar-link-color-hover: $jet;
 // $topbar-link-color-active: $white;
+$topbar-link-color-active: $jet;
 // $topbar-link-color-active-hover: $white;
+$topbar-link-color-active-hover: $jet;
 // $topbar-link-weight: $font-weight-normal;
 // $topbar-link-font-size: rem-calc(13);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
-$topbar-link-bg: none;
+$topbar-link-bg: $snow;
 // $topbar-link-bg-hover: $jet;
+$topbar-link-bg-hover: $white-smoke;
 // $topbar-link-bg-color-hover: $charcoal;
 // $topbar-link-bg-active: $primary-color;
 // $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
@@ -1449,11 +1454,14 @@ $topbar-link-font-family: $fumseck-sans;
 
 // Style the top bar dropdown elements
 // $topbar-dropdown-bg: $oil;
-$topbar-dropdown-bg: none;
+$topbar-dropdown-bg: $snow;
 // $topbar-dropdown-link-color: $white;
+$topbar-dropdown-link-color: $jet;
 // $topbar-dropdown-link-color-hover: $topbar-link-color-hover;
 // $topbar-dropdown-link-bg: $oil;
+$topbar-dropdown-link-bg: $snow;
 // $topbar-dropdown-link-bg-hover: $jet;
+$topbar-dropdown-link-bg-hover: $white-smoke;
 // $topbar-dropdown-link-weight: $font-weight-normal;
 // $topbar-dropdown-toggle-size: 5px;
 // $topbar-dropdown-toggle-color: $white;
