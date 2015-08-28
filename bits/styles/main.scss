@@ -45,9 +45,15 @@ figure {
         transform: translateY(-50%);
     }
 
-    h1 {
+    h1, h2 {
         color: #fff;
         text-align: center;
+    }
+
+    h2 {
+        font-style: italic;
+        font-weight: normal;
+        @extend %fumseck-serif-italic;
     }
 
     p {
