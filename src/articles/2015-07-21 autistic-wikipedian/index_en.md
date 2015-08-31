@@ -54,9 +54,9 @@ The picture above was taken during Wikimania 2007 in Taipei. I was exploring the
 
 ## Spock
 
-![Spock and Kirk. "[Leonard Nimoy William Shatner Star Trek 1968](https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG)", by NBC Television, in the public domain, from Wikimedia Commons.](Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg)
-
 A good analogy to help understand what it's like to be autistic in a neurotypical society is to look at Mr. Spock, in the Star Trek Original Series. The son of a Vulcan father and a human mother, Spock is technically half-human, but it is his Vulcan side that shows the most in its interactions with the crew of the *Enterprise*.
+
+![Spock and Kirk. "[Leonard Nimoy William Shatner Star Trek 1968](https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG)", by NBC Television, in the public domain, from Wikimedia Commons.](Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg)
 
 Some of the funniest moments of the show are his arguments with the irascible Dr. McCoy, who calls him an "unfeeling automaton" and "the most cold-blooded man [he's] ever known". To which Spock responds: "Why, thank you, Doctor." [^sttos120]
 
