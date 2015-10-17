@@ -61,7 +61,7 @@ As características do Spock se parecem às do autismo de muitas maneiras, e mui
 >
 > Lembro-me claramente de um episódio antigo que retratava um conflito entre lógica e emoção de uma maneira que eu conseguia compreender. Um monstro estava tentando esmagar a nave espacial com umas pedras. Um tripulante havia sido morto. O lógico Sr. Spock queria decolar e escapar antes que o monstro destruísse a nave. Os outros tripulantes se recusavam a ir embora antes de resgatar o corpo do tripulante falecido. (...)
 >
-> Eu concordava como o Spock, mas aprendi que muitas vezes as emoções prevalecerão sobre o pensamento lógico, mesmo que isso represente perigo.
+> Eu concordava com o Spock, mas aprendi que muitas vezes as emoções prevalecerão sobre o pensamento lógico, mesmo que isso represente perigo.
 > <cite>Temple Grandin [^grandin]</cite>
 
 [^grandin]: Temple Grandin. *Thinking in Pictures*. p.152
