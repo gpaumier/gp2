@@ -23,26 +23,27 @@ figure {
 
 .hero {
 
-    background: url('/files/default_picture_full.jpg') no-repeat center center;
-    background-size: cover;
-    height: 100vh;
+    @media #{$medium-up} {
+        background-size: cover;
+        height: 100vh;
 
-    &:before {
-        content: '';
-        position: absolute;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        background-image: linear-gradient(to bottom right,#000,#1A1A1A);
-        opacity: .55;
-    }
+        &:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background-image: linear-gradient(to bottom right,#000,#1A1A1A);
+            opacity: .55;
+        }
 
-    .intro {
-        padding: 3rem;
-        position: relative;
-        top: 50%;
-        transform: translateY(-50%);
+        .intro {
+            padding: 3rem;
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+        }
     }
 
     h1, h2 {
