@@ -1,16 +1,5 @@
 -- This is a sample custom writer for pandoc.  It produces output
 -- that is very similar to that of pandoc's HTML writer.
--- There is one new feature: code blocks marked with class 'dot'
--- are piped through graphviz and images are included in the HTML
--- output using 'data:' URLs.
---
--- Invoke with: pandoc -t sample.lua
---
--- Note:  you need not have lua installed on your system to use this
--- custom writer.  However, if you do have lua installed, you can
--- use it to test changes to the script.  'lua sample.lua' will
--- produce informative error messages if your code contains
--- syntax errors.
 
 -- Character escaping
 local function escape(s, in_attribute)
@@ -197,16 +186,8 @@ function HorizontalRule()
 end
 
 function CodeBlock(s, attr)
-  -- If code block has class 'dot', pipe the contents through dot
-  -- and base64, and include the base64-encoded png as a data: URL.
-  if attr.class and string.match(' ' .. attr.class .. ' ',' dot ') then
-    local png = pipe("base64", pipe("dot -Tpng", s))
-    return '<img src="data:image/png;base64,' .. png .. '"/>'
-  -- otherwise treat as code (one could pipe through a highlighter)
-  else
     return "<pre><code" .. attributes(attr) .. ">" .. escape(s) ..
            "</code></pre>"
-  end
 end
 
 function BulletList(items)
