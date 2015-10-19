@@ -47,6 +47,8 @@ local function pipe(cmd, inp)
 end
 
 -- Table to store footnotes, so they can be included at the end.
+-- In our case we're just using this to get a tally and unique
+-- note IDs for toggling on small viewports.
 local notes = {}
 
 -- Blocksep is used to separate block elements.
@@ -66,13 +68,15 @@ function Doc(body, metadata, variables)
     table.insert(buffer, s)
   end
   add(body)
-  if #notes > 0 then
-    add('<ol class="footnotes">')
-    for _,note in pairs(notes) do
-      add(note)
-    end
-    add('</ol>')
-  end
+-- Here the writer would output the list of footnotes
+-- but we don't need that since they've been printed in-place.
+--  if #notes > 0 then
+--    add('<ol class="footnotes">')
+--    for _,note in pairs(notes) do
+--      add(note)
+--    end
+--    add('</ol>')
+--  end
   return table.concat(buffer,'\n') .. '\n'
 end
 
@@ -140,15 +144,19 @@ function DisplayMath(s)
 end
 
 function Note(s)
+-- This custom function prints footnotes in-place to be used with
+-- Tufte-CSS and similar. We don't need links to/from the note.
   local num = #notes + 1
-  -- insert the back reference right before the final closing tag.
+  -- get the note's content, strip paragraphs to get inline content
   s = string.gsub(s,
-          '(.*)</', '%1 <a href="#fnref' .. num ..  '">&#8617;</a></')
-  -- add a list item with the note to the note table.
-  table.insert(notes, '<li id="fn' .. num .. '">' .. s .. '</li>')
-  -- return the footnote reference, linked to the note.
-  return '<a id="fnref' .. num .. '" href="#fn' .. num ..
-            '"><sup>' .. num .. '</sup></a>'
+          '<p>(.*)</p>', '%1')
+  -- add the note to the note table.
+  table.insert(notes, s)
+  -- return the footnote reference for use with Tufte CSS.
+  return '<label for="sn-ref' .. num .. '" class="margin-toggle' ..
+    'sidenote-number"></label><input type="checkbox" id="sn-ref' ..
+    num .. '" class="margin-toggle"/><span class="sidenote">' .. s ..
+    '</span>'
 end
 
 function Span(s, attr)
