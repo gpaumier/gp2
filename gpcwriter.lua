@@ -186,8 +186,16 @@ function HorizontalRule()
 end
 
 function CodeBlock(s, attr)
+  -- If code block has class 'dot', pipe the contents through dot
+  -- and base64, and include the base64-encoded png as a data: URL.
+  -- if attr.class and string.match(' ' .. attr.class .. ' ',' dot ') then
+  --    local png = pipe("base64", pipe("dot -Tpng", s))
+  --    return '<img src="data:image/png;base64,' .. png .. '"/>'
+  -- otherwise treat as code (one could pipe through a highlighter)
+  --  else
     return "<pre><code" .. attributes(attr) .. ">" .. escape(s) ..
            "</code></pre>"
+  --  end
 end
 
 function BulletList(items)
