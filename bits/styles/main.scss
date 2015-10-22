@@ -1,7 +1,7 @@
 /* This is the main SCSS file for the site. */
 
 @import 'normalize';
-@import '_fonts';
+@import '_fonts2';
 @import '_foundation-settings';
 @import 'foundation/components/_global';
 @import 'foundation/components/_type';
@@ -11,7 +11,7 @@
 @import 'foundation/components/_visibility';
 @import 'foundation/components/_dropdown';
 @import 'foundation/components/_type';
-@import '_typography';
+@import '_typography2';
 
 figure {
     margin: auto;

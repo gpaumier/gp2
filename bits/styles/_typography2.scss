@@ -1,0 +1,122 @@
+/**
+ * Fumseck Serif
+ */
+
+%fumseck-serif {
+    font-family: $fumseck-serif;
+}
+
+%fumseck-serif-bold {
+    font-family: 'Linux Libertine Regular Bold', 'Baskerville', 'Georgia', serif;
+    font-weight: bold;
+}
+
+%fumseck-serif-italic {
+    font-family: 'Linux Libertine Regular Italic', 'Baskerville', 'Georgia', serif;
+    font-style: italic;
+}
+
+%fumseck-serif-bolditalic {
+    font-family: 'Linux Libertine Regular Bold Italic', 'Baskerville', 'Georgia', serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+/**
+ * Fumseck Sans
+ */
+
+%fumseck-sans {
+    font-family: $fumseck-sans;
+}
+
+%fumseck-sans-bold {
+    font-family: 'Linux Biolinum Regular Bold', 'Futura', 'Verdana', sans-serif;
+    font-weight: bold;
+}
+
+%fumseck-sans-italic {
+    font-family: 'Linux Biolinum Regular Italic Oblique', 'Futura', 'Verdana', sans-serif;
+    font-style: italic;
+}
+
+/**
+ * Fumseck Monospace
+ */
+
+%fumseck-monospace {
+    font-family: $fumseck-monospace;
+}
+
+%fumseck-monospace-italic {
+    font-family: 'Latin Modern Monospace Italic', 'Courier', monospace;
+    font-style: italic;
+}
+
+%fumseck-monospace-bold {
+    font-family: 'Latin Modern Monospace Light Bold', 'Courier', monospace;
+    font-weight: bold;
+}
+
+%fumseck-monospace-bolditalic {
+    font-family: 'Latin Modern Monospace Light Bold Oblique', 'Courier', monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+/**
+ * Define our fonts
+ */
+
+body {
+    @extend %fumseck-serif;
+}
+
+h1 {
+    @extend %fumseck-serif-bold;
+}
+
+h2, h3 {
+    @extend %fumseck-sans-bold;
+
+    em {
+        @extend %fumseck-sans-bolditalic;
+    }
+}
+
+strong {
+    @extend %fumseck-serif-bold;
+}
+
+em {
+    @extend %fumseck-serif-italic;
+    }
+
+em strong, strong em {
+    @extend %fumseck-serif-bolditalic;
+}
+
+pre {
+    @extend %fumseck-monospace;
+
+    strong {
+        @extend %fumseck-monospace-bold;
+    }
+
+    em {
+        @extend %fumseck-monospace-italic;
+    }
+
+    em strong, strong em {
+        @extend %fumseck-monospace-bolditalic;
+    }
+}
+
+blockquote {
+    @extend %fumseck-serif-italic;
+}
+
+figcaption {
+    @extend %fumseck-sans;
+}
