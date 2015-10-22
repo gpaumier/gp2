@@ -3035,79 +3035,100 @@ th {
  * Font-face mixin to simplify the following.
  */
 /**
- * Latin Modern Roman
+ * Linux Libertine
  */
 @font-face {
-  font-family: "Latin Modern Roman Regular";
-  src: url("fonts/latinmodern/roman/lmroman10-regular-webfont.eot");
-  src: url("fonts/latinmodern/roman/lmroman10-regular-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/roman/lmroman10-regular-webfont.woff") format("woff"), url("fonts/latinmodern/roman/lmroman10-regular-webfont.ttf") format("truetype");
+  font-family: "Linux Libertine Display Regular";
+  src: url("fonts/linux-libertine/LinLibertine_DR.eot");
+  src: url("fonts/linux-libertine/LinLibertine_DR.eot?#iefix") format("embedded-opentype"), url("fonts/linux-libertine/LinLibertine_DR.woff") format("woff"), url("fonts/linux-libertine/LinLibertine_DR.woff2") format("woff2"), url("fonts/linux-libertine/LinLibertine_DR.svg#linux-libertine/LinLibertine_DR") format("svg"), url("fonts/linux-libertine/LinLibertine_DR.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: "Latin Modern Roman Bold";
-  src: url("fonts/latinmodern/roman/lmroman10-bold-webfont.eot");
-  src: url("fonts/latinmodern/roman/lmroman10-bold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/roman/lmroman10-bold-webfont.woff") format("woff"), url("fonts/latinmodern/roman/lmroman10-bold-webfont.ttf") format("truetype");
+  font-family: "Linux Libertine Initials";
+  src: url("fonts/linux-libertine/LinLibertine_I.eot");
+  src: url("fonts/linux-libertine/LinLibertine_I.eot?#iefix") format("embedded-opentype"), url("fonts/linux-libertine/LinLibertine_I.woff") format("woff"), url("fonts/linux-libertine/LinLibertine_I.woff2") format("woff2"), url("fonts/linux-libertine/LinLibertine_I.svg#linux-libertine/LinLibertine_I") format("svg"), url("fonts/linux-libertine/LinLibertine_I.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Linux Libertine Mono";
+  src: url("fonts/linux-libertine/LinLibertine_M.eot");
+  src: url("fonts/linux-libertine/LinLibertine_M.eot?#iefix") format("embedded-opentype"), url("fonts/linux-libertine/LinLibertine_M.woff") format("woff"), url("fonts/linux-libertine/LinLibertine_M.woff2") format("woff2"), url("fonts/linux-libertine/LinLibertine_M.svg#linux-libertine/LinLibertine_M") format("svg"), url("fonts/linux-libertine/LinLibertine_M.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Linux Libertine Regular";
+  src: url("fonts/linux-libertine/LinLibertine_R.eot");
+  src: url("fonts/linux-libertine/LinLibertine_R.eot?#iefix") format("embedded-opentype"), url("fonts/linux-libertine/LinLibertine_R.woff") format("woff"), url("fonts/linux-libertine/LinLibertine_R.woff2") format("woff2"), url("fonts/linux-libertine/LinLibertine_R.svg#linux-libertine/LinLibertine_R") format("svg"), url("fonts/linux-libertine/LinLibertine_R.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Linux Libertine Regular Bold";
+  src: url("fonts/linux-libertine/LinLibertine_RB.eot");
+  src: url("fonts/linux-libertine/LinLibertine_RB.eot?#iefix") format("embedded-opentype"), url("fonts/linux-libertine/LinLibertine_RB.woff") format("woff"), url("fonts/linux-libertine/LinLibertine_RB.woff2") format("woff2"), url("fonts/linux-libertine/LinLibertine_RB.svg#linux-libertine/LinLibertine_RB") format("svg"), url("fonts/linux-libertine/LinLibertine_RB.ttf") format("truetype");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
-  font-family: "Latin Modern Roman Italic";
-  src: url("fonts/latinmodern/roman/lmroman10-italic-webfont.eot");
-  src: url("fonts/latinmodern/roman/lmroman10-italic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/roman/lmroman10-italic-webfont.woff") format("woff"), url("fonts/latinmodern/roman/lmroman10-italic-webfont.ttf") format("truetype");
-  font-weight: normal;
-  font-style: italic; }
-
-@font-face {
-  font-family: "Latin Modern Roman Bold Italic";
-  src: url("fonts/latinmodern/roman/lmroman10-bolditalic-webfont.eot");
-  src: url("fonts/latinmodern/roman/lmroman10-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/roman/lmroman10-bolditalic-webfont.woff") format("woff"), url("fonts/latinmodern/roman/lmroman10-bolditalic-webfont.ttf") format("truetype");
+  font-family: "Linux Libertine Regular Bold Italic";
+  src: url("fonts/linux-libertine/LinLibertine_RBI.eot");
+  src: url("fonts/linux-libertine/LinLibertine_RBI.eot?#iefix") format("embedded-opentype"), url("fonts/linux-libertine/LinLibertine_RBI.woff") format("woff"), url("fonts/linux-libertine/LinLibertine_RBI.woff2") format("woff2"), url("fonts/linux-libertine/LinLibertine_RBI.svg#linux-libertine/LinLibertine_RBI") format("svg"), url("fonts/linux-libertine/LinLibertine_RBI.ttf") format("truetype");
   font-weight: bold;
   font-style: italic; }
 
 @font-face {
-  font-family: "Latin Modern Roman Caps Regular";
-  src: url("fonts/latinmodern/roman/lmromancaps10-regular-webfont.eot");
-  src: url("fonts/latinmodern/roman/lmromancaps10-regular-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/roman/lmromancaps10-regular-webfont.woff") format("woff"), url("fonts/latinmodern/roman/lmromancaps10-regular-webfont.ttf") format("truetype");
+  font-family: "Linux Libertine Regular Italic";
+  src: url("fonts/linux-libertine/LinLibertine_RI.eot");
+  src: url("fonts/linux-libertine/LinLibertine_RI.eot?#iefix") format("embedded-opentype"), url("fonts/linux-libertine/LinLibertine_RI.woff") format("woff"), url("fonts/linux-libertine/LinLibertine_RI.woff2") format("woff2"), url("fonts/linux-libertine/LinLibertine_RI.svg#linux-libertine/LinLibertine_RI") format("svg"), url("fonts/linux-libertine/LinLibertine_RI.ttf") format("truetype");
   font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: "Linux Libertine Semibold";
+  src: url("fonts/linux-libertine/LinLibertine_Z.eot");
+  src: url("fonts/linux-libertine/LinLibertine_Z.eot?#iefix") format("embedded-opentype"), url("fonts/linux-libertine/LinLibertine_Z.woff") format("woff"), url("fonts/linux-libertine/LinLibertine_Z.woff2") format("woff2"), url("fonts/linux-libertine/LinLibertine_Z.svg#linux-libertine/LinLibertine_Z") format("svg"), url("fonts/linux-libertine/LinLibertine_Z.ttf") format("truetype");
+  font-weight: 600;
   font-style: normal; }
 
 @font-face {
-  font-family: "Latin Modern Roman Caps Oblique";
-  src: url("fonts/latinmodern/roman/lmromancaps10-oblique-webfont.eot");
-  src: url("fonts/latinmodern/roman/lmromancaps10-oblique-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/roman/lmromancaps10-oblique-webfont.woff") format("woff"), url("fonts/latinmodern/roman/lmromancaps10-oblique-webfont.ttf") format("truetype");
-  font-weight: normal;
+  font-family: "Linux Libertine Semibold Italic";
+  src: url("fonts/linux-libertine/LinLibertine_ZI.eot");
+  src: url("fonts/linux-libertine/LinLibertine_ZI.eot?#iefix") format("embedded-opentype"), url("fonts/linux-libertine/LinLibertine_ZI.woff") format("woff"), url("fonts/linux-libertine/LinLibertine_ZI.woff2") format("woff2"), url("fonts/linux-libertine/LinLibertine_ZI.svg#linux-libertine/LinLibertine_ZI") format("svg"), url("fonts/linux-libertine/LinLibertine_ZI.ttf") format("truetype");
+  font-weight: 600;
   font-style: italic; }
 
 /**
- * Latin Modern Sans
+ * Linux Biolinum
  */
 @font-face {
-  font-family: "Latin Modern Sans Regular";
-  src: url("fonts/latinmodern/sans/lmsans10-regular-webfont.eot");
-  src: url("fonts/latinmodern/sans/lmsans10-regular-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/sans/lmsans10-regular-webfont.woff") format("woff"), url("fonts/latinmodern/sans/lmsans10-regular-webfont.ttf") format("truetype");
+  font-family: "Linux Biolinum Keyboard";
+  src: url("fonts/linux-biolinum/LinBiolinum_K.eot");
+  src: url("fonts/linux-biolinum/LinBiolinum_K.eot?#iefix") format("embedded-opentype"), url("fonts/linux-biolinum/LinBiolinum_K.woff") format("woff"), url("fonts/linux-biolinum/LinBiolinum_K.woff2") format("woff2"), url("fonts/linux-biolinum/LinBiolinum_K.svg#linux-biolinum/LinBiolinum_K") format("svg"), url("fonts/linux-biolinum/LinBiolinum_K.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: "Latin Modern Sans Bold";
-  src: url("fonts/latinmodern/sans/lmsans10-bold-webfont.eot");
-  src: url("fonts/latinmodern/sans/lmsans10-bold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/sans/lmsans10-bold-webfont.woff") format("woff"), url("fonts/latinmodern/sans/lmsans10-bold-webfont.ttf") format("truetype");
+  font-family: "Linux Biolinum Regular";
+  src: url("fonts/linux-biolinum/LinBiolinum_R.eot");
+  src: url("fonts/linux-biolinum/LinBiolinum_R.eot?#iefix") format("embedded-opentype"), url("fonts/linux-biolinum/LinBiolinum_R.woff") format("woff"), url("fonts/linux-biolinum/LinBiolinum_R.woff2") format("woff2"), url("fonts/linux-biolinum/LinBiolinum_R.svg#linux-biolinum/LinBiolinum_R") format("svg"), url("fonts/linux-biolinum/LinBiolinum_R.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Linux Biolinum Regular Bold";
+  src: url("fonts/linux-biolinum/LinBiolinum_RB.eot");
+  src: url("fonts/linux-biolinum/LinBiolinum_RB.eot?#iefix") format("embedded-opentype"), url("fonts/linux-biolinum/LinBiolinum_RB.woff") format("woff"), url("fonts/linux-biolinum/LinBiolinum_RB.woff2") format("woff2"), url("fonts/linux-biolinum/LinBiolinum_RB.svg#linux-biolinum/LinBiolinum_RB") format("svg"), url("fonts/linux-biolinum/LinBiolinum_RB.ttf") format("truetype");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
-  font-family: "Latin Modern Sans Oblique";
-  src: url("fonts/latinmodern/sans/lmsans10-oblique-webfont.eot");
-  src: url("fonts/latinmodern/sans/lmsans10-oblique-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/sans/lmsans10-oblique-webfont.woff") format("woff"), url("fonts/latinmodern/sans/lmsans10-oblique-webfont.ttf") format("truetype");
+  font-family: "Linux Biolinum Regular Italic";
+  src: url("fonts/linux-biolinum/LinBiolinum_RI.eot");
+  src: url("fonts/linux-biolinum/LinBiolinum_RI.eot?#iefix") format("embedded-opentype"), url("fonts/linux-biolinum/LinBiolinum_RI.woff") format("woff"), url("fonts/linux-biolinum/LinBiolinum_RI.woff2") format("woff2"), url("fonts/linux-biolinum/LinBiolinum_RI.svg#linux-biolinum/LinBiolinum_RI") format("svg"), url("fonts/linux-biolinum/LinBiolinum_RI.ttf") format("truetype");
   font-weight: normal;
-  font-style: italic; }
-
-@font-face {
-  font-family: "Latin Modern Sans Bold Oblique";
-  src: url("fonts/latinmodern/sans/lmsans10-boldoblique-webfont.eot");
-  src: url("fonts/latinmodern/sans/lmsans10-boldoblique-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/sans/lmsans10-boldoblique-webfont.woff") format("woff"), url("fonts/latinmodern/sans/lmsans10-boldoblique-webfont.ttf") format("truetype");
-  font-weight: bold;
   font-style: italic; }
 
 /**
@@ -3116,28 +3137,28 @@ th {
 @font-face {
   font-family: "Latin Modern Monospace Regular";
   src: url("fonts/latinmodern/mono/lmmono10-regular-webfont.eot");
-  src: url("fonts/latinmodern/mono/lmmono10-regular-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/mono/lmmono10-regular-webfont.woff") format("woff"), url("fonts/latinmodern/mono/lmmono10-regular-webfont.ttf") format("truetype");
+  src: url("fonts/latinmodern/mono/lmmono10-regular-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/mono/lmmono10-regular-webfont.woff") format("woff"), url("fonts/latinmodern/mono/lmmono10-regular-webfont.woff2") format("woff2"), url("fonts/latinmodern/mono/lmmono10-regular-webfont.svg#latinmodern/mono/lmmono10-regular-webfont") format("svg"), url("fonts/latinmodern/mono/lmmono10-regular-webfont.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "Latin Modern Monospace Italic";
   src: url("fonts/latinmodern/mono/lmmono10-italic-webfont.eot");
-  src: url("fonts/latinmodern/mono/lmmono10-italic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/mono/lmmono10-italic-webfont.woff") format("woff"), url("fonts/latinmodern/mono/lmmono10-italic-webfont.ttf") format("truetype");
+  src: url("fonts/latinmodern/mono/lmmono10-italic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/mono/lmmono10-italic-webfont.woff") format("woff"), url("fonts/latinmodern/mono/lmmono10-italic-webfont.woff2") format("woff2"), url("fonts/latinmodern/mono/lmmono10-italic-webfont.svg#latinmodern/mono/lmmono10-italic-webfont") format("svg"), url("fonts/latinmodern/mono/lmmono10-italic-webfont.ttf") format("truetype");
   font-weight: normal;
   font-style: italic; }
 
 @font-face {
   font-family: "Latin Modern Monospace Light Bold";
   src: url("fonts/latinmodern/mono/lmmonolt10-bold-webfont.eot");
-  src: url("fonts/latinmodern/mono/lmmonolt10-bold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/mono/lmmonolt10-bold-webfont.woff") format("woff"), url("fonts/latinmodern/mono/lmmonolt10-bold-webfont.ttf") format("truetype");
+  src: url("fonts/latinmodern/mono/lmmonolt10-bold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/mono/lmmonolt10-bold-webfont.woff") format("woff"), url("fonts/latinmodern/mono/lmmonolt10-bold-webfont.woff2") format("woff2"), url("fonts/latinmodern/mono/lmmonolt10-bold-webfont.svg#latinmodern/mono/lmmonolt10-bold-webfont") format("svg"), url("fonts/latinmodern/mono/lmmonolt10-bold-webfont.ttf") format("truetype");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
   font-family: "Latin Modern Monospace Light Bold Oblique";
   src: url("fonts/latinmodern/mono/lmmonolt10-boldoblique-webfont.eot");
-  src: url("fonts/latinmodern/mono/lmmonolt10-boldoblique-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/mono/lmmonolt10-boldoblique-webfont.woff") format("woff"), url("fonts/latinmodern/mono/lmmonolt10-boldoblique-webfont.ttf") format("truetype");
+  src: url("fonts/latinmodern/mono/lmmonolt10-boldoblique-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/latinmodern/mono/lmmonolt10-boldoblique-webfont.woff") format("woff"), url("fonts/latinmodern/mono/lmmonolt10-boldoblique-webfont.woff2") format("woff2"), url("fonts/latinmodern/mono/lmmonolt10-boldoblique-webfont.svg#latinmodern/mono/lmmonolt10-boldoblique-webfont") format("svg"), url("fonts/latinmodern/mono/lmmonolt10-boldoblique-webfont.ttf") format("truetype");
   font-weight: bold;
   font-style: italic; }
 
@@ -3220,7 +3241,7 @@ body {
   background: #F5F5F5;
   color: #222;
   cursor: auto;
-  font-family: "Latin Modern Roman Regular", "Baskerville", "Georgia", serif;
+  font-family: "Linux Libertine Regular", "Baskerville", "Georgia", serif;
   font-style: normal;
   font-weight: normal;
   line-height: 1.5;
@@ -3514,7 +3535,7 @@ p {
 /* line 252, bower_components/foundation/scss/foundation/components/_type.scss */
 h1, h2, h3, h4, h5, h6 {
   color: #222222;
-  font-family: "Latin Modern Roman Regular", "Baskerville", "Georgia", serif;
+  font-family: "Linux Libertine Regular", "Baskerville", "Georgia", serif;
   font-style: normal;
   font-weight: normal;
   line-height: 1.4;
@@ -4817,7 +4838,7 @@ button, .button {
   border-style: solid;
   border-width: 0;
   cursor: pointer;
-  font-family: "Latin Modern Roman Regular", "Baskerville", "Georgia", serif;
+  font-family: "Linux Libertine Regular", "Baskerville", "Georgia", serif;
   font-weight: normal;
   line-height: normal;
   margin: 0 0 1.25rem;
@@ -5796,7 +5817,7 @@ meta.foundation-mq-topbar {
     .top-bar-section ul li > a {
       color: #222222;
       display: block;
-      font-family: "Latin Modern Sans Regular", "Futura", "Verdana", sans-serif;
+      font-family: "Linux Biolinum", "Futura", "Verdana", sans-serif;
       font-size: 0.8125rem;
       font-weight: normal;
       padding-left: 0.9375rem;
@@ -7439,62 +7460,56 @@ th.hide-for-touch {
 /**
  * Fumseck Serif
  */
-/* line 5, /home/gpaumier/code/gp2/bits/styles/_typography.scss */
+/* line 5, /home/gpaumier/code/gp2/bits/styles/_typography2.scss */
 body {
-  font-family: "Latin Modern Roman Regular", "Baskerville", "Georgia", serif; }
+  font-family: "Linux Libertine Regular", "Baskerville", "Georgia", serif; }
 
-/* line 9, /home/gpaumier/code/gp2/bits/styles/_typography.scss */
+/* line 9, /home/gpaumier/code/gp2/bits/styles/_typography2.scss */
 h1, strong {
-  font-family: 'Latin Modern Roman Bold', 'Baskerville', 'Georgia', serif;
+  font-family: 'Linux Libertine Regular Bold', 'Baskerville', 'Georgia', serif;
   font-weight: bold; }
 
-/* line 14, /home/gpaumier/code/gp2/bits/styles/_typography.scss */
+/* line 14, /home/gpaumier/code/gp2/bits/styles/_typography2.scss */
 em, blockquote, .hero h2 {
-  font-family: 'Latin Modern Roman Italic', 'Baskerville', 'Georgia', serif;
+  font-family: 'Linux Libertine Regular Italic', 'Baskerville', 'Georgia', serif;
   font-style: italic; }
 
-/* line 19, /home/gpaumier/code/gp2/bits/styles/_typography.scss */
+/* line 19, /home/gpaumier/code/gp2/bits/styles/_typography2.scss */
 em strong, strong em {
-  font-family: 'Latin Modern Roman Bold Italic', 'Baskerville', 'Georgia', serif;
+  font-family: 'Linux Libertine Regular Bold Italic', 'Baskerville', 'Georgia', serif;
   font-weight: bold;
   font-style: italic; }
 
 /**
  * Fumseck Sans
  */
-/* line 38, /home/gpaumier/code/gp2/bits/styles/_typography.scss */
+/* line 29, /home/gpaumier/code/gp2/bits/styles/_typography2.scss */
 figcaption, #iconbar, .snippet .snippet-date {
-  font-family: "Latin Modern Sans Regular", "Futura", "Verdana", sans-serif; }
+  font-family: "Linux Biolinum", "Futura", "Verdana", sans-serif; }
 
-/* line 42, /home/gpaumier/code/gp2/bits/styles/_typography.scss */
+/* line 33, /home/gpaumier/code/gp2/bits/styles/_typography2.scss */
 h2, h3 {
-  font-family: 'Latin Modern Sans Bold', 'Futura', 'Verdana', sans-serif;
+  font-family: 'Linux Biolinum Regular Bold', 'Futura', 'Verdana', sans-serif;
   font-weight: bold; }
-
-/* line 52, /home/gpaumier/code/gp2/bits/styles/_typography.scss */
-h2 em, h3 em {
-  font-family: 'Latin Modern Sans Bold Oblique', 'Futura', 'Verdana', sans-serif;
-  font-weight: bold;
-  font-style: italic; }
 
 /**
  * Fumseck Monospace
  */
-/* line 62, /home/gpaumier/code/gp2/bits/styles/_typography.scss */
+/* line 47, /home/gpaumier/code/gp2/bits/styles/_typography2.scss */
 pre {
   font-family: "Latin Modern Monospace Regular", "Courier", monospace; }
 
-/* line 66, /home/gpaumier/code/gp2/bits/styles/_typography.scss */
+/* line 51, /home/gpaumier/code/gp2/bits/styles/_typography2.scss */
 pre em {
   font-family: 'Latin Modern Monospace Italic', 'Courier', monospace;
   font-style: italic; }
 
-/* line 71, /home/gpaumier/code/gp2/bits/styles/_typography.scss */
+/* line 56, /home/gpaumier/code/gp2/bits/styles/_typography2.scss */
 pre strong {
   font-family: 'Latin Modern Monospace Light Bold', 'Courier', monospace;
   font-weight: bold; }
 
-/* line 76, /home/gpaumier/code/gp2/bits/styles/_typography.scss */
+/* line 61, /home/gpaumier/code/gp2/bits/styles/_typography2.scss */
 pre em strong, pre strong em {
   font-family: 'Latin Modern Monospace Light Bold Oblique', 'Courier', monospace;
   font-weight: bold;
@@ -7590,7 +7605,7 @@ figure {
 .top-bar-section ul li.topbar-disabled-item {
   color: #222222;
   display: block;
-  font-family: "Latin Modern Sans Regular", "Futura", "Verdana", sans-serif;
+  font-family: "Linux Biolinum", "Futura", "Verdana", sans-serif;
   font-size: 0.8125rem;
   font-weight: normal;
   padding-left: 0.9375rem;
