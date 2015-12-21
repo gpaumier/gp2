@@ -1,0 +1,23 @@
+.. title: 42 812 photos
+.. slug: 42-812-photos
+.. date: 2014-01-06 07:58:00
+.. tags: mosaïque,Image,San Francisco,Photo
+.. description: 
+.. wp-status: publish
+
+Pour être honnête, un grand nombre de photos qui occupent mon disque dur sont similaires. Je prends souvent des séries de photos quasi identiques afin d'augmenter la probabilité qu'il y en aura au moins une d'acceptable dans le lot. C'est notamment le cas, par exemple, lorsque je prends des photos dans un endroit peu éclairé, ou lorsque je photographie un sujet en mouvement, que ce soit un avion qui voltige, un écureuil qui court ou un politicien qui discourt. Il y a aussi de réels doublons dus à des conversions de format.
+
+Cela n'en reste pas moins une quantité impressionnante de photos, que je suis petit à petit en train de trier, noter, cataloguer, décrire, géolocaliser et télécharger (principalement sur `Wikimedia Commons <https://commons.wikimedia.org/wiki/User:Guillom/gallery>`__). J'ai remarqué qu'avoir une routine m'aide à avancer, par exemple en consacrant quelques heures par semaine à cette activité. Cependant, cela peut devenir une tâche assez intense et fatigante, et je suis probablement plus susceptible de suivre cette routine si je m'y attelle moins longtemps, mais plus souvent.
+
+J'ai donc décidé d'ouvrir un espace galerie sur ce site, où je vais poster mes photos plusieurs fois par semaine (à terme, peut-être tous les jours, mais je vais commencer plus doucement).
+
+Pour inaugurer cette galerie, il m'a semblé approprié de commencer avec un échantillon représentatif du travail que j'ai fait jusqu'à ce jour. J'ai donc créé une `photomosaïque <https://fr.wikipedia.org/wiki/Photomosa%C3%AFque>`__, c'est à dire une photo composée de milliers de photos plus petites, choisies pour leurs couleurs et composition de manière à reconstruire le sujet et les couleurs d'une image plus grande.
+
+La mosaïque ci-dessus montre les « `*Painted Ladies* <https://fr.wikipedia.org/wiki/Painted_Ladies>`__ » (littéralement, les « Dames Peintes », en anglais), de célèbres maisons victoriennes situées ici près d'Alamo Square, à San Francisco. L'image est composée de 22 059 photos, piochées automatiquement par un programme parmi les 42 812. J'ai utilisé l'excellent logiciel (libre) `Metapixel <http://www.complang.tuwien.ac.at/schani/metapixel/>`__ afin de préparer les images et d'assembler la mosaïque. La photo d'origine, que j'ai prise en juin 2010, est ci-dessous pour comparaison.
+
+|A photographic mosaic depicting the Golden Gate bridge| Grâce à l'algorithme de correspondance de Metapixel, on peut voir le système de suspension du pont et ses câbles.
+
+Pour résumer, j'aime bien l'extension de créativité fournie par les photomosaïques, et je continuerai probablement à jouer avec ce support à l'avenir. Mais pour le moment, après cette introduction, je vais me tourner vers les photos individuelles, qui ne sont que vaguement visibles dans ces mosaïques. Lorsque j'examinais les versions très haute résolution des mosaïques, j'ai beaucoup aimé redécouvrir des photos que j'avais depuis oubliées ; j'espère que vous les apprécierez également au fur et à mesure que je les partage dans cette galerie.
+
+.. |A photographic mosaic depicting the Golden Gate bridge| image:: /wp-content/uploads/2013/12/Photomosaic-Golden-Gate-Bridge-seen-from-the-Presidio-in-San-Francisco-34-760x508.jpg
+   :target: /wp-content/uploads/2013/12/Photomosaic-Golden-Gate-Bridge-seen-from-the-Presidio-in-San-Francisco-34.jpg

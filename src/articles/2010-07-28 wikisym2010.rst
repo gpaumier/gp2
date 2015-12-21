@@ -1,0 +1,25 @@
+.. title: WikiSym 2010
+.. slug: wikisym2010
+.. date: 2010-07-28 01:46:36
+.. tags: Multimedia usability,Wikimedia
+.. description: 
+.. excerpt: Three weeks ago, I attended the WikiSym conference, an academic symposium about wikis & open collaboration. Its collocation with Wikimania, a community event, was a great opportunity for researchers and Wikimedians to meet, build understanding and collaborate.
+.. wp-status: publish
+
+I couldn't attend \ `WikiSym <http://www.wikisym.org/ws2010>`__ the previous years for various reasons, the main one being money: they were too far away and the registration fee was too expensive. This year, WikiSym was collocated with Wikimania in Gdańsk, Poland, so it was a perfect opportunity for researchers & Wikimedians (or "practitioners", as researchers call them) to get together and meet. We have to thank my friend Phoebe Ayers for that, who was this year's Chair/Organizer of WikiSym.
+
+I was pretty excited because WikiSym seemed to be at the crossroads of two of my circles: academia & open collaboration. I was also really looking forward to meeting researchers: the Wikimedia Foundation is currently engaged in an effort to include research into their decision-making process in order to make it more data-driven. Thus, it was the perfect time to try and build awareness, understanding and relationships between the two communities.
+
+Program & Sessions
+==================
+
+The symposium was a mix of regular conference talks and an `unconference <http://en.wikipedia.org/wiki/Unconference>`__-style Open space track. I wasn't necessarily a big fan of the unconference style, but one of the most productive discussions I had (about quality assessment tools) actually happened in a group I walked in a bit randomly. I was a bit disappointed by the quality of some talks, but overall the event was great.
+
+One major issue, though, was the number of conflicting talks: there were up to eight concurrent open space sessions, conflicting with each other, as well as with the main sessions and workshops. It was just impossible to take part in everything one was interested in. While this is a usual problem with large events, I didn't expect to have this issue in a relatively small conference like WikiSym.
+
+I gave a presentation entitled *Understanding the users of Wikimedia Commons*, a summary of the user research I did for the Multimedia usability project, and it was pretty well received. The audience particularly liked `the video I showed <http://guillaumepaumier.com/2010/07/23/wikimedia-multimedia-ux-testing-videos/>`__ from our UX study. The `supporting slides <http://commons.wikimedia.org/wiki/File:Guillaume_Paumier_-_Understanding_the_users_of_Wikimedia_Commons_-_WikiSym_2010.pdf>`__ are available on Commons  (`download the PDF <http://upload.wikimedia.org/wikipedia/commons/7/7b/Guillaume_Paumier_-_Understanding_the_users_of_Wikimedia_Commons_-_WikiSym_2010.pdf>`__ - 504 KB). Unfortunately, the presentation wasn't recorded, but it was similar to the one I gave at Wikimania, whose recording will be available soonish.
+
+, in accord with the philosophy of open collaboration and `free works <http://freedomdefined.org>`__.
+
+Notes
+=====
