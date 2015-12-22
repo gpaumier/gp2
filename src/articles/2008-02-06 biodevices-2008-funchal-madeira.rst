@@ -1,4 +1,5 @@
 .. title: Biodevices 2008, Funchal, Madeira
+.. clean: no
 .. slug: biodevices-2008-funchal-madeira
 .. date: 2008-02-06 22:14:15
 .. tags: poster,Scribus,Scientific communication

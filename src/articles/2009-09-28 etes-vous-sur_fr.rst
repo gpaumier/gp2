@@ -1,4 +1,5 @@
 .. title: Êtes-vous sûr ?
+.. clean: no
 .. slug: etes-vous-sur
 .. date: 2009-09-28 08:59:19
 .. tags: Design

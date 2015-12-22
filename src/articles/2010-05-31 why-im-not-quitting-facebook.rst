@@ -1,4 +1,5 @@
 .. title: Why I'm not quitting Facebook...
+.. clean: no
 .. slug: why-im-not-quitting-facebook
 .. date: 2010-05-31 21:16:38
 .. tags: General

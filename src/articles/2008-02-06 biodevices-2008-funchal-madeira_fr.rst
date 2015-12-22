@@ -1,4 +1,5 @@
 .. title: Biodevices 2008, Funchal, Madère
+.. clean: no
 .. slug: biodevices-2008-funchal-madere
 .. date: 2008-02-06 22:14:15
 .. tags: Scribus,Communication scientifique

@@ -1,4 +1,5 @@
 .. title: Cleanroom guided tour
+.. clean: no
 .. slug: clean-room-guided-tour
 .. date: 2007-12-20 20:42:28
 .. tags: Photo,Scientific communication

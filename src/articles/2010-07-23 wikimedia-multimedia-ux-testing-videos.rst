@@ -1,4 +1,5 @@
 .. title: Wikimedia Multimedia UX testing videos
+.. clean: no
 .. slug: wikimedia-multimedia-ux-testing-videos
 .. date: 2010-07-23 10:29:54
 .. tags: Multimedia usability,UX,video,Engineering,Wikimedia

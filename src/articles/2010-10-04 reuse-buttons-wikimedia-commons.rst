@@ -1,4 +1,5 @@
 .. title: One-click reuse buttons on Wikimedia Commons
+.. clean: no
 .. slug: reuse-buttons-wikimedia-commons
 .. date: 2010-10-04 22:11:42
 .. tags: Multimedia usability,UX,Commons

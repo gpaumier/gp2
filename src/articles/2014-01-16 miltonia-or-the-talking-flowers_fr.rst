@@ -1,4 +1,5 @@
 .. title: Miltonia ou les Fleurs Qui Parlent
+.. clean: no
 .. slug: miltonia-ou-les-fleurs-qui-parlent
 .. date: 2014-01-16 14:24:38
 .. tags: orchidée,Image,San Francisco,Photo

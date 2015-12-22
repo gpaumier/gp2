@@ -1,4 +1,5 @@
 .. title: UX & IxD news - 23 November 2009
+.. clean: no
 .. slug: ux-ixd-news-23-november-2009
 .. date: 2009-11-25 09:26:08
 .. tags: Multimedia usability,UX,Design,Wikimedia

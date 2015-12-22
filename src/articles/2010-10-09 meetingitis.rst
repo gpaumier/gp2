@@ -1,4 +1,5 @@
 .. title: Meetingitis
+.. clean: no
 .. slug: meetingitis
 .. date: 2010-10-09 20:59:44
 .. tags: General

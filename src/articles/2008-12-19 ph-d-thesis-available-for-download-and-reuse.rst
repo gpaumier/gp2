@@ -1,4 +1,5 @@
 .. title: Ph.D thesis available for download and reuse
+.. clean: no
 .. slug: ph-d-thesis-available-for-download-and-reuse
 .. date: 2008-12-19 13:00:31
 .. tags: PNIPAM,thesis,Engineering

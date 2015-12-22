@@ -1,4 +1,5 @@
 .. title: Réutilisation de photos de Nicolas Sarkozy provenant de Wikipedia
+.. clean: no
 .. slug: reutilisation-de-photos-de-nicolas-sarkozy-provenant-de-wikipedia
 .. date: 2009-07-17 16:20:20
 .. tags: Commons,Photo

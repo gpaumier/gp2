@@ -1,4 +1,5 @@
 .. title: Rencontres Wikimedia 2010 : « GLAM-WIKI » à Paris
+.. clean: no
 .. slug: rencontres-wikimedia-glam-wiki-2010-paris
 .. date: 2010-11-30 00:00:00
 .. tags: GLAM,Wikimedia

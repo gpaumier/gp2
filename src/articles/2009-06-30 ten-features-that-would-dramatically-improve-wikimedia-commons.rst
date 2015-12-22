@@ -1,4 +1,5 @@
 .. title: Ten features that would dramatically improve Wikimedia Commons
+.. clean: no
 .. slug: ten-features-that-would-dramatically-improve-wikimedia-commons
 .. date: 2009-06-30 12:22:30
 .. tags: MediaWiki,metadata,UX,Commons,Design

@@ -1,4 +1,5 @@
 .. title: Help us collect good ideas to improve Wikimedia Commons
+.. clean: no
 .. slug: help-us-collect-good-ideas-to-improve-wikimedia-commons
 .. date: 2009-12-01 18:01:33
 .. tags: Multimedia usability,UX,Commons,Wikimedia

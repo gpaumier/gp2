@@ -1,4 +1,5 @@
 .. title: Wikimedia User experience programs: a systematic approach
+.. clean: no
 .. slug: wikimedia-user-experience-programs
 .. date: 2010-03-04 16:06:55
 .. tags: UX,Engineering,Wikimedia

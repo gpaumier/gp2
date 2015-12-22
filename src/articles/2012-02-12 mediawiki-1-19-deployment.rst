@@ -1,4 +1,5 @@
 .. title: MediaWiki 1.19 deployment to Wikimedia sites: Test it before it breaks
+.. clean: no
 .. slug: mediawiki-1-19-deployment
 .. date: 2012-02-12 03:46:59
 .. tags: MediaWiki,Wikimedia blog,Engineering,Wikimedia

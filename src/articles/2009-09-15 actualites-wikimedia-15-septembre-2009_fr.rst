@@ -1,4 +1,5 @@
 .. title: Actualités Wikimedia - 15 septembre 2009
+.. clean: no
 .. slug: actualites-wikimedia-15-septembre-2009
 .. date: 2009-09-15 12:53:11
 .. tags: Actualités Wikimedia,Wikimedia

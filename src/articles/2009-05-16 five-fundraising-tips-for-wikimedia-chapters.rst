@@ -1,4 +1,5 @@
 .. title: Five fundraising tips for Wikimedia chapters
+.. clean: no
 .. slug: five-fundraising-tips-for-wikimedia-chapters
 .. date: 2009-05-16 18:24:20
 .. tags: fundraising,Wikimedia

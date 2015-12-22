@@ -1,4 +1,5 @@
 .. title: Free software community shares lessons learned in “Open Advice” book
+.. clean: no
 .. slug: open-advice-book
 .. date: 2012-02-06 12:24:23
 .. tags: Wikimedia blog,Design,Engineering,Wikimedia

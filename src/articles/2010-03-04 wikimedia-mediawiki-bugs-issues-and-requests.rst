@@ -1,4 +1,5 @@
 .. title: Wikimedia & MediaWiki bugs, issues and requests
+.. clean: no
 .. slug: wikimedia-mediawiki-bugs-issues-and-requests
 .. date: 2010-03-04 02:26:46
 .. tags: MediaWiki,Engineering,Wikimedia

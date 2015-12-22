@@ -1,4 +1,5 @@
 .. title: La relève du maljournalisme est assurée
+.. clean: no
 .. slug: la-releve-du-maljournalisme-est-assuree
 .. date: 2009-09-24 11:54:02
 .. tags: Wikipedia

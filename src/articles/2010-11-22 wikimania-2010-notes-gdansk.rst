@@ -1,4 +1,5 @@
 .. title: Wikimania 2010 notes
+.. clean: no
 .. slug: wikimania-2010-notes-gdansk
 .. date: 2010-11-22 22:16:04
 .. tags: Wikimania,Wikimedia

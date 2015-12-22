@@ -1,4 +1,5 @@
 .. title: Illustrated licensing tutorial for Wikimedia Commons
+.. clean: no
 .. slug: illustrated-licensing-tutorial-for-wikimedia-commons
 .. date: 2010-11-05 15:18:54
 .. tags: Multimedia usability,Commons,Design

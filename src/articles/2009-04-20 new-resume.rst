@@ -1,4 +1,5 @@
 .. title: New resume
+.. clean: no
 .. slug: new-resume
 .. date: 2009-04-20 17:56:05
 .. tags: interdisciplinarity,Scribus,General

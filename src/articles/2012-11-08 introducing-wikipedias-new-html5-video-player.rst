@@ -1,4 +1,5 @@
 .. title: Introducing Wikipedia’s new HTML5 video player
+.. clean: no
 .. slug: introducing-wikipedias-new-html5-video-player
 .. date: 2012-11-08 09:42:40
 .. tags: Wikimedia blog,Engineering,Wikimedia

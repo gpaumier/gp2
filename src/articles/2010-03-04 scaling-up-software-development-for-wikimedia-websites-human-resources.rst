@@ -1,4 +1,5 @@
 .. title: Scaling up Software development for Wikimedia websites (Part I: Human resources)
+.. clean: no
 .. slug: scaling-up-software-development-for-wikimedia-websites-human-resources
 .. date: 2010-03-04 20:57:44
 .. tags: MediaWiki,Engineering,Wikimedia

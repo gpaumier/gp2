@@ -1,4 +1,5 @@
 .. title: digiKam, the perfect tool for Wikimedia Commons photographers?
+.. clean: no
 .. slug: digikam-the-perfect-tool-for-wikimedia-commons-photographers
 .. date: 2009-09-22 16:32:44
 .. tags: digiKam,KIPI,metadata,Commons,KDE,Photo

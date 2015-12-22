@@ -1,4 +1,5 @@
 .. title: MicroTAS 2007, Paris, France
+.. clean: no
 .. slug: microtas-2007-paris-france
 .. date: 2007-10-14 21:15:41
 .. tags: poster,Scribus,Scientific communication

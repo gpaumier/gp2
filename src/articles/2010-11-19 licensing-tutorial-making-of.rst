@@ -1,4 +1,5 @@
 .. title: Wikimedia Commons licensing tutorial: the making-of
+.. clean: no
 .. slug: licensing-tutorial-making-of
 .. date: 2010-11-19 22:17:35
 .. tags: Multimedia usability,Commons,Engineering,Wikimedia

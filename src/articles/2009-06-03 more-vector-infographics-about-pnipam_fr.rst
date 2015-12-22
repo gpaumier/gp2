@@ -1,4 +1,5 @@
 .. title: Infographies vectorielles sur le PNIPAM
+.. clean: no
 .. slug: infographies-vectorielles-sur-le-pnipam
 .. date: 2009-06-03 14:39:46
 .. tags: PNIPAM,SVG,Communication scientifique,Design

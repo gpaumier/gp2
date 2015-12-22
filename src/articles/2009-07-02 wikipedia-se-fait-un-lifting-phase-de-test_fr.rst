@@ -1,4 +1,5 @@
 .. title: Wikipedia se fait un lifting (phase de test)
+.. clean: no
 .. slug: wikipedia-se-fait-un-lifting-phase-de-test
 .. date: 2009-07-02 06:35:39
 .. tags: MediaWiki,Vector,Ingénierie,Wikimedia,Wikipedia

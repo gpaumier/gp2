@@ -1,4 +1,5 @@
 .. title: D.R. ou de l'abus de la mention « Droits réservés »
+.. clean: no
 .. slug: dr-ou-de-labus-de-la-mention-droits-reserves
 .. date: 2009-05-19 13:24:12
 .. tags: Photo

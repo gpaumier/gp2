@@ -1,4 +1,5 @@
 .. title: Résultats du vote sur le changement de licence des projets Wikimedia
+.. clean: no
 .. slug: resultats-du-vote-sur-le-changement-de-licence-des-projets-wikimedia
 .. date: 2009-05-21 10:27:13
 .. tags: Wikimedia

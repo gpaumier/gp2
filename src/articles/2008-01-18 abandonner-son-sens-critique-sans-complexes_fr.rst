@@ -1,4 +1,5 @@
 .. title: Abandonner son sens critique sans complexes
+.. clean: no
 .. slug: abandonner-son-sens-critique-sans-complexes
 .. date: 2008-01-18 16:28:02
 .. tags: Wikipedia

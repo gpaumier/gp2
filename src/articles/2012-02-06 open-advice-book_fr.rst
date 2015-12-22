@@ -1,4 +1,5 @@
 .. title: « Open Advice » : un livre sur l'expérience accumulée par la communauté du libre
+.. clean: no
 .. slug: open-advice-livre
 .. date: 2012-02-06 12:24:23
 .. tags: Open Advice,Design,Écriture,Ingénierie,Wikimedia

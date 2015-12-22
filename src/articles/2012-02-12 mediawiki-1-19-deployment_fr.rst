@@ -1,4 +1,5 @@
 .. title: Déploiement de MediaWiki 1.19 sur les sites Wikimedia : Testez le logiciel à l'avance
+.. clean: no
 .. slug: deploiement-mediawiki-1-19-2
 .. date: 2012-02-12 03:46:59
 .. tags: MediaWiki,Ingénierie,Wikimedia

@@ -1,4 +1,5 @@
 .. title: Keep Calm and Click [edit]
+.. clean: no
 .. slug: keep-calm-and-click-edit
 .. date: 2011-10-21 17:01:18
 .. tags: Meme,Wikipedia
