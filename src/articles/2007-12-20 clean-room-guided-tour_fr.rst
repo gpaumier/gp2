@@ -3,7 +3,6 @@
 .. date: 2007-12-20 20:42:28
 .. tags: Commons,Communication scientifique,Photo
 .. description: 
-.. wp-status: publish
 
 Je travaille actuellement au `LAAS-CNRS <http://www.laas.fr>`__ (Laboratoire d'analyse et d'architectures des systèmes) à Toulouse (France). Le laboratoire a récemment subi de gros travaux d'extension avec la construction de deux nouveaux bâtiments, dont l'un héberge la toute nouvelle centrale de technologie micro-électronique. Il s'agit principalement d'une `salle blanche <http://fr.wikipedia.org/wiki/Salle_blanche>`__ de 1500 m² utilisée pour la réalisation et l'assemblage de micro- et nanosystèmes dans un environnement dénué de poussières.
 

@@ -3,7 +3,6 @@
 .. date: 2007-10-14 21:15:41
 .. tags: poster,Scribus,Scientific communication
 .. description: 
-.. wp-status: publish
 
 "`MicroTAS <https://en.wikipedia.org/wiki/MicroTAS>`__\ " (also written "µTAS") stands for "Micro Total Analysis Systems", a subset of the field of labs-on-chips that specializes in the analysis of total (unprocessed) samples, like a drop of blood. `MicroTAS <http://www.microtas2007.org/>`__ (the conference), as its name does not indicate, is the *International conference on biomedical electronics and devices*. It's one of the major conferences in the field of labs-on-chip, and we were thrilled to have a paper accepted, even if it was "just" for a poster.
 

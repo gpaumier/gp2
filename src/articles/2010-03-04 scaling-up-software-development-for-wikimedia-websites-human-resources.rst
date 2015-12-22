@@ -3,7 +3,6 @@
 .. date: 2010-03-04 20:57:44
 .. tags: MediaWiki,Engineering,Wikimedia
 .. description: 
-.. wp-status: publish
 
 *During the past few weeks, I have been thinking about a more structured way to manage software and product development within the Wikimedia community. The result is a list of ideas and recommendations I have compiled and submitted to the relevant staff members at the Wikimedia Foundation. I am also publishing them here in order to allow for a wider feedback. This article is the third of a `series dedicated to this topic <#series>`__.* ***Disclaimer:** The content of this article reflects only my personal opinion and is not an official plan or communication of the Wikimedia Foundation.* I am not going to give specific advice about how many developers the Wikimedia Foundation should hire: there are other people more knowledgeable about how many we need, and what they should work on. However, there are other key positions that I think are need to scale up.
 

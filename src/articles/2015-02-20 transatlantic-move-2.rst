@@ -3,7 +3,6 @@
 .. date: 2015-02-20 16:25:18
 .. tags: San Francisco,General
 .. description: 
-.. wp-status: publish
 
 
 In previous episodes

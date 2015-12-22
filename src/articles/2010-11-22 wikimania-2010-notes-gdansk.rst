@@ -4,7 +4,6 @@
 .. tags: Wikimania,Wikimedia
 .. description: 
 .. excerpt: My notes from Wikimania 2010 in Gdańsk
-.. wp-status: publish
 
 I went to `Wikimania <http://wikimania2010.wikimedia.org>`__ with my `staff <http://wikimediafoundation.org/wiki/Staff>`__ hat on, mainly to present and discuss the `Multimedia usability project <http://usability.wikimedia.org/wiki/Multimedia:Hub>`__. I briefly presented the `results of our research <http://usability.wikimedia.org/wiki/Multimedia:Preliminary_user_research>`__, then went on to `demo the Upload wizard <http://commons.prototype.wikimedia.org/uwd/>`__ and `play videos from our UX study <http://guillaumepaumier.com/2010/07/23/wikimedia-multimedia-ux-testing-videos/>`__.
 

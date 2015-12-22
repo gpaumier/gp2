@@ -4,7 +4,6 @@
 .. tags: Actualités Wikimedia,Wikimedia
 .. description: 
 .. excerpt: Au programme : les journées du patrimoine sur Wikipedia, des changements dans les bureaux de la Wikimedia Foundation, la presse toujours aussi drôle, l'utilisation de digiKam avec Commons, les références boutées hors du texte des articles de Wikipedia, du SVG animé et d'autres évolutions techniques.
-.. wp-status: publish
 
 
 Au programme : les journées du patrimoine sur Wikipedia, des changements dans les bureaux de la Wikimedia Foundation, la presse toujours aussi drôle, l'utilisation de digiKam avec Commons, les références boutées hors du texte des articles de Wikipedia, du SVG animé et d'autres évolutions techniques.

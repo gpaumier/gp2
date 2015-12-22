@@ -4,7 +4,6 @@
 .. tags: Wikipedia
 .. description: 
 .. excerpt: Le feuilleton Anh Đào Traxel continue avec une dépêche AFP selon laquelle l'auteur possible des propos estimés diffamatoires s'est dénoncé. L'occasion de revenir sur les statistiques de consultation de sa biographie.
-.. wp-status: publish
 
 Le `feuilleton Anh Đào Traxel <http://guillaumepaumier.com/fr/2009/09/15/anh-dao-traxel-et-diffamation-sur-wikipedia/>`__ continue avec une `dépêche AFP <http://www.google.com/hostednews/afp/article/ALeqM5hblitWCSw6tI7P34-i34Erv4aqew>`__ selon laquelle l'auteur possible des propos estimés diffamatoires s'est dénoncé. Vous remarquerez que je ne parle plus de « fille adoptive des Chirac » étant donné que, malgré le matraquage médiatique des dernières semaines, Mme Traxel n'a jamais été adoptée au sens légal du terme par le couple Chirac. La dépêche contient également des propos de son mari rapportés par l'AFP:
 

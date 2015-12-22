@@ -3,7 +3,6 @@
 .. date: 2010-02-10 05:18:31
 .. tags: documents,San Francisco,Wikimedia
 .. description: 
-.. wp-status: publish
 
 
 Last week-end, I attended my first `meet-up of Wikimedians from the San Francisco Bay Area <http://commons.wikimedia.org/wiki/Category:SF_Meetup_11>`__. It happened at the same time as a meeting of the `Board of Trustees <http://wikimediafoundation.org/wiki/Board_of_Trustees>`__ of the Wikimedia Foundation. It also happened at the same place, i.e. the office of the Foundation (where I work).

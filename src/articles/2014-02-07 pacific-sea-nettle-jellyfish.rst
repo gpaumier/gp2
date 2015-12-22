@@ -3,7 +3,6 @@
 .. date: 2014-02-07 15:19:07
 .. tags: Jellyfish,Long Beach,Image,Photo
 .. description: 
-.. wp-status: publish
 
 It's exceedingly difficult to take pictures at an aquarium. It's not just the reflections that you need to elude, but also the deformation caused by the aquarium glass. I hadn't got my `Lenskirt <http://www.lenskirt.com/>`__ yet when I visited the Aquarium of the Pacific in Long Beach, so I avoided reflections by sticking the lens to the glass. It worked pretty well but made it more difficult to focus properly. This series of photos consists of those that were in focus. This series shows the Pacific sea nettle jellyfish *(`Chrysaora fuscescens <https://en.wikipedia.org/wiki/Chrysaora_fuscescens>`__)*. I'm always fascinated by jellyfish and I can watch them sliding elegantly for hours. The golden-brown color of this particular species makes them especially attractive, because of the complementarity with the water's blue background.
 

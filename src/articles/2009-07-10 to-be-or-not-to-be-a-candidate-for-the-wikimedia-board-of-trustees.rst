@@ -4,7 +4,6 @@
 .. tags: Wikimedia
 .. description: 
 .. excerpt: Candidacies are now open for the election to the Board of Trustees of the Wikimedia Foundation. A fair amount of people have been asking me if I would be a candidate; the answer is "not likely", and this is why.
-.. wp-status: publish
 
 I have an intimate knowledge of the Wikimedia movement & entities ; I have been a volunteer for the foundation for years, mainly in the field of communications. I know most of the staff already and as a former board member of Wikimedia France, I have a valuable chapter background. Since the foundation doesn't seem to plan to hire me anytime soon, I guess I could offer the Foundation the benefit of my experience.
 

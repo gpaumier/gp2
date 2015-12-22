@@ -4,7 +4,6 @@
 .. tags: Multimedia usability,UX,video,Engineering,Wikimedia
 .. description: 
 .. excerpt: Over the past few months, I've been coordinating the preparation of a formal User experience (UX) study for the Multimedia usability project. Basically, it means observing how "real" users interact with the Wikimedia Commons in order to improve it. Videos of the testing have now been published in order to share them with the community.
-.. wp-status: publish
 
 We reached out to some UX firms and published a `Call for proposals <http://usability.wikimedia.org/wiki/Multimedia:UX_study,_March_2010/CfP>`__ in February. Several firms submitted proposals; after serious consideration, we chose to work with `gotomedia <http://www.gotomedia.com/>`__, a San Francisco-based firm that seemed to align best with our goals & values. The study was planned to take place in March, but was postponed because the prototype was not ready. In the meantime, we asked some of our co-workers to test it in order to uncover the most obvious flaws & bugs.
 

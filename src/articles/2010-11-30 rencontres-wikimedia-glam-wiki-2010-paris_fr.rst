@@ -4,7 +4,6 @@
 .. tags: GLAM,Wikimedia
 .. description: 
 .. excerpt: Notes des rencontres entre institutions culturelles et Wikimedia
-.. wp-status: publish
 
 
 Cette conférence, appelée « \ `Rencontres Wikimedia 2010 <http://rencontres.wikimedia.fr>`__ » en français, était la deuxième édition d'un colloque Wikimedia annuel qui se cherche encore (ce qui est naturel pour un évènement si jeune) ; le `colloque précédent de 2007 <http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Premier_colloque_francophone_sur_Wikip%C3%A9dia>`__ visait davantage le monde universitaire et les « experts ». « GLAM-WIKI » est le nom d'une séries de conférences, débutées `en 2009 à Canberra <http://www.wikimedia.org.au/wiki/GLAM-WIKI>`__ (Australie), et suivie de `celle de Londres <http://uk.wikimedia.org/wiki/GLAM-WIKI>`__ il y a quelques semaines. Les institutions culturelles sont appelées « GLAM » dans le milieu, un acronyme pour *galleries, libraries, archives and museums* : galeries, bibliothèques, archives et musées. Je leur préfère le nom de « \ *memory institutions* », également utilisé en anglais.

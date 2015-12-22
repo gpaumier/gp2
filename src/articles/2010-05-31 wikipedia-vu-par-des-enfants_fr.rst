@@ -4,7 +4,6 @@
 .. tags: Wikipedia
 .. description: 
 .. excerpt: Je viens de découvrir (via twitter) une vidéo intitulée « Entretiens avec des internautes de 8 à 11 ans sur leurs usages d'internet ». Ces entretiens ont apparamment été réalisés par Sophie Mateo pour un travail de MBA. Le rapport complet est également disponible au format PDF sur Slideshare: La génération numérique en France. Usages d'internet et comportements face aux moteurs de recherche.
-.. wp-status: publish
 
 Je viens de découvrir (via `twitter <http://twitter.com/lcharpen/status/15117551447>`__) une vidéo intitulée « ***`Entretiens avec des internautes de 8 à 11 ans sur leurs usages d'internet <http://www.youtube.com/watch?v=V7hD9kVMEs4>`__*** ». Ces entretiens ont apparamment été réalisés par Sophie Mateo pour un travail de MBA. Le rapport complet est également disponible au format PDF sur Slideshare: *`La génération numérique en France. Usages d'internet et comportements face aux moteurs de recherche <http://www.slideshare.net/sophiemateo/la-gnration-numrique-en-france-usages-dinternet-et-comportements-face-aux-moteurs-de-recherche-sophie-mateo>`__*.
 

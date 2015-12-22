@@ -4,7 +4,6 @@
 .. tags: Multimedia usability,Commons,Engineering,Wikimedia
 .. description: 
 .. excerpt: A behind-the-scenes tour of the project.
-.. wp-status: publish
 
 
 A few days ago, I announced the publication of the English version of an `illustrated licensing tutorial for Wikimedia Commons <http://guillaumepaumier.com/2010/11/05/illustrated-licensing-tutorial-for-wikimedia-commons/>`__. The tutorial was developed as part of the Multimedia usability project I've been working on for the past year. This article invites you on a behind-the-scenes tour of the licensing tutorial project.

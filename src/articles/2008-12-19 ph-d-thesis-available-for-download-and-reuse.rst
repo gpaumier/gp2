@@ -4,7 +4,6 @@
 .. tags: PNIPAM,thesis,Engineering
 .. description: 
 .. excerpt: I am glad to announce that my Ph.D thesis on "PNIPAM technologies for lab on chips" is now available for download.
-.. wp-status: publish
 
 |Preview of the thesis| Click to download the high-quality PDF thesis (PDF, 130 p., 6.45 MB) The document is only available in French (per University policy), but there are some pretty pictures and infographics in there too for people who don't speak French; one of them is the `"Interdisciplinarity, biology and micro-nanotechnologies" <http://guillaumepaumier.com/2008/07/07/interdisciplinarity-biology-micro-nanotechnologies/>`__ information graphics I published earlier.
 

@@ -4,7 +4,6 @@
 .. tags: Berlin,Wikimedia conference 2009,Wikimedia
 .. description: 
 .. excerpt: After much thought about various feedback from many people, I am happy to propose a revised version of the schedule for the chapters track of the April 2009 Wikimedia Conference in Berlin. I hope it addresses most of the concerns raised, while keeping the advantages. A detailed rationale / FAQ follows.
-.. wp-status: publish
 
 
 The `revised version <http://meta.wikimedia.org/w/index.php?title=Chapters_meeting_2009/Schedule&oldid=1422926>`__ of the schedule is available on Meta-Wiki. A detailed rationale / FAQ follows.

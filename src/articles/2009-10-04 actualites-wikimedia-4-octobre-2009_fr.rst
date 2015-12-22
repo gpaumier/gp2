@@ -4,7 +4,6 @@
 .. tags: Actualités Wikimedia,Wikimedia
 .. description: 
 .. excerpt: Actualité chargée cette semaine. Au programme : Anh Đào Traxel (le retour), flashback, Internet à l'école, Internet et les réacs, Roman Polanski sur Wikipedia, Brion Vibber démissionne, et des infos techniques en vrac.
-.. wp-status: publish
 
 Actualité chargée cette semaine. Au programme : Anh Đào Traxel (le retour), flashback, Internet à l'école, Internet et les réacs, Roman Polanski sur Wikipedia, Brion Vibber démissionne, et des infos techniques en vrac.
 

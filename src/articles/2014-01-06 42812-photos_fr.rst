@@ -3,7 +3,6 @@
 .. date: 2014-01-06 07:58:00
 .. tags: mosaïque,Image,San Francisco,Photo
 .. description: 
-.. wp-status: publish
 
 Pour être honnête, un grand nombre de photos qui occupent mon disque dur sont similaires. Je prends souvent des séries de photos quasi identiques afin d'augmenter la probabilité qu'il y en aura au moins une d'acceptable dans le lot. C'est notamment le cas, par exemple, lorsque je prends des photos dans un endroit peu éclairé, ou lorsque je photographie un sujet en mouvement, que ce soit un avion qui voltige, un écureuil qui court ou un politicien qui discourt. Il y a aussi de réels doublons dus à des conversions de format.
 

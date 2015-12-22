@@ -4,7 +4,6 @@
 .. tags: PNIPAM,Ingénierie
 .. description: 
 .. excerpt: Je suis heureux d'annoncer que ma thèse de doctorat est maintenant disponible en ligne. Ce document, fruit de trois ans de travail de recherche, est intitulé Technologies PNIPAM pour les laboratoires sur puce. 
-.. wp-status: publish
 
 
 |Aperçu de la thèse| Aperçu de la thèse Je suis heureux d'annoncer que ma thèse de doctorat est maintenant disponible en ligne. Ce document, fruit de trois ans de travail de recherche, est intitulé ***Technologies PNIPAM pour les laboratoires sur puce***. Il contient notamment de jolies images dont j'ai donné un aperçu précédemment avec l'\ `infographie « Interdisciplinarité, biologie et micro-nanotechnologies » <http://guillaumepaumier.com/fr/2008/07/08/interdisciplinarite-biologie-et-micro-nanotechnologies/>`__.

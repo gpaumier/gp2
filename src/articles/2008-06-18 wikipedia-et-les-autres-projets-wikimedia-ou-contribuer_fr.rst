@@ -4,7 +4,6 @@
 .. tags: Wikimedia
 .. description: 
 .. excerpt: Ou comment tenter d'en finir, petit à petit, avec le monopole de Wikipedia sur la connaissance libre, en aidant tous les projets Wikimedia à dépasser la masse critique et en leur accordant une meilleure visibilité
-.. wp-status: publish
 
 Ou comment tenter d'en finir, petit à petit, avec le monopole de Wikipedia sur la connaissance libre, en aidant *tous* les projets Wikimedia à dépasser la masse critique et en leur accordant une meilleure visibilité.
 

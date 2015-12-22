@@ -3,7 +3,6 @@
 .. date: 2010-03-05 18:05:50
 .. tags: MediaWiki,Engineering,Wikimedia
 .. description: 
-.. wp-status: publish
 
 *During the past few weeks, I have been thinking about a more structured way to manage software and product development within the Wikimedia community. The result is a list of ideas and recommendations I have compiled and submitted to the relevant staff members at the Wikimedia Foundation. I am also publishing them here in order to allow for a wider feedback. This article is the fourth and last of a `series dedicated to this topic <#series>`__.* ***Disclaimer:** The content of this article reflects only my personal opinion and is not an official plan or communication of the Wikimedia Foundation.*
 

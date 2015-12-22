@@ -4,7 +4,6 @@
 .. tags: fundraising,Wikimedia
 .. description: 
 .. excerpt: Last year, I started to document myself about fundraising. Originally, I did it because 1. I found the topic very interesting and 2. I intended to use what I would learn to improve Wikimedia France's management of fundraising (which has been very poor in my opinion, partly because of issues I describe below). Turned out, I eventually left Wikimedia France in January for various reasons, but I figured I'd still share a few thoughts that may prove useful to all chapters. Although this page is mainly Wikimedia-focused, the general principles are universal.
-.. wp-status: publish
 
 
 1. Document yourselves

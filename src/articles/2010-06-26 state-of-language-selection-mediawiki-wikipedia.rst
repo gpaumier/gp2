@@ -4,7 +4,6 @@
 .. tags: language,MediaWiki,Engineering,Wikimedia
 .. description: 
 .. excerpt: This article is meant as an introduction to my next article, about language selectors, which is the one I originally intended to write. As it was growing longer and longer, I decided to split this review into a dedicated post. There are two main use cases for language selection across Wikimedia projects: the language of the content, and the language of the interface. In this article, I am reviewing a few examples of tools related to language selection on MediaWiki websites, and particularly on Wikimedia wikis.
-.. wp-status: publish
 
 *This article is meant as an introduction to `my next article, about language selectors <http://guillaumepaumier.com/2010/09/29/universal-language-picker/>`__, which is the one I originally intended to write. As it was growing longer and longer, I decided to split this review into a dedicated post.*
 

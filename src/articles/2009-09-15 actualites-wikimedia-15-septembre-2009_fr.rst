@@ -4,7 +4,6 @@
 .. tags: Actualités Wikimedia,Wikimedia
 .. description: 
 .. excerpt: Au programme : Partenariat entre la Wikimedia Foundation et Orange, support du format TIFF par MediaWiki, Xilopix et les médiathèques encyclopédiques, une biographie peu flatteuse de Anh Đào Traxel dans Wikipedia, et une revue scientifique à la Wikipedia.
-.. wp-status: publish
 
 Au programme : Partenariat entre la Wikimedia Foundation et Orange, support du format TIFF par MediaWiki, Xilopix et les médiathèques encyclopédiques, une biographie peu flatteuse de Anh Đào Traxel dans Wikipedia, et une revue scientifique à la Wikipedia.
 

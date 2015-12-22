@@ -4,7 +4,6 @@
 .. tags: Ergonomie multimédia,Ingénierie,Wikimedia
 .. description: 
 .. excerpt: Dans le cadre du projet Multimedia Usability, qui vise à rendre plus facile l'utilisation de Wikimedia Commons et le processus d'import de fichiers multimedia dans Wikipedia, je cherche des personnes habitant sur Paris ou Toulouse, disponibles cette semaine ou la semaine prochaine, qui accepteraient de me recevoir pour une courte discussion d'une heure maximum. L'objectif est que vous me montriez comment vous utilisez Commons ou quels sont les problèmes que vous rencontrez pendant son utilisation.
-.. wp-status: publish
 
 Dans le cadre du projet `*Multimedia Usability* <http://guillaumepaumier.com/fr/2009/11/07/nouveau-job-multimedia-usability-product-manager/>`__, qui vise à rendre plus facile l'utilisation de `Wikimedia Commons <http://commons.wikimedia.org>`__ et le processus d'import de fichiers multimedia dans `Wikipedia <http://fr.wikipedia.org>`__, je cherche des personnes habitant sur Paris ou Toulouse, disponibles cette semaine ou la semaine prochaine, qui accepteraient de me recevoir pour une courte discussion d'une heure maximum. L'objectif est que vous me montriez comment vous utilisez Commons ou quels sont les problèmes que vous rencontrez pendant son utilisation. Je recherche en particulier des utilisateurs avec les profils suivants :
 

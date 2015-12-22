@@ -3,7 +3,6 @@
 .. date: 2007-09-10 13:53:35
 .. tags: Wikipedia
 .. description: 
-.. wp-status: publish
 
 En ce moment à la radio est diffusée une campagne de publicité pour la nouvelle encyclopédie en ligne de Larousse. Je suis allé faire un tour, pour le moment ce n'est qu'une façade qui nous dit que ce n'est pas encore ouvert. La publicité radiodiffusée fait intervenir deux mamans dont l'une se plaint d'avoir passé le week-end à faire des recherches pour un exposé. L'autre déclare que pour tout achat d'un petit Larousse 2008, un an d'accès à l'encyclopédie est offert. Et la publicité de se terminer par :
 

@@ -4,7 +4,6 @@
 .. tags: SVG,Ingénierie,Wikimedia,Wikipedia
 .. description: 
 .. excerpt: Dans la rubrique « les astuces techniques dont vous vous demandez comment vous avez fait pour vous en passer », je vous présente : la création de frises chronologiques dans Wikipedia qui génère automatiquement une image vectorielle (donc redimensionnable et modifiable à volonté sans perte de qualité).
-.. wp-status: publish
 
 
 Dans la rubrique « les astuces techniques dont vous vous demandez comment vous avez fait pour vous en passer[1. « Trop mega super cool », comme dirait `Thomas <http://thomas.holba.ch>`__.] » voici la création de frises chronologiques dans Wikipedia qui génère automatiquement une image vectorielle (donc redimensionnable et modifiable à volonté sans perte de qualité).

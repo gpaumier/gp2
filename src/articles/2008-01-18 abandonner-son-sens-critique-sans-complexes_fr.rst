@@ -4,7 +4,6 @@
 .. tags: Wikipedia
 .. description: 
 .. excerpt: La dernière perle en date nous est offerte par Mlle Anne, surnommée « lhumeurbleue » sur le forum de ecrans.fr, pour un magnifique aveu d'abandon de son sens critique ; et sans complexes, s'il vous plaît, m'sieurs dames : « Je préfère prendre du temps à explorer une ou des encyclopédie(s) écrite(s) par des professionnels. Au moins je n'ai pas à me demander si ce que je viens de lire est juste ou non. »
-.. wp-status: publish
 
 La dernière perle en date nous est offerte par Mlle Anne, surnommée « lhumeurbleue » sur le forum de ecrans.fr, pour un magnifique aveu d'abandon de son sens critique ; et sans complexes, s'il vous plaît, m'sieurs dames.
 

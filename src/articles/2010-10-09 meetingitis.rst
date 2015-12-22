@@ -4,7 +4,6 @@
 .. tags: General
 .. description: 
 .. excerpt: Why you should prepare your next meeting if you expect me to attend.
-.. wp-status: publish
 
 
 The story
