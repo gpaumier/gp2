@@ -3,7 +3,6 @@
 .. date: 2014-02-02 14:32:44
 .. tags: crépuscule,National Mall,Image,reflexion,twilight,Washington, D.C.,Photo
 .. description: 
-.. wp-status: publish
 
 Mon travail me donne parfois l'occasion de voyager. En 2012, j'ai passé quelques jours à Washington, D.C. à l'occasion de la conférence annuelle Wikimania et j'ai notamment pris cette photo.
 

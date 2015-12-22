@@ -4,7 +4,6 @@
 .. tags: Wikimania,Wikimedia
 .. description: 
 .. excerpt: L'annonce a eu lieu jeudi  : en 2010, Wikimania, la conférence internationale du mouvement Wikimedia, aura lieu à Dantzig, en Pologne. C'est Phoebe Ayers, la modératrice du jury, qui a annoncé la ville choisie.
-.. wp-status: publish
 
 
 L'annonce a eu lieu jeudi  : en 2010, Wikimania, la conférence internationale du mouvement Wikimedia, aura lieu à Dantzig, en Pologne. C'est Phoebe Ayers, la modératrice du jury, qui a `annoncé la ville choisie <http://lists.wikimedia.org/pipermail/foundation-l/2009-May/051753.html>`__.

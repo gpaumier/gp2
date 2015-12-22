@@ -4,7 +4,6 @@
 .. tags: PNIPAM,SVG,Design,Scientific communication
 .. description: 
 .. excerpt: I published earlier some infographics I created for my Ph.D thesis, for example the comparison between biological and technological objects at the micro and nano scale. Below are a few other information graphics used to explain the various uses of poly(N-isopropylacrylamide) (PNIPAM) for biology and health.
-.. wp-status: publish
 
 I published earlier some infographics I created for `my Ph.D thesis <http://guillaumepaumier.com/2008/12/19/ph-d-thesis-available-for-download-and-reuse/>`__, for example the `comparison between biological and technological objects <http://guillaumepaumier.com/2008/07/07/interdisciplinarity-biology-micro-nanotechnologies/>`__ at the micro and nano scale. Below are a few more specific to PNIPAM; they're now also available to illustrate Wikipedia articles about PNIPAM.
 

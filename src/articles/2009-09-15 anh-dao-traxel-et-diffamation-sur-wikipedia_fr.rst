@@ -4,7 +4,6 @@
 .. tags: Wikipedia
 .. description: 
 .. excerpt: Où l'on explique que, malgré le martèlement médiatique et politique qui affirme le contraire, Internet n'est pas une zone de non-droit. 
-.. wp-status: publish
 
 Le Parisien a publié un `article sur le lancement d'une enquête pour diffamation <http://www.leparisien.fr/essonne-91/la-fille-adoptive-de-chirac-calomniee-12-09-2009-635683.php>`__ dont la victime est Anh Đào Traxel, la fille adoptive de Jacques Chirac, et dont le médium est la biographie qui lui est consacrée sur Wikipedia. Je vais m'abstenir de conjecturer sur les faits, l'enquête est là pour ça. Je passe également sur les erreurs habituelles des journalistes, comme la propulsion de Julien Fayolle en « responsable de la Wikimedia Foundation », alors qu'il n'est que vice-président de l'association française des utilisateurs de Wikipedia. Ce qui m'intéresse est la réaction de l'intéressée :
 

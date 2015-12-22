@@ -3,7 +3,6 @@
 .. date: 2008-07-07 10:45:45
 .. tags: interdisciplinarity,SVG,Design,Scientific communication
 .. description: 
-.. wp-status: publish
 
 The convergence between technological and natural objects at the micro- and nanoscale has been long emphasized, and is usually summarized with this famous quote:
 

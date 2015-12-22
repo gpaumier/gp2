@@ -3,7 +3,6 @@
 .. date: 2010-03-04 02:26:46
 .. tags: MediaWiki,Engineering,Wikimedia
 .. description: 
-.. wp-status: publish
 
 ***Disclaimer:** The content of this article reflects only my personal opinion and is not an official plan or communication of the Wikimedia Foundation.* Right now, the bug tracker we use is based on Bugzilla and located at `bugzilla.wikimedia.org <http://bugzilla.wikimedia.org>`__. Many major free projects use a generic "bugs" or "issues" prefix or suffix in their URL: `bugs.kde.org <http://bugs.kde.org>`__, `bugs.gentoo.org <http://bugs.gentoo.org>`__, `issues.apache.org <http://issues.apache.org>`__, `www.debian.org/Bugs <http://www.debian.org/Bugs>`__. Some projects use the "bugzilla" prefix like we currently do, like `bugzilla.gnome.org <http://bugzilla.gnome.org>`__. The latter is an example of a choice based on the implementation model: the name reflects the technical implementation of the bug tracker, not its actual purpose. A better name would be closer to the user model and describe the actual goal of the platform: to report and manage bugs and issues related to a specific project. If we do change our tracker, the current name will have to change too, because it is specific to a given tool. **Recommendation: Use a generic descriptive prefix rather than one based on the tool we use.**
 

@@ -4,7 +4,6 @@
 .. tags: Wikipedia
 .. description: 
 .. excerpt: Le buzz d'aujourd'hui sur Internet concerne une plainte apparemment portée par Anh Đào Traxel, la fille adoptive de Jacques Chirac, contre « Wikipedia ». J'avais abordé ce dossier il y a une dizaine de jours, suite à la publication de l'article du Parisien. Le buzz d'aujourd'hui a consisté à reprendre l'information (Anh Đào Traxel porte plainte pour diffamation contre un internaute) et à l'arranger histoire qu'elle fasse plus de bruit (elle porte aussi plainte contre Wikipedia). Retour sur l'origine du buzz et sur sa propagation.
-.. wp-status: publish
 
 Le buzz d'aujourd'hui sur Internet concerne une plainte apparemment portée par Anh Đào Traxel, la fille adoptive de Jacques Chirac, contre « Wikipedia ». J'ai `abordé ce dossier il y a une dizaine de jours <http://guillaumepaumier.com/fr/2009/09/15/anh-dao-traxel-et-diffamation-sur-wikipedia/>`__, suite à la publication de l'article du Parisien. Le buzz d'aujourd'hui a consisté à reprendre l'information (Anh Đào Traxel porte plainte pour diffamation contre un internaute) et à l'arranger histoire qu'elle fasse plus de bruit (elle porte aussi plainte contre Wikipedia). Retour sur l'origine du buzz et sur sa propagation.
 

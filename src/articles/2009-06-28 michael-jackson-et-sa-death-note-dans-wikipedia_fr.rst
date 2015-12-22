@@ -4,7 +4,6 @@
 .. tags: Wikipedia
 .. description: 
 .. excerpt: Cet article est à mi-chemin entre mon précédent billet, dans lequel j'évoquais le phénomène de reblogging, et mes ronchonnements habituels sur les gens (journalistes, blogueurs et « intellectuels » autoproclamés) qui publient des âneries sans vérifier leurs faits. Le ronchonnement du jour concerne le vandalisme de la « Death Note », publié sur la biographie de Michael Jackson sur Wikipedia.
-.. wp-status: publish
 
 
 Cet article est à mi-chemin entre mon précédent billet, dans lequel j'évoquais le `phénomène de reblogging <http://guillaumepaumier.com/fr/2009/06/28/consanguinite-bloguesque-ou-le-phenomene-de-reblogging/>`__, et mes ronchonnements habituels sur les gens (journalistes, blogueurs et « intellectuels » autoproclamés) qui publient des âneries sans vérifier leurs faits. Le ronchonnement du jour concerne le vandalisme de la « Death Note », publié sur la biographie de Michael Jackson sur Wikipedia.

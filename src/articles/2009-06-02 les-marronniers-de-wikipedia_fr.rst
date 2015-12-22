@@ -4,7 +4,6 @@
 .. tags: Wikipedia
 .. description: 
 .. excerpt: Le Bistro de Wikipedia est l'espace de discussion central des participants du projet. Certains sujets y reviennent périodiquement et sont débattus sans fin par les participants. Cet article tente de recenser les plus courants.
-.. wp-status: publish
 
 |Un marronnier (Lisa Carter, GFDL)| Un marronnier (`"Horse-chestnut 800" <https://commons.wikimedia.org/wiki/File:Horse-chestnut_800.jpg>`__ by `Sannse at the English language Wikipedia <https://en.wikipedia.org/wiki/User:Sannse>`__, under `CC-by-sa <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__, from Wikimedia Commons.) Une `ènième discussion <http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Le_Bistro/2_juin_2009#Orthographe_sur_WP>`__ a resurgi, sur le bistro de Wikipedia, concernant l'application des recommandations du rapport de 1990 sur les rectifications orthographiques. Le Bistro de Wikipedia est l'espace de discussion central des participants du projet. Certains sujets y reviennent périodiquement et sont débattus sans fin par les participants. Cet article tente de recenser les plus courants.
 

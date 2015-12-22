@@ -4,7 +4,6 @@
 .. tags: publication,Wikipedia
 .. description: 
 .. excerpt: Ça y est, il est sorti ! Depuis aujourd'hui, le livre Wikipedia : Découvrir, utiliser, contribuer, dont je suis le principal auteur, est disponible en librairie. 
-.. wp-status: publish
 
 Ça y est, il est sorti ! Depuis aujourd'hui, le livre ***`Wikipedia : Découvrir, utiliser, contribuer <http://www.amazon.fr/gp/product/2706114959?ie=UTF8&tag=unfoldscience-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2706114959>`__***\ |image0|, que j'ai `co-écrit <http://www.devouard.com/spip.php?article40>`__ avec `Florence Devouard <http://www.devouard.com/spip.php?article10>`__, est disponible en librairie.
 

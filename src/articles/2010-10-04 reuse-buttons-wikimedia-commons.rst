@@ -4,7 +4,6 @@
 .. tags: Multimedia usability,UX,Commons
 .. description: 
 .. excerpt: Reusing media files from Wikimedia Commons just got a lot easier, thanks to volunteer Magnus Manske.
-.. wp-status: publish
 
 About a year ago, I created some mock-ups of what the `ideal file description page <http://usability.wikimedia.org/w/index.php?title=File:GPaumier_multimedia_usability_draft_mock-ups_Oct09.pdf&page=6>`__ should look like on Commons. One of my suggestions was to add a series of buttons for `one-click reuse cases <http://usability.wikimedia.org/w/index.php?title=File:GPaumier_multimedia_usability_draft_mock-ups_Oct09.pdf&page=8>`__, to make it easier for people to reuse the more than 7 million files available on Wikimedia Commons. |Mock-ups of one-click reuse buttons next to the example image| One-click reuse cases from the October 2009 draft mock-ups These prominent buttons would help users embed the media files in wiki pages, HTML code or simply download the file. If you wanted to include the file in a Wikipedia article, it would provide you with the wikicode for it, so you would only have to copy/paste the code snippet, without having to be a wiki expert. Same thing if you wanted to include the file in an external web page. The "Download" button was an attempt to make the current (and quite frankly, hidden) download link more obvious. |Mock-ups of file description pages on Commons with code snippets in the foreground| Code snippets from the October 2009 mock-ups
 

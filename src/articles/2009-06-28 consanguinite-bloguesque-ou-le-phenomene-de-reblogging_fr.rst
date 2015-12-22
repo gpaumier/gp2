@@ -4,7 +4,6 @@
 .. tags: Général-fr
 .. description: 
 .. excerpt: Où l'on s'interroge sur les causes poussant un certain nombre de blogueurs à reprendre, sans même la commenter, une information déjà publiée ailleurs par quelqu'un d'autre.
-.. wp-status: publish
 
 Où l'on s'interroge sur les causes poussant un certain nombre de blogueurs à reprendre, sans même la commenter, une information déjà publiée ailleurs par quelqu'un d'autre.
 

@@ -3,7 +3,6 @@
 .. date: 2009-03-20 20:34:32
 .. tags: documents,Wikimedia
 .. description: 
-.. wp-status: publish
 
 
 `Casey Brown <http://meta.wikimedia.org/wiki/User:Cbrown1023>`__ and I have decided to revive the `PR material cleanup project <http://meta.wikimedia.org/wiki/PR_material_cleanup>`__. This project was started by `Sean Whitton <http://meta.wikimedia.org/wiki/User:Sean_Whitton>`__ as a `ComProj <http://meta.wikimedia.org/wiki/ComProj>`__ initiative in August 2008, but it slowly died of inactivity. This time, fewer people are involved, but hopefully they'll commit more time to this much needed project. This project is the first step of a major revamp of PR materials related to Wikimedia projects. We're currently in the middle of the `inventory <http://meta.wikimedia.org/wiki/PR_material_cleanup/Inventory>`__, which includes a very needed assessment of out-of-dateness of all documents. The main goals are to:

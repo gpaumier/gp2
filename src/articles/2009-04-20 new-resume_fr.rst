@@ -3,7 +3,6 @@
 .. date: 2009-04-21 08:49:40
 .. tags: interdisciplinarité,Scribus,Général-fr
 .. description: 
-.. wp-status: publish
 
 |Aperçu du CV| Aperçu du CV Je suis toujours à la recherche de nouvelles collaborations professionnelles. Mon CV précédent était un CV scientifique, propre dans sa forme et sa mise en page. Je l'avais réalisé avec LaTeX et il m'a permis de décrocher mes deux derniers emplois en tant que chercheur. Cependant, en prenant un peu de recul, ce CV *classique* était aussi ennuyeux que les documents que je critique habituellement. J'ai donc décidé d'appliquer mes propres conseils et de faire en sorte que l'apparence soit au niveau du contenu. Le contenu était assez stable et à jour; je savais qu'il n'allait pas changer radicalement. Je me suis donc concentré sur l'apparence, raison pour laquelle j'ai choisi de créer ce nouveau CV avec Scribus, mon logiciel de PAO favori.
 

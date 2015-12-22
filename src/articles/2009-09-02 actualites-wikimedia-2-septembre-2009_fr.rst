@@ -4,7 +4,6 @@
 .. tags: Actualités Wikimedia,Wikimedia
 .. description: 
 .. excerpt: Je me suis récemment rendu compte qu'une large part de la communauté wikimédienne francophone n'était pas réellement au courant des derniers développements plus « internationaux » du mouvement wikimedia. J'ai donc décidé de lancer une nouvelle rubrique « Actualités Wikimedia » pour combler cette lacune, un peu à la manière des articles « En vrac » du standblog.
-.. wp-status: publish
 
 Je me suis récemment rendu compte qu'une large part de la communauté wikimédienne francophone n'était pas réellement au courant des derniers développements plus « internationaux » du mouvement Wikimedia. J'ai donc décidé de lancer une nouvelle rubrique « Actualités Wikimedia » pour combler cette lacune, un peu à la manière des articles « En vrac » du `standblog <http://standblog.org/blog/>`__.
 

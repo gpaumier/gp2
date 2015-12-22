@@ -3,7 +3,6 @@
 .. date: 2014-02-14 11:26:03
 .. tags: LGBT,Image,Photo
 .. description: 
-.. wp-status: publish
 
 Ces photos apparaissent régulièrement dans de nombreuses publications papier et sur internet. On dit qu'une image vaut mille mots, mais quand je vois ces images, j'imagine qu'elles racontent des histoires bien plus longues. Joyeuse Saint-Valentin. |Gay pride 2011 à Toulouse| |Gay pride 2011 à Toulouse|
 

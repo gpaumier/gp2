@@ -4,7 +4,6 @@
 .. tags: language,Multimedia usability,Engineering,Wikimedia
 .. description: 
 .. excerpt: Have you ever had a hard time finding your language in a web interface? The Universal language picker aims to solve this problem by accepting any valid input from the user and associating it with the language value stored in the software.
-.. wp-status: publish
 
 *This article is a follow-up to my previous article about the `state of the language selection in MediaWiki and Wikipedia <http://guillaumepaumier.com/2010/06/26/state-of-language-selection-mediawiki-wikipedia/>`__.*
 

@@ -3,7 +3,6 @@
 .. date: 2014-02-07 15:19:26
 .. tags: Long Beach,Méduse,Image,Photo
 .. description: 
-.. wp-status: publish
 
 Il est très difficile de prendre des photos dans un aquarium. Il faut éviter non seulement les réflexions sur la vitre, mais aussi les déformations dues au verre spécial qui y est utilisé. Je n'avais pas encore acheté ma `Lenskirt <http://www.lenskirt.com/>`__ quand j'ai visité l'Aquarium du Pacifique à Long Beach, près de Los Angeles. Pour éviter les réflexions, j'ai collé l'objectif à la vitre, ce qui a plutôt bien fonctionné dans l'ensemble, mais a rendu la mise au point plus difficile. Cette série de photos montre la méduse dorée du Pacifique *(`Chrysaora fuscescens <https://fr.wikipedia.org/wiki/Chrysaora_fuscescens>`__)*. Quand je suis devant des méduses, je peux rester à les regarder glisser élégamment pendant des heures. La couleur dorée de cette espèce s'accorde par ailleurs particulièrement bien avec le fond bleu qui lui est complémentaire.
 

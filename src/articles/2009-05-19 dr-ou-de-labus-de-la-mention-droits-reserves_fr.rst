@@ -4,7 +4,6 @@
 .. tags: Photo
 .. description: 
 .. excerpt: Mon amie Adrienne racontait, il y a quelques semaines, que les bibliothèques de Toulouse n'avaient apparemment pas le droit d'inscrire dans leur programme papier la liste des films projetés dans le cadre d'une rétrospective thématique. Un peu dans le même genre, mais pas tout à fait, j'ai remarqué hier que la fnac Toulouse était « peu soigneuse » dans sa gestion du droit d'auteur sur ses prospectus, abusant allègrement de la mention « droits réservés ».
-.. wp-status: publish
 
 
 Mon amie Adrienne racontait, il y a quelques semaines, que les bibliothèques de Toulouse n'avaient apparemment pas le droit d'inscrire dans leur programme papier la liste des films projetés dans le cadre d'une rétrospective thématique[1. *`Quand le droit d'auteur mène à des situations hallucinantes... <http://compteurdedit.over-blog.com/article-29352955.html>`__*, Adrienne Alix, compteurdedit, 23 mars 2009.]. Un peu dans le même genre, mais pas tout à fait, j'ai remarqué hier que la fnac Toulouse était « peu soigneuse » dans sa gestion du droit d'auteur sur ses prospectus, abusant allègrement de la mention « droits réservés ».

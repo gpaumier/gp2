@@ -4,7 +4,6 @@
 .. tags: Multimedia usability,Research,Commons
 .. description: 
 .. excerpt: As part of the Multimedia Usability project, I am doing a lot of research to better understand how Wikimedia Commons is functioning, and particularly to understand the users & participants of Wikimedia Commons. One side that is of particular interest in my opinion is the demographics and the content dynamics of Commons.
-.. wp-status: publish
 
 
 In June last year, I summarized my view with the following comment:

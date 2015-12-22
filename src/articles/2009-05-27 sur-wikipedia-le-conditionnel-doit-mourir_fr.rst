@@ -4,7 +4,6 @@
 .. tags: Wikipedia
 .. description: 
 .. excerpt: Martin Vidberg vient de publier, sur son excellent blog BD « L'actu en patates », une planche sur l'usage du conditionnel dans les media, intitulée « Faut-il supprimer le conditionnel ? » Oui, il faut. J'ignore s'il est possible de le supprimer dans la presse, mais on peut au moins essayer de le supprimer sur Wikipedia.
-.. wp-status: publish
 
 
 Martin Vidberg vient de publier, sur son excellent blog BD *`L'actu en patates <http://vidberg.blog.lemonde.fr>`__*, une planche sur l'usage du conditionnel dans les médias, intitulée *`Faut-il supprimer le conditionnel ? <http://vidberg.blog.lemonde.fr/2009/05/27/faut-il-supprimer-le-conditionnel/>`__* Oui, il faut. J'ignore s'il est possible de le supprimer dans la presse, mais on peut au moins essayer de le supprimer sur Wikipedia.

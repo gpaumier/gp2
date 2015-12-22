@@ -4,7 +4,6 @@
 .. tags: MediaWiki,metadata,UX,Commons,Design
 .. description: 
 .. excerpt: About two years ago, I said "Commons may be the next coolest project, as soon as developers find the time to improve its usability to make it more user-friendly". Wikimedia Commons hasn't evolved much in terms of usability since then. MIT's Technology Review recently published an article about improvements to come regarding the management of video content on Wikipedia and Wikimedia websites. I heard a lot of people say: "Good, but what about pictures?" Some technical improvements described by the Technology Review will be useful for both images and videos, such as the media and upload wizard currently developed by Michael Dale. However, Wikimedia Commons still needs many little (or big) features that would dramatically improve its user-friendliness.
-.. wp-status: publish
 
 
 |Logo of Wikimedia Commons| Logo of Wikimedia Commons

@@ -4,7 +4,6 @@
 .. tags: PNIPAM,SVG,Communication scientifique,Design
 .. description: 
 .. excerpt: J'ai publié précédemment des infographies créées pour mathèse de doctorat, par exemple la comparaison des objects biologiques et technologiques à l'échelle du micro- et nanomètre. Voici quelques autres infographies réalisées pour expliquer les utilisations possible du poly(N-isopropylacrylamide) (PNIPAM) dans les domaines de la biologie et la santé.
-.. wp-status: publish
 
 
 J'ai publié précédemment des infographies créées pour ma `thèse de doctorat <http://guillaumepaumier.com/fr/2008/12/19/these-de-doctorat-publication-et-reutilisation/>`__, par exemple la `comparaison des objets biologiques et technologiques <http://guillaumepaumier.com/fr/2008/07/08/interdisciplinarite-biologie-et-micro-nanotechnologies/>`__ à l'échelle du micro- et nanomètre. Voici quelques autres infographies réalisées pour expliquer les utilisations possibles du poly(N-isopropylacrylamide) (PNIPAM) dans les domaines de la biologie et la santé.

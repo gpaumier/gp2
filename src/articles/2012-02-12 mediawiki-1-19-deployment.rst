@@ -3,7 +3,6 @@
 .. date: 2012-02-12 03:46:59
 .. tags: MediaWiki,Wikimedia blog,Engineering,Wikimedia
 .. description: 
-.. wp-status: publish
 
 
 We've recently `set up a Beta cluster <//blog.wikimedia.org/2012/01/28/beta-cluster-test-software-before-deployment/>`__, replicating a selection of Wikimedia wikis, where Wikimedians have tested the new version and checked that it worked reasonably well with their local wiki's specific customizations.

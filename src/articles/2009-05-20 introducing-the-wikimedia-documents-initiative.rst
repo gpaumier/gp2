@@ -4,7 +4,6 @@
 .. tags: documents,LaTeX,Scribus,Wikimedia
 .. description: 
 .. excerpt: I am happy to announce the launch of the Wikimedia documents initiative (WMDOC), which aims at creating and maintaining a centralized set of standardized, up-to-date and localized core reference documents for public relations, marketing and public outreach.
-.. wp-status: publish
 
 The `PR material cleanup <http://guillaumepaumier.com/2009/03/20/wikimedia-pr-material-cleanup-phase-i-inventory/>`__ showed that many documents about PR, marketing & public outreach were scattered across many wikis; as a consequence, they weren't regularly updated. Besides, they often looked very different, not sharing any visual identity. Despite the amount of documents, there was no central place where volunteers could easily find the documents they needed to stage an event or to assemble a press kit for journalists. Last, most documents have been created using expensive proprietary software or fonts. The goal of the `**Wikimedia documents initiative** <http://meta.wikimedia.org/wiki/Wikimedia_documents_initiative>`__ (WMDOC) is to maintain a set of core documents such as leaflets, cheatsheets, presentations and one-pagers (which can be assembled into a press kit.). All-in-one kits with several of these documents will also be offered for Wikimedians who want to stage an event easily. More specific documents such as posters can be created but they won't be a part of the core set of documents (unless our manpower allows us to)
 

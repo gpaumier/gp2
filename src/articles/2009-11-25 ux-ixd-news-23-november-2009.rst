@@ -4,7 +4,6 @@
 .. tags: Multimedia usability,UX,Design,Wikimedia
 .. description: 
 .. excerpt: For a few months now, I have been maintaining a newsletter in French called "Actualités Wikimedia"; it consists typically of very short stories and links about happenings in the Wikimedia universe that I find noteworthy. I also follow RSS feeds related to User experience (UX), Interaction design (IxD) and Usability in general. With my new job, it makes sense to pick a few interesting pieces of information for Wikimedians who want to better understand the work of the Wikimedia usability team(s).
-.. wp-status: publish
 
 For a few months now, I have been maintaining a newsletter in French called "*`Actualités Wikimedia <http://guillaumepaumier.com/fr/tag/actualites-wikimedia/>`__*\ "; it consists typically of very short stories and links about news of the Wikimedia universe that I find noteworthy. Part of these news come from RSS feeds in English that I follow; I summarize them in French in order to bring them to a larger audience. Other topics I follow are User experience (UX), Interaction design (IxD) and Usability in general; I'm pondering starting a similar newsletter on this topic for the benefit of Wikimedians, and this article is a first attempt.
 

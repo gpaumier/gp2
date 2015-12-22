@@ -4,7 +4,6 @@
 .. tags: Wikimedia
 .. description: 
 .. excerpt: Les résultats du vote sur le changement de licence des projets Wikimedia ont été publiés. La migration vers une double licence GFDL et CC-BY-SA a été approuvée à plus de 75%.
-.. wp-status: publish
 
 Les résultats du vote sur le `changement de licence des projets Wikimedia <http://meta.wikimedia.org/w/index.php?title=Licensing_update/fr&uselang=fr>`__ ont été publiés. La migration vers une double licence GFDL et CC-BY-SA a été approuvée à plus de 75% par la communauté wikimédienne.
 

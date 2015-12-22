@@ -4,7 +4,6 @@
 .. tags: Wikipedia
 .. description: 
 .. excerpt: Si vous avez visité Wikipedia ces derniers jours, vous n'avez pas pu manquer le gros bandeau d'annonce en haut de chaque page, qui vous invitait à prendre des photos pour illustrer Wikipedia à l'occasion des Journées du patrimoine. Je suis pour le moins dubitatif devant cette initiative. Sur le principe, bien entendu, je ne peux qu'être d'accord : inciter les lecteurs à participer à Wikipedia est une noble cause, et leur proposer de faire ce premier pas en partageant des photos à l'occasion des journées du patrimoine est une excellente idée. Mais dans la pratique, la mise en place a été calamiteuse.
-.. wp-status: publish
 
 Si vous avez visité Wikipedia ces derniers jours, vous n'avez pas pu manquer le gros bandeau d'annonce en haut de chaque page, qui vous invitait à `prendre des photos pour illustrer Wikipedia <http://fr.wikipedia.org/w/index.php?title=Wikip%C3%A9dia:Journ%C3%A9es_europ%C3%A9ennes_du_patrimoine&oldid=44951545>`__ à l'occasion des Journées du patrimoine. Je suis pour le moins dubitatif devant cette initiative. Sur le principe, bien entendu, je ne peux qu'être d'accord : inciter les lecteurs à participer à Wikipedia est une noble cause, et leur proposer de faire ce premier pas en partageant des photos à l'occasion des journées du patrimoine est une excellente idée. Mais dans la pratique, la mise en place a été calamiteuse.
 

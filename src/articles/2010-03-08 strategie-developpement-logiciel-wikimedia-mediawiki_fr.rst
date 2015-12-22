@@ -4,7 +4,6 @@
 .. tags: Aside,Ingénierie,Wikimedia
 .. description: 
 .. excerpt: De part la nature de mon travail, je publie essentiellement en anglais en ce moment. Je viens notamment de publier une série d'articles extraits d'un mémo technique que j'ai rédigé récemment. Cet ensemble de recommandations concerne essentiellement la stratégie de développement du logiciel MediaWiki au sein de la Wikimedia Foundation.
-.. wp-status: publish
 
 De part `la nature de mon travail <http://guillaumepaumier.com/fr/2009/11/07/nouveau-job-multimedia-usability-product-manager/>`__, j'écris surtout des articles en anglais en ce moment. Je viens notamment de publier une série d'articles extraits d'un mémo technique que j'ai rédigé récemment. Cet ensemble de recommandations concerne essentiellement la stratégie de développement du logiciel MediaWiki au sein de la Wikimedia Foundation. Pour ceux que ça intéresse, voici les liens :
 

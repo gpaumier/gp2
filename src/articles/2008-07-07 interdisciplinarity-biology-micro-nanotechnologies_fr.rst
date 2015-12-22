@@ -3,7 +3,6 @@
 .. date: 2008-07-07 10:45:45
 .. tags: interdisciplinarité,SVG,Communication scientifique,Design
 .. description: 
-.. wp-status: publish
 
 
 |Biological and technological scales compared| Comparaison des échelles biologique et technologique. La convergence entre objets technologiques et naturels à l'échelle du micro et du nanomètre est soulignée depuis longtemps, y compris par `Stanley Fields <http://en.wikipedia.org/w/index.php?title=Stanley_Fields&oldid=287006264>`__\ [1. Stanley Fields, *The interplay of biology and technology*, PNAS, August 28, 2001, 98 (18), 10051-10054; doi: `10.1073/pnas.191380098 <http://dx.doi.org/10.1073/pnas.191380098>`__; `texte intégral <http://www.pnas.org/content/98/18/10051.full>`__] dont la déclaration est devenue célèbre :

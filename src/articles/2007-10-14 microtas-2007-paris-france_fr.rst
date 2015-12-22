@@ -3,7 +3,6 @@
 .. date: 2007-10-14 21:15:41
 .. tags: Scribus,Communication scientifique,Design
 .. description: 
-.. wp-status: publish
 
 J'ai récemment participé à la `conférence internationale MicroTAS <http://www.microtas2007.org/>`__ à Paris. MicroTAS (connu également sous le nom de "µTAS") est le nom court de l'\ *International conference on biomedical electronics and devices*. J'y ai présenté un poster intitulé *Electrokinetic mixers based on stimuli-responding surfaces*. J'étais également le photographe officiel de la conférence (je posterai quelques photos plus tard).
 

@@ -4,7 +4,6 @@
 .. tags: Engineering,Wikimedia
 .. description: 
 .. excerpt: If you’ve ever wanted to be kept informed of technical changes likely to impact your Wikimedia experience, you'll want to subscribe to Tech News, a weekly newsletter than can be delivered directly to your talk page.
-.. wp-status: publish
 
 The amount of technical activity happening across the Wikimedia movement as well as the number of different discussion venues make it increasingly more difficult and time–consuming to monitor changes relevant to one's involvement in Wikimedia projects. Understanding technical issues and discussions is especially hard since they contain a lot of jargon terms and are mostly conducted only in English.
 

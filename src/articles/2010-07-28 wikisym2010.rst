@@ -4,7 +4,6 @@
 .. tags: Multimedia usability,Wikimedia
 .. description: 
 .. excerpt: Three weeks ago, I attended the WikiSym conference, an academic symposium about wikis & open collaboration. Its collocation with Wikimania, a community event, was a great opportunity for researchers and Wikimedians to meet, build understanding and collaborate.
-.. wp-status: publish
 
 I couldn't attend \ `WikiSym <http://www.wikisym.org/ws2010>`__ the previous years for various reasons, the main one being money: they were too far away and the registration fee was too expensive. This year, WikiSym was collocated with Wikimania in Gdańsk, Poland, so it was a perfect opportunity for researchers & Wikimedians (or "practitioners", as researchers call them) to get together and meet. We have to thank my friend Phoebe Ayers for that, who was this year's Chair/Organizer of WikiSym.
 
