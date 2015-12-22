@@ -1,4 +1,5 @@
 .. title: Wikimedia PR material cleanup — Phase I: Inventory
+.. clean: no
 .. slug: wikimedia-pr-material-cleanup-phase-i-inventory
 .. date: 2009-03-20 20:34:32
 .. tags: documents,Wikimedia

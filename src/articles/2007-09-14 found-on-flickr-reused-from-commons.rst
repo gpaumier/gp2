@@ -1,4 +1,5 @@
 .. title: Found on flickr, reused from Commons
+.. clean: no
 .. slug: found-on-flickr-reused-from-commons
 .. date: 2007-09-14 11:24:09
 .. tags: Commons,Photo

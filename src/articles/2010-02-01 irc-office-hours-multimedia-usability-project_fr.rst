@@ -1,4 +1,5 @@
 .. title: Questions/réponses IRC sur le Multimedia usability project
+.. clean: no
 .. slug: questionsreponses-irc-multimedia-usability
 .. date: 2010-02-01 19:03:40
 .. tags: Ergonomie multimédia,IRC,Ingénierie,Wikimedia

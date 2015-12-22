@@ -1,4 +1,5 @@
 .. title: Retour sur l'incident technique de Wikipedia le 24 mars 2010
+.. clean: no
 .. slug: incident-technique-wikipedia-24-mars-2010
 .. date: 2010-03-25 00:00:00
 .. tags: Ingénierie,Wikimedia

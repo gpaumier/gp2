@@ -1,4 +1,5 @@
 .. title: The Universal Language Picker
+.. clean: no
 .. slug: universal-language-picker
 .. date: 2010-09-29 00:13:26
 .. tags: language,Multimedia usability,Engineering,Wikimedia

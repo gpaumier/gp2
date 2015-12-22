@@ -1,4 +1,5 @@
 .. title: The story of the punk sludgehog
+.. clean: no
 .. slug: new-logo-for-unfoldscience
 .. date: 2009-04-10 20:58:47
 .. tags: Design,General

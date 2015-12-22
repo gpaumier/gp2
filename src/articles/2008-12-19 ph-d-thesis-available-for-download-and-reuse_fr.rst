@@ -1,4 +1,5 @@
 .. title: Thèse de doctorat : publication et réutilisation
+.. clean: no
 .. slug: these-de-doctorat-publication-et-reutilisation
 .. date: 2008-12-19 13:00:31
 .. tags: PNIPAM,Ingénierie

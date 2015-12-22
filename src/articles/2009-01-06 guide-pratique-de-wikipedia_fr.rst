@@ -1,4 +1,5 @@
 .. title: Guide pratique de Wikipedia
+.. clean: no
 .. slug: guide-pratique-de-wikipedia
 .. date: 2009-01-06 09:35:58
 .. tags: publication,Wikipedia

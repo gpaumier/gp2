@@ -1,4 +1,5 @@
 .. title: Scaling up Software development for Wikimedia websites (Part II: Tools)
+.. clean: no
 .. slug: scaling-up-software-development-for-wikimedia-websites-tools
 .. date: 2010-03-05 18:05:50
 .. tags: MediaWiki,Engineering,Wikimedia

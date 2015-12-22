@@ -1,4 +1,5 @@
 .. title: Les marronniers de Wikipedia
+.. clean: no
 .. slug: les-marronniers-de-wikipedia
 .. date: 2009-06-02 18:01:50
 .. tags: Wikipedia

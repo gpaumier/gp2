@@ -1,4 +1,5 @@
 .. title: Retour sur scène
+.. clean: no
 .. slug: retour-sur-scene
 .. date: 2010-01-27 03:48:24
 .. tags: Ergonomie multimédia,San Francisco,Général-fr,Ingénierie,Wikimedia

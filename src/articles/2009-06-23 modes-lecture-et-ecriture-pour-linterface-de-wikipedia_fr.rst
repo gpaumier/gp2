@@ -1,4 +1,5 @@
 .. title: Modes « lecture » et « écriture » pour l'interface de Wikipedia
+.. clean: no
 .. slug: modes-lecture-et-ecriture-pour-linterface-de-wikipedia
 .. date: 2009-06-23 12:16:08
 .. tags: Wikipedia

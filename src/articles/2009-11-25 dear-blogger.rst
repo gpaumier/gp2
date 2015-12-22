@@ -1,4 +1,5 @@
 .. title: Dear blogger
+.. clean: no
 .. slug: dear-blogger
 .. date: 2009-11-25 09:07:44
 .. tags: General

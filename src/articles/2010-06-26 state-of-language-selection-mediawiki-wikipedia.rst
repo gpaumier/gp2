@@ -1,4 +1,5 @@
 .. title: State of the language selection in MediaWiki and Wikipedia
+.. clean: no
 .. slug: state-of-language-selection-mediawiki-wikipedia
 .. date: 2010-06-26 00:15:10
 .. tags: language,MediaWiki,Engineering,Wikimedia

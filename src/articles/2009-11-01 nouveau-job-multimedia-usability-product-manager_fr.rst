@@ -1,4 +1,5 @@
 .. title: Nouveau job : Multimedia Usability Product Manager
+.. clean: no
 .. slug: nouveau-job-multimedia-usability-product-manager
 .. date: 2009-11-01 00:00:00
 .. tags: Ergonomie multimédia,San Francisco,Général-fr,Ingénierie,Wikimedia

@@ -1,4 +1,5 @@
 .. title: Pourquoi ajouter des images à Wikipedia est compliqué
+.. clean: no
 .. slug: pourquoi-ajouter-des-images-a-wikipedia-est-complique
 .. date: 2009-11-05 10:54:00
 .. tags: Ergonomie multimédia,Commons,Ingénierie,Wikimedia

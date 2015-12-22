@@ -1,4 +1,5 @@
 .. title: Interdisciplinarity, biology & micro-nanotechnologies
+.. clean: no
 .. slug: interdisciplinarity-biology-micro-nanotechnologies
 .. date: 2008-07-07 10:45:45
 .. tags: interdisciplinarity,SVG,Design,Scientific communication

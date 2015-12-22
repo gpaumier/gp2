@@ -1,4 +1,5 @@
 .. title: Customizing the WordPress meta widget
+.. clean: no
 .. slug: customizing-the-wordpress-meta-widget
 .. date: 2012-01-26 16:07:18
 .. tags: WordPress,Coding,Engineering,Wikimedia

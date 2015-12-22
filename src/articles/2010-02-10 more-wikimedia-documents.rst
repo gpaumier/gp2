@@ -1,4 +1,5 @@
 .. title: More Wikimedia documents!
+.. clean: no
 .. slug: more-wikimedia-documents
 .. date: 2010-02-10 05:18:31
 .. tags: documents,San Francisco,Wikimedia

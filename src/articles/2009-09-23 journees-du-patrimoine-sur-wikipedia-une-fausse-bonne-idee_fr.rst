@@ -1,4 +1,5 @@
 .. title: Journées du patrimoine sur Wikipedia : une fausse bonne idée
+.. clean: no
 .. slug: journees-du-patrimoine-sur-wikipedia-une-fausse-bonne-idee
 .. date: 2009-09-23 11:49:15
 .. tags: Wikipedia

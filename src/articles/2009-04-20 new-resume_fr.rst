@@ -1,4 +1,5 @@
 .. title: Nouveau CV
+.. clean: no
 .. slug: nouveau-cv
 .. date: 2009-04-21 08:49:40
 .. tags: interdisciplinarité,Scribus,Général-fr

@@ -1,4 +1,5 @@
 .. title: Forest dwelling in Normandy
+.. clean: no
 .. slug: forest-dwelling-in-normandy
 .. date: 2014-01-28 11:43:41
 .. tags: forest,Lyons-la-Forêt,Image,Photo

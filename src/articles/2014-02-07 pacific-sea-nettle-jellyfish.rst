@@ -1,4 +1,5 @@
 .. title: Pacific sea nettle jellyfish
+.. clean: no
 .. slug: pacific-sea-nettle-jellyfish
 .. date: 2014-02-07 15:19:07
 .. tags: Jellyfish,Long Beach,Image,Photo

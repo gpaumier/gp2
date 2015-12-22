@@ -1,4 +1,5 @@
 .. title: To be or not to be (a candidate for the Wikimedia Board of Trustees)
+.. clean: no
 .. slug: to-be-or-not-to-be-a-candidate-for-the-wikimedia-board-of-trustees
 .. date: 2009-07-10 16:59:45
 .. tags: Wikimedia

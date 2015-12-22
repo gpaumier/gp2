@@ -1,4 +1,5 @@
 .. title: Miltonia or The Talking Flowers
+.. clean: no
 .. slug: miltonia-or-the-talking-flowers
 .. date: 2014-01-16 14:23:55
 .. tags: orchid,Image,San Francisco,Photo
