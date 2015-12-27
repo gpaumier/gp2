@@ -8,7 +8,7 @@ J'ai publié précédemment des infographies créées pour ma `thèse de doctora
 Changement conformationnel
 ==========================
 
-Changement conformationnel du PNIPAM induit par la température. Le PNIPAM est un polymère thermosensible qui subit une transition conformationnelle réversible autour de sa température critique inférieure de solution (~32°C). Il passe d'un état hydrophile et gonflé à un état hydrophobe et replié.
+Le PNIPAM est un polymère thermosensible qui subit une transition conformationnelle réversible autour de sa température critique inférieure de solution (~32°C). Il passe d'un état hydrophile et gonflé à un état hydrophobe et replié.
 
 Ce fichier, ainsi que ceux ci-dessous, est `disponible sur Wikimedia Commons <https://commons.wikimedia.org/wiki/File:PNIPAM_switch.svg>`_
 
