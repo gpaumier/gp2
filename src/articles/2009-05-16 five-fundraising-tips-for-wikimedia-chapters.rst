@@ -1,10 +1,12 @@
 .. title: Five fundraising tips for Wikimedia chapters
-.. clean: no
 .. slug: five-fundraising-tips-for-wikimedia-chapters
 .. date: 2009-05-16 18:24:20
-.. tags: fundraising,Wikimedia
-.. description: 
-.. excerpt: Last year, I started to document myself about fundraising. Originally, I did it because 1. I found the topic very interesting and 2. I intended to use what I would learn to improve Wikimedia France's management of fundraising (which has been very poor in my opinion, partly because of issues I describe below). Turned out, I eventually left Wikimedia France in January for various reasons, but I figured I'd still share a few thoughts that may prove useful to all chapters. Although this page is mainly Wikimedia-focused, the general principles are universal.
+.. tags: Wikimedia
+.. keywords: fundraising, Wikimedia
+
+.. highlights::
+
+    Last year, I started to document myself about fundraising. Originally, I did it because I intended to use what I would learn to improve Wikimedia France’s management of fundraising. I eventually distanced myself from Wikimedia France for various reasons, but I figured I’d still share a few thoughts that may prove useful to all chapters. Although this article is mainly Wikimedia-focused, the general principles are universal.
 
 
 1. Document yourselves
@@ -16,11 +18,11 @@ Raising funds is like drawing: it's not a matter of innate talent. Some rare peo
 
 There are many books about fundraising out there. Here's a list of books I own and I read. They're short and very good to begin with.
 
--  `Fund Raising Realities Every Board Member Must Face: A 1-Hour Crash Course on Raising Major Gifts for Nonprofit Organizations <http://www.amazon.com/gp/product/1889102105/>`__, David Lansdowne, Emerson & Church, 2007.
--  `How to Write Fundraising Materials That Raise More Money: The Art, the Science, the Secrets <http://www.amazon.com/gp/product/1889102318>`__, Tom Ahern, Emerson & Church, 2007.
--  `The Zen of Fundraising: 89 Timeless Ideas to Strengthen and Develop Your Donor Relationships <http://www.amazon.com/gp/product/0787983144>`__, Ken Burnett, Jossey-Bass, 2006.
+-  `Fund Raising Realities Every Board Member Must Face: A 1-Hour Crash Course on Raising Major Gifts for Nonprofit Organizations <http://www.amazon.com/gp/product/1889102105/>`__. David Lansdowne, Emerson & Church, 2007.
+-  `How to Write Fundraising Materials That Raise More Money: The Art, the Science, the Secrets <http://www.amazon.com/gp/product/1889102318>`__. Tom Ahern, Emerson & Church, 2007.
+-  `The Zen of Fundraising: 89 Timeless Ideas to Strengthen and Develop Your Donor Relationships <http://www.amazon.com/gp/product/0787983144>`__. Ken Burnett, Jossey-Bass, 2006.
 
-If you follow their principles, I guarantee you'll raise more funds. I recommend you read them in this order. Experiment your newly-acquired knowledge during a few months, adapt it to your organization, and keep learning. I'd be happy to provide more links if needed. (Note: if you buy one of these books from these links, I'll get a small financial reward from Amazon, at no additional cost for you. Don't worry though, you'll hardly make me rich!)
+If you follow their principles, I guarantee you'll raise more funds. I recommend you read them in this order. Experiment your newly-acquired knowledge during a few months, adapt it to your organization, and keep learning. I'd be happy to provide more links if needed.
 
 2. Apply what you've learned
 ============================
@@ -43,7 +45,7 @@ You're nonprofits; that means you should rely on donations and grants. If you do
 
 Thanking your donors one year after they donated is completely unacceptable. If you do only one thing, thank your donors and stay in touch. You can't afford to lose them. When you've read a bit about donor relationship management, you'll understand how foolish this is.
 
-Also, try to walk in your donors shoes ("donor-centric approach"). Why should I give to these Wikimedia folks? Really?
+Also, try to walk in your donors shoes ("donor-centric approach"). Why should I give to these Wikimedia folks?
 
 5. Spend your money
 ===================
