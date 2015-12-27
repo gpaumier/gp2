@@ -1,10 +1,15 @@
 .. title: Public postmortem for the Wikimedia Conference 2009
-.. clean: no
 .. slug: public-postmortem-for-the-wikimedia-conference-2009
 .. date: 2009-05-10 13:58:38
-.. tags: Berlin,Wikimedia conference 2009,Wikimedia
-.. description:
-.. excerpt: The Wikimedia Conference 2009 was held in Berlin, Germany, on April 3rd-5th. It was composed of three tracks: a track for chapters, hosted by the Deutsche Telekom Laboratories (T-labs); a track for the Board of trustees of the Wikimedia Foundation, hosted by the T-labs; and a track for MediaWiki developers, hosted at the c-base. About 55 participants attended the chapters tracks, 10 people the board track and 60 people the developers track. Overall, around 130 Wikimedians attended the conference. Social activities where participants from all tracks could meet were proposed.
+.. tags: Wikimedia
+.. keywords: Berlin, Wikimedia conference 2009, Wikimedia
+.. image: /images/2009-04-03_Wikimedia_conference_chapters_meeting_2009_9456.jpg
+.. image-caption: Of course there is an edit button.
+
+.. highlights::
+
+    Around 130 Wikimedians attended the Wikimedia Conference 2009 in Berlin last month; they were Wikimedia chapter representatives, Wikimedia Foundation board members and staff, and software developers. This postmortem summarizes what happened, what went well and what could be improved in the next edition.
+
 
 The Wikimedia Conference 2009 was held in Berlin, Germany, on April 3−5.
 It was composed of three tracks:
@@ -25,15 +30,19 @@ It was composed of three tracks:
 
 About 55 participants attended the chapters tracks, 10 people the board
 track and 60 people the developers track. Social activities where
-participants from all tracks could meet were proposed. The preparation
-was done on meta-wiki (`April 2009 Wikimedia
+participants from all tracks could meet were proposed.
+
+The preparation
+was done on Meta-Wiki (`April 2009 Wikimedia
 Conference <http://meta.wikimedia.org/wiki/April_2009_Wikimedia_Conference>`__,
 `Chapters meeting
 2009 <http://meta.wikimedia.org/wiki/Chapters_meeting_2009>`__) and on
 mediawiki.org (`Project:Developer meet-up
 2009 <http://www.mediawiki.org/wiki/Project:Developer_meet-up_2009>`__).
 A `group <http://identi.ca/group/wmcon>`__ was created on identica for
-quick information. The preparation and organization started two and a
+quick information.
+
+The preparation and organization started two and a
 half months before the conference (mid January). The deadlines were
 roughly met by the organization team. All tasks requiring action from
 the participants were delayed of at least a week, sometimes much longer.
@@ -48,13 +57,17 @@ Israel, Italy, Hungary, the Netherlands, New York City, Norway, Austria,
 Poland, Sweden, Taiwan, the UK, Serbia and Russia. Several participants
 expressed their satisfaction about the fact that all chapters were
 present at the meeting. This was partly made possible by the financial
-help provided by sister chapters (see *Finances* below). Five
+help provided by sister chapters (see *Finances* below).
+
+Five
 participants (from Russia, Taiwan, Indonesia and Serbia) needed to get a
 visa in order to enter Germany. Wikimedia Deutschland provided them with
 invitation letters to facilitate the process, but the time needed to get
 these letters was longer than expected. At least one participant had to
 change his travel arrangements due to this delay, and as a consequence
-he had to leave the conference early. A few chapters needed convincing
+he had to leave the conference early.
+
+A few chapters needed convincing
 to attend the meeting.
 
 Finance
@@ -64,11 +77,11 @@ Besides Wikimedia Deutschland, 5 other chapters provided financial
 assistance to their fellow chapters in order to help them attend the
 conference:
 
--  Wikimedia France: 4000,00 €
--  Wikimedia CH: 2000,00 €
--  Wikimedia Sverige: 1463,25 €
--  Wikimedia Polska: 500,00 €
--  Wikimedia Italia: 400,00 €
+-  Wikimedia France: €4,000
+-  Wikimedia CH: €2,000
+-  Wikimedia Sverige: €1,463
+-  Wikimedia Polska: €500
+-  Wikimedia Italia: €400
 
 Travel & transportation
 =======================
@@ -104,7 +117,9 @@ This brainstorming was done in a wiki-way; it was supposed to last two
 weeks, but was extended to three weeks because of the lack of input from
 the chapters. The involvement of chapters in this brainstorming was
 uneven; some chapters did not even participate in it, even after several
-reminders. When the brainstorming was over, the output was broken down
+reminders.
+
+When the brainstorming was over, the output was broken down
 into specific key topics (`Chapters meeting
 2009/Topics <http://meta.wikimedia.org/wiki/Chapters_meeting_2009/Topics>`__).
 Identifying these topics was the first step needed to make a draft
@@ -113,7 +128,9 @@ schedule <http://meta.wikimedia.org/w/index.php?title=Chapters_meeting_2009/Sche
 Some feedback and complaints were taken in account and `a revised
 schedule was
 proposed <http://guillaumepaumier.com/2009/04/02/full-svg-schedule-of-the-wikimedia-conference-2009-in-berlin/>`__
-a few days later. Although all the topics raised during the
+a few days later.
+
+lthough all the topics raised during the
 brainstorming were added to the schedule, some chapters still complained
 that their wishes weren't taken into consideration enough. This may be
 explained by the very different expectations the chapters had. It was
@@ -129,7 +146,9 @@ However, lightning talks were precisely the point of this session: the
 goal was to present an overview and topics to be discussed during the
 rest of the conference. Besides, with more than 20 chapters already, it
 isn't possible to devote 15 minutes to each chapter (or *The conference
-should last a week*, see below). Many participants felt that there
+should last a week*, see below).
+
+Many participants felt that there
 weren't enough time for informal meetings; most of them expected a
 Wikimania-like event (with a lot of socializing), whereas the conference
 was designed as a professional meeting.
@@ -176,6 +195,7 @@ allowed them to really participate in the discussion. A possible
 explanation to this variety of comments is that Wikimedians and chapters
 representatives aren't used to professional methods of management and
 moderation, and it will take some time for them to get used to it.
+
 Another complaint was that the facilitators didn't understand the
 community enough, and that they didn't have the "wiki" background. It is
 true that the facilitators didn't come from the Wikimedia community.
@@ -213,7 +233,7 @@ General tips for future organizers
 ==================================
 
 -  Organize & plan early; almost all chapters work with volunteers and
-   it is **very** difficult to get things done.
+   it is *very* difficult to get things done.
 -  Send individual e-mails & reminders. It takes a lot of time, but it
    saves even more time: people feel much more compelled to answer
    individual e-mails than e-mails sent to mailing lists.
@@ -235,3 +255,7 @@ deadlines & management methods. They want more time for presentations,
 more time for workgroups, more time for informal discussions, more time
 for social events, and more time for whatever is on the schedule. That
 just *can't* work.
+
+.. class:: copyright-notes
+
+    `Wikimedia conference chapters meeting 2009 9456 <https://commons.wikimedia.org/wiki/File:Wikimedia_conference_chapters_meeting_2009_9456.jpg>`__ by Guillaume Paumier (board) and `Elke Wetzig <https://commons.wikimedia.org/wiki/User:Elya>`__ (photo), under `CC-By-SA <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`_, from Wikimedia Commons.

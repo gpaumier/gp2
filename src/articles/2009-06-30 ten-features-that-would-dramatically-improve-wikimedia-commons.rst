@@ -1,13 +1,14 @@
 .. title: Ten features that would dramatically improve Wikimedia Commons
-.. clean: no
 .. slug: ten-features-that-would-dramatically-improve-wikimedia-commons
 .. date: 2009-06-30 12:22:30
-.. tags: MediaWiki,metadata,UX,Commons,Design
-.. description: 
-.. excerpt: About two years ago, I said "Commons may be the next coolest project, as soon as developers find the time to improve its usability to make it more user-friendly". Wikimedia Commons hasn't evolved much in terms of usability since then. MIT's Technology Review recently published an article about improvements to come regarding the management of video content on Wikipedia and Wikimedia websites. I heard a lot of people say: "Good, but what about pictures?" Some technical improvements described by the Technology Review will be useful for both images and videos, such as the media and upload wizard currently developed by Michael Dale. However, Wikimedia Commons still needs many little (or big) features that would dramatically improve its user-friendliness.
+.. tags: Wikimedia
+.. keywords: MediaWiki, metadata, UX, Wikimedia Commons, Design
 
 
-|Logo of Wikimedia Commons| Logo of Wikimedia Commons
+.. highlights::
+
+    Where our hero makes an early Christmas wishlist and implores the developer fairies to give Wikimedia Commons some much-needed love.
+
 
 About `two years ago <http://guillaumepaumier.com/2007/09/14/found-on-flickr-reused-from-commons/>`__, I wrote: "Commons may be the next coolest project, as soon as developers find the time to improve its usability to make it more user-friendly". Sadly, Wikimedia Commons hasn't evolved much in terms of usability since then.
 
@@ -35,7 +36,13 @@ Related open bugs
 -  `bugzilla:3361 <https://bugzilla.wikimedia.org/show_bug.cgi?id=3361>`__: Image author, description, and copyright data saved in EXIF fields
 -  `bugzilla:16956 <https://bugzilla.wikimedia.org/show_bug.cgi?id=16956>`__: Show IPTC metadata on image description page
 -  `bugzilla:657 <https://bugzilla.wikimedia.org/show_bug.cgi?id=657>`__: Pull copyright metadata from files on upload
--  [STRIKEOUT:`bugzilla:11484 <https://bugzilla.wikimedia.org/show_bug.cgi?id=11484>`__: Include ISO rating in abbreviated exif metadata.]
+-  |11484|_: Include ISO rating in abbreviated exif metadata.
+
+.. role:: strike
+    :class: strike
+
+.. |11484| replace:: :strike:`bugzilla:11484`
+.. _11484: https://bugzilla.wikimedia.org/show_bug.cgi?id=11484
 
 Editing
 =======
@@ -56,6 +63,6 @@ With currently more than 4.6 million files (and counting), it is becoming increa
 9.  **Multilingual search**: Files on Commons are ordered in hierarchical categories, using English as *lingua franca*. If you want to find a file, you have to search in English. I imagine it is possible to use some dictionary (coupled to the language detection) to give good results for a search in any language.
 10. **Google-Images-friendliness**. A lot of people use Google Images to find pictures, but images from Wikimedia Commons rarely appear in these results (unless they are used on a Wikipedia page).
 
-Note: All these ideas are given from a user point of view; their technical feasibility has to be assessed by a MediaWiki-literate developer.
+.. note::
 
-.. |Logo of Wikimedia Commons| image:: //guillaumepaumier.com/wp-content/uploads/2013/04/Commons-logo.png
+    All these ideas are given from a user point of view; their technical feasibility has yet to be assessed by a MediaWiki-literate developer.
