@@ -2,7 +2,7 @@
 .. slug: autistic-wikipedian
 .. date: 2015-07-29 17:14:00
 .. tags: Wikimedia, Autism
-.. image: Death_Valley_5903.jpg
+.. image: /images/Death_Valley_5903.jpg
 
 Two years ago, I discovered that I was on the autism spectrum. As I learned more about myself and the way my brain worked, I started to look at past experiences through the lens of this newly-found aspect. In this essay, I share some of what I've learned along the way about my successes, my failures, and many things that confused me in the past, notably in my experiences in the Wikimedia movement.
 
@@ -393,6 +393,7 @@ sounds like a great place for autists (and a perfect honey trap) well,
 it is to some extent.
 
 .. figure:: /images/wikipedians_with_autism.png
+    :figclass: framed
 
    The "`Wikipedians with autism <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_" category on the English Wikipedia
 

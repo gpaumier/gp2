@@ -7,9 +7,10 @@
 Há dois anos descobri que eu estou no espectro autista. Conforme fui aprendendo mais sobre mim e sobre a maneira como meu cérebro funcionava, comecei a refletir sobre as minhas experiências pessoais passadas através desta nova perspectiva. Neste ensaio compartilho algumas coisas que aprendi sobre as minhas conquistas, meus fracassos, e muitas outras coisas que me deixaram confuso no passado, principalmente ligadas à minha participação no movimento Wikipedia.
 
 .. note::
+
     Este ensaio é a base da `palestra homônima <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ que eu dei na Conferência Wikimania 2015; não se trata de uma transcrição exata, mas de uma espécie de rascunho que eu tenho a oportunidade de publicar agora, o qual continuarei melhorando nas próximas semanas, o qual você pode me `ajudar a editar <https://github.com/gpaumier/gp2/blob/master/src/articles/2015-07-21%20autistic-wikipedian/index_pt.md>`_. Também está disponível em `inglês <https://guillaumepaumier.com/2015/07/29/autistic-wikipedian/>`_ e `francês <https://guillaumepaumier.com/fr/2015/07/29/wikipedien-autiste/>`_.*
 
-.. image:: maternelle.jpg
+.. image:: /images/maternelle.jpg
 
 Esta é uma foto minha quando eu tinha 4 anos, na escola do maternal. Não tenho muitas lembranças dessa época, mas meus pais contam que, embora eu não me entusiasmasse com a ideia de ir à escola durante a semana, eu sempre pedia para ir aos sábados, porque a maioria das crianças não estava lá.
 
@@ -36,7 +37,7 @@ Neste ensaio eu quero compartilhar algumas coisas que eu aprendi, incluindo a mi
 
 E gostaria de começar expondo que o autismo é um espectro. Existe uma máxima popular nas comunidades online de autistas que diz: “Se você conheceu alguém que é autista, você conheceu *um* autista”. Tenha sempre em mente: o que eu estou apresentando aqui está baseado na minha experiência pessoal, e não se aplica de modo uniforme a todas as pessoas autistas.
 
-.. figure:: Taipei_Wm2007_Guillaume.jpg
+.. figure:: /images/Taipei_Wm2007_Guillaume.jpg
 
    "`Taipei Wm2007Guillaume.jpg <https://commons.wikimedia.org/wiki/File:Taipei_Wm2007_Guillaume.jpg>`_", por `Cary Bass <https://commons.wikimedia.org/wiki/User:Bastique>`_, sob `CC-By-SA 3.0 Unported <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`_, da Wikimedia Commons.
 
@@ -51,7 +52,7 @@ Spock
 
 Uma boa analogia para entender o que significa ser autista em um mundo de neurotípicos, é olhar para o Sr. Spock, da série original *Star Trek*; filho de um pai Vulcano e uma mãe humana, tecnicamente o Spock é meio humano, porém o seu lado Vulcan é o que mais se destaca quando ele interage com o resto da tripulação da Enterprise.
 
-.. figure:: Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg
+.. figure:: /images/Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg
 
    Spock e Kirk. "`Leonard Nimoy William Shatner Star Trek 1968 <https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG>`_", da Televisão NBC, domínio público, da Wikimedia Commons.
 
@@ -78,11 +79,11 @@ Autismo
 
 Provavelmente você está familiarizado com os `modelos conceituais de comunicação <https://en.wikipedia.org/wiki/Models_of_communication>`_. Em muitos desses modelos, a comunicação é representada como a transmissão de uma mensagem entre um emissor e um receptor.
 
-.. figure:: communication_model1.svg
+.. figure:: /images/communication_model1.svg
 
    Em um modelo de comunicação básico, o emissor formula a mensagem, transmite-a ao receptor, quem a interpreta. O receptor também dá algum retorno.
 
-.. figure:: communication_model2.svg
+.. figure:: /images/communication_model2.svg
 
    Uma discussão verbal envolve outros muitos sinais de comunicação não verbal, como o tom da voz, a expressão facial e a linguagem corporal.
 
@@ -96,7 +97,7 @@ Se aplicarmos este modelo a uma conversa oral, imediatamente veremos todas as po
 
 Se esse desencontro pode ocorrer entre pessoas neurotípicas, ou seja, pessoas com um “cérebro típico ou padrão”, imagine o quão complicado pode ser para autistas como eu. Uma excelente analogia foi feita em *The Imitation Game*, filme baseado na vida de Alan Turing, retratado no filme como alguém que está no espectro autista.
 
-.. figure:: imitation_game.png
+.. figure:: /images/imitation_game.png
 
    Cena de *The Imitation Game*. © 2014 The Weinstein Company. Todos os direitos reservados.
 
@@ -121,7 +122,7 @@ Logo que eu me mudei para os EUA, toda vez que alguém me perguntava *“How are
 
 Há alguns anos, uma pessoa do escritório da Fundação Wikimedia me perguntou “Como vai o teu mundo?” e eu fiquei paralisado por alguns segundos. Para poder responder àquela pergunta meu cérebro começou a revisar tudo o que estava acontecendo no “meu mundo” (e o “meu mundo” é grande!), até que eu percebi que eu só precisava dizer “Bem, obrigado!”.
 
-.. figure:: small_talk.png
+.. figure:: /images/small_talk.png
 
    "`Small talk <https://xkcd.com/222/>`_" por Randall Munroe, sob licença `CC-BY-NC 2.5 <https://creativecommons.org/licenses/by-nc/2.5/legalcode>`_, de xkcd.com.
 
@@ -132,7 +133,7 @@ Este é somente um dos desafios que as pessoas autistas têm que encarar, e agor
 
 A consequência mais comum, de acordo com a minha experiência, e tendo em conta outras pessoas autistas, é o sentimento profundo de isolamento. A ausência da Teoria da mente, e o risco constante de que ocorram falhas na comunicação, tornam difícil construir relações. Ninguém em particular é culpado; isso acontece devido à falta de conhecimento.
 
-.. figure:: Wikimania_2014_welcome_reception_02.jpg
+.. figure:: /images/Wikimania_2014_welcome_reception_02.jpg
 
    Recepção de boas vindas da Wikimania 2014. "`Wikimania 2014 welcome reception 02 <https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg>`_", por Chris McKenna, sob CC-BY-SA 4.0 International, da Wikimedia Commons.
 
@@ -155,7 +156,7 @@ Comunicação mediada por computadores
 
 Gostaria de voltar um instante àquele modelo de comunicação cara a cara; agora imagine como ele muda se você se comunica online, por email, via wiki, ou IRC *(Internet Relay Chat)*. Todos esses canais de comunicação, familiares para os Wikimedistas, estão baseados em texto, e muitos deles são assincrônicos. Para muitos neurotípicos, são modos de comunicação frustrantes, porque os sinais não verbais como o tom, expressão facial, e linguagem corporal não existem.
 
-.. figure:: communication_model1.svg
+.. figure:: /images/communication_model1.svg
 
    Nos debates online, a maior parte da comunicação não verbal desaparece, sobrando apenas palavras. Isso pode frustrar neurotípicos, porém está muito mais próximo do modelo nativo de comunicação dos autistas.
 
@@ -170,7 +171,7 @@ O Autismo na comunidade Wikimedia
 
 Um dos maiores exemplos de comunicação em larga escala é evidentemente o movimento Wikimedia. À primeira vista os sites da Wikimedia, e a Wikipedia em particular, oferecem uma plataforma onde podemos recopilar meticulosamente fatos sobre a nossa obsessão favorita, ou metodicamente corrigir os mesmos erros gramaticais, uma e outra vez, tudo isso com interação humana limitada; pode parecer um bom lugar para autistas (e uma armadilha perfeita), e até certo ponto é.
 
-.. figure:: wikipedians_with_autism.png
+.. figure:: /images/wikipedians_with_autism.png
 
    A categoria “`Wikipedistas com autismo <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_” na Wikipedia em inglês
 
