@@ -1,9 +1,15 @@
 .. title: More Wikimedia documents!
-.. clean: no
 .. slug: more-wikimedia-documents
 .. date: 2010-02-10 05:18:31
-.. tags: documents,San Francisco,Wikimedia
-.. description: 
+.. tags: Wikimedia
+.. keywords: documents, San Francisco, Wikimedia
+.. image: /images/2010-02-10_Wikimedia_conference_chapters_meeting_2009_9124.jpg
+.. image-caption: Preparations for Maker Faire include generic pins and stickers.
+
+
+.. highlights::
+
+    During the meet-up of Wikimedians from the San Francisco Bay Area last week-end, people were talking about the need for various kind of documents and goodies to hand out at the Maker Faire. I realized that we could actually organize some sort of Marketing Marathon during the next meet-up.
 
 
 Last week-end, I attended my first `meet-up of Wikimedians from the San Francisco Bay Area <http://commons.wikimedia.org/wiki/Category:SF_Meetup_11>`__. It happened at the same time as a meeting of the `Board of Trustees <http://wikimediafoundation.org/wiki/Board_of_Trustees>`__ of the Wikimedia Foundation. It also happened at the same place, i.e. the office of the Foundation (where I work).
@@ -17,3 +23,15 @@ I have to admit my other responsibilities within the Wikimedia movement have dis
 The Marketing Marathon proposal was well received and we agreed to organize it as part of the preparation for the Maker Faire during the next meet-up. I now have volunteers willing to help, and a draft timeline with the next meet-up and the Maker Faire. Besides, I hope to benefit from the `research made by the Bookshelf project <http://outreach.wikimedia.org/wiki/Production_Survey_%28Bookshelf%29>`__, which already answered one of my questions: what standard format to use for documents intended for an international use.
 
 If you would like to help, or if you think you have good ideas, feel free to `contact me <http://guillaumepaumier.com/bio/>`__.
+
+
+.. class:: copyright-notes
+
+    |photo|_ by `Elke Wetzig`_, under `CC-By-SA`_, from Wikimedia Commons.
+
+.. |photo| replace:: *Wikimedia conference chapters meeting 2009 9124*
+.. _photo: https://commons.wikimedia.org/wiki/File:Wikimedia_conference_chapters_meeting_2009_9124.jpg
+
+.. _Elke Wetzig: https://commons.wikimedia.org/wiki/User:Elya
+
+.. _CC-By-SA: https://creativecommons.org/licenses/by-sa/3.0/legalcode

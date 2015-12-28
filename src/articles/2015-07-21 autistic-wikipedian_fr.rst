@@ -5,12 +5,13 @@
 Il y a deux ans, j'ai découvert que j'appartenais au spectre autistique. Cela m'a permis de mieux comprendre comment je fonctionnais, et comment mon cerveau fonctionnait; j'ai ainsi pu analyser mes expériences passées d'un nouvel œil. Dans cet essai, je souhaite partager ce que j'ai appris au cours de ce processus, à travers mes succès, mes échecs, et de nombreuses situations que je n'ai pas comprises à l'époque, notamment au cours de mes interactions avec d'autres Wikipédiens.
 
 .. note::
+
     Cet essai est à l'origine de ma `présentation du même nom <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ donnée lors de la conférence Wikimania 2015. Il s'agit d'un brouillon, que j'ai décidé de publier maintenant afin d'éviter une attente trop longue ; je vais continuer à le peaufiner au cours des prochaines semaines, et `vous pouvez contribuer <https://github.com/gpaumier/gp2/blob/master/src/articles/2015-07-21%20autistic-wikipedian/index_fr.md>`_ à son amélioration. Le `texte original en anglais <http://guillaumepaumier.com/2015/07/29/autistic-wikipedian/>`_ est également disponible.
 
 Introduction
 ============
 
-.. image:: maternelle.jpg
+.. image:: /images/maternelle.jpg
 
 Ceci est une photo de moi prise quand j'avais 4 ans, à l'école maternelle.
 
@@ -45,7 +46,7 @@ Dans cet essai, je veux partager quelques unes des choses que j'ai apprises, et 
 
 Je veux commencer avec une mise en garde : l'autisme est un spectre. Il y a un dicton populaire parmi les communautés d'autistes sur internet : « Vous avez rencontré un autiste, vous avez rencontré *un* autiste. » Ce que je décris ici est basé sur mon expérience personnelle, et n'est pas applicable de façon universelle à toutes les personnes autistes.
 
-.. figure:: Taipei_Wm2007_Guillaume.jpg
+.. figure:: /images/Taipei_Wm2007_Guillaume.jpg
 
    "`Taipei Wm2007Guillaume.jpg <https://commons.wikimedia.org/wiki/File:Taipei_Wm2007_Guillaume.jpg>`_", par `Cary Bass <https://commons.wikimedia.org/wiki/User:Bastique>`_, sous licence `CC-By-SA 3.0 Unported <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`_, depuis Wikimedia Commons.
 
@@ -58,7 +59,7 @@ La photo ci-dessus a été prise lors de la conférence Wikimania 2007 à Taipei
 Spock
 =====
 
-.. figure:: Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg
+.. figure:: /images/Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg
 
    Kirk et Spock. "`Leonard Nimoy William Shatner Star Trek 1968 <https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG>`_", by NBC Television, dans le domaine public, depuis Wikimedia Commons.
 
@@ -87,11 +88,11 @@ Autisme
 
 Vous avez probablement entendu parler des `modèles conceptuels de communication <https://en.wikipedia.org/wiki/Models_of_communication>`_. Dans de nombreux modèles, la communication est représentée comme la transmission d'un message entre un émetteur et un récepteur.
 
-.. figure:: communication_model1.svg
+.. figure:: /images/communication_model1.svg
 
    Dans un modèle de communication simple, l'émetteur formule un message et le transmet au receveur, qui l'interprète. Le receveur fournit également un retour à l'émetteur.
 
-.. figure:: communication_model2.svg
+.. figure:: /images/communication_model2.svg
 
    Si l'on applique ce modèle à une discussion orale entre deux personnes, le modèle devient plus complexe à cause de la communication non verbale. Celle-ci fait intervenir de nombreux autres signaux, tels que l'intonation, les expressions faciales et le langage corporel.
 
@@ -103,7 +104,7 @@ Si l'on applique ce modèle à une conversation orale, on voit rapidement toutes
 
 Si cela est le cas pour les personnes neurotypiques (les gens avec un cerveau « typique »), imaginez combien cela peut être difficile pour les autistes comme moi. Une très bonne analogie est donnée dans le film *Imitation Game*, inspiré de la vie d'Alan Turing, qui est présenté dans le film comme appartenant au spectre autistique.
 
-.. figure:: imitation_game.png
+.. figure:: /images/imitation_game.png
 
    Photo extraite du film *Imitation Game*. © 2014 The Weinstein Company. Tous droits réservés.
 
@@ -130,7 +131,7 @@ Quand je suis arrivé aux États-Unis, chaque fois que quelqu'un me demandais en
 
 Il y a quelques semaines, quelqu'un de mon bureau m'a demandé: « *How is your world?* » (« Quoi de neuf dans ton univers ? »), et j'ai bloqué pendant quelques secondes. Afin de répondre à cette question, mon cerveau était en train de passer en revue tout ce qui se passait dans « mon univers » (et « mon univers » est immense !) ; après quelques secondes, je me suis rendu compte que j'avais seulement besoin de répondre « *Great, thank you!* » (« Super, merci ! »).
 
-.. figure:: small_talk.png
+.. figure:: /images/small_talk.png
 
    "`Small talk <https://xkcd.com/222/>`_" par Randall Munroe, sous licence `CC-BY-NC 2.5 <https://creativecommons.org/licenses/by-nc/2.5/legalcode>`_, depuis xkcd.com.
 
@@ -141,7 +142,7 @@ Ce problème de premier degré n'est qu'un exemple des nombreux défis rencontr�
 
 La conséquence la plus commune que j'ai remarquée dans mon expérience, et dans les retours d'autres personnes autistes, est un sentiment d'isolement profond. Le manque de théorie de l'esprit et le risque constant de mauvaise communication font qu'il est difficile de construire des relations avec les gens. Ce n'est pas la faute de qui que ce soit en particulier ; c'est un problème plus général de manque de sensibilisation.
 
-.. figure:: Wikimania_2014_welcome_reception_02.jpg
+.. figure:: /images/Wikimania_2014_welcome_reception_02.jpg
 
    Réception de bienvenue à Wikimania 2014. "`Wikimania 2014 welcome reception 02 <https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg>`_", par Chris McKenna, sous licence CC-BY-SA 4.0 International, depuis Wikimedia Commons.
 
@@ -164,7 +165,7 @@ La communication par ordinateur
 
 Je voudrais revenir à ce modèle conceptuel de la communication. Imaginez comment ce modèle change si, au lieu de discuter en face à face, il s'agit d'une discussion par internet : par e-mail, sur un wiki, ou sur IRC. Tous ces moyens de communication, bien connus des Wikimédiens, font appel à l'écriture, et sont généralement asynchrones. Pour de nombreux neurotypiques, ces moyens de communication sont frustrants, car ils font disparaitre la plupart des signaux non verbaux habituels comme le ton, les expressions faciales et le langage corporel.
 
-.. figure:: communication_model1.svg
+.. figure:: /images/communication_model1.svg
 
    Dans les discussions par internet, la plupart des signaux non verbaux disparaissent, pour ne laisser que les mots. Cette limitation peut être frustrante pour les personnes neurotypiques, mais elle se rapproche beaucoup plus du modèle de communication natif des personnes autistes.
 
@@ -179,7 +180,7 @@ Autisme dans la communauté Wikimedia
 
 Un exemple majeur de communication en ligne à grande échelle est le mouvement Wikimedia. À première vue, les sites Wikimedia, et Wikipédia en particulier, offrent une plate-forme de choix pour qui souhaite soigneusement compiler des faits sur son obsession favorite, ou corriger méthodiquement la même erreur grammaticale encore et encore, tout en limitant les interactions sociales. Wikipedia semble être un appeau à autistes parfait.
 
-.. figure:: wikipedians_with_autism.png
+.. figure:: /images/wikipedians_with_autism.png
 
    La catégorie « `Wikipédiens autistes <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_  » sur Wikipedia en anglais
 
@@ -212,7 +213,7 @@ Dans cet essai, j'ai laissé de côté de nombreux points que je développerai p
 
 Longue vie et prospérité. \\\\///
 
-.. figure:: ISS-42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg
+.. figure:: /images/ISS-42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg
 
    ISS Nimoy tribute. "`ISS-42 Samantha Cristoforetti Leonard Nimoy tribute <https://commons.wikimedia.org/wiki/File:ISS-42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg>`_", by `NASA <https://www.nasa.gov>`_, in the Public domain, from Wikimedia Commons.
 

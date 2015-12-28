@@ -1,14 +1,23 @@
 .. title: WikiSym 2010
-.. clean: no
 .. slug: wikisym2010
 .. date: 2010-07-28 01:46:36
-.. tags: Multimedia usability,Wikimedia
-.. description: 
-.. excerpt: Three weeks ago, I attended the WikiSym conference, an academic symposium about wikis & open collaboration. Its collocation with Wikimania, a community event, was a great opportunity for researchers and Wikimedians to meet, build understanding and collaborate.
+.. tags: Wikimedia
+.. keywords: Multimedia usability, Wikimedia
+.. image: /images/2010-07-07_WikiSym_2010_schedule_boards_0342.jpg
+.. image-caption: Open-space schedule boards at WikiSym 2010
+
+.. todo: find original images
+
+
+.. highlights::
+
+    Three weeks ago, I attended the WikiSym 2010 conference. WikiSym is the "International Symposium on Wikis and Open Collaboration"; it's sort of the "Academic Wikimania", where people researching wikis, Wikipedia and generally open collaboration get together and share their findings.
+
 
 I couldn't attend \ `WikiSym <http://www.wikisym.org/ws2010>`__ the previous years for various reasons, the main one being money: they were too far away and the registration fee was too expensive. This year, WikiSym was collocated with Wikimania in Gdańsk, Poland, so it was a perfect opportunity for researchers & Wikimedians (or "practitioners", as researchers call them) to get together and meet. We have to thank my friend Phoebe Ayers for that, who was this year's Chair/Organizer of WikiSym.
 
 I was pretty excited because WikiSym seemed to be at the crossroads of two of my circles: academia & open collaboration. I was also really looking forward to meeting researchers: the Wikimedia Foundation is currently engaged in an effort to include research into their decision-making process in order to make it more data-driven. Thus, it was the perfect time to try and build awareness, understanding and relationships between the two communities.
+
 
 Program & Sessions
 ==================
@@ -17,9 +26,53 @@ The symposium was a mix of regular conference talks and an `unconference <http:/
 
 One major issue, though, was the number of conflicting talks: there were up to eight concurrent open space sessions, conflicting with each other, as well as with the main sessions and workshops. It was just impossible to take part in everything one was interested in. While this is a usual problem with large events, I didn't expect to have this issue in a relatively small conference like WikiSym.
 
-I gave a presentation entitled *Understanding the users of Wikimedia Commons*, a summary of the user research I did for the Multimedia usability project, and it was pretty well received. The audience particularly liked `the video I showed <http://guillaumepaumier.com/2010/07/23/wikimedia-multimedia-ux-testing-videos/>`__ from our UX study. The `supporting slides <http://commons.wikimedia.org/wiki/File:Guillaume_Paumier_-_Understanding_the_users_of_Wikimedia_Commons_-_WikiSym_2010.pdf>`__ are available on Commons  (`download the PDF <http://upload.wikimedia.org/wikipedia/commons/7/7b/Guillaume_Paumier_-_Understanding_the_users_of_Wikimedia_Commons_-_WikiSym_2010.pdf>`__ - 504 KB). Unfortunately, the presentation wasn't recorded, but it was similar to the one I gave at Wikimania, whose recording will be available soonish.
+I gave a presentation entitled *Understanding the users of Wikimedia Commons*, a summary of the user research I did for the Multimedia usability project, and it was pretty well received. The audience particularly liked `the video I showed <http://guillaumepaumier.com/2010/07/23/wikimedia-multimedia-ux-testing-videos/>`__ from our UX study. The `supporting slides <http://commons.wikimedia.org/wiki/File:Guillaume_Paumier_-_Understanding_the_users_of_Wikimedia_Commons_-_WikiSym_2010.pdf>`__ are available on Commons  (`download the PDF <http://upload.wikimedia.org/wikipedia/commons/7/7b/Guillaume_Paumier_-_Understanding_the_users_of_Wikimedia_Commons_-_WikiSym_2010.pdf>`__; 504 KB). Unfortunately, the presentation wasn't recorded, but it was similar to the one I gave at Wikimania, whose recording will be available soonish.
 
-, in accord with the philosophy of open collaboration and `free works <http://freedomdefined.org>`__.
+.. figure:: /images/2010-07-07_WikiSym2010_Guillaume_by_Blue_Oxen_Associates.jpg
 
-Notes
-=====
+    Me trying not to burst into song, being on stage in such a nice Concert hall.
+
+
+Not as open as you might think
+==============================
+
+The second day ended with a discussion in the "Open circle" about copyright. Specifically, the participants asked if they could publish their work (that they presented at WikiSym) under a free license. I was particularly interested, since I had had the very same discussion a few months before.
+
+.. figure:: /images/2010-07-07_Open_circle950.jpg
+
+    "Open circle" at WikiSym 2010
+
+In March 2010, I submitted a scientific paper to WikiSym about my work. I had written papers for scientific journals & conferences before, but it was the first time I submitted one in this specific field of research. As a consequence, I was quite happy when my paper was accepted.
+
+Then came the copyright transfer issue. WikiSym partnered with the `ACM <http://www.acm.org/>`__ to publish the proceedings of the conference, and the ACM asked me to transfer my copyright to them. While this is fairly standard in the scientific publishing industry [#]_, I was surprised by this requirement considering the field of research involved (open collaboration and free knowledge).
+
+I shared my concerns with Phoebe and with Felipe Ortega (Chair of the Program Committee), who reached out to the ACM. The ACM wouldn't let me release my work under a free license such as Creative Commons Attribution Share Alike (CC-by-sa). I felt my research belonged to the Wikimedia community, and I didn't want to enclose my work within the ACM's intellectual property prison.
+
+Hence, I refused to sign the copyright transfer form, even though it meant not being able to present my work at WikiSym. In the end, thanks to Phoebe & Felipe's efforts and discussions with the WikiSym committee, I was allowed to present my work, but only as a lightning talk, and it wasn't included into the conference proceedings.
+
+I do hope, though, that at some point we'll be able to move towards a more open access & reuse model [#]_, in accord with the philosophy of open collaboration and `free works <http://freedomdefined.org/>`__.
+
+
+.. class:: copyright-notes
+
+    |guillaume|_ by `Blue Oxen Associates`_, under `CC-By-SA`_, from flickr.
+
+.. |guillaume| replace:: *Guillaume*
+.. _guillaume: https://secure.flickr.com/photos/blueoxen/4789291960/
+
+.. _Blue Oxen Associates: https://secure.flickr.com/photos/blueoxen/
+
+.. _CC-By-SA: https://creativecommons.org/licenses/by-sa/2.0/legalcode
+
+
+.. [#] Standard and outrageous, but you don't have much flexibility when your degree or career depends on it, unless your employer/university encourages you to publish in Open Access journals (like the MIT does).
+
+.. [#] "Gold", and not just "green" open access. See |acm not open access|_, by Michael Mitzenmacher, for more information, and |addendum|_, by Stevan Harnad, for an opposing view.
+
+.. |acm not open access| replace:: *The ACM is NOT Open Access*
+
+.. _acm not open access: http://mybiasedcoin.blogspot.com/2009/04/acm-does-not-support-open-access.html
+
+.. |addendum| replace:: *More on the Author Addendum Kerfuffle (and Counterproductive Over-Reaching)*
+
+.. _addendum: http://openaccess.eprints.org/index.php?/archives/567-More-on-the-Author-Addendum-Kerfuffle-and-Counterproductive-Over-Reaching.html
