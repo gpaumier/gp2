@@ -1,10 +1,16 @@
 .. title: Wikimania 2010 notes
-.. clean: no
 .. slug: wikimania-2010-notes-gdansk
 .. date: 2010-11-22 22:16:04
-.. tags: Wikimania,Wikimedia
-.. description: 
-.. excerpt: My notes from Wikimania 2010 in Gdańsk
+.. tags: Wikimania, Wikimedia
+.. keywords: Wikimania, Wikimedia, Gdansk
+.. image: /images/2010-07-10_Gdansk_0359.jpg
+.. todo: find original photo
+
+
+.. highlights::
+
+    It's been a few months since Wikimania 2010 in Gdańsk. I had a few notes I wanted to share, but I was waiting for the Wikimania videos, which were never delivered. I'll just go ahead and publish my notes now.
+
 
 I went to `Wikimania <http://wikimania2010.wikimedia.org>`__ with my `staff <http://wikimediafoundation.org/wiki/Staff>`__ hat on, mainly to present and discuss the `Multimedia usability project <http://usability.wikimedia.org/wiki/Multimedia:Hub>`__. I briefly presented the `results of our research <http://usability.wikimedia.org/wiki/Multimedia:Preliminary_user_research>`__, then went on to `demo the Upload wizard <http://commons.prototype.wikimedia.org/uwd/>`__ and `play videos from our UX study <http://guillaumepaumier.com/2010/07/23/wikimedia-multimedia-ux-testing-videos/>`__.
 
@@ -13,6 +19,7 @@ The `supporting slides <http://commons.wikimedia.org/wiki/File:Guillaume_Paumier
 I also submitted and coordinated a `UX panel <http://wikimania2010.wikimedia.org/wiki/Submissions/The_future_of_Wikimedia_User_experience>`__ to provide a venue for users to ask their questions to the UX team. During this session, both the panel and the audience `took notes collaboratively <http://eiximenis.wikimedia.org/wikimaniauxpanel>`__, which we found was a pretty effective means to maintain audience engagement!
 
 The venue for the event was lovely; after WikiSym, hosted at the `Music Academy in Gdańsk <http://pl.wikipedia.org/wiki/Akademia_Muzyczna_im._Stanis%C5%82awa_Moniuszki_w_Gda%C5%84sku>`__, having Wikimania in the `Polish Baltic Philharmonic <http://en.wikipedia.org/wiki/Polish_Baltic_Philharmonic>`__ was awesome. Then again, I'm biased towards concert halls.
+
 
 Program & Sessions
 ==================
@@ -29,7 +36,12 @@ Many Wikimania sessions were better than `the ones I attended at WikiSym <http:/
 
 Another highlight was the presentation of the `German mentoring program <http://wikimania2010.wikimedia.org/wiki/Submissions/Mentoring_programs:_Structure_of_the_German_MP_and_international_comparison>`__, by Tim Moritz Hector and his friends from the German-language Wikipedia. Their system seems to be fairly effective, and this talk was particularly relevant in a context where many criticize the unfriendliness of established editors towards inexperienced participants, but few act on it.
 
-I was eager to watch the world premiere of *`Truth in Numbers <http://en.wikipedia.org/wiki/Truth_in_Numbers%3F_Everything,_According_to_Wikipedia>`__*, the documentary about Wikipedia, whose early cuts I had had the opportunity to see at Wikimania 2007 in Taipei. I ended up being quite disappointed, and the audience had mixed feelings about it overall.
+I was eager to watch the world premiere of |truth in numbers|_, the documentary about Wikipedia, whose early cuts I had had the opportunity to see at Wikimania 2007 in Taipei. I ended up being quite disappointed, and the audience had mixed feelings about it overall.
+
+.. |truth in numbers| replace:: *`Truth in Numbers*
+
+.. _truth in numbers: http://en.wikipedia.org/wiki/Truth_in_Numbers%3F_Everything,_According_to_Wikipedia
+
 
 Staff are people, too
 =====================

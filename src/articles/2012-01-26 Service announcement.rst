@@ -2,8 +2,13 @@
 .. slug: service-announcement
 .. date: 2012-01-26 11:07:08
 ..
-    template: missive.jade
-.. tags: General
+    template: missive.html
+
+
+.. highlights::
+
+    This site has undergone a much needed early Spring cleanup.
+
 
 This site has been dormant for the past year or so. I'm currently working on a new version, so I was reluctant to spend a lot of time to fix this one. The downside is that I couldn't really post new content in the meantime.
 

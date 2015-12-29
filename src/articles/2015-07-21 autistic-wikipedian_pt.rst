@@ -1,16 +1,24 @@
 .. title: Minha vida como autista e wikipedista
 .. slug: minha-vida-como-autista-e-wikipedista
-.. tags: Wikimedia, Autismo
 .. translator: Tila Cappelletto
 .. translator-link: https://twitter.com/recortesdela
 
-Há dois anos descobri que eu estou no espectro autista. Conforme fui aprendendo mais sobre mim e sobre a maneira como meu cérebro funcionava, comecei a refletir sobre as minhas experiências pessoais passadas através desta nova perspectiva. Neste ensaio compartilho algumas coisas que aprendi sobre as minhas conquistas, meus fracassos, e muitas outras coisas que me deixaram confuso no passado, principalmente ligadas à minha participação no movimento Wikipedia.
+
+.. highlights::
+
+    Há dois anos descobri que eu estou no espectro autista. Conforme fui aprendendo mais sobre mim e sobre a maneira como meu cérebro funcionava, comecei a refletir sobre as minhas experiências pessoais passadas através desta nova perspectiva. Neste ensaio compartilho algumas coisas que aprendi sobre as minhas conquistas, meus fracassos, e muitas outras coisas que me deixaram confuso no passado, principalmente ligadas à minha participação no movimento Wikipedia.
+
 
 .. note::
 
     Este ensaio é a base da `palestra homônima <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ que eu dei na Conferência Wikimania 2015; não se trata de uma transcrição exata, mas de uma espécie de rascunho que eu tenho a oportunidade de publicar agora, o qual continuarei melhorando nas próximas semanas, o qual você pode me `ajudar a editar <https://github.com/gpaumier/gp2/blob/master/src/articles/2015-07-21%20autistic-wikipedian/index_pt.md>`_. Também está disponível em `inglês <https://guillaumepaumier.com/2015/07/29/autistic-wikipedian/>`_ e `francês <https://guillaumepaumier.com/fr/2015/07/29/wikipedien-autiste/>`_.*
 
-.. image:: /images/maternelle.jpg
+
+Introdução
+==========
+
+.. figure:: /images/2015-07-21_maternelle.jpg
+
 
 Esta é uma foto minha quando eu tinha 4 anos, na escola do maternal. Não tenho muitas lembranças dessa época, mas meus pais contam que, embora eu não me entusiasmasse com a ideia de ir à escola durante a semana, eu sempre pedia para ir aos sábados, porque a maioria das crianças não estava lá.
 
@@ -37,9 +45,10 @@ Neste ensaio eu quero compartilhar algumas coisas que eu aprendi, incluindo a mi
 
 E gostaria de começar expondo que o autismo é um espectro. Existe uma máxima popular nas comunidades online de autistas que diz: “Se você conheceu alguém que é autista, você conheceu *um* autista”. Tenha sempre em mente: o que eu estou apresentando aqui está baseado na minha experiência pessoal, e não se aplica de modo uniforme a todas as pessoas autistas.
 
-.. figure:: /images/Taipei_Wm2007_Guillaume.jpg
+.. figure:: /images/2007-07-31_Taipei_Wm2007_Guillaume.jpg
 
    "`Taipei Wm2007Guillaume.jpg <https://commons.wikimedia.org/wiki/File:Taipei_Wm2007_Guillaume.jpg>`_", por `Cary Bass <https://commons.wikimedia.org/wiki/User:Bastique>`_, sob `CC-By-SA 3.0 Unported <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`_, da Wikimedia Commons.
+
 
 A foto acima foi tirada durante a Wikimania 2007, em Taipei. Eu estava explorando a cidade com Cary Bass (usuário: Bastique) e algumas outras pessoas. Ao olhar agora para esta imagem, noto algumas coisas:
 
@@ -47,14 +56,16 @@ A foto acima foi tirada durante a Wikimania 2007, em Taipei. Eu estava explorand
 -  Estou carregando duas bolsas (uma mochila e a bolsa da câmera), porque eu gosto de estar preparado para qualquer imprevisto, portanto eu sempre eu carrego muitas coisas.
 -  Sentei-me para trocar a lente da minha câmera, já que esta é uma posição mais estável que minimiza a possibilidade de que eu derrube ou quebre qualquer peça. Descobri que meu hábito de manter-me em posições estáveis é, na verdade, uma estratégia que desenvolvi com o passar dos anos para compensar meus problemas de equilíbrio e coordenação motora.
 
+
 Spock
 =====
 
 Uma boa analogia para entender o que significa ser autista em um mundo de neurotípicos, é olhar para o Sr. Spock, da série original *Star Trek*; filho de um pai Vulcano e uma mãe humana, tecnicamente o Spock é meio humano, porém o seu lado Vulcan é o que mais se destaca quando ele interage com o resto da tripulação da Enterprise.
 
-.. figure:: /images/Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg
+.. figure:: /images/2015-07-21_Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg
 
    Spock e Kirk. "`Leonard Nimoy William Shatner Star Trek 1968 <https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG>`_", da Televisão NBC, domínio público, da Wikimedia Commons.
+
 
 Alguns dos momentos mais engraçados da série são as discussões que ele tem com o irritadiço Dr. McCoy, quem o chama de “autômato insensível” e “o homem mais sangue frio que ele já conheceu”. Ao que o Spock responde: “Por que, obrigado, Doutor”  [1]_
 
@@ -74,18 +85,21 @@ Neste exemplo, e em muitos outros, o filtro de percepção do Spock o impede de 
 
 O contrário também é verdade: sempre que os humanos se sentem confundidos ou perturbados pelo Spock é porque esperam que ele se comporte como um humano; frequentemente se deparam com uma verdade mais dura do que gostariam. Os humanos interpretam o comportamento do Spock através do seu próprio filtro emocional. Comumente mal interpretam seus motivos, veem maldade e pressupõe intenções que modificam o significado original das suas palavras e ações.
 
+
 Autismo
 =======
 
 Provavelmente você está familiarizado com os `modelos conceituais de comunicação <https://en.wikipedia.org/wiki/Models_of_communication>`_. Em muitos desses modelos, a comunicação é representada como a transmissão de uma mensagem entre um emissor e um receptor.
 
-.. figure:: /images/communication_model1.svg
+.. figure:: /images/2015-07-21_communication_model1.svg
 
    Em um modelo de comunicação básico, o emissor formula a mensagem, transmite-a ao receptor, quem a interpreta. O receptor também dá algum retorno.
 
-.. figure:: /images/communication_model2.svg
+
+.. figure:: /images/2015-07-21_communication_model2.svg
 
    Uma discussão verbal envolve outros muitos sinais de comunicação não verbal, como o tom da voz, a expressão facial e a linguagem corporal.
+
 
 Uma discussão verbal envolve outros muitos sinais de comunicação não verbal, como o tom da voz, a expressão facial e a linguagem corporal.
 
@@ -95,15 +109,18 @@ Se aplicarmos este modelo a uma conversa oral, imediatamente veremos todas as po
 
     --- Tony Attwood [3]_
 
+
 Se esse desencontro pode ocorrer entre pessoas neurotípicas, ou seja, pessoas com um “cérebro típico ou padrão”, imagine o quão complicado pode ser para autistas como eu. Uma excelente analogia foi feita em *The Imitation Game*, filme baseado na vida de Alan Turing, retratado no filme como alguém que está no espectro autista.
 
-.. figure:: /images/imitation_game.png
+.. figure:: /images/2015-07-21_imitation_game.png
 
    Cena de *The Imitation Game*. © 2014 The Weinstein Company. Todos os direitos reservados.
+
 
 Imprecisão histórica à parte, um dos meus momentos favoritos é quando o jovem Alan está conversando com seu amigo Christopher sobre mensagens codificadas. O Christopher define criptografia como “mensagens que qualquer pessoa pode ver, mas ninguém sabe o que significam, a menos que tenham a sua chave descodificadora”. O Alan, bastante confuso, responde:
 
     E qual é a diferença entre isso e a fala? (...) Quando as pessoas falam umas com as outras, elas nunca dizem o que realmente querem dizer, mas qualquer outra coisa. E espera-se que você entenda o que elas realmente querem dizer. Mas eu nunca consigo.
+
 
 Pessoas autistas são caracterizadas por muitos traços diferentes, mas o mais presente é a cegueira social: nós temos dificuldade em ler as emoções das outras pessoas. Nós não possuímos a “`Teoria da mente <https://pt.wikipedia.org/wiki/Teoria_da_mente>`_”, usada pelos neurotípicos para atribuir estados mentais (como pontos de vista e intenções) aos outros. Frequentemente entendemos as coisas literalmente porque não contamos com o texto subliminar: para nós é difícil ler as entrelinhas.
 
@@ -112,6 +129,7 @@ Liane Holliday Willey, autora e palestrante autista, uma vez o resumiu assim:
     Você não precisaria de uma Teoria da Mente se todos falassem de acordo com as suas mentes.
 
     --- Liane Holliday Willey [4]_
+
 
 Como você está?
 ===============
@@ -122,9 +140,10 @@ Logo que eu me mudei para os EUA, toda vez que alguém me perguntava *“How are
 
 Há alguns anos, uma pessoa do escritório da Fundação Wikimedia me perguntou “Como vai o teu mundo?” e eu fiquei paralisado por alguns segundos. Para poder responder àquela pergunta meu cérebro começou a revisar tudo o que estava acontecendo no “meu mundo” (e o “meu mundo” é grande!), até que eu percebi que eu só precisava dizer “Bem, obrigado!”.
 
-.. figure:: /images/small_talk.png
+.. figure:: /images/2015-07-21_small_talk.png
 
    "`Small talk <https://xkcd.com/222/>`_" por Randall Munroe, sob licença `CC-BY-NC 2.5 <https://creativecommons.org/licenses/by-nc/2.5/legalcode>`_, de xkcd.com.
+
 
 Privilégios e orelhas pontudas
 ==============================
@@ -136,6 +155,7 @@ A consequência mais comum, de acordo com a minha experiência, e tendo em conta
 .. figure:: /images/Wikimania_2014_welcome_reception_02.jpg
 
    Recepção de boas vindas da Wikimania 2014. "`Wikimania 2014 welcome reception 02 <https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg>`_", por Chris McKenna, sob CC-BY-SA 4.0 International, da Wikimedia Commons.
+
 
 Imagine que você está falando comigo cara a cara. Você não me conhece realmente, mas eu pareço legal, então você puxa um papo. Eu não falo muito, e você acaba tendo que preencher todos os silêncios desconfortáveis. E quando eu falo, o faço de um modo monótono, como se eu não estivesse nem aí. Você insiste, e me faz perguntas, mas eu hesito, evito manter contato visual, mantenho um olhar distante, como se eu tivesse inventando as coisas conforme eu falo.
 
@@ -151,14 +171,16 @@ Relacionamentos com colegas e conhecidos normalmente são superficiais; conversa
 
 A maioria dessas questões ocorre porque você não tem como saber que a pessoa que tem diante de si é diferente. Pelo menos o Spock tinha orelhas pontudas sinalizando que ele não era humano. A sua aceitação por parte da tripulação da Enterprise devia-se em grande medida às relações que ele conseguia estabelecer com seus colegas de nave espacial. Provavelmente essas relações não seriam possíveis se as pessoas não soubessem que ele era diferente.
 
+
 Comunicação mediada por computadores
 ====================================
 
 Gostaria de voltar um instante àquele modelo de comunicação cara a cara; agora imagine como ele muda se você se comunica online, por email, via wiki, ou IRC *(Internet Relay Chat)*. Todos esses canais de comunicação, familiares para os Wikimedistas, estão baseados em texto, e muitos deles são assincrônicos. Para muitos neurotípicos, são modos de comunicação frustrantes, porque os sinais não verbais como o tom, expressão facial, e linguagem corporal não existem.
 
-.. figure:: /images/communication_model1.svg
+.. figure:: /images/2015-07-21_communication_model1.svg
 
    Nos debates online, a maior parte da comunicação não verbal desaparece, sobrando apenas palavras. Isso pode frustrar neurotípicos, porém está muito mais próximo do modelo nativo de comunicação dos autistas.
+
 
 Entretanto, este modelo de comunicação mediada por computador está muito mais próximo do modelo de comunicação de autistas como eu; não há comunicação não verbal que devamos decifrar; há menos interação e ansiedade social, e, normalmente, também não há ambientes desconhecidos. Há muito menos sinais, e os que se mantêm são apenas palavras; seu significado pode variar, mas são muito mais descodificáveis e confiáveis do que os sinais não verbais.
 
@@ -166,14 +188,17 @@ E o que há online, por outro lado, é tempo; todo um tempo que você pode usar 
 
 Mas nem tudo são flores, no entanto. Por exemplo, autistas como eu não têm a menor ideia sobre política ou como ler entrelinhas. Tendemos a ser radicalmente honestos; e isso parece não funcionar muito bem, nem online, nem offline. Autistas também são mais suscetíveis ao *trolling* (sacanagem online), e é possível que nem sempre percebam que a maneira como as pessoas agem online, é diferente da sua maneira de agir no mundo físico. A internet tende a dessensibilizar as pessoas, e às vezes os autistas podem acabar repetindo comportamentos não aceitáveis, independentemente do entorno.
 
+
 O Autismo na comunidade Wikimedia
 =================================
 
 Um dos maiores exemplos de comunicação em larga escala é evidentemente o movimento Wikimedia. À primeira vista os sites da Wikimedia, e a Wikipedia em particular, oferecem uma plataforma onde podemos recopilar meticulosamente fatos sobre a nossa obsessão favorita, ou metodicamente corrigir os mesmos erros gramaticais, uma e outra vez, tudo isso com interação humana limitada; pode parecer um bom lugar para autistas (e uma armadilha perfeita), e até certo ponto é.
 
-.. figure:: /images/wikipedians_with_autism.png
+.. figure:: /images/2015-07-21_wikipedians_with_autism.png
+    :figclass: framed
 
-   A categoria “`Wikipedistas com autismo <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_” na Wikipedia em inglês
+    A categoria “`Wikipedistas com autismo <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_” na Wikipedia em inglês
+
 
 Por exemplo, a minha primeira edição, há dez anos, foi corrigir um erro de ortografia. A minha segunda edição foi corrigir um erro de conjugação. A minha terceira edição foi corrigir ambos, um erro de ortografia e um erro de conjugação. Assim foi como começou a minha jornada como Wikipedista, dez anos atrás.
 
@@ -187,6 +212,7 @@ Mas, ainda assim, eles são pessoas que têm sentimentos.
 
 Caso você esteja interessado em saber mais sobre o autismo na comunidade Wikipedia, há um `excelente ensaio na Wikipedia em inglês <https://en.wikipedia.org/wiki/Wikipedia:High-functioning_autism_and_Asperger%27s_editors>`_, o qual eu recomendo fortemente. Ele é muito bom porque despatologiza o autismo, e reforça a neurodiversidade, explicando-o como uma diferença, e não uma doença.
 
+
 Conclusão
 =========
 
@@ -198,6 +224,7 @@ Steve Silberman, escritor de um livro sobre a história do autismo, o coloca ass
 
     --- Steve Silberman [6]_
 
+
 Mas, ainda assim, a neurodiversidade tem um preço. Algumas vezes você se sentirá ofendido, às vezes frustrado, e noutras vezes pensará “Uau, eu nunca teria imaginado isso, nem em outra vida!”.
 
 Como mencionei antes, acho que o Spock só foi capaz de construir relações ao longo do tempo, porque as pessoas eram conscientes da sua diferença, e aprenderam a entendê-la e a abraçá-la. O Spock também aprendeu muito com os humanos ao longo do caminho.
@@ -206,24 +233,36 @@ Meu objetivo era gerar conscientização sobre essa diferença, presente em noss
 
 Há muitas coisas sobre as quais não falei neste ensaio, e é possível que mais para frente eu me aprofunde em alguns pontos. Enquanto isso, caso você tenha interesse, eu estou totalmente aberto para continuar este debate, basta entrar em contato comigo, pessoalmente ou online.
 
-Vida longa e próspera. \\\\///
+Vida longa e próspera. ``\\///``
 
-*Translated by Tila Cappelletto. Madrid, August 2015.*
+.. figure:: /images/2015-07-21_ISS_42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg
 
-.. [1]
-   from `https://en.wikipedia.org/wiki/Court\_Martial\_%28Star\_Trek:\_The\_Original\_Series%29 <Court%20Martial%20(Star%20Trek:%20The%20Original%20Series)>`_
+   "`ISS-42 Samantha Cristoforetti Leonard Nimoy
+   tribute <https://commons.wikimedia.org/wiki/File:ISS-42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg>`_",
+   by `NASA <https://www.nasa.gov>`_, in the Public domain, from
+   Wikimedia Commons.
 
-.. [2]
-   Temple Grandin. *Thinking in Pictures*. p.152
 
-.. [3]
-   Tony Attwood. *The complete guide to Asperger's syndrome*. p.126
+.. [1] from the |court martial|_ episode in the original Star Trek series.
 
-.. [4]
-   Liane Holliday Willey, in *The complete guide to Asperger's syndrome*. Tony Attwood, p.126
+.. |court martial| replace:: *Court Martial*
 
-.. [5]
-   Maanvi Singh. `http://www.npr.org/sections/health-shots/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated <Young%20Adults%20With%20Autism%20More%20Likely%20To%20Be%20Unemployed,%20Isolated>`_. NPR.
+.. _court martial: https://en.wikipedia.org/wiki/Court_Martial_%28Star_Trek:_The_Original_Series%29
 
-.. [6]
-   Steve Silberman. `http://www.ted.com/talks/steve\_silberman\_the\_forgotten\_history\_of\_autism <The%20forgotten%20history%20of%20autism>`_. TED 2015.
+.. [2] Temple Grandin. *Thinking in Pictures*. p.152
+
+.. [3] Tony Attwood. *The complete guide to Asperger's syndrome*. p.126
+
+.. [4] Liane Holliday Willey, in *The complete guide to Asperger's syndrome*. Tony Attwood, p.126
+
+.. [5] Maanvi Singh. |unemployed|_. NPR.
+
+.. |unemployed| replace:: *Young Adults With Autism More Likely To Be Unemployed, Isolated*
+
+.. _unemployed: http://www.npr.org/sections/health-shots/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated
+
+.. [6] Steve Silberman. |forgotten history|_. TED 2015.
+
+.. |forgotten history| replace:: *The forgotten history of autism*
+
+.. _forgotten history: http://www.ted.com/talks/steve_silberman_the_forgotten_history_of_autism
