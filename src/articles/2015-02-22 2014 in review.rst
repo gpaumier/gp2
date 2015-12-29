@@ -1,17 +1,22 @@
 .. title: 2014 in review, and the year ahead
 .. slug: 2014-in-review
 .. date: 2015-02-22T23:24:15
-.. tags: retrospective, General, Wikimedia
-.. image: 2014-11-10 City park.jpg
+.. tags: Wikimedia
+.. keywords: retrospective, Wikimedia
+.. image: /images/2014-11-10_City_park.jpg
+.. todo: find original photos
 
-In 2014, I posted a few photos, I continued to work on technical communications at Wikimedia before a role change, I learned more about myself, I moved to California, and I hiked a lot.
+.. highlights::
+
+    In 2014, I posted a few photos, I continued to work on technical communications at Wikimedia before a role change, I learned more about myself, I moved to California, and I hiked a lot.
+
 
 2014 in failures
 ================
 
 Let's begin with what didn't work and get it out of the way. In January 2014, I started posting `some of my photos <http://guillaumepaumier.com/photo/>`_ on this site. I have accumulated `dozens of thousands of photos <http://guillaumepaumier.com/2014/01/06/42812-photos/>`_ over the past eight years, but published only a small fraction of them. By starting to publish a selection of them here, my goal was to create a momentum that would encourage me to process my backlog and publish my collections here and on Wikimedia Commons.
 
-.. figure:: gpc_photos_2.png
+.. figure:: /images/2015-02-22_gpc_photos.png
    :alt: Screenshot of the photo page of this site.
 
    The `photos <https://guillaumepaumier.com/photo/>`_ didn't last, but they might come back.
@@ -19,6 +24,7 @@ Let's begin with what didn't work and get it out of the way. In January 2014, I 
 The momentum didn't really last, though, and I ended up stopping after posting only seven photo articles. In retrospect, I think the issue wasn't really the photos themselves, but rather the accompanying texts. I've acknowledged this failure, and recently decided to retire the “Photo” section of this website. The photos are still online, but I've removed the navigation shortcut to that section.
 
 I may resume posting photos in the future, although it's not a priority at the moment. If I do, I might change the format of the posts and only feature the photos with a very short text, if any.
+
 
 2014 in work
 ============
@@ -29,7 +35,7 @@ Part of this work involved reviewing technical posts for the `Wikimedia blog <ht
 
 I also continued to assemble `monthly engineering reports <http://www.mediawiki.org/wiki/Category:Wikimedia_engineering_reports>`_, and to put together the `weekly technical newsletter <https://guillaumepaumier.com/project/wikimedia-tech-news/>`_, which `celebrated its first anniversary <https://blog.wikimedia.org/2014/05/20/celebrating-one-year-of-tech-news/>`_ in May. I also worked with `André <http://blogs.gnome.org/aklapper/>`_ on the `Project management tools evaluation <https://www.mediawiki.org/wiki/Project_management_tools/Review>`_, which eventually led the Wikimedia technical community to `migrate to Phabricator <https://blog.wikimedia.org/2014/06/10/on-our-way-to-phabricator/>`_.
 
-.. figure:: 2014-08-06_Wikimania_poster.jpg
+.. figure:: /images/2014-08-06_Wikimania_poster.jpg
    :alt: Photo of a large glass window onto which an A0-size poster has been hung. The poster shows text and diagrams about the Wikimedia Technical newsletter in Solarized colors.
 
    In 2014, I continued to work on Technical Communications at the Wikimedia Foundation, before transitioning to a new position.
@@ -38,38 +44,44 @@ I attended the `Zürich hackathon <https://blog.wikimedia.org/2014/05/10/tech-wi
 
 In September, my role at the Wikimedia Foundation `changed <https://lists.wikimedia.org/pipermail/wikimediaannounce-l/2014-October/000993.html>`_, and I started working on other projects, most notably the `File metadata cleanup drive <http://guillaumepaumier.com/project/file-metadata-cleanup-drive/>`_. The drive is an initiative to decrease the number of files (on Wikimedia sites) whose information can't be read by programs.
 
-.. figure:: mrmetadata-screenshot.png
+.. figure:: /images/2015-02-22_MrMetadata_screenshot.png
    :alt: Screenshot of the MrMetadata tool, showing progress bars for different wikis
 
    In September, my role at the Wikimedia Foundation changed, and I started to work on other projects, like the `File metadata cleanup drive`_.
 
+
 .. _File metadata cleanup drive: http://guillaumepaumier.com/project/file-metadata-cleanup-drive/
+
 
 2014 in self-discovery
 ======================
 
 2013 had been a turning point for me, in that I had discovered that I was likely on the `"high-functioning" part of the autistic spectrum <https://en.wikipedia.org/wiki/Asperger_syndrome>`_. In 2014, a few experts officially confirmed that hypothesis. When asked why this had not been detected earlier in my life, the prevailing hypothesis was that I had unwittingly compensated this social blindness by a higher intelligence, as suggested by tests performed in 2013. I like to think of it as having my my own emulated `emotion chip <https://en.wikipedia.org/wiki/Data_(Star_Trek)>`_.
 
-.. figure:: conclusion_asperger.png
+.. figure:: /images/2015-02-22_conclusion_asperger.png
    :alt: Screenshot of a paragraph from a text document. The text (in French) translates to: CONCLUSION: The criteria (CIM 10 and DSM IV) for the diagnosis of an Autism spectrum disorder, and and in particular of Asperger Syndrome (CIM 10: Axis 1, F-84.5) are present.
 
    I feel like I deserve a membership card or something.
 
+
 Throughout 2014, I continued to research and read on this topic. Doing so, I've continued to better understand my `blind spots <http://aspiesforpresident.tumblr.com/>`_, and explored what I now refer to as my “super-powers”, a fancy way of characterizing `the unique way <http://arstechnica.com/science/2015/01/the-connections-in-autistic-brains-are-idiosyncratic-and-individualized/>`_ in which my brain works.
 
 Notably, I started reading on a variety of specialized topics I was not familiar with but intrigued me. Doing so, I discovered that I was very fast at picking up and understand new concepts and disciplines. I had had a feeling that that was the case for a long time, but experimenting with this skill was particularly fun and rewarding (I've recently been reading about Civil engineering and Human spaceflight).
+
 
 2014 in transatlantic move
 ==========================
 
 The biggest change in 2014 was `our emigration from France to the US <http://guillaumepaumier.com/2015/02/20/transatlantic-move-2/%20"Transatlantic%20move%20II:%20They">`_. As part of my role change at the Wikimedia Foundation, I relocated to the San Francisco Bay Area (`again <https://guillaumepaumier.com/2010/01/27/back-in-the-game/>`_). The relocation process was easier this second time around, in part because my partner was able to relocate with me this time, and also because we decided to get organized.
 
-.. figure:: 2014-10-27_Plane_to_SFO.jpg
+.. figure:: /images/2014-10-27_Plane_to_SFO.jpg
    :alt: Photo of the forward section of a plane in a foggy airport
 
    That cold morning of October, we left France and embarked on `our journey to San Francisco <http://guillaumepaumier.com/2015/02/20/transatlantic-move-2/>`_.
 
+
 Transitioning from a completely-remote environment to a tech open-space has required some adjustments, but overall we're very happy to have relocated.
+
 
 2014 in physical activity
 =========================
@@ -92,12 +104,14 @@ I do go outside sometimes, and as someone intrigued by the concept of `Quantifie
 
 I love to hike and I occasionally run. In 2014, I knew we were going to relocate to sunny California, so I decided to take advantage of the snowy Alps while we were still in France.
 
-.. figure:: 2014-03-10_Snowshoeing.jpg
+.. figure:: /images/2015-03-10_Snowshoeing.jpg
    :alt: Photo of Guillaume Paumier snowshoeing on top of a mountain, with other skiers and blue skies in the background
 
    Some days, taking the chairlift isn't nearly as fun as snowshoeing to the summit.
 
+
 It had been years since I had skied downhill, but after a couple of days it all came back and I enjoyed it a lot. I also started snowshoeing, which was a really nice complementary activity. Where downhill skiing involves sprints and adrenalin, snowshoeing involves endurance and beautiful lesser-used forest trails.
+
 
 The year ahead
 ==============
@@ -110,9 +124,10 @@ Regarding `personal work and recreation <https://twitter.com/gpaumier/status/422
 
 I've also decided to learn to play the piano; we'll see how far I can go in one year. Considering that I'm a total beginner, I can only make progress!
 
-.. figure:: 2015-02-15_Piano.jpg
+.. figure:: /images/2015-02-15_Piano.jpg
    :alt: Close-up photo of the keys of a piano
 
    This year, I'm starting (from scratch) to learn to play the piano.
+
 
 Last, I intend to continue to populate this site with historical and new content. My current priority at the moment is finishing to `write about past projects <https://guillaumepaumier.com/projects/>`_ before embarking on new ones, but I do think there will be room to post new content before next year's “year in review” post.
