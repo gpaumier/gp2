@@ -1,0 +1,14 @@
+<nav id="prevnext">
+    <ul>
+        {% if  previous %}
+            <li id="navprevious">
+                <a{{__pyjade_attrs(attrs=[('href!',("/"+"{}".format(previous.path)+""))])}}>{{previous.title|escape}}</a>
+            </li>
+        {% endif %}
+        {% if  next %}
+            <li id="navnext">
+                <a{{__pyjade_attrs(attrs=[('href!',("/"+"{}".format(next.path)+""))])}}>{{next.title|escape}}</a>
+            </li>
+        {% endif %}
+    </ul>
+</nav>

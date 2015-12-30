@@ -1,0 +1,9 @@
+{% extends "_snippet.tmpl" %}
+
+{% block date %}
+    {% if  item.ongoing     %}
+        <p class="snippet-date">{{moment(item.start).locale(locale).format('LL')|escape}} – {{__('project-status-ongoing')|escape}}</p>
+    {% else %}
+        <p class="snippet-date">{{moment(item.start).locale(locale).format('LL')|escape}} – {{moment(item.end).locale(locale).format('LL')|escape}}</p>
+    {% endif %}
+{% endblock %}
