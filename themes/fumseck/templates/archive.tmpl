@@ -1,0 +1,15 @@
+{% extends "master.jade" %}
+
+{% block article %}
+    <article class="row">
+        {% if  collections[archive] && collections[archive].length  > 0 %}
+            {% for item in __pyjade_iter(collections[archive],1) %}
+                {% block snippet %}
+                    {% include "_snippet.jade" %}
+                {% endblock %}
+            {% endfor %}
+        {% else %}
+            <h3>No articles to display</h3>
+        {% endif %}
+    </article>
+{% endblock %}

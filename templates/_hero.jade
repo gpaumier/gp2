@@ -1,9 +1,0 @@
-section.hero        
-    include _topbar.jade
-        
-    div.row.intro
-        div.small-centered.medium-centered.large-centered
-            h1= title
-            if subtitle
-                h2= subtitle
-            p #{__('publish_date', moment(date).locale(locale).format('LL'))}
