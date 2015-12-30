@@ -3,7 +3,7 @@
 .. slug: mediawiki-architecture-aosa
 .. start: 2011-08-02T00:00:00
 .. end: 2012-05-11T00:00:00
-.. image: aosa-cover-crop.jpg
+.. image: /images/aosa-cover-crop.jpg
 .. roles: writer, researcher
 .. tags: Wikimedia, MediaWiki, engineering, wikiarchaeology, software architecture
 .. draft: true

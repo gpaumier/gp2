@@ -2,7 +2,7 @@
 .. slug: interclubs
 .. start: 2004-10-01T00:00:00
 .. end: 2006-05-30T00:00:00
-.. image: Pirates-Large-DiDay.jpg
+.. image: /images/Pirates-Large-DiDay.jpg
 .. roles: director, writer, coordinator
 .. tags: Performing arts, INSA
 .. draft: true

@@ -2,7 +2,7 @@
 .. slug: licensing-tutorial
 .. start: 2010-01-18T00:00:00
 .. end: 2010-11-05T00:00:00
-.. image: Licensing_tutorial_en.svg_.png
+.. image: /images/Licensing_tutorial_en.svg_.png
 .. roles: project lead
 .. tags: Wikimedia, Wikimedia Commons, translation, licensing, multimedia, usability
 .. draft: true

@@ -3,7 +3,7 @@
 .. slug: phd-pnipam
 .. start: 2005-09-01T00:00:00
 .. end: 2008-11-06T00:00:00
-.. image: PNIPAM-microsystems-at-LAAS-CNRS-011-June-2008.jpg
+.. image: /images/PNIPAM-microsystems-at-LAAS-CNRS-011-June-2008.jpg
 .. roles: project lead, researcher, writer
 .. tags: labs-on-chips, microfluidics, PNIPAM, polymers
 .. draft: true

@@ -3,7 +3,7 @@
 .. slug: fumseck
 .. start: 2013-10-24T00:00:00
 .. end: 2014-01-06T00:00:00
-.. image: devices-fumseck.jpg
+.. image: /images/devices-fumseck.jpg
 .. roles: designer, developer
 .. tags: PHP, WordPress, Solarized, Latin Modern, coding, design
 

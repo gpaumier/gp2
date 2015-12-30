@@ -3,7 +3,7 @@
 .. slug: tech-news
 .. start: 2013-05-16T00:00:00
 .. end: 2015-08-17T00:00:00
-.. image: Tech_news_process_-_Overview.png
+.. image: /images/Tech_news_process_-_Overview.png
 .. roles: writer, project lead
 .. tags: Wikimedia, engineering, Wikipedia, writing, translation, technology, technical communication
 
