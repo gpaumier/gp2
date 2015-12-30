@@ -3,7 +3,7 @@
 .. slug: wikipedia-infographic
 .. start: 2012-06-25T00:00:00
 .. end: 2012-07-14T00:00:00
-.. image: Wikipedia-infographic.png
+.. image: /images/Wikipedia-infographic.png
 .. roles: researcher, designer
 .. tags: Wikimedia, Wikipedia, wikiarchaeology
 .. draft: true

@@ -2,7 +2,7 @@
 .. slug: technical-communications-wikimedia
 .. start: 2011-01-01T00:00:00
 .. end: 2014-10-07T00:00:00
-.. image: tech-blog-activity.png
+.. image: /images/tech-blog-activity.png
 .. roles: writer, project lead
 .. tags: Wikimedia, engineering, Wikipedia, writing, translation, technology, technical communication
 .. draft: true

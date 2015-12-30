@@ -2,7 +2,7 @@
 .. slug: uploadwizard
 .. start: 2009-10-15T00:00:00
 .. end: 2010-12-31T00:00:00
-.. image: upwiz.png
+.. image: /images/upwiz.png
 .. roles: designer, product manager
 .. tags: Wikimedia, Wikimedia Commons, licensing, multimedia, usability
 .. draft: true

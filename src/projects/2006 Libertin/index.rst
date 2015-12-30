@@ -2,7 +2,7 @@
 .. slug: le-libertin
 .. start: 2006-02-21T00:00:00
 .. end: 2006-05-12T00:00:00
-.. image: libertin4.png
+.. image: /images/libertin4.png
 .. roles: stage actor
 .. tags: Performing arts, INSA
 

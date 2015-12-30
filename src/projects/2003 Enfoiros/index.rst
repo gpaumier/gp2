@@ -2,7 +2,7 @@
 .. slug: enfoiros
 .. start: 2003-09-01T00:00:00
 .. end: 2005-06-30T00:00:00
-.. image: enfoiros-Ramonville-054b.jpg
+.. image: /images/enfoiros-Ramonville-054b.jpg
 .. roles: ensemble singer, soloist, volunteer
 .. tags: Performing arts, INSA
 
