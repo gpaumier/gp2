@@ -70,11 +70,18 @@ Developing the theme
 
 I'm currently using `Brunch <http://brunch.io/>`__ to compile JavaScript and CSS assets. This is only needed to modify the site's JS and CSS; when writing and publishing a new post or page, the theme doesn't change so the previous section is enough.
 
-Install Brunch:
+Install Brunch globally:
 
 ::
 
     # npm install -g brunch
+
+
+Install the theme's dependencies:
+
+::
+
+    # npm install
 
 Launch Brunch in watcher mode:
 
