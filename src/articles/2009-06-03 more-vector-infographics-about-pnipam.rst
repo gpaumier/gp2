@@ -1,4 +1,5 @@
 .. title: More vector infographics about PNIPAM
+.. category: articles-en
 .. slug: more-vector-infographics-about-pnipam
 .. date: 2009-06-03 14:39:46
 .. tags: Science

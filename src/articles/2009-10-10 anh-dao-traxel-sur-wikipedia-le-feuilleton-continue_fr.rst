@@ -1,4 +1,5 @@
 .. title: Anh Đào Traxel sur Wikipedia : le feuilleton continue
+.. category: articles-fr
 .. slug: anh-dao-traxel-sur-wikipedia-le-feuilleton-continue
 .. date: 2009-10-10 10:25:46
 .. tags: Wikimedia

@@ -1,4 +1,5 @@
 .. title: Fumseck
+.. category: projects-en
 .. subtitle: the Solarized WordPress theme
 .. slug: fumseck
 .. date: 2013-10-24T00:00:00

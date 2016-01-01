@@ -1,4 +1,5 @@
 .. title: Introducing the Wikimedia documents initiative
+.. category: articles-en
 .. slug: introducing-the-wikimedia-documents-initiative
 .. date: 2009-05-20 21:13:44
 .. tags: Wikimedia, mathjax

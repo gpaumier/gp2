@@ -1,4 +1,5 @@
 .. title: Illustrated licensing tutorial for Wikimedia Commons
+.. category: articles-en
 .. slug: illustrated-licensing-tutorial-for-wikimedia-commons
 .. date: 2010-11-05 15:18:54
 .. tags: Wikimedia

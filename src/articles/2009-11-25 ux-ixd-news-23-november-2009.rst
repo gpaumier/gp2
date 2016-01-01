@@ -1,4 +1,5 @@
 .. title: UX and IxD news -- 23 November 2009
+.. category: articles-en
 .. slug: ux-ixd-news-23-november-2009
 .. date: 2009-11-25 09:26:08
 .. tags: Wikimedia

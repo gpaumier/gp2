@@ -1,4 +1,5 @@
 .. title: Wikipedia vu par des enfants de 8 à 11 ans
+.. category: articles-fr
 .. slug: wikipedia-vu-par-des-enfants
 .. date: 2010-05-31 09:28:33
 .. tags: Wikimedia

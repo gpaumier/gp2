@@ -1,4 +1,5 @@
 .. title: Réorganisation des blogs
+.. category: articles-fr
 .. slug: reorganisation-des-blogs
 .. date: 2009-05-09 17:26:44
 .. todo: add update, update links

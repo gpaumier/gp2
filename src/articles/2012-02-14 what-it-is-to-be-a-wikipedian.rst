@@ -1,4 +1,5 @@
 .. title: What it is to be a Wikipedian
+.. category: articles-en
 .. slug: what-it-is-to-be-a-wikipedian
 .. date: 2012-02-14 16:48:05
 .. tags: Wikimedia

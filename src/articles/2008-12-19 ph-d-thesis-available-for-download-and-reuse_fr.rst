@@ -1,4 +1,5 @@
 .. title: Thèse de doctorat : publication et réutilisation
+.. category: articles-fr
 .. slug: these-de-doctorat-publication-et-reutilisation
 .. date: 2008-12-19 13:00:31
 

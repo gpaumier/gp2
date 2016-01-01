@@ -1,4 +1,5 @@
 .. title: Wikipedia et les autres projets Wikimedia : où contribuer ?
+.. category: articles-fr
 .. slug: wikipedia-et-les-autres-projets-wikimedia-ou-contribuer
 .. date: 2008-06-18 16:51:01
 .. tags: Wikimedia

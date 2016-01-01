@@ -1,4 +1,5 @@
 .. title: Subscribe to Tech News to stay informed of upcoming technical changes
+.. category: articles-en
 .. clean: no
 .. slug: subscribe-to-tech-news-to-stay-informed-of-upcoming-technical-changes
 .. date: 2013-06-12 11:42:50

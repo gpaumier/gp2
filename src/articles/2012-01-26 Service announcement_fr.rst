@@ -1,4 +1,5 @@
 .. title: Message de service
+.. category: articles-fr
 .. slug: message-de-service-2
 
 .. highlights::

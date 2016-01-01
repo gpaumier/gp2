@@ -1,4 +1,5 @@
 .. title: Open Advice
+.. category: projects-en
 .. subtitle: Lessons learned from the free software community
 .. slug: open-advice
 .. date: 2011-02-26T00:00:00

@@ -1,4 +1,5 @@
 .. title: Back in the game
+.. category: articles-en
 .. slug: back-in-the-game
 .. date: 2010-01-27 03:48:24
 .. tags: Wikimedia

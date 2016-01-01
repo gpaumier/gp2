@@ -1,4 +1,5 @@
 .. title: Wikimedia Commons gets user galleries
+.. category: articles-en
 .. slug: wikimedia-commons-user-galleries
 .. date: 2011-03-16 11:54:49
 .. tags: Multimedia usability, UX, Commons, Engineering, Wikimedia

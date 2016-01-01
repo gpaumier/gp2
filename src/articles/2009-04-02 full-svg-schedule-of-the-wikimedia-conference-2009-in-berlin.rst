@@ -1,4 +1,5 @@
 .. title: Full SVG schedule of the Wikimedia conference 2009 in Berlin
+.. category: articles-en
 .. slug: full-svg-schedule-of-the-wikimedia-conference-2009-in-berlin
 .. date: 2009-04-02 16:31:31
 .. tags: Wikimedia

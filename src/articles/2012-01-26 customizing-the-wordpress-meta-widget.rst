@@ -1,4 +1,5 @@
 .. title: Customizing the WordPress meta widget
+.. category: articles-en
 .. slug: customizing-the-wordpress-meta-widget
 .. date: 2012-01-26 16:07:18
 .. keywords: WordPress, Coding, Engineering, Wikimedia

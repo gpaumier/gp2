@@ -1,4 +1,5 @@
 .. title: Keep Calm and Click [edit]
+.. category: articles-en
 .. slug: keep-calm-and-click-edit
 .. date: 2011-10-21 17:01:18
 .. tags: Wikimedia

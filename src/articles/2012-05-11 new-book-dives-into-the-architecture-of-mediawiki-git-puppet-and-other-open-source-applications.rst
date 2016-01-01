@@ -1,4 +1,5 @@
 .. title: New book dives into the architecture of MediaWiki, git, puppet and other open-source applications
+.. category: articles-en
 .. clean: no
 .. slug: new-book-dives-into-the-architecture-of-mediawiki-git-puppet-and-other-open-source-applications
 .. date: 2012-05-11 09:45:27

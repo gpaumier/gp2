@@ -1,4 +1,5 @@
 .. title: Prototype upload wizard unveiled for Wikimedia Commons
+.. category: articles-en
 .. slug: prototype-upload-wizard-unveiled-for-wikimedia-commons
 .. date: 2010-08-07 00:06:18
 .. tags: Wikimedia

@@ -1,4 +1,5 @@
 .. title: MediaWiki's architecture
+.. category: projects-en
 .. subtitle: a chapter for The Architecture of Open Source Applications, volume 2
 .. slug: mediawiki-architecture-aosa
 .. date: 2011-08-02T00:00:00

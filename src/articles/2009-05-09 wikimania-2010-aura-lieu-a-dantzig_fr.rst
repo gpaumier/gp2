@@ -1,4 +1,5 @@
 .. title: Wikimania 2010 aura lieu à Dantzig
+.. category: articles-fr
 .. slug: wikimania-2010-aura-lieu-a-dantzig
 .. date: 2009-05-09 21:39:34
 .. tags: Wikimedia

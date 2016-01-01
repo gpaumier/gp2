@@ -1,4 +1,5 @@
 .. title: « Open Advice » : un livre sur l'expérience accumulée par la communauté du libre
+.. category: articles-fr
 .. slug: open-advice-livre
 .. date: 2012-02-06 12:24:23
 .. tags: Wikimedia

@@ -1,4 +1,5 @@
 .. title: Wikipedia 2013 timeline
+.. category: projects-en
 .. slug: wikipedia-2013-timeline
 .. date: 2013-12-20T00:00:00
 .. end: 2014-01-10T00:00:00

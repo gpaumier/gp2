@@ -1,4 +1,5 @@
 .. title: Le Libertin
+.. category: projects-en
 .. slug: le-libertin
 .. date: 2006-02-21T00:00:00
 .. end: 2006-05-12T00:00:00

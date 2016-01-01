@@ -1,4 +1,5 @@
 .. title: Michael Jackson, Farrah Fawcett et Wikipedia
+.. category: articles-fr
 .. slug: michael-jackson-farrah-fawcett-et-wikipedia
 .. date: 2009-06-26 10:49:37
 .. tags: Wikimedia

@@ -1,4 +1,5 @@
 .. title: Capitole des États-Unis, de nuit
+.. category: articles-fr
 .. slug: capitole-des-etats-unis-de-nuit
 .. date: 2014-02-02 14:32:44
 .. keywords: crépuscule, National Mall, Image, reflexion, twilight, Washington D.C., Photo

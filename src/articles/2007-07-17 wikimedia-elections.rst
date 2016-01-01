@@ -1,4 +1,5 @@
 .. title: Wikimedia elections: thoughts
+.. category: articles-en
 .. slug: wikimedia-elections
 .. date: 2007-07-17 18:06:06
 .. tags: Wikimedia

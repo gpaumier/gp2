@@ -1,4 +1,5 @@
 .. title: Questions/réponses IRC sur le Multimedia usability project
+.. category: articles-fr
 .. slug: questionsreponses-irc-multimedia-usability
 .. date: 2010-02-01 19:03:40
 

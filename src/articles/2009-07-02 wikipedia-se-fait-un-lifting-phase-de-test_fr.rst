@@ -1,4 +1,5 @@
 .. title: Wikipedia se fait un lifting (phase de test)
+.. category: articles-fr
 .. slug: wikipedia-se-fait-un-lifting-phase-de-test
 .. date: 2009-07-02 06:35:39
 .. tags: Wikimedia

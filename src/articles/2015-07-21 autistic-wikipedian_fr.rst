@@ -1,4 +1,5 @@
 .. title: Autiste et Wikipédien
+.. category: articles-fr
 .. slug: wikipedien-autiste
 .. tags: Wikimedia, Autisme
 

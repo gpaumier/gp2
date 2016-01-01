@@ -1,4 +1,5 @@
 .. title: Et pour la fiabilité des informations, aucun souci, c'est Larousse !
+.. category: articles-fr
 .. slug: et-pour-la-fiabilite-des-informations-aucun-souci-cest-larousse
 .. date: 2007-09-10 13:53:35
 .. tags: Wikimedia

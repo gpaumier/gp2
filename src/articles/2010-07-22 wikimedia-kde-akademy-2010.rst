@@ -1,4 +1,5 @@
 .. title: Wikimedia at KDE Akademy 2010
+.. category: articles-en
 .. slug: wikimedia-kde-akademy-2010
 .. date: 2010-07-22 10:28:32
 .. tags: Wikimedia, KDE, video

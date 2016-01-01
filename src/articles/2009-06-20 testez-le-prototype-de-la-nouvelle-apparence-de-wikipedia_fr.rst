@@ -1,4 +1,5 @@
 .. title: Testez le prototype de la nouvelle apparence de Wikipedia
+.. category: articles-fr
 .. slug: testez-le-prototype-de-la-nouvelle-apparence-de-wikipedia
 .. date: 2009-06-20 16:27:51
 .. tags: Wikimedia

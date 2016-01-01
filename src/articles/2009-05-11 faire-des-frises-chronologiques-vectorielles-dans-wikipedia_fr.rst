@@ -1,4 +1,5 @@
 .. title: Faire des frises chronologiques vectorielles dans Wikipedia
+.. category: articles-fr
 .. slug: faire-des-frises-chronologiques-vectorielles-dans-wikipedia
 .. date: 2009-05-11 16:06:56
 .. tags: Wikimedia

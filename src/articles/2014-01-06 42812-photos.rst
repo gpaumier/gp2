@@ -1,4 +1,5 @@
 .. title: 42,812 photos
+.. category: articles-en
 .. slug: 42812-photos
 .. date: 2014-01-06 07:56:17
 .. tags: Photo

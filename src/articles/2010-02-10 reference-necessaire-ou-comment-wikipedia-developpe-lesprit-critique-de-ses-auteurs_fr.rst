@@ -1,4 +1,5 @@
 .. title: {{Référence nécessaire}}, ou comment Wikipedia développe l'esprit critique de ses auteurs
+.. category: articles-fr
 .. slug: reference-necessaire-ou-comment-wikipedia-developpe-lesprit-critique-de-ses-auteurs
 .. date: 2010-02-10 04:45:25
 .. tags: Wikimedia
@@ -16,7 +17,7 @@ C'est ensuite devenu une *private joke*, une blague comprise uniquement des init
 
 .. figure:: /images/2010-02-10_Burgers_built_with_what_you_love_citation_needed_by_Matt_Mechtley.jpg
     :alt: Panneau publicitaire représentant un burger. La publicité comporte un texte vantant les mérites du burger. Un autocollant avec le texte « citation needed » a été collé sur la publicité, à la suite du texte.
-    :target:http://www.flickr.com/photos/34085067@N00/2205859072
+    :target: http://www.flickr.com/photos/34085067@N00/2205859072
 
     Burgers built with what you love (citation needed).
 
@@ -43,9 +44,9 @@ Pour finir, je dois reconnaître que rédiger des articles dans Wikipedia n'est 
 
 .. class:: copyright-notes
 
-    |burger|_ by `Matt Mechtley`_, under `CC-By-SA`, from flickr.
+    |burger|_ by `Matt Mechtley`_, under `CC-By-SA`_, from flickr.
 
-    |xkcd|_ by `Randall Munroe`_, under `CC-By`, from |Wikimedia Commons|_.
+    |xkcd|_ by `Randall Munroe`_, under `CC-By`_, from `Wikimedia Commons`_.
 
 .. |burger| replace:: *Burgers built with what you love [citation needed]*
 

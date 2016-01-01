@@ -1,4 +1,5 @@
 .. title: Non, la fille de Chirac ne porte pas plainte contre Wikipedia
+.. category: articles-fr
 .. slug: non-la-fille-de-chirac-ne-porte-pas-plainte-contre-wikipedia
 .. date: 2009-09-24 20:17:55
 .. tags: Wikimedia

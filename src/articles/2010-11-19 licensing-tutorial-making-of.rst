@@ -1,4 +1,5 @@
 .. title: Wikimedia Commons licensing tutorial: the making-of
+.. category: articles-en
 .. slug: licensing-tutorial-making-of
 .. date: 2010-11-19 22:17:35
 .. tags: Wikimedia

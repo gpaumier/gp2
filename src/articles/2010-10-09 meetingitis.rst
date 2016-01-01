@@ -1,4 +1,5 @@
 .. title: Meetingitis
+.. category: articles-en
 .. slug: meetingitis
 .. date: 2010-10-09 20:59:44
 .. keywords: Meetings, Meetingitis

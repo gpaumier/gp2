@@ -1,4 +1,5 @@
 .. title: Lecture de fichiers PDF sur les projets Wikimedia
+.. category: articles-fr
 .. slug: lecture-de-fichiers-pdf-sur-les-projets-wikimedia
 .. date: 2009-09-04 22:03:30
 .. tags: Wikimedia

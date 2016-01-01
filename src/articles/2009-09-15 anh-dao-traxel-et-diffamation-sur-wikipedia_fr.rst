@@ -1,4 +1,5 @@
 .. title: Anh Đào Traxel et diffamation sur Wikipedia
+.. category: articles-fr
 .. slug: anh-dao-traxel-et-diffamation-sur-wikipedia
 .. date: 2009-09-15 11:25:23
 .. tags: Wikimedia

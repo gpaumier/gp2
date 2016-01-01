@@ -1,4 +1,5 @@
 .. title: Human evolution at a junk fair
+.. category: articles-en
 .. slug: human-evolution-at-a-junk-fair
 .. date: 2014-01-29 08:51:10
 .. tags: Photo

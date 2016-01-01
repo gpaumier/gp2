@@ -1,4 +1,5 @@
 .. title: Technical Communications
+.. category: projects-en
 .. slug: technical-communications-wikimedia
 .. date: 2011-01-01T00:00:00
 .. end: 2014-10-07T00:00:00
