@@ -1,6 +1,6 @@
 .. title: Wikimedia Commons UploadWizard
 .. slug: uploadwizard
-.. start: 2009-10-15T00:00:00
+.. date: 2009-10-15T00:00:00
 .. end: 2010-12-31T00:00:00
 .. image: /images/upwiz.png
 .. roles: designer, product manager

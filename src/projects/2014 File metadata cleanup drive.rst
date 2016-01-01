@@ -1,6 +1,6 @@
 .. title: File metadata cleanup drive
 .. slug: file-metadata-cleanup-drive
-.. start: 2014-09-11T00:00:00
+.. date: 2014-09-11T00:00:00
 .. ongoing: true
 .. image: /images/MrMetadata-screenshot.png
 .. roles: analyst, project lead

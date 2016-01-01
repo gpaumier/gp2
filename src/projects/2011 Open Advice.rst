@@ -1,7 +1,7 @@
 .. title: Open Advice
 .. subtitle: Lessons learned from the free software community
 .. slug: open-advice
-.. start: 2011-02-26T00:00:00
+.. date: 2011-02-26T00:00:00
 .. end: 2012-02-06T00:00:00
 .. image: /images/Open-advice-books-8098s.jpg
 .. roles: writer

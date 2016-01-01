@@ -1,7 +1,7 @@
 .. title: Chapters meeting
 .. subtitle: Wikimedia conference 2009 in Berlin
 .. slug: chapters-meeting-2009
-.. start: 2009-01-19T00:00:00
+.. date: 2009-01-19T00:00:00
 .. end: 2009-04-07T00:00:00
 .. image: /images/Chapters_meeting_2009_audience.jpg
 .. roles: organizer, project lead

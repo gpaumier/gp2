@@ -1,6 +1,6 @@
 .. title: Le Libertin
 .. slug: le-libertin
-.. start: 2006-02-21T00:00:00
+.. date: 2006-02-21T00:00:00
 .. end: 2006-05-12T00:00:00
 .. image: /images/libertin4.png
 .. roles: stage actor
