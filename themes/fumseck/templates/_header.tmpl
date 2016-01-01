@@ -1,0 +1,25 @@
+<nav id="topbar" data-topbar role="navigation" class="top-bar">
+    <div class="top-bar-left">
+        <ul class="dropdown menu" data-dropdown-menu>
+            <li class="menu-text"><a href="{{ abs_link(_link("root", None, lang)) }}" title="{{ blog_title|e }}" rel="home">{{ blog_title|e }}</li>
+        </ul>
+    </div>
+    <div class="top-bar-right">
+        <ul class="menu">
+            <li class="has-submenu">
+                <i class="fa fa-language"></i>&nbsp;{{ messages("LANGUAGE", lang) }}
+                <ul class="submenu menu vertical" data-submenu>
+                    {% for langname in translations|sort %}
+                        {% if langname != lang %}
+                            {% if post.is_translation_available(langname) %}
+                                <li><a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}"><i class="fa fa-angle-right"></i>&nbsp;{{ messages("LANGUAGE", langname) }}</a></li>
+                            {% else %}
+                                <li class="topbar-disabled-item"><i class="fa fa-ban"></i>&nbsp;{{ messages("LANGUAGE", langname) }}</li>
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </li>
+        </ul>
+    </div>
+</nav>

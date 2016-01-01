@@ -1,51 +1,33 @@
 {#  -*- coding: utf-8 -*- #}
 {% import 'post_helper.tmpl' as helper with context %}
 {% import 'post_header.tmpl' as pheader with context %}
-{% import 'comments_helper.tmpl' as comments with context %}
 {% extends 'base.tmpl' %}
 
-{% block extra_head %}
-    {{ super() }}
-    {% if post.meta('keywords') %}
-    <meta name="keywords" content="{{ post.meta('keywords')|e }}">
-    {% endif %}
-    {% if post.description() %}
-    <meta name="description" content="{{ post.description()|e }}">
-    {% endif %}
-    <meta name="author" content="{{ post.author()|e }}">
-    {% if post.prev_post %}
-        <link rel="prev" href="{{ post.prev_post.permalink() }}" title="{{ post.prev_post.title()|e }}" type="text/html">
-    {% endif %}
-    {% if post.next_post %}
-        <link rel="next" href="{{ post.next_post.permalink() }}" title="{{ post.next_post.title()|e }}" type="text/html">
-    {% endif %}
-    {% if post.is_draft %}
-        <meta name="robots" content="noindex">
-    {% endif %}
-    {{ helper.open_graph_metadata(post) }}
-    {{ helper.twitter_card_information(post) }}
-    {{ helper.meta_translations(post) }}
+{% block header %}
+    {% include "_header.tmpl" %}
 {% endblock %}
 
 {% block content %}
 <article class="post-{{ post.meta('type') }} h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article">
-    {{ pheader.html_post_header() }}
+    <header>
+        <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>
+
+        <p class="dateline"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time></p>
+    </header>
+
+    <nav>
+        {{ pheader.html_translations(post) }}
+    </nav>
+
     <div class="e-content entry-content" itemprop="articleBody text">
-
-        {% if post.meta('image') %}
-        <img src="{{post.meta('image') }}">
-        {% endif %}
-
     {{ post.text() }}
     </div>
+    <aside class="postpromonav">
+    <nav>
+    {{ helper.html_pager(post) }}
+    </nav>
+    </aside>
 
-    {% if not post.meta('nocomments') and site_has_comments %}
-        <section class="comments hidden-print">
-        <h2>{{ messages("Comments") }}</h2>
-        {{ comments.comment_form(post.permalink(absolute=True), post.title(), post._base_path) }}
-        </section>
-    {% endif %}
     {{ helper.mathjax_script(post) }}
 </article>
-{{ comments.comment_link_script() }}
 {% endblock %}

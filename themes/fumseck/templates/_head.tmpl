@@ -1,0 +1,41 @@
+{% import 'base_helper.tmpl' as base with context %}
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+{% if use_base_tag %}
+    <base href="{{ abs_link(permalink) }}">
+{% endif %}
+{% if description %}
+    <meta name="description" content="{{ description|e }}">
+{% endif %}
+
+{% if title == blog_title %}
+    <title>{{ blog_title|e }}</title>
+{% else %}
+    <title>{{ title|e }} | {{ blog_title|e }}</title>
+{% endif %}
+
+<link href="/assets/fumseck.css" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+
+{{ base.html_feedlinks() }}
+<link rel="canonical" href="{{ abs_link(permalink) }}">
+
+{% if favicons %}
+    {% for name, file, size in favicons %}
+        <link rel="{{ name }}" href="{{ file }}" sizes="{{ size }}"/>
+    {% endfor %}
+{% endif %}
+
+{% block css %}
+{% endblock %}
+
+{% if prevlink %}
+    <link rel="prev" href="{{ prevlink }}" type="text/html">
+{% endif %}
+{% if nextlink %}
+    <link rel="next" href="{{ nextlink }}" type="text/html">
+{% endif %}
+
+{{ mathjax_config }}
