@@ -1,6 +1,6 @@
 .. title: Wikimedia Commons licensing tutorial
 .. slug: licensing-tutorial
-.. start: 2010-01-18T00:00:00
+.. date: 2010-01-18T00:00:00
 .. end: 2010-11-05T00:00:00
 .. image: /images/Licensing_tutorial_en.svg_.png
 .. roles: project lead

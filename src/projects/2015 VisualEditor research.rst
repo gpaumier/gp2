@@ -1,6 +1,6 @@
 .. title: VisualEditor research
 .. slug: visualeditor-research
-.. start: 2015-03-20T00:00:00
+.. date: 2015-03-20T00:00:00
 .. end: 2015-06-18T00:00:00
 .. image: /images/ve-diff-review.png
 .. roles: researcher

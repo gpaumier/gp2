@@ -1,6 +1,6 @@
 .. title: Wikimedia Research Codex
 .. slug: wikimedia-research-codex
-.. start: 2015-10-01T00:00:00
+.. date: 2015-10-01T00:00:00
 .. image:
 .. roles: researcher, writer
 .. tags: Wikimedia, Wikipedia, research
