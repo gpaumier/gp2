@@ -1,4 +1,5 @@
 .. title: Michael Jackson et sa Death Note dans Wikipedia
+.. category: articles-fr
 .. slug: michael-jackson-et-sa-death-note-dans-wikipedia
 .. date: 2009-06-28 16:09:02
 .. tags: Wikimedia

@@ -1,4 +1,5 @@
 .. title: Dear blogger
+.. category: articles-en
 .. slug: dear-blogger
 .. date: 2009-11-25 09:07:44
 

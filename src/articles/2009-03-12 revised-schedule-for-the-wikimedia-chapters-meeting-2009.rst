@@ -1,4 +1,5 @@
 .. title: Revised schedule for the Wikimedia Chapters meeting 2009
+.. category: articles-en
 .. slug: revised-schedule-for-the-wikimedia-chapters-meeting-2009
 .. date: 2009-03-12 12:44:54
 .. tags: Wikimedia

@@ -1,4 +1,5 @@
 .. title: Le métro de Toulouse parle occitan
+.. category: articles-fr
 .. slug: le-metro-de-toulouse-parle-occitan
 .. date: 2009-09-25 01:42:00
 .. image: /images/2009-09-25_metro_toulouse.jpg

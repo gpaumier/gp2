@@ -1,4 +1,5 @@
 .. title: Stratégie de développement logiciel: Wikimedia & MediaWiki
+.. category: articles-fr
 .. slug: strategie-developpement-logiciel-wikimedia-mediawiki
 .. date: 2010-03-08 22:22:58
 .. tags: Wikimedia

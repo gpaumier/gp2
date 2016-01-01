@@ -1,4 +1,5 @@
 .. title: Visite guidée de salle blanche
+.. category: articles-fr
 .. slug: visite-guidee-de-salle-blanche
 .. date: 2007-12-20 20:42:28
 

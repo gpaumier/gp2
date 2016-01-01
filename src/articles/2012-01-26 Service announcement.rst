@@ -1,4 +1,5 @@
 .. title: Service announcement
+.. category: articles-en
 .. slug: service-announcement
 .. date: 2012-01-26 11:07:08
 ..

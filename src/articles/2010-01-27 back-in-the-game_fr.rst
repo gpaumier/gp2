@@ -1,4 +1,5 @@
 .. title: Retour sur scène
+.. category: articles-fr
 .. slug: retour-sur-scene
 .. date: 2010-01-27 03:48:24
 

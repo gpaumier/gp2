@@ -1,4 +1,5 @@
 .. title: Consanguinité bloguesque, ou le phénomène de reblogging
+.. category: articles-fr
 .. slug: consanguinite-bloguesque-ou-le-phenomene-de-reblogging
 .. date: 2009-06-28 12:06:20
 

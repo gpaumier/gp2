@@ -1,4 +1,5 @@
 .. title: More Wikimedia documents!
+.. category: articles-en
 .. slug: more-wikimedia-documents
 .. date: 2010-02-10 05:18:31
 .. tags: Wikimedia

@@ -1,4 +1,5 @@
 .. title: Biodevices 2008, Funchal, Madeira
+.. category: articles-en
 .. clean: no
 .. slug: biodevices-2008-funchal-madeira
 .. date: 2008-02-06 22:14:15

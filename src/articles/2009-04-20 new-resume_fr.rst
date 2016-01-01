@@ -1,4 +1,5 @@
 .. title: Nouveau CV
+.. category: articles-fr
 .. slug: nouveau-cv
 .. date: 2009-04-21 08:49:40
 .. keywords: interdisciplinarité, Scribus

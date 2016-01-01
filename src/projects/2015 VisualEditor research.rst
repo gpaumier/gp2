@@ -1,4 +1,5 @@
 .. title: VisualEditor research
+.. category: projects-en
 .. slug: visualeditor-research
 .. date: 2015-03-20T00:00:00
 .. end: 2015-06-18T00:00:00

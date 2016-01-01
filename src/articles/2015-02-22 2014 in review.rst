@@ -1,4 +1,5 @@
 .. title: 2014 in review, and the year ahead
+.. category: articles-en
 .. slug: 2014-in-review
 .. date: 2015-02-22T23:24:15
 .. tags: Wikimedia

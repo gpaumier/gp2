@@ -1,4 +1,5 @@
 .. title: Wikipedia infographic
+.. category: projects-en
 .. subtitle: 11 years of Wikipedia
 .. slug: wikipedia-infographic
 .. date: 2012-06-25T00:00:00

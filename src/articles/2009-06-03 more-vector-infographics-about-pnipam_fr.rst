@@ -1,4 +1,5 @@
 .. title: Infographies vectorielles sur le PNIPAM
+.. category: articles-fr
 .. slug: infographies-vectorielles-sur-le-pnipam
 .. date: 2009-06-03 14:39:46
 

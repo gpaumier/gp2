@@ -1,4 +1,5 @@
 .. title: Wikimedia Commons UploadWizard
+.. category: projects-en
 .. slug: uploadwizard
 .. date: 2009-10-15T00:00:00
 .. end: 2010-12-31T00:00:00

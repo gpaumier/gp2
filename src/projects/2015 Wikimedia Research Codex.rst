@@ -1,4 +1,5 @@
 .. title: Wikimedia Research Codex
+.. category: projects-en
 .. slug: wikimedia-research-codex
 .. date: 2015-10-01T00:00:00
 .. image:

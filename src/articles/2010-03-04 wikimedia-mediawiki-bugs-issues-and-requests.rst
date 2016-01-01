@@ -1,4 +1,5 @@
 .. title: Wikimedia and MediaWiki bugs, issues, and requests
+.. category: articles-en
 .. slug: wikimedia-mediawiki-bugs-issues-and-requests
 .. date: 2010-03-04 02:26:46
 .. tags: Wikimedia

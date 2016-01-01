@@ -1,4 +1,5 @@
 .. title: MicroTAS 2007, Paris, France
+.. category: articles-fr
 .. slug: microtas-2007-paris-france-3
 .. date: 2007-10-14 21:15:41
 

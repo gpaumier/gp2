@@ -1,4 +1,5 @@
 .. title: Abri normand dans la forêt de Lyons
+.. category: articles-fr
 .. slug: forest-dwelling-in-normandy
 .. date: 2014-01-28 11:43:41
 .. tags: forest,Lyons-la-Forêt,Image,Photo

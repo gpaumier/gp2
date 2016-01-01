@@ -1,4 +1,5 @@
 .. title: Actualités Wikimedia -- 2 septembre 2009
+.. category: articles-fr
 .. slug: actualites-wikimedia-2-septembre-2009
 .. date: 2009-09-02 14:12:56
 .. tags: Wikimedia, Actualités Wikimedia

@@ -1,4 +1,5 @@
 .. title: digiKam, the perfect tool for Wikimedia Commons photographers?
+.. category: articles-en
 .. slug: digikam-the-perfect-tool-for-wikimedia-commons-photographers
 .. date: 2009-09-22 16:32:44
 .. tags: Wikimedia

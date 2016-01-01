@@ -1,4 +1,5 @@
 .. title: Aidez à rendre plus facile l'ajout d'images sur Wikipedia
+.. category: articles-fr
 .. slug: aidez-a-rendre-plus-facile-lajout-dimages-sur-wikipedia
 .. date: 2009-11-18 17:32:30
 .. tags: Ergonomie multimédia, Ingénierie, Wikimedia

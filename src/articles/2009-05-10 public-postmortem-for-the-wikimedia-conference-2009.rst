@@ -1,4 +1,5 @@
 .. title: Public postmortem for the Wikimedia Conference 2009
+.. category: articles-en
 .. slug: public-postmortem-for-the-wikimedia-conference-2009
 .. date: 2009-05-10 13:58:38
 .. tags: Wikimedia

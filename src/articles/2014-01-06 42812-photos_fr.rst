@@ -1,4 +1,5 @@
 .. title: 42 812 photos
+.. category: articles-fr
 .. clean: no
 .. slug: 42-812-photos
 .. date: 2014-01-06 07:58:00

@@ -1,4 +1,5 @@
 .. title: digiKam / KDE imaging coding sprint 2009
+.. category: articles-en
 .. slug: digikam-kde-imaging-coding-sprint-2009
 .. date: 2009-11-17 08:07:00
 .. tags: KDE

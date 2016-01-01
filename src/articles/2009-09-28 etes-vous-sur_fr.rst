@@ -1,4 +1,5 @@
 .. title: Êtes-vous sûr ?
+.. category: articles-fr
 .. slug: etes-vous-sur
 .. date: 2009-09-28 08:59:19
 

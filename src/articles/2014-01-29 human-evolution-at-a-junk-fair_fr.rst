@@ -1,4 +1,5 @@
 .. title: L'évolution humaine à la brocante
+.. category: articles-fr
 .. slug: levolution-humaine-a-la-brocante
 .. date: 2014-01-29 08:53:37
 .. keywords: Bordeaux, brocante, Image, Photo

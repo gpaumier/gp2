@@ -1,4 +1,5 @@
 .. title: Temporal evolution of the content & participants of Wikimedia Commons
+.. category: articles-en
 .. slug: evolution-content-participants-wikimedia-commons-wikipedia
 .. date: 2010-03-28 23:57:27
 .. tags: Wikimedia

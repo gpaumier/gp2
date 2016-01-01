@@ -1,4 +1,5 @@
 .. title: Actualités Wikimedia -- 4 octobre 2009
+.. category: articles-fr
 .. slug: actualites-wikimedia-4-octobre-2009
 .. date: 2009-10-04 15:31:07
 .. tags: Actualités Wikimedia, Wikimedia

@@ -1,4 +1,5 @@
 .. title: The Enfoiros
+.. category: projects-en
 .. slug: enfoiros
 .. date: 2003-09-01T00:00:00
 .. end: 2005-06-30T00:00:00

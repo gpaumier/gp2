@@ -1,4 +1,5 @@
 .. title: Sur Wikipedia, le conditionnel doit mourir
+.. category: articles-fr
 .. slug: sur-wikipedia-le-conditionnel-doit-mourir
 .. date: 2009-05-27 09:16:58
 .. tags: Wikimedia

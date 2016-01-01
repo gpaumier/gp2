@@ -1,4 +1,5 @@
 .. title: Chapters meeting
+.. category: projects-en
 .. subtitle: Wikimedia conference 2009 in Berlin
 .. slug: chapters-meeting-2009
 .. date: 2009-01-19T00:00:00

@@ -1,4 +1,5 @@
 .. title: Wikimedia Multimedia UX testing videos
+.. category: articles-en
 .. slug: wikimedia-multimedia-ux-testing-videos
 .. date: 2010-07-23 10:29:54
 .. tags: Wikimedia, video
