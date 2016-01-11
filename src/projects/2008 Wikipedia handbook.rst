@@ -5,7 +5,10 @@
 .. end: 2009-12-12T00:00:00
 .. image: /images/wp-pug-cover-small.jpg
 .. roles: writer
-.. tags: Wikimedia, Wikipedia, wikiarchaeology
+.. keywords: Wikimedia, Wikipedia, wikiarchaeology
 .. draft: true
 
-In 2008, I wrote a Wikipedia handbook in French with Florence Devouard.
+
+.. highlights::
+
+    In 2008, I wrote a Wikipedia handbook in French with Florence Devouard.

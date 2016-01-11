@@ -1,0 +1,32 @@
+{#  -*- coding: utf-8 -*- #}
+{% block content %}
+
+    <div id="{{ post_list_id }}" class="post-list">
+        {% if posts %}
+            {% for post in posts %}
+
+            <article class="snippet">
+                <div class="snippet-content">
+                    {% if post.meta('image') %}
+                        <img src="{{ post.meta('image') }}"/>
+                    {% endif %}
+
+                    <div class="snippet-text">
+                        <h3>
+                            <a href="{{ post.permalink(lang) }}">{{ post.title(lang)|e }}</a>
+                            {% if post.meta('subtitle') %}
+                                <small>– {{ post.meta('subtitle'|e) }}</small>
+                            {% endif %}
+                        </h3>
+
+                        <p>{{ post.meta('excerpt') }}</p>
+
+                        <p class="snippet-date">{{ post.formatted_date(date_format)|e }}</p>
+                    </div>
+                </div>
+            </article>
+            {% endfor %}
+        {% endif %}
+    </div>
+
+{% endblock %}
