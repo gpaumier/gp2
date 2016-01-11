@@ -5,7 +5,10 @@
 .. end: 2010-12-31T00:00:00
 .. image: /images/upwiz.png
 .. roles: designer, product manager
-.. tags: Wikimedia, Wikimedia Commons, licensing, multimedia, usability
+.. keywords: Wikimedia, Wikimedia Commons, licensing, multimedia, usability
 .. draft: true
 
-As part of the Multimedia Usability Project, I researched, designed and tested a new interface for uploading files to Wikimedia Commons, the free media library associated with Wikipedia.
+
+.. highlights::
+
+    As part of the Multimedia Usability Project, I researched, designed and tested a new interface for uploading files to Wikimedia Commons, the free media library associated with Wikipedia.

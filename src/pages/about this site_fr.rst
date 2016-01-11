@@ -11,8 +11,7 @@ langue (et vérifier si une traduction est disponible) en changeant les
 paramètres du site dans la barre de menu.
 
 .. figure:: /images/gpc_language_selector2.png
-    :alt: Capture d'écran des paramètres du
-    site.
+    :alt: Capture d'écran des paramètres du site.
 
     Vous pouvez choisir votre langue dans les paramètres du site.
 
