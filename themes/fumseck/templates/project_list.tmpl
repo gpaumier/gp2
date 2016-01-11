@@ -19,7 +19,7 @@
                             {% endif %}
                         </h3>
 
-                        <p>{{ post.meta('excerpt') }}</p>
+                        <p>{{ post.text() | get_lead_text }}</p>
 
                         <p class="snippet-date">{{ post.formatted_date(date_format)|e }}</p>
                     </div>
