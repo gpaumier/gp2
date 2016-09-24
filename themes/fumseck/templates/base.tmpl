@@ -1,0 +1,44 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'base_helper.tmpl' as base with context %}
+<!DOCTYPE html>
+<html class="no-js" lang="{{ lang }}">
+    {{ set_locale(lang) }}
+    {% block head %}
+        <head>
+            {% include "_head.tmpl" %}
+        </head>
+    {% endblock %}
+
+
+    <body>
+        <a href="#content" class="show-for-sr">{{ messages("Skip to main content") }}</a>
+
+        {% block header %}
+        {% endblock %}
+
+        {% block toc %}
+        {% endblock %}
+
+        <main id="content">
+            {% block content %}
+                <article>
+                    <div class="article-content row">
+                        {{ post.text() }}
+                    </div>
+                </article>
+            {% endblock %}
+        </main>
+
+        {% block editLinks %}
+        {% endblock %}
+
+        {% block nav %}
+        {% endblock %}
+
+        {% block footer %}
+        {% endblock %}
+
+        {% block icon_navbar %}
+        {% endblock %}
+    </body>
+</html>

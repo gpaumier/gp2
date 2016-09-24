@@ -1,0 +1,56 @@
+.. title: 42 812 photos
+.. category: articles-fr
+.. clean: no
+.. slug: 42-812-photos
+.. date: 2014-01-06 07:58:00
+.. keywords: mosaïque, Image, San Francisco, Photo
+.. description:
+
+
+.. highlights::
+
+    42 812. C’est le nombre de fichiers qui résident actuellement dans mon dossier « photos ». Ces images représentent le résultat de sept années de photographie, sur trois continents, et sont témoins de l’évolution au fil des ans de mes goûts, mon degré d’expérience et mon matériel. Cette mosaïque marque l’inauguration de la partie « galerie » de ce site, où je vais partager les photos que j’aime le plus.
+
+
+Pour être honnête, un grand nombre de photos qui occupent mon disque dur sont similaires. Je prends souvent des séries de photos quasi identiques afin d'augmenter la probabilité qu'il y en aura au moins une d'acceptable dans le lot. C'est notamment le cas, par exemple, lorsque je prends des photos dans un endroit peu éclairé, ou lorsque je photographie un sujet en mouvement, que ce soit un avion qui voltige, un écureuil qui court ou un politicien qui discourt. Il y a aussi de réels doublons dus à des conversions de format.
+
+Cela n'en reste pas moins une quantité impressionnante de photos, que je suis petit à petit en train de trier, noter, cataloguer, décrire, géolocaliser et télécharger (principalement sur `Wikimedia Commons <https://commons.wikimedia.org/wiki/User:Guillom/gallery>`__). J'ai remarqué qu'avoir une routine m'aide à avancer, par exemple en consacrant quelques heures par semaine à cette activité. Cependant, cela peut devenir une tâche assez intense et fatigante, et je suis probablement plus susceptible de suivre cette routine si je m'y attelle moins longtemps, mais plus souvent.
+
+J'ai donc décidé d'ouvrir un espace galerie sur ce site, où je vais poster mes photos plusieurs fois par semaine (à terme, peut-être tous les jours, mais je vais commencer plus doucement).
+
+Pour inaugurer cette galerie, il m'a semblé approprié de commencer avec un échantillon représentatif du travail que j'ai fait jusqu'à ce jour. J'ai donc créé une `photomosaïque <https://fr.wikipedia.org/wiki/Photomosa%C3%AFque>`__, c'est à dire une photo composée de milliers de photos plus petites, choisies pour leurs couleurs et composition de manière à reconstruire le sujet et les couleurs d'une image plus grande.
+
+La mosaïque ci-dessus montre les « `*Painted Ladies* <https://fr.wikipedia.org/wiki/Painted_Ladies>`__ » (littéralement, les « Dames Peintes », en anglais), de célèbres maisons victoriennes situées ici près d'Alamo Square, à San Francisco. L'image est composée de 22 059 photos, piochées automatiquement par un programme parmi les 42 812. J'ai utilisé l'excellent logiciel (libre) `Metapixel <http://www.complang.tuwien.ac.at/schani/metapixel/>`__ afin de préparer les images et d'assembler la mosaïque. La photo d'origine, que j'ai prise en juin 2010, est ci-dessous pour comparaison.
+
+.. figure:: /images/2010-06-13_Original_Painted_Ladies_in_Alamo_Square.jpg
+    :alt: Photograph of the Painted Ladies, 6 painted Victorian houses located at Alamo Square in San Francisco
+
+    Image d'origine, prise avec un appareil photo compact.
+
+La photo d'origine est plutôt ordinaire, et pourtant j'aime beaucoup la mosaïque qui en a découlé. La mosaïque transforme presque l'image en un tableau pointilliste, ce qui la rend bien plus intéressante. Les couleurs de la mosaïque apparaissent un peu délavées, mais cela contribue à l'illusion qu'il s'agit d'une peinture.
+
+Comme c'est la première fois que je réalise une photomosaïque, j'ai joué un peu avec les paramètres techniques, sans toutefois chercher à les optimiser au maximum. Par exemple, les petites images qui composent la mosaïque sont toutes carrées, quel qu'ai été leur rapport d'aspect d'origine (format 3:2 ou 2:3, ou 4:3 pour mes photos les plus anciennes) ; par conséquent, presque toutes les images sont compressées dans une direction. Ça ne se voit pas trop à cette échelle, mais j'aimerais faire des tests de mosaïques conservant le rapport d'aspect. Il y a également une distance minimale de 50 pas entre deux images identiques, mais cela ne s'applique pas aux images d'une même série. Pour finir, j'ai légèrement favorisé la chrominance par rapport à la luminance dans l'algorithme de correspondance des couleurs.
+
+J'ai fait quelques tentatives avec des images d'origine différentes (l'image reconstruite à partir des images plus petites). Les résultats sont encourageants et j'en ai reproduits quelques uns ci-dessous, en me limitant pour aujourd'hui à la thématique de San Francisco.
+
+L'image ci-dessous est une mosaïque du célèbre pont de San Francisco, le Golden Gate Bridge, vu depuis la berge. Elle est composée de 11 094 images. La `photo d'origine <https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_seen_from_the_Presidio_in_San_Francisco_47.jpg>`_ n'a mis que quelques semaines à arriver sur Wikimedia Commons.
+
+.. figure:: /images/2014-06-01_Photomosaic_Golden_Gate_Bridge_seen_from_the_Presidio_in_San_Francisco_47.jpg
+    :alt: Photographic mosaic depicting the Golden Gate bridge seen from the Presidio in San Francisco
+
+    Les résultats ne sont pas aussi bons sur des images avec des dégradés, mais la mosaïque est toutefois sympathique.
+
+
+Cette mosaïque est un peu plus dynamique que celle des *Painted Ladies*, car l'image d'origine est plus saturée. J'aime bien la photo d'origine car elle contient des composantes rouge-vert-bleu assez fortes, mais la composante forte bleue disparaît presque dans la mosaïque. L'original contient aussi des dégradés qui sont mal retranscrits dans la mosaïque : le ciel est assez bruité, et le vignettage artistique est exacerbé, notamment dans le coin inférieur droit.
+
+Le bruit du ciel est en partie dû à la distance minimale de 50 pas entre deux images identiques, qui génère des vagues d'images se répétant avec la même fréquence. Il est possible d'augmenter la distance minimale pour rendre les vagues moins visibles, mais cela augmente également le temps de calcul nécessaire à la création de la mosaïque.
+
+La troisième (et dernière) mosaïque ci-dessous montre les mêmes problèmes de dégradés et de vagues d'images se répétant ; vous pouvez la comparer à `l'original <https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_seen_from_the_Presidio_in_San_Francisco_34.jpg>`_. Cependant, cette image met en évidence quelque chose qui n'est pas flagrant dans l'image précédente, à savoir la qualité de l'algorithme de correspondance de Metapixel. Il retranscrit en effet de façon impressionnante le système de suspension du pont, où l'on peut même voir les câbles. Pour finir, j'aime aussi le grain ajouté par la mosaïque à la chaîne et aux poteaux rouillés au premier plan.
+
+.. figure:: /images/2014-06-01_Photomosaic_Golden_Gate_Bridge_seen_from_the_Presidio_in_San_Francisco_34.jpg
+    :alt: A photographic mosaic depicting the Golden Gate bridge
+
+    Grâce à l'algorithme de correspondance de Metapixel, on peut voir le système de suspension et les câbles du pont.
+
+
+Pour résumer, j'aime bien l'extension de créativité fournie par les photomosaïques, et je continuerai probablement à jouer avec ce support à l'avenir. Mais pour le moment, après cette introduction, je vais me tourner vers les photos individuelles, qui ne sont que vaguement visibles dans ces mosaïques. Lorsque j'examinais les versions très haute résolution des mosaïques, j'ai beaucoup aimé redécouvrir des photos que j'avais depuis oubliées ; j'espère que vous les apprécierez également au fur et à mesure que je les partage dans cette galerie.

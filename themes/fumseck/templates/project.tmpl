@@ -1,0 +1,19 @@
+{% extends "master.jade" %}
+
+{% block header %}
+    {% include "_hero.tmpl" %}
+{% endblock %}
+
+{% block article %}
+    <article>
+        <div class="article-content row">
+            {{contents}}
+        </div>
+        <p>{{start|escape}}</p>
+        <p>{{end|escape}}</p>
+    </article>
+{% endblock %}
+
+{% block editLinks %}
+    {% include "_editLinks.tmpl" %}
+{% endblock %}

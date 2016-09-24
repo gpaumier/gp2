@@ -32,5 +32,8 @@ node_modules
 # Bower dependencies
 bower_components
 
-# Metalsmith build directory
-build
+# Nikola internals, cache and build directories
+__pycache__
+.doit.db
+cache
+output
