@@ -1,15 +1,6 @@
 .. title: Accueil
 .. slug: index
 
-Projets
-========
+:doc:`Projets <projets>`
 
-.. post-list::
-   :categories: projects-fr
-
-
-Articles
-========
-
-.. post-list::
-    :categories: articles-fr
+:doc:`Articles <articles>`
