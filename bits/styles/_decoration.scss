@@ -1,0 +1,27 @@
+.framed {
+    border: 1px solid $dark-gray;
+}
+
+@include breakpoint(medium) {
+    img {
+        border-radius: 4px;
+    }
+}
+
+.article-list-featured > hr, .project-list-featured > hr {
+    background: url(Memoria_sullo_scavo_della_Via_Appia_fregio_p_10.jpg)  no-repeat top center;
+    height: 122px;
+    border:none !important;
+}
+
+.article-list > hr {
+    background: url(Paragraph_decoration.png)  no-repeat top center;
+    height: 30;
+    border:none !important;
+}
+
+
+.article-list > hr:last-of-type,
+.project-list-featured > hr:last-of-type {
+    display: none;
+}
