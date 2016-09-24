@@ -4,6 +4,7 @@
 .. slug: wikimedia-tech-news
 .. date: 2013-05-16T00:00:00
 .. end: 2015-08-17T00:00:00
+.. template: project.tmpl
 .. image: /images/2013-12-16_Tech_news_process_-_Overview.svg
 .. roles: writer, project lead
 .. keywords: Wikimedia, Engineering, Wikipedia, writing, translation, technology, technical communication
@@ -140,7 +141,7 @@ Looking to the future with Liaisons and Ambassadors
 
 The Tech newsletter is now on relatively stable tracks: we have the experience, routine and tools to ensure its publication every week, and `you're welcome to join the team <https://meta.wikimedia.org/wiki/Tech/News#contribute>`__. However, the newsletter is still mostly unidirectional; it's a channel designed for broadcast, not dialogue.
 
-Another suggestion that came up during the Fall 2012 consultation was to hire more Community Liaisons for Engineering[#2012consult]_. Being able to predict what feature or technical change will or will not cause issues is dependent on having the institutional knowledge to do so, regardless of whether those issues are related to policy, product or simple resistance to change. At the time, `Oliver Keyes <https://meta.wikimedia.org/wiki/User:Okeyes_(WMF)>`__ was the only Community Liaison on the Product team's staff, and a popular request during the consultation was to "clone Oliver;" since then, several other Product Liaisons have been hired, initially to help with the activation of VisualEditor across Wikimedia wikis. I had the opportunity to work closely with them during that period, and their work has been splendid, earning them the rare common appreciation and respect of both users and engineering staff.
+Another suggestion that came up during the Fall 2012 consultation was to hire more Community Liaisons for Engineering [#2012consult]_. Being able to predict what feature or technical change will or will not cause issues is dependent on having the institutional knowledge to do so, regardless of whether those issues are related to policy, product or simple resistance to change. At the time, `Oliver Keyes <https://meta.wikimedia.org/wiki/User:Okeyes_(WMF)>`__ was the only Community Liaison on the Product team's staff, and a popular request during the consultation was to "clone Oliver;" since then, several other Product Liaisons have been hired, initially to help with the activation of VisualEditor across Wikimedia wikis. I had the opportunity to work closely with them during that period, and their work has been splendid, earning them the rare common appreciation and respect of both users and engineering staff.
 
 I believe Tech ambassadors and Community Liaisons have similar roles and will work more closely together in the future. They have the same goal of acting as facilitators between users and developers, and in the end it doesn't really matter who's a volunteer and who's an employee. The Tech newsletter is useful to support the work of ambassadors and liaisons, who in return make the interaction more bidirectional.
 

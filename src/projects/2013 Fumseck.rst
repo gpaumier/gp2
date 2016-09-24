@@ -5,7 +5,7 @@
 .. date: 2013-10-24T00:00:00
 .. end: 2014-01-06T00:00:00
 .. image: /images/2013-12-24_devices-fumseck.jpg
-.. roles: designer, developer
+.. roles: designer, coder
 .. keywords: PHP, WordPress, Solarized, Latin Modern, coding, design
 .. tags: mathjax
 

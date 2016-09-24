@@ -25,13 +25,6 @@ Je `contribue à
 Wikipédia <https://en.wikipedia.org/wiki/User:Guillom>`__ et j'écris du
 code `sur GitHub <https://github.com/gpaumier>`__.
 
-Mes photos sont
-maintenant republiées sur
-`flickr <https://secure.flickr.com/photos/gpaumier/>`__,
-`500px <http://500px.com/gpaumier>`__ et
-`tumblr <http://guillaumepaumier.tumblr.com/>`__, si vous trouvez plus
-pratique de me suivre là-bas.
-
 
 Contact
 =======

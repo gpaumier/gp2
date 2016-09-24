@@ -1,5 +1,5 @@
 .. title: 2014 in review, and the year ahead
-.. category: articles-en
+.. category: articles-en-featured
 .. slug: 2014-in-review
 .. date: 2015-02-22T23:24:15
 .. tags: Wikimedia
@@ -15,7 +15,7 @@
 2014 in failures
 ================
 
-Let's begin with what didn't work and get it out of the way. In January 2014, I started posting `some of my photos <http://guillaumepaumier.com/photo/>`_ on this site. I have accumulated `dozens of thousands of photos <http://guillaumepaumier.com/2014/01/06/42812-photos/>`_ over the past eight years, but published only a small fraction of them. By starting to publish a selection of them here, my goal was to create a momentum that would encourage me to process my backlog and publish my collections here and on Wikimedia Commons.
+Let's begin with what didn't work and get it out of the way. In January 2014, I started posting `some of my photos <http://guillaumepaumier.com/photo/>`_ on this site. I have accumulated `tens of thousands of photos <http://guillaumepaumier.com/2014/01/06/42812-photos/>`_ over the past eight years, but published only a small fraction of them. By starting to publish a selection of them here, my goal was to create a momentum that would encourage me to process my backlog and publish my collections here and on Wikimedia Commons.
 
 .. figure:: /images/2015-02-22_gpc_photos.png
    :alt: Screenshot of the photo page of this site.
@@ -60,6 +60,7 @@ In September, my role at the Wikimedia Foundation `changed <https://lists.wikime
 2013 had been a turning point for me, in that I had discovered that I was likely on the `"high-functioning" part of the autistic spectrum <https://en.wikipedia.org/wiki/Asperger_syndrome>`_. In 2014, a few experts officially confirmed that hypothesis. When asked why this had not been detected earlier in my life, the prevailing hypothesis was that I had unwittingly compensated this social blindness by a higher intelligence, as suggested by tests performed in 2013. I like to think of it as having my my own emulated `emotion chip <https://en.wikipedia.org/wiki/Data_(Star_Trek)>`_.
 
 .. figure:: /images/2015-02-22_conclusion_asperger.png
+   :class: framed
    :alt: Screenshot of a paragraph from a text document. The text (in French) translates to: CONCLUSION: The criteria (CIM 10 and DSM IV) for the diagnosis of an Autism spectrum disorder, and and in particular of Asperger Syndrome (CIM 10: Axis 1, F-84.5) are present.
 
    I feel like I deserve a membership card or something.

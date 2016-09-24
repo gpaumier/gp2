@@ -1,5 +1,5 @@
 .. title: Valentine's Special
-.. category: articles-en
+.. category: photos-en
 .. slug: valentines-special
 .. date: 2014-02-14 11:25:42
 .. tags: Photo

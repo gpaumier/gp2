@@ -11,7 +11,7 @@
 
 .. note::
 
-    Este ensaio é a base da `palestra homônima <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ que eu dei na Conferência Wikimania 2015; não se trata de uma transcrição exata, mas de uma espécie de rascunho que eu tenho a oportunidade de publicar agora, o qual continuarei melhorando nas próximas semanas, o qual você pode me `ajudar a editar <https://github.com/gpaumier/gp2/blob/master/src/articles/2015-07-21%20autistic-wikipedian/index_pt.md>`_. Também está disponível em `inglês <https://guillaumepaumier.com/2015/07/29/autistic-wikipedian/>`_ e `francês <https://guillaumepaumier.com/fr/2015/07/29/wikipedien-autiste/>`_.*
+    Este ensaio é a base da `palestra homônima <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ que eu dei na Conferência Wikimania 2015; não se trata de uma transcrição exata, mas de uma espécie de rascunho que eu tenho a oportunidade de publicar agora, o qual continuarei melhorando nas próximas semanas, o qual você pode me `ajudar a editar <https://github.com/gpaumier/gp2/blob/master/src/articles/2015-07-21%20autistic-wikipedian/index_pt.md>`_. Também está disponível em `inglês <https://guillaumepaumier.com/2015/07/29/autistic-wikipedian/>`_ e `francês <https://guillaumepaumier.com/fr/2015/07/29/wikipedien-autiste/>`_.
 
 
 Introdução
@@ -195,7 +195,7 @@ O Autismo na comunidade Wikimedia
 Um dos maiores exemplos de comunicação em larga escala é evidentemente o movimento Wikimedia. À primeira vista os sites da Wikimedia, e a Wikipedia em particular, oferecem uma plataforma onde podemos recopilar meticulosamente fatos sobre a nossa obsessão favorita, ou metodicamente corrigir os mesmos erros gramaticais, uma e outra vez, tudo isso com interação humana limitada; pode parecer um bom lugar para autistas (e uma armadilha perfeita), e até certo ponto é.
 
 .. figure:: /images/2015-07-21_wikipedians_with_autism.png
-    :figclass: framed
+    :class: framed
 
     A categoria “`Wikipedistas com autismo <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_” na Wikipedia em inglês
 

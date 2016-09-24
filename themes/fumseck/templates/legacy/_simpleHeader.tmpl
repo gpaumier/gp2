@@ -1,0 +1,5 @@
+{% include "_topbar.tmpl" %}
+
+<h1>{{title|escape}}</h1>
+
+<p>{{__('publish_date', moment(date).locale(locale).format('LL'))|escape}}</p>

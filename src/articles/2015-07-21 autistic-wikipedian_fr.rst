@@ -1,5 +1,5 @@
 .. title: Autiste et Wikipédien
-.. category: articles-fr
+.. category: articles-fr-featured
 .. slug: wikipedien-autiste
 .. tags: Wikimedia, Autisme
 
@@ -201,7 +201,7 @@ Autisme dans la communauté Wikimedia
 Un exemple majeur de communication en ligne à grande échelle est le mouvement Wikimedia. À première vue, les sites Wikimedia, et Wikipédia en particulier, offrent une plate-forme de choix pour qui souhaite soigneusement compiler des faits sur son obsession favorite, ou corriger méthodiquement la même erreur grammaticale encore et encore, tout en limitant les interactions sociales. Wikipedia semble être un appeau à autistes parfait.
 
 .. figure:: /images/2015-07-21_wikipedians_with_autism.png
-    :figclass: framed
+    :class: framed
 
     La catégorie « `Wikipédiens autistes <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_ » sur Wikipedia en anglais
 
