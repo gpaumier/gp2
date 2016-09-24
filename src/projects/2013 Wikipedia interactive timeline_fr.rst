@@ -1,5 +1,5 @@
 .. title: Frise interactive : Wikipédia en 2013
-.. category: projects-fr
+.. category: projects-fr-featured
 .. slug: frise-wikipedia-2013
 
 .. highlights::

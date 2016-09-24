@@ -1,7 +1,7 @@
 .. title: Ph.D thesis
-.. category: projects-en
+.. category: projects-en-featured
 .. subtitle: PNIPAM technologies for labs-on-chips
-.. slug: phd-pnipam
+.. slug: phd
 .. date: 2005-09-01T00:00:00
 .. end: 2008-11-06T00:00:00
 .. image: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
