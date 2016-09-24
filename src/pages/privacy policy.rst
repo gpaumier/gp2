@@ -1,5 +1,6 @@
 .. title: Privacy policy
 .. slug: privacy-policy
+.. icon: fa-shield
 
 .. highlights::
 
