@@ -1,0 +1,33 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'post_helper.tmpl' as helper with context %}
+{% import 'post_header.tmpl' as pheader with context %}
+{% extends 'base.tmpl' %}
+
+{% block header %}
+    {% include "_header.tmpl" %}
+{% endblock %}
+
+{% block content %}
+<article class="post-{{ post.meta('type') }} h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article">
+    <header>
+        <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>
+
+        <p class="dateline"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time></p>
+    </header>
+
+    <nav>
+        {{ pheader.html_translations(post) }}
+    </nav>
+
+    <div class="e-content entry-content" itemprop="articleBody text">
+    {{ post.text() }}
+    </div>
+    <aside class="postpromonav">
+    <nav>
+    {{ helper.html_pager(post) }}
+    </nav>
+    </aside>
+
+    {{ helper.mathjax_script(post) }}
+</article>
+{% endblock %}

@@ -1,0 +1,23 @@
+<article class="snippet">
+
+    <div class="snippet-content">
+        {% if  item.image %}
+            <img{{__pyjade_attrs(attrs=[('src',(""+"{}".format(item.image)+""))])}} alt=""/>
+        {% endif %}
+
+        <div class="snippet-text">
+            <h3>
+                <a{{__pyjade_attrs(attrs=[('href',('/'+item.path))])}}>{{item.title}}</a>
+                {% if item.subtitle %}
+                    <small>– {{item.subtitle|escape}}</small>
+                {% endif %}
+            </h3>
+
+            <p>{{item.excerpt.slice(3, -4)}}</p>
+
+            {% block date %}
+                <p class="snippet-date">{{moment(item.date).locale(locale).format('LL')|escape}}</p>
+            {% endblock %}
+        </div>
+    </div>
+</article>
