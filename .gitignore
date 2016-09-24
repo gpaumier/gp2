@@ -37,3 +37,6 @@ __pycache__
 .doit.db
 cache
 output
+
+#Image metadata files
+*.xmp
