@@ -1,6 +1,7 @@
 .. title: About me
 .. slug: bio
 .. image: /images/Guillaume_hackathon_Berlin_2011.jpg
+.. icon: fa-user
 
 .. highlights::
 

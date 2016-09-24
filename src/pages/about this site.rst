@@ -1,5 +1,6 @@
 .. title: About this site
 .. slug: about-this-site
+.. icon: fa-info-circle
 
 This site is `ad-free <http://www.adfreeblog.org>`__, entirely
 self-supported, and can be accessed free of charge.
