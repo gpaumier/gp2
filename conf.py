@@ -48,7 +48,7 @@ POSTS = (
     # ("src/events/*.rst", "events", "post.tmpl"),
 )
 PAGES = (
-    ("src/pages/*.rst", "", "story.tmpl"),
+    ("src/pages/*.rst", "", "page.tmpl"),
 )
 
 
@@ -152,7 +152,8 @@ FILTERS = {
 
 IMAGE_FOLDERS = {'src/images': 'images'}
 # IMAGE_THUMBNAIL_SIZE = 400
-
+PRESERVE_EXIF_DATA = True
+EXIF_WHITELIST = {'*': '*'}
 
 STRIP_INDEXES = True
 
