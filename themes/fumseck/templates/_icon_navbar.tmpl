@@ -1,0 +1,10 @@
+<ul class="menu expanded icon-top">
+    {% for page in ['home', 'projects', 'articles', 'contact', 'sitemap'] %}
+        <li>
+            <a href="{{ messages('iconbar_' + page + '_link')}}" class="item">
+                <i class="{{ messages('iconbar_' + page + '_class')}}"></i>
+                <span class="show-for-medium">{{ messages('iconbar_' + page + '_label')}}</span>
+            </a>
+        </li>
+    {% endfor %}
+</ul>

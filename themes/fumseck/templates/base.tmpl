@@ -35,10 +35,13 @@
         {% block nav %}
         {% endblock %}
 
-        {% block footer %}
+        {% block icon_navbar %}
+            {% include "_icon_navbar.tmpl" %}
         {% endblock %}
 
-        {% block icon_navbar %}
+        {% block footer %}
+            {% include "_footer.tmpl" %}
         {% endblock %}
+
     </body>
 </html>

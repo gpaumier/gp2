@@ -1,19 +1,30 @@
-{% extends "master.jade" %}
+{% extends 'base.tmpl' %}
 
 {% block header %}
-    {% include "_hero.tmpl" %}
+    {% include "_header.tmpl" %}
 {% endblock %}
 
-{% block article %}
-    <article>
-        <div class="article-content row">
-            {{contents}}
-        </div>
-        <p>{{start|escape}}</p>
-        <p>{{end|escape}}</p>
-    </article>
-{% endblock %}
+{% block content %}
+<article class="post-project h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article">
 
-{% block editLinks %}
-    {% include "_editLinks.tmpl" %}
+    {% if post.meta('image') %}
+        <img src="{{ post.meta('image') }}" class="post-image"/>
+    {% endif %}
+
+    <header>
+        <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>
+
+        <p class="dateline"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date( messages('date_format_long'))|e }}</time></p>
+
+        {% if post.meta('end') %}
+            <p>{{ post.meta('end') }}</p>
+        {% endif %}
+
+    </header>
+
+    <div class="e-content entry-content" itemprop="articleBody text">
+    {{ post.text() }}
+    </div>
+
+</article>
 {% endblock %}

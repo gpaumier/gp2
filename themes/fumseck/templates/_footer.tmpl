@@ -1,12 +1,3 @@
-<nav id="iconbar" class="icon-bar five-up">
-    {% for page in __pyjade_iter(['home', 'articles', 'projects', 'contact', 'sitemap'],1) %}
-
-        <a{{__pyjade_attrs(attrs=[('href',(__('iconbar_' + page + '_link')))])}} class="item">
-            <i{{__pyjade_attrs(attrs=[('class', ((__('iconbar_' + page + '_class'))))])}}></i>
-            <label class="show-for-medium-up">{{__('iconbar_' + page + '_label')|escape}}</label>
-        </a>{% endfor %}
-</nav>
-
-<script src="/bits/libs.js"></script>
-<script src="/bits/fumseck.js"></script>
+<script src="/assets/libs.js"></script>
+<script src="/assets/fumseck.js"></script>
 <script>require('bits/js/main').init()</script>
