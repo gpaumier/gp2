@@ -1,5 +1,6 @@
 .. title: Social media & contact
 .. slug: contact
+.. icon: fa-envelope
 
 .. highlights::
 
@@ -25,12 +26,6 @@ Oh, yes, there's
 I `edit
 Wikipedia <https://en.wikipedia.org/wiki/User:Guillom>`__ and write code
 `on GitHub <https://github.com/gpaumier>`__.
-
-My photos are now also
-syndicated to `flickr <https://secure.flickr.com/photos/gpaumier/>`__,
-`500px <http://500px.com/gpaumier>`__ and
-`tumblr <http://guillaumepaumier.tumblr.com/>`__, if you find it more
-convenient to subscribe there.
 
 
 Contact
