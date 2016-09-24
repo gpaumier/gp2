@@ -1,5 +1,5 @@
 .. title: {{Référence nécessaire}}, ou comment Wikipedia développe l'esprit critique de ses auteurs
-.. category: articles-fr
+.. category: articles-fr-featured
 .. slug: reference-necessaire-ou-comment-wikipedia-developpe-lesprit-critique-de-ses-auteurs
 .. date: 2010-02-10 04:45:25
 .. tags: Wikimedia

@@ -1,5 +1,5 @@
 .. title: Spéciale Saint-Valentin
-.. category: articles-fr
+.. category: photos-fr
 .. slug: speciale-saint-valentin
 .. date: 2014-02-14 11:26:03
 

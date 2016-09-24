@@ -1,5 +1,5 @@
 .. title: L'évolution humaine à la brocante
-.. category: articles-fr
+.. category: photos-fr
 .. slug: levolution-humaine-a-la-brocante
 .. date: 2014-01-29 08:53:37
 .. keywords: Bordeaux, brocante, Image, Photo
@@ -27,7 +27,7 @@ Le livre sous le crâne est le premier volume de |evolution|_ : *étude biologiq
 J'ai pris cette série de photos à une foire à la brocante sur la `Place des Quinconces <https://fr.wikipedia.org/wiki/Place_des_Quinconces>`__, à Bordeaux.
 
 
-.. figure:: /images/2009-05-02_Foire_a_la_brocante_aux_Quinconces_0072.jpg
+.. figure:: /images/2009-05-02_Foire_a_la_brocante_aux_Quinconces_0073.jpg
 
     Ceci est une pipe.
 
@@ -35,6 +35,6 @@ J'ai pris cette série de photos à une foire à la brocante sur la `Place des Q
 J'aime prendre en photo les vieux objets et babioles qu'on trouve dans les foires à tout et les foires à la brocante. Ça revient en quelque sorte à préserver un lien vers un passé qu'on n'a pas obligatoirement connu.
 
 
-.. figure:: /images/2009-05-02_Foire_a_la_brocante_aux_Quinconces_0073.jpg
+.. figure:: /images/2009-05-02_Foire_a_la_brocante_aux_Quinconces_0072.jpg
 
     Gros plan sur une vieille table de baby-foot.
