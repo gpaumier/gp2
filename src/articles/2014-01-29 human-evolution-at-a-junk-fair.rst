@@ -1,5 +1,5 @@
 .. title: Human evolution at a junk fair
-.. category: articles-en
+.. category: photos-en
 .. slug: human-evolution-at-a-junk-fair
 .. date: 2014-01-29 08:51:10
 .. tags: Photo
@@ -31,13 +31,13 @@ The book is the first volume of |evolution|_ *étude biologique, psychologique e
 This particular junk and antiques fair took place at `Place des Quinconces <https://en.wikipedia.org/wiki/Place_des_Quinconces>`__, a huge square in Bordeaux, France.
 
 
-.. figure:: /images/2009-05-02_Foire_a_la_brocante_aux_Quinconces_0072.jpg
+.. figure:: /images/2009-05-02_Foire_a_la_brocante_aux_Quinconces_0073.jpg
 
     Ceci est une pipe.
 
 
 I like all these old objects, because they feel like tethers to a past I wasn't a part of. Taking photos of old stuff feels like preserving it for posterity.
 
-.. figure:: /images/2009-05-02_Foire_a_la_brocante_aux_Quinconces_0073.jpg
+.. figure:: /images/2009-05-02_Foire_a_la_brocante_aux_Quinconces_0072.jpg
 
     Close-up on an old foosball table.

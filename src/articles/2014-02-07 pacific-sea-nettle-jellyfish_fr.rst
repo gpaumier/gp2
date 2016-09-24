@@ -1,5 +1,5 @@
 .. title: Méduse dorée du Pacifique
-.. category: articles-fr
+.. category: photos-fr
 .. slug: meduse-doree-du-pacifique
 .. date: 2014-02-07 15:19:26
 .. keywords: Long Beach, Méduse, Image, Photo

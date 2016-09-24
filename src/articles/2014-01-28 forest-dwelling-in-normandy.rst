@@ -1,5 +1,5 @@
 .. title: Forest dwelling in Normandy
-.. category: articles-en
+.. category: photos-en
 .. clean: no
 .. slug: forest-dwelling-in-normandy
 .. date: 2014-01-28 11:43:41

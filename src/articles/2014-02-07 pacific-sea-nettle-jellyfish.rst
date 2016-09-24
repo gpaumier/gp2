@@ -1,5 +1,5 @@
 .. title: Pacific sea nettle jellyfish
-.. category: articles-en
+.. category: photos-en
 .. slug: pacific-sea-nettle-jellyfish
 .. date: 2014-02-07 15:19:07
 .. tags: Photo
