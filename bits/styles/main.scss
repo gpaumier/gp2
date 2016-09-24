@@ -1,190 +1,50 @@
-/* This is the main SCSS file for the site. */
+@charset 'utf-8';
 
-@import 'normalize';
-@import '_fonts2';
-@import '_foundation-settings';
-@import 'foundation/components/_global';
-@import 'foundation/components/_type';
-@import 'foundation/components/_grid';
-@import 'foundation/components/_top-bar';
-@import 'foundation/components/_icon-bar';
-@import 'foundation/components/_visibility';
-@import 'foundation/components/_dropdown';
-@import 'foundation/components/_type';
-@import '_typography2';
+@import 'fonts';
+@import 'settings';
+@import 'foundation';
 
-figure {
-    margin: auto;
-    img {
-        display: block;
-        margin: auto;
-    }
-}
+// @import 'motion-ui';
 
-.hero {
+@include foundation-global-styles;
+@include foundation-grid;
+@include foundation-typography;
+// @include foundation-button;
+// @include foundation-forms;
+@include foundation-visibility-classes;
+// @include foundation-float-classes;
+// @include foundation-accordion;
+// @include foundation-accordion-menu;
+// @include foundation-badge;
+// @include foundation-breadcrumbs;
+// @include foundation-button-group;
+// @include foundation-callout;
+// @include foundation-close-button;
+// @include foundation-drilldown-menu;
+@include foundation-dropdown;
+@include foundation-dropdown-menu;
+// @include foundation-flex-video;
+// @include foundation-label;
+// @include foundation-media-object;
+@include foundation-menu;
+// @include foundation-off-canvas;
+// @include foundation-orbit;
+// @include foundation-pagination;
+// @include foundation-progress-bar;
+// @include foundation-slider;
+// @include foundation-sticky;
+// @include foundation-reveal;
+// @include foundation-switch;
+@include foundation-table;
+// @include foundation-tabs;
+// @include foundation-thumbnail;
+// @include foundation-title-bar;
+// @include foundation-tooltip;
+@include foundation-top-bar;
 
-    @media #{$medium-up} {
-        background-size: cover;
-        height: 100vh;
+// @include motion-ui-transitions;
+// @include motion-ui-animations;
 
-        &:before {
-            content: '';
-            position: absolute;
-            top: 0;
-            right: 0;
-            bottom: 0;
-            left: 0;
-            background-image: linear-gradient(to bottom right,#000,#1A1A1A);
-            opacity: .55;
-        }
-
-        .intro {
-            padding: 3rem;
-            position: relative;
-            top: 50%;
-            transform: translateY(-50%);
-        }
-    }
-
-    h1, h2 {
-        color: #fff;
-        text-align: center;
-    }
-
-    h2 {
-        font-style: italic;
-        font-weight: normal;
-        @extend %fumseck-serif-italic;
-    }
-
-    p {
-        color: #fff;
-        text-align: center;
-    }
-
-}
-
-$medium-down: "#{$screen}  and (max-width:#{upper-bound($medium-range)})" !default;
-
-.article-content {
-    &>p, &>h1, &>h2, &>h3, &>h4, &>h5, &>h6, &>ul, &>blockquote {
-
-        @media #{$small-only} {
-            @include grid-column(
-                $columns: 11,
-                $center: true
-            )
-        }
-
-        @media #{$medium-only} {
-            @include grid-column(
-                $columns: 8,
-                $center: true
-            )
-        }
-
-        @media #{$large-up} {
-            @include grid-column(
-                $columns: 7,
-                $center: true
-            )
-        }
-    }
-}
-
-/**
- * Style disabled topbar items so they look like other topbar items, except disabled.
- * - styles copied from the styling of topbar <a> elements at foundation/components/_top-bar.scss:334
- * - background color added from _foundation-settings:1453
- */
-
-.top-bar-section ul li.topbar-disabled-item {
-    color: $topbar-link-color;
-    display: block;
-    font-family: $topbar-link-font-family;
-    font-size: $topbar-link-font-size;
-    font-weight: $topbar-link-weight;
-    padding-#{$default-float}: $topbar-link-padding;
-    padding: 12px 0 12px $topbar-link-padding;
-    text-transform: $topbar-link-text-transform;
-    width: 100%;
-    background-color: $topbar-bg;
-}
-
-/**
- *  There isn't a Foundation setting for the font family of the icon bar, so we set it here.
- */
-
-#iconbar, {
-    @extend %fumseck-sans;
-}
-
-// Tool labels disappear at smaller viewport sizes.
-
-.topbar-tool-label {
-    @media #{$small-only} {
-        display: none;
-    }
-}
-
-// Add bottom border to the top bar
-
-#topbar {
-    border-bottom: 1px solid #888;
-}
-
-.top-bar-section > ul > .divider, .top-bar-section > ul > [role="separator"] {
-    border-right: none;
-}
-
-// Font Awesome labels need some extra margin to separate them from their icon. Some icons stand alone so we add the margin to the label.
-
-.fa-label {
-    margin-left: .5rem;
-}
-
-// Override the link added by Foundation's JS in topbar dropdowns.
-
-.top-bar-section .dropdown li.parent-link a {
-    display: none;
-}
-
-// Mixins
-
-@mixin materialElevate() {
-    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
-    0 3px 1px -2px rgba(0, 0, 0, 0.2),
-    0 1px 5px 0 rgba(0, 0, 0, 0.12);
-}
-
-// Snippet styling for archive pages
-
-.snippet {
-
-    margin: 1rem 0;
-    @media #{$medium-only} {
-        @include grid-column(6);
-    }
-
-    @media #{$large-up} {
-        @include grid-column(4);
-    }
-    .snippet-content {
-        border-radius: $global-radius;
-        background-color: white;
-        @include materialElevate();
-        img {
-            border-radius: $global-radius $global-radius 0 0;
-        }
-    }
-
-    .snippet-text {
-        padding: 1rem;
-    }
-
-    .snippet-date {
-        font-size: $small-font-size;
-        color: $small-font-color;
-        @extend %fumseck-sans;
-    }
-}
+@import 'layout';
+@import 'typography';
+@import 'decoration';
