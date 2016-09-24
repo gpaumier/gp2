@@ -1,13 +1,23 @@
 module.exports = config:
+    optimize: true
     files:
         javascripts:
             joinTo:
                 'libs.js': /^(bower_components|vendor|node_modules)/
                 'fumseck.js': /^bits/
+            order:
+                before: [
+                    'node_modules/jquery/dist/jquery.min.js',
+                    'node_modules/foundation-sites/dist/foundation.min.js'
+                ]
         stylesheets:
             joinTo: 'fumseck.css'
     paths:
-        watched: ['bits']
+        watched: [
+            'bits',
+            'node_modules/jquery/dist/jquery.min.js',
+            'node_modules/foundation-sites/dist/foundation.min.js'
+        ]
         public: 'themes/fumseck/assets'
     plugins:
         sass:
