@@ -1,0 +1,28 @@
+{#  -*- coding: utf-8 -*- #}
+{% block content %}
+
+    <div id="{{ post_list_id }}" class="article-list row">
+        {% if posts %}
+            {% for post in posts %}
+
+            <article class="snippet">
+                <div class="snippet-content">
+                    <div class="snippet-text">
+                        <h3>
+                            <a href="{{ post.permalink(lang) }}">{{ post.title(lang)|e }}</a>
+                            {% if post.meta('subtitle') %}
+                                <small>– {{ post.meta('subtitle'|e) }}</small>
+                            {% endif %}
+                        </h3>
+
+                        <p class="snippet-date"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date( messages('date_format_long'))|e }}</time></p>
+                    </div>
+                </div>
+            </article>
+
+            <hr>
+            {% endfor %}
+        {% endif %}
+    </div>
+
+{% endblock %}

@@ -4,7 +4,7 @@
 .. date: 2007-09-14 11:24:09
 .. tags: Wikimedia Commons, Photo
 .. keywords: Wikimedia Commons, flickr, school bus
-.. image: /images/sarkozy-2007.jpg
+.. image: /images/sarkozy_2007.jpg
 .. image-caption: Panning photo of Nicolas Sarkozy at a political rally in Toulouse
 
 .. highlights::

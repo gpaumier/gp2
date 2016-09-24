@@ -16,7 +16,7 @@
 
 {% block article %}
     <article class="post-{{ post.meta('type') }} h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article">
-        <div class="article-content row">{{ post.text() }}</div>
+        <div class="article-content">{{ post.text() }}</div>
     </article>
 {% endblock %}
 

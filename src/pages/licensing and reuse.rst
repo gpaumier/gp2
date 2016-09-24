@@ -1,5 +1,6 @@
 .. title: Licensing & reuse
 .. slug: licensing-reuse
+.. icon: fa-unlock
 
 .. highlights::
 

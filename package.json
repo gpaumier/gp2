@@ -6,10 +6,10 @@
   "author": "Guillaume Paumier",
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "^6.2.3",
+    "autoprefixer": "^6.3.3",
     "brunch": "^1.8.5",
-    "csswring": "^4.1.1",
-    "foundation-sites": "^6.1.1",
+    "csswring": "^4.2.1",
+    "foundation-sites": "^6.2.0",
     "javascript-brunch": "^1.7.1",
     "postcss-brunch": "^0.5.0",
     "sass-brunch": "^1.8.10"

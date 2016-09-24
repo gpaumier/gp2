@@ -1,0 +1,45 @@
+.post-article, .post-project {
+    padding: .5em;
+
+    .post-image {
+        width: 100%;
+        max-width: map-get($breakpoints, 'large');
+        margin: auto;
+        display:block;
+    }
+
+    header {
+        text-align: center;
+    }
+
+    .entry-content {
+        max-width: map-get($breakpoints, 'medium');
+        margin: auto;
+    }
+
+    @include breakpoint(small only) {
+        .figure, {
+            margin-left: -.5em;
+            margin-right: -.5em;
+        }
+    }
+}
+
+// Attribution lines in blockquotes should be flushed right
+
+.attribution {
+    text-align: right;
+}
+
+
+// Objects, videos need to be constrained to their parent.
+
+object, video {
+    max-width: 100%;
+}
+
+svg {
+    // TODO: avoid cropping; https://css-tricks.com/scale-svg/
+}
+
+// Project cards

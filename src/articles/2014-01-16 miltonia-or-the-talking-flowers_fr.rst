@@ -1,5 +1,5 @@
 .. title: Miltonia ou les Fleurs Qui Parlent
-.. category: articles-fr
+.. category: photos-fr
 .. slug: miltonia-ou-les-fleurs-qui-parlent
 .. date: 2014-01-16 14:24:38
 .. tags: Photo

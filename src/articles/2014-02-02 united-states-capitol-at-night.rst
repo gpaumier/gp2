@@ -1,5 +1,5 @@
 .. title: United States Capitol at night
-.. category: articles-en
+.. category: photos-en
 .. slug: united-states-capitol-at-night
 .. date: 2014-02-02 14:32:08
 .. tags: Photo

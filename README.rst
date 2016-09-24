@@ -8,11 +8,7 @@
 Background
 ==========
 
-This project is an attempt to migrate `my personal site <https://guillaumepaumier.com>`__ from WordPress to a static site.
-
-The ``master`` branch contains a first try using `Metalsmith <http://www.metalsmith.io/>`__. Metalsmith is incredibly flexible and I quite liked it, but I got frustrated because of dependency compilation issues.
-
-Because of this (and other reasons), I'm now working with `Nikola <https://getnikola.com>`__ to generate the static site (in the ``nikola`` branch).
+This project is an attempt to migrate `my personal site <https://guillaumepaumier.com>`__ from WordPress to a static site using `Nikola <https://getnikola.com>`__.
 
 
 Install and build

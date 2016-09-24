@@ -1,5 +1,5 @@
 .. title: My life as an autistic Wikipedian
-.. category: articles-en
+.. category: articles-en-featured
 .. slug: autistic-wikipedian
 .. date: 2015-07-29 17:14:00
 .. tags: Wikimedia, Autism
@@ -9,7 +9,6 @@
 .. highlights::
 
     Two years ago, I discovered that I was on the autism spectrum. As I learned more about myself and the way my brain worked, I started to look at past experiences through the lens of this newly-found aspect. In this essay, I share some of what I've learned along the way about my successes, my failures, and many things that confused me in the past, notably in my experiences in the Wikimedia movement.
-
 
 .. note::
 
@@ -204,7 +203,7 @@ Autism in the Wikimedia community
 Of course, one major example of wide-scale online communication is the Wikimedia movement. And at first glance, Wikimedia sites, and Wikipedia in particular, offer a platform where one can meticulously compile facts about their favorite obsession, or methodically fix the same grammatical error over and over, all of that with limited human interaction; if this sounds like a great place for autists (and a perfect honey trap) well, it is to some extent.
 
 .. figure:: /images/2015-07-21_wikipedians_with_autism.png
-    :figclass: framed
+    :class: framed
 
     The "`Wikipedians with autism <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_" category on the English Wikipedia
 

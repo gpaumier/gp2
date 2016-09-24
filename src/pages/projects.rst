@@ -1,14 +1,23 @@
 .. title: Projects
 .. slug: projects
-..
-    template: archive-projects.jade
-.. archive: projectsEN
+.. icon: fa-tasks
 
 .. highlights::
 
     In a word: I like doing stuff.
 
-Below are a few things I've worked on. This list is not exhaustive and I'm still (as of Winter 2015) going through my archives to write summaries for the activities that aren't yet included.
+Below are a few things I've worked on. This list is not exhaustive and I am (as of September 2016) going through my archives to write summaries for the activities that aren't yet included.
+
+Featured projects
+=================
+
+.. post-list::
+   :categories: projects-en-featured
+   :template: project_list_featured.tmpl
+
+
+All projects
+============
 
 .. post-list::
    :categories: projects-en
