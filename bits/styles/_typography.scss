@@ -7,27 +7,33 @@
 }
 
 %fumseck-serif-bold {
-    font-family: 'Latin Modern Roman Bold', 'Baskerville', 'Georgia', serif;
+    font-family: 'Linux Libertine Regular Bold', 'Baskerville', 'Georgia', serif;
     font-weight: bold;
 }
 
 %fumseck-serif-italic {
-    font-family: 'Latin Modern Roman Italic', 'Baskerville', 'Georgia', serif;
+    font-family: 'Linux Libertine Regular Italic', 'Baskerville', 'Georgia', serif;
     font-style: italic;
 }
 
 %fumseck-serif-bolditalic {
-    font-family: 'Latin Modern Roman Bold Italic', 'Baskerville', 'Georgia', serif;
+    font-family: 'Linux Libertine Regular Bold Italic', 'Baskerville', 'Georgia', serif;
     font-weight: bold;
     font-style: italic;
 }
 
-%fumseck-serif-caps {
-    font-family: 'Latin Modern Roman Caps Regular', 'Baskerville', 'Georgia', serif;
+%fumseck-serif-display {
+    font-family: 'Linux Libertine Display Regular', 'Baskerville', 'Georgia', serif;
 }
 
-%fumseck-serif-caps-italic {
-    font-family: 'Latin Modern Roman Caps Oblique', 'Baskerville', 'Georgia', serif;
+%fumseck-serif-semibold {
+    font-family: 'Linux Libertine Semibold', 'Baskerville', 'Georgia', serif;
+    //font-weight: 600;
+}
+
+%fumseck-serif-semibold-italic {
+    font-family: 'Linux Libertine Semibold Italic', 'Baskerville', 'Georgia', serif;
+    font-weight: 600;
     font-style: italic;
 }
 
@@ -40,18 +46,12 @@
 }
 
 %fumseck-sans-bold {
-    font-family: 'Latin Modern Sans Bold', 'Futura', 'Verdana', sans-serif;
+    font-family: 'Linux Biolinum Regular Bold', 'Futura', 'Verdana', sans-serif;
     font-weight: bold;
 }
 
 %fumseck-sans-italic {
-    font-family: 'Latin Modern Sans Oblique', 'Futura', 'Verdana', sans-serif;
-    font-style: italic;
-}
-
-%fumseck-sans-bolditalic {
-    font-family: 'Latin Modern Sans Bold Oblique', 'Futura', 'Verdana', sans-serif;
-    font-weight: bold;
+    font-family: 'Linux Biolinum Regular Italic', 'Futura', 'Verdana', sans-serif;
     font-style: italic;
 }
 
@@ -96,7 +96,7 @@ h2, h3 {
     @extend %fumseck-sans-bold;
 
     em {
-        @extend %fumseck-sans-bolditalic;
+        @extend %fumseck-sans-italic;
     }
 }
 
@@ -132,6 +132,47 @@ blockquote {
     @extend %fumseck-serif-italic;
 }
 
-figcaption {
+.caption {
     @extend %fumseck-sans;
+    font-size: $small-font-size;
+
+    em {
+        @extend %fumseck-sans-italic;
+    }
+
+    strong {
+        @extend %fumseck-sans-bold;
+    }
+}
+
+
+a {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: map-get($foundation-palette, "primary");
+    text-decoration-skip: ink;
+    background-color: transparentize(map-get($foundation-palette, "primary"), 0.95);
+
+}
+
+.footnote-reference {
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+}
+
+.highlights {
+    @extend %fumseck-serif;
+    font-style: normal;
+    font-size: 120%;
+    color: $body-font-color;
+    padding: 0;
+    border: none;
+
+    em {
+        @extend %fumseck-serif-italic;
+        font-style: italic;
+    }
 }

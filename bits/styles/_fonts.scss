@@ -10,6 +10,8 @@ $fonts-dir: "fonts";
 		src: url("#{$fonts-dir}/#{$file-prefix}.eot");
 		src: url("#{$fonts-dir}/#{$file-prefix}.eot?#iefix") format("embedded-opentype"),
 			url("#{$fonts-dir}/#{$file-prefix}.woff") format("woff"),
+			url("#{$fonts-dir}/#{$file-prefix}.woff2") format("woff2"),
+			url("#{$fonts-dir}/#{$file-prefix}.svg##{$file-prefix}") format("svg"),
 			url("#{$fonts-dir}/#{$file-prefix}.ttf") format("truetype");
 		font-weight: $weight;
 		font-style: $style;
@@ -17,86 +19,107 @@ $fonts-dir: "fonts";
 }
 
 /**
- * Latin Modern Roman
+ * Linux Libertine
  */
 
 @include font-face(
-	'Latin Modern Roman Regular',
-	'latinmodern/roman/lmroman10-regular-webfont',
+	'Linux Libertine Display Regular',
+	'linux-libertine/LinLibertine_DR',
 	normal,
 	normal
 );
 
 @include font-face(
-	'Latin Modern Roman Bold',
-	'latinmodern/roman/lmroman10-bold-webfont',
+	'Linux Libertine Initials',
+	'linux-libertine/LinLibertine_I',
+	normal,
+	normal
+);
+
+@include font-face(
+	'Linux Libertine Mono',
+	'linux-libertine/LinLibertine_M',
+	normal,
+	normal
+);
+
+@include font-face(
+	'Linux Libertine Regular',
+	'linux-libertine/LinLibertine_R',
+	normal,
+	normal
+);
+
+@include font-face(
+	'Linux Libertine Regular Bold',
+	'linux-libertine/LinLibertine_RB',
 	bold,
 	normal
 );
 
 @include font-face(
-	'Latin Modern Roman Italic',
-	'latinmodern/roman/lmroman10-italic-webfont',
-	normal,
-	italic
-);
-
-@include font-face(
-	'Latin Modern Roman Bold Italic',
-	'latinmodern/roman/lmroman10-bolditalic-webfont',
+	'Linux Libertine Regular Bold Italic',
+	'linux-libertine/LinLibertine_RBI',
 	bold,
 	italic
 );
 
 @include font-face(
-	'Latin Modern Roman Caps Regular',
-	'latinmodern/roman/lmromancaps10-regular-webfont',
-	normal,
-	normal
-);
-
-@include font-face(
-	'Latin Modern Roman Caps Oblique',
-	'latinmodern/roman/lmromancaps10-oblique-webfont',
+	'Linux Libertine Regular Italic',
+	'linux-libertine/LinLibertine_RI',
 	normal,
 	italic
 );
 
-$fumseck-serif: 'Latin Modern Roman Regular', 'Baskerville', 'Georgia', serif;
+@include font-face(
+	'Linux Libertine Semibold',
+	'linux-libertine/LinLibertine_RZ',
+	600,
+	normal
+);
+
+@include font-face(
+	'Linux Libertine Semibold Italic',
+	'linux-libertine/LinLibertine_RZI',
+	600,
+	italic
+);
+
+$fumseck-serif: 'Linux Libertine Regular', 'Baskerville', 'Georgia', serif;
 
 /**
- * Latin Modern Sans
+ * Linux Biolinum
  */
 
 @include font-face(
-	'Latin Modern Sans Regular',
-	'latinmodern/sans/lmsans10-regular-webfont',
+	'Linux Biolinum Keyboard',
+	'linux-biolinum/LinBiolinum_K',
 	normal,
 	normal
 );
 
 @include font-face(
-	'Latin Modern Sans Bold',
-	'latinmodern/sans/lmsans10-bold-webfont',
+	'Linux Biolinum Regular',
+	'linux-biolinum/LinBiolinum_R',
+	normal,
+	normal
+);
+
+@include font-face(
+	'Linux Biolinum Regular Bold',
+	'linux-biolinum/LinBiolinum_RB',
 	bold,
 	normal
 );
 
 @include font-face(
-	'Latin Modern Sans Oblique',
-	'latinmodern/sans/lmsans10-oblique-webfont',
+	'Linux Biolinum Regular Italic',
+	'linux-biolinum/LinBiolinum_RI',
 	normal,
 	italic
 );
 
-@include font-face(
-	'Latin Modern Sans Bold Oblique',
-	'latinmodern/sans/lmsans10-boldoblique-webfont',
-	bold,
-	italic
-);
-
-$fumseck-sans: 'Latin Modern Sans Regular', 'Futura', 'Verdana', sans-serif;
+$fumseck-sans: 'Linux Biolinum', 'Futura', 'Verdana', sans-serif;
 
 /**
  * Latin Modern Monospace
