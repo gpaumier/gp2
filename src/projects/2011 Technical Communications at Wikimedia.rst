@@ -14,3 +14,9 @@
     From 2011 to 2014, I managed technical communications at the Wikimedia Foundation. This notably included: assembling, editing and publishing monthly technical reports; authoring and editing technical blog posts; and creating and maintaining tools and processes for project documentation.
 
 tech comms @ wikimedia with tech news + reports + blog posts
+
+discovery reports from GCI students
+
+AOSA, Open Advice
+
+https://blog.wikimedia.org/author/gpaumier/
