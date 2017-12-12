@@ -14,6 +14,10 @@
     <header>
         <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>
 
+        {% if post.meta('subtitle') %}
+            <h1 class="subheader post-subtitle">{{ post.meta('subtitle') }}</h1>
+        {% endif %}
+
         <p class="dateline"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date( messages('date_format_long'))|e }}</time></p>
 
         {% if post.meta('end') %}
