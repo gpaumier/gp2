@@ -2,7 +2,7 @@
 .. category: projects-en
 .. slug: file-metadata-cleanup-drive
 .. date: 2014-09-11T00:00:00
-.. ongoing: true
+.. end: 2015-06-30T00:00:00
 .. image: /images/2014-09-11_MrMetadata-screenshot.png
 .. roles: analyst, project lead, coder
 .. keywords: Wikimedia, metadata, Wikimedia Commons, licensing, multimedia

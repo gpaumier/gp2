@@ -2,11 +2,11 @@
 .. category: projects-en-featured
 .. slug: wikimedia-research-codex
 .. date: 2015-10-01T00:00:00
+.. date: 2016-10-30T00:00:00
 .. image: /images/2016-03-06_Humanities_books_0014.jpg
 .. roles: researcher, writer
 .. tags: Wikimedia, Wikipedia, research
 .. draft: true
-.. template: project.tmpl
 
 
 .. highlights::
