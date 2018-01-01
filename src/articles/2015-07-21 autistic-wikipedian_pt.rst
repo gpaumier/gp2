@@ -233,7 +233,7 @@ Meu objetivo era gerar conscientização sobre essa diferença, presente em noss
 
 Há muitas coisas sobre as quais não falei neste ensaio, e é possível que mais para frente eu me aprofunde em alguns pontos. Enquanto isso, caso você tenha interesse, eu estou totalmente aberto para continuar este debate, basta entrar em contato comigo, pessoalmente ou online.
 
-Vida longa e próspera. ``\\///``
+Vida longa e próspera. 🖖
 
 .. figure:: /images/2015-07-21_ISS_42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg
 
