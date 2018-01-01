@@ -2,12 +2,6 @@
 .. slug: projects
 .. icon: fa-tasks
 
-.. highlights::
-
-    In a word: I like doing stuff.
-
-Below are a few things I've worked on. This list is not exhaustive and I am (as of December 2017) going through my archives to write summaries for the activities that aren't yet included.
-
 Featured projects
 =================
 
