@@ -1,7 +1,7 @@
-// line 48
+// Foundation line 48
 $global-font-size: 140%;
 
-// line 51
+// Foundation line 51
 $foundation-palette: (
   primary: #008080,
   secondary: #802F00,
@@ -10,11 +10,14 @@ $foundation-palette: (
   alert: #ec5840,
 );
 
-// line 61
+// Foundation line 61
 $body-font-color: #333;
 
-// line 65
+// Foundation line 65
 $body-font-family: $fumseck-serif;
 
-// line 134
+// Foundation line 134
 $paragraph-margin-bottom: 2rem;
+
+// Font Awesome
+$fa-font-path: "/assets/fonts/fontawesome" !default;

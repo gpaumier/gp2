@@ -17,7 +17,10 @@ module.exports = config:
             presets: ['env']
         sass:
             options:
-                includePaths: ['node_modules/foundation-sites/scss']
+                includePaths: [
+                    'node_modules/foundation-sites/scss',
+                    'node_modules/font-awesome/scss'
+                ]
         postcss:
             processors: [
                 require('autoprefixer')({
@@ -26,6 +29,8 @@ module.exports = config:
                 }),
                 require('csswring')
             ]
+        copycat:
+            "fonts/fontawesome" : ["node_modules/font-awesome/fonts"]
 
     npm: # doc: http://brunch.io/docs/config#-npm-
         compilers: ['babel-brunch']
