@@ -3,30 +3,29 @@ module.exports = config:
     files:
         javascripts:
             joinTo:
-                'libs.js': /^(bower_components|vendor|node_modules)/
+                'libs.js': /^node_modules/,
                 'fumseck.js': /^bits/
-            order:
-                before: [
-                    'node_modules/jquery/dist/jquery.min.js',
-                    'node_modules/foundation-sites/dist/foundation.min.js'
-                ]
         stylesheets:
             joinTo: 'fumseck.css'
     paths:
         watched: [
-            'bits',
-            'node_modules/jquery/dist/jquery.min.js',
-            'node_modules/foundation-sites/dist/foundation.min.js'
+            'bits'
         ]
         public: 'themes/fumseck/assets'
     plugins:
+        babel:
+            presets: ['env']
         sass:
             options:
                 includePaths: ['node_modules/foundation-sites/scss']
         postcss:
             processors: [
                 require('autoprefixer')({
+                    # per https://foundation.zurb.com/sites/docs/sass.html#autoprefixer-required
                     browsers: ['last 2 versions', 'ie >= 9', 'and_chr >= 2.3']
                 }),
                 require('csswring')
             ]
+
+    npm: # doc: http://brunch.io/docs/config#-npm-
+        compilers: ['babel-brunch']
