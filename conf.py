@@ -42,7 +42,7 @@ THEME = "fumseck"
 
 POSTS = (
     ("src/articles/*.rst", "articles", "post.tmpl"),
-    ("src/projects/*.rst", "projects", "post.tmpl"),
+    ("src/projects/*.rst", {"en": "projects", "fr": "projets"}, "project.tmpl"),
     # ("src/projects/*_fr.rst", "projects", "post.tmpl"),
     # ("src/photos/*.rst", "photos", "post.tmpl"),
     # ("src/events/*.rst", "events", "post.tmpl"),
