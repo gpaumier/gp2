@@ -116,6 +116,7 @@
 
 (function() {
 var global = typeof window === 'undefined' ? this : window;
+var process;
 var __makeRelativeRequire = function(require, mappings, pref) {
   var none = {};
   var tryReq = function(name, pref) {
@@ -147,21 +148,53 @@ var __makeRelativeRequire = function(require, mappings, pref) {
     return require(name);
   }
 };
-require.register("bits/js/main.js", function(exports, require, module) {
+require.register("bits/main.js", function(exports, require, module) {
 "use strict";
+
+// Import jQuery, Foundation, and individual Foundation plugins from
+// node_modules using Brunch's NPM support
+//
+// For Foundation and its plugins, see:
+// * https://github.com/zurb/foundation-sites/issues/10336#issuecomment-315955426
+// * https://github.com/zurb/foundation-zurb-template/blob/master/src/assets/js/lib/foundation-explicit-pieces.js
+
+var _jquery = require('jquery');
+
+var _jquery2 = _interopRequireDefault(_jquery);
+
+var _foundation = require('foundation-sites/js/foundation.core');
+
+var _foundation2 = require('foundation-sites/js/foundation.dropdown');
+
+var _foundation3 = require('foundation-sites/js/foundation.dropdownMenu');
+
+var _foundationUtil = require('foundation-sites/js/foundation.util.touch');
+
+var _foundationUtil2 = require('foundation-sites/js/foundation.util.triggers');
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var App = {
     init: function init() {
-        $(document).foundation();
-        console.log('App initialized.');
+
+        // Initialize Foundation and its plugins (per the links above)
+        _foundation.Foundation.addToJquery(_jquery2.default);
+        _foundationUtil.Touch.init(_jquery2.default);
+        _foundationUtil2.Triggers.init(_jquery2.default, _foundation.Foundation);
+        _foundation.Foundation.plugin(_foundation2.Dropdown, 'Dropdown');
+        _foundation.Foundation.plugin(_foundation3.DropdownMenu, 'DropdownMenu');
+        (0, _jquery2.default)(document).foundation();
+
+        (0, _jquery2.default)(document).ready(function () {
+            console.log('Fumseck JavaScript loaded.');
+        });
     }
 };
 
 module.exports = App;
-
 });
 
-require.register("___globals___", function(exports, require, module) {
+require.alias("process/browser.js", "process");process = require('process');require.register("___globals___", function(exports, require, module) {
   
 });})();require('___globals___');
 
