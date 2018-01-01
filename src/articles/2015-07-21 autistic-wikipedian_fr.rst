@@ -234,7 +234,7 @@ Mon but ici était de faire prendre conscience de cette différence qui existe a
 
 Dans cet essai, j'ai laissé de côté de nombreux points que je développerai peut-être plus tard. En attendant, n'hésitez pas à continuer cette discussion, que ce soit en venant me parler en personne ou sur internet.
 
-Longue vie et prospérité. ``\\///``
+Longue vie et prospérité. 🖖
 
 
 .. figure:: /images/ISS-42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg

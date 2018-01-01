@@ -239,7 +239,7 @@ My goals here were to raise awareness of this difference that exists in our comm
 
 There is a lot I didn't get into in this essay, and I might expand on specific points later. In the meantime, I'm available if you're interested in continuing this discussion, and you should feel free to reach out to me, whether in person or online.
 
-Live long and prosper. ``\\///``
+Live long and prosper. 🖖
 
 
 .. figure:: /images/2015-07-21_ISS_42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg
