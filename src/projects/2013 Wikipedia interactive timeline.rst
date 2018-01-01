@@ -21,7 +21,7 @@ It's difficult to look back at recent events with enough hindsight; however, doc
 
 Some time in 2013, I stumbled upon the `TimelineJS <https://github.com/NUKnightLab/TimelineJS>`__ tool, a JavaScript library that generates interactive timelines. I liked it, but didn't immediately think of using it. In December, as I was looking back at what had happened in Wikimedia engineering during the year, I thought this tool could be a great way to showcase what had happened throughout the Wikimedia movement in 2013.
 
-The easiest way to create a timeline with TimelineJS is to prepare a spreadsheet containing all the data in Google docs, generate the timeline `on the Knightlab site <http://timeline.knightlab.com/#make>`__ and embed it from there into your web page. This approach is straightforward and allows people without too much technical knowledge to use the tool, but it also has a number of drawbacks, notably its reliance on multiple third-party tools, and the possible leakage of personal visitor information to those sites.
+The easiest way to create a timeline with TimelineJS is to prepare a spreadsheet containing all the data in Google docs, generate the timeline `on the Knightlab site <http://timeline.knightlab.com/#make>`__ and embed it from there into your web page. This approach is straightforward and enables people without too much technical knowledge to use the tool, but it also has a number of drawbacks, notably its reliance on multiple third-party tools, and the possible leakage of personal visitor information to those sites.
 
 I chose instead to host the timeline myself, including all the images, and to prepare the data in a local JSON file. Getting started was easy; I set up the `repository on GitHub <https://github.com/gpaumier/timelines>`__, and soon faced the real challenge, which wasn't technical: selecting the stories to feature in the timeline.
 
@@ -59,7 +59,7 @@ All this work was initially done in a simple standalone HTML page that displayed
 
 TimelineJS uses LESS to write and compile CSS files, so I started looking at the source files. I had learned to write in LESS a couple of weeks before when I had built the `Fumseck theme <//guillaumepaumier.com/project/fumseck/>`__, so it felt familiar. I edited the files to use the Solarized color scheme, Latin Modern typefaces and a larger font size, to be consistent with that theme. I tried to change the original files as little as possible, and refer to the unmodified sources when possible while compiling, in order to lower the maintenance costs if the library needs to be upgraded in the future.
 
-Finally, I created a custom page template for the WordPress theme that would allow me to embed the timeline using the full width of the viewport.
+Finally, I created a custom page template for the WordPress theme that would enable me to embed the timeline using the full width of the viewport.
 
 The final extra step was the translation and localization of the timeline to French. Even if the links to the full stories were in English, I thought French readers might still appreciate viewing the timeline itself. I translated the headlines, summaries, captions and credit lines, and created `a French copy of the timeline <//guillaumepaumier.com/fr/frises/wikipedia-en-2013/>`__ in WordPress.
 
