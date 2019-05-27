@@ -16,14 +16,15 @@
 
     <header>
         <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>
+
+        {% if post.meta('subtitle') %}
+            <h1 class="subheader post-subtitle">{{ post.meta('subtitle') }}</h1>
+        {% endif %}
     </header>
 
     <div class="e-content entry-content" itemprop="articleBody text">
     {{ post.text() }}
     </div>
-
-
-    </aside>
 
     {{ helper.mathjax_script(post) }}
 </article>

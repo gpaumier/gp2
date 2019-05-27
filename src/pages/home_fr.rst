@@ -1,6 +1,8 @@
 .. title: Accueil
 .. slug: index
 
-:doc:`Projets <projets>`
+.. highlights::
 
-:doc:`Articles <articles>`
+    Bonjour
+    
+    Soy Guillaume, y uso mis superpoderes para el bien común.

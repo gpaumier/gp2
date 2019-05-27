@@ -1,0 +1,99 @@
+
+// wrap the wikicode for the signature
+
+.wrap {
+    white-space: pre-wrap;
+}
+
+#becoming-wikipedian {
+
+  display: grid;
+  margin: 5em;
+  grid-template-columns: 1fr;
+  grid-template-rows: 100px repeat(5, max-content);
+
+  h2 {
+    grid-row: 1 / 2;
+  }
+
+  .section-picture {
+
+
+  }
+
+}
+//
+// #becoming-wikipedian {
+//   display: grid;
+//   margin: 5em;
+//   grid-template-columns: 100%;
+//   grid-template-rows: 60vh 30vh 10vh 100vh 1fr 1fr 1fr 1fr 1fr ;
+//
+//   h2 {
+//     grid-row: 2 / 3;
+//     order: 1;
+//   }
+//
+//   .section-picture {
+//
+//     grid-row: 1 / 4;
+//     order: -1;
+//
+//     img {
+//       object-fit: cover;
+//       width: 100vw;
+//       height: 90vh;
+//     }
+//
+//     #wikimania-2007-commons-puzzle-piece {
+//       object-position: 70% 30%;
+//     }
+//
+//     #first-steps-on-the-french-language-wikipedia {
+//       grid-row: 1 / 2;
+//     }
+//
+//     #photography-and-wikimedia-commons {
+//       grid-row-start: 5 / 6;
+//     }
+//
+//     .caption {
+//       grid-row: 3 / 4;
+//       align-self: end;
+//       justify-self: end;
+//     }
+//   }
+// }
+
+
+
+
+
+
+
+
+// Wikimedia photos slideshow / grid
+
+#wikimedia-photos {
+  display:grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(3, auto);
+
+  img {
+
+    @include breakpoint(small only) {
+      opacity: 0;
+      @include slideshow-fade($num:5, $fade:2, $visible:0);
+      grid-column: 1 / span 5;
+      grid-row: 1 / 2;
+    }
+
+    @include breakpoint(medium) {
+      // TODO Do something more interesting with the layout since we have more space
+      opacity: 0;
+      @include slideshow-fade($num:5, $fade:2, $visible:0);
+      grid-column: 1 / span 5;
+      grid-row: 1 / 2;
+    }
+  }
+}

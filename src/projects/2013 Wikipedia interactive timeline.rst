@@ -5,7 +5,7 @@
 .. end: 2014-01-10T00:00:00
 .. image: /images/2014-01-10_Wikipedia-timeline-2013-screenshot.png
 .. roles: researcher, writer
-.. keywords: Wikimedia, Wikipedia, timeline
+.. tags: Wikimedia, Wikipedia, timeline
 
 .. highlights::
 

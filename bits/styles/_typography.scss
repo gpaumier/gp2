@@ -132,7 +132,7 @@ blockquote {
     @extend %fumseck-serif-italic;
 }
 
-.caption {
+.caption, .legend, .sidebar {
     @extend %fumseck-sans;
     font-size: $small-font-size;
 
@@ -149,15 +149,20 @@ blockquote {
 a {
     text-decoration-line: underline;
     text-decoration-style: solid;
-    text-decoration-color: map-get($foundation-palette, "primary");
+    //text-decoration-color: map-get($foundation-palette, "primary");
+    text-decoration-color: transparentize(map-get($foundation-palette, "primary"), 0.7);
     text-decoration-skip: ink;
-    background-color: transparentize(map-get($foundation-palette, "primary"), 0.95);
-
 }
 
 .footnote-reference {
     text-decoration: none;
+    font-size: 80%;
+    // https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
 }
+
 
 h2 {
     text-align: center;

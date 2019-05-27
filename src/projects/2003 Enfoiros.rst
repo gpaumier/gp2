@@ -5,7 +5,7 @@
 .. end: 2005-06-30T00:00:00
 .. image: /images/2003-09-01_enfoiros-Ramonville-054b.jpg
 .. roles: ensemble singer, soloist, volunteer
-.. keywords: Performing arts, INSA
+.. tags: Performing arts, INSA
 
 .. highlights::
 

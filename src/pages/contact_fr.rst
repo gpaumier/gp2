@@ -1,5 +1,5 @@
-.. title: Social media & contact
-.. slug: contact-fr
+.. title: Contact
+.. slug: contact
 
 .. highlights::
 

@@ -1,0 +1,118 @@
+// Inspired by https://foundation.zurb.com/building-blocks/blocks/hero-full-screen.html
+
+$hero-full-screen-bg: url('/images/2017-08-20_GPaumier_warm.jpg') center center no-repeat;
+$hero-full-screen-bg-size: cover;
+$hero-full-screen-text-color: $white;
+
+.hero-full-screen {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background: $hero-full-screen-bg;
+  background-size: $hero-full-screen-bg-size;
+  background-position: 70% 40%;
+
+  .middle-content-section {
+    text-align: center;
+    color: $hero-full-screen-text-color;
+  }
+
+  .top-content-section {
+    width: 100%;
+  }
+
+  .scroll-button {
+    margin:auto;
+
+    padding: 1rem;
+
+    svg {
+      height: rem-calc(60);
+      width: rem-calc(60);
+      fill: $hero-full-screen-text-color;
+    }
+  }
+
+  // optional demo styles
+  .top-bar {
+    background: transparent;
+
+    .menu {
+      background: transparent;
+    }
+
+    .menu-text {
+      color: $hero-full-screen-text-color;
+    }
+
+    .menu li {
+      display: flex;
+      align-items: center;
+    }
+
+    .menu a {
+      color: $hero-full-screen-text-color;
+      font-weight: bold;
+    }
+  }
+}
+
+// Styles for sections
+
+.wikipedia-years {
+
+    // Reproduce some of the iconic Vector style, and:
+    // * reduce font size since we're using sans-serif
+    // * use a pseudo-element to create the illusion of the left sidebar since we don't have a parent container
+    //   (From http://nicolasgallagher.com/multiple-backgrounds-and-borders-with-css2/demo/borders.html )
+
+    font-family: sans-serif;
+    font-size: 80%;
+    color: #222222;
+    padding: 1.25em 1.5em 1.25em 1.5em;
+    position: relative;
+    z-index: 10;
+    border: solid #f6f6f6;
+    border-width: 1em 0 1em 1em;
+    @media #{$medium-up} {
+        border-left-width: 20vw;
+    }
+    background: #fff;
+
+    ::before {
+        content: "";
+        display: block;
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        border: 1px solid #a7d7f9;
+        border-right-width: 0;
+    }
+
+    a {
+        text-decoration: none;
+        color: #0645ad;
+        background: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    h2 {
+        font-family: 'Linux Libertine','Georgia','Times',serif;
+        color: #000;
+        text-align: left;
+        border-bottom: 1px solid #a2a9b1;
+    }
+
+    .main-article {
+        padding-left: 1.6em;
+        font-style: italic;
+    }
+}

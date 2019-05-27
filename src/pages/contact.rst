@@ -1,4 +1,4 @@
-.. title: Social media & contact
+.. title: Contact
 .. slug: contact
 .. icon: fa-envelope
 
