@@ -2,7 +2,8 @@
 .. category: articles-en
 .. slug: introducing-the-wikimedia-documents-initiative
 .. date: 2009-05-20 21:13:44
-.. tags: Wikimedia, mathjax
+.. tags: Wikimedia
+.. has_math: yes
 .. keywords: documents, LaTeX, Scribus, Wikimedia
 .. image: /images/2009-04-03_Wikimedia_conference_chapters_meeting_2009_8895.jpg
 .. image-caption: One of the goals of the initiative is to build a consistent visual identity across documents used for communication and outreach.

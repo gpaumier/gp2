@@ -7,7 +7,7 @@
 .. image: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
 .. roles: project lead, researcher, writer
 .. tags: labs-on-chips, microfluidics, PNIPAM, polymers
-.. draft: true
+
 
 
 .. highlights::

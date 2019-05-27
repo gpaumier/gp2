@@ -6,7 +6,7 @@
 .. image: /images/2015-06-18_ve-diff-review.png
 .. roles: researcher, coder
 .. tags: Wikimedia, Wikipedia, VisualEditor, research, citations
-.. draft: true
+
 
 .. highlights::
 

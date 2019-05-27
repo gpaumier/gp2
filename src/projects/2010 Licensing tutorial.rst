@@ -6,7 +6,7 @@
 .. image: /images/Licensing_tutorial_en.png
 .. roles: project lead
 .. keywords: Wikimedia, Wikimedia Commons, translation, licensing, multimedia, usability
-.. draft: true
+
 
 
 .. highlights::

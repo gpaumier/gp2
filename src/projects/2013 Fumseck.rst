@@ -6,7 +6,8 @@
 .. end: 2014-01-06T00:00:00
 .. image: /images/2013-12-24_devices-fumseck.jpg
 .. roles: designer, coder
-.. tags: PHP, WordPress, Solarized, Latin Modern, coding, design, mathjax
+.. tags: PHP, WordPress, Solarized, Latin Modern, coding, design
+.. has_math: yes
 
 .. highlights::
 

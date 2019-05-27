@@ -7,7 +7,7 @@
 .. image: /images/DNA_microarray_23.svg
 .. roles: researcher
 .. tags: biochips, surface functionalization, silane
-.. draft: true
+
 .. todo: find image from report, fix dates, fix subtitle, add abstract
 
 

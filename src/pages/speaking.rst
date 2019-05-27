@@ -2,7 +2,7 @@
 .. slug: speaking
 .. image:
 .. icon: fa-calendar
-.. tags: mathjax
+.. has_math: yes
 
 .. https://commons.wikimedia.org/wiki/File:Questions_to_WMF%27s_new_Communications_team_at_Wikimania_2014.jpg
 
