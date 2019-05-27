@@ -2,7 +2,8 @@
 .. category: articles-en
 .. slug: ph-d-thesis-available-for-download-and-reuse
 .. date: 2008-12-19 13:00:31
-.. tags: Science, mathjax
+.. tags: Science
+.. has_math: yes
 .. keywords: PNIPAM, thesis, Engineering
 .. image: /images/Guillaume_Paumier___Technologies_PNIPAM_pour_les_laboratoires_sur_puces.png
 .. excerpt: I am glad to announce that my Ph.D thesis on "PNIPAM technologies for lab on chips" is now available for download.

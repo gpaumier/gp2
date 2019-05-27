@@ -6,7 +6,7 @@
 .. image: /images/2011-01-01_tech-blog-activity.png
 .. roles: writer, project lead
 .. tags: Wikimedia, Engineering, Wikipedia, writing, translation, technology, technical communication
-.. draft: true
+
 
 
 .. highlights::

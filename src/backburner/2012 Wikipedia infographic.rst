@@ -7,7 +7,7 @@
 .. image: /images/2012-06-25_Wikipedia-infographic.png
 .. roles: researcher, designer
 .. tags: Wikimedia, Wikipedia, wikiarchaeology
-.. draft: true
+
 
 
 .. highlights::

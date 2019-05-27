@@ -6,7 +6,7 @@
 .. image: /images/wp-pug-cover-small.jpg
 .. roles: writer
 .. tags: Wikimedia, Wikipedia, wikiarchaeology
-.. draft: true
+
 
 
 .. highlights::

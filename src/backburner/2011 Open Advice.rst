@@ -7,7 +7,7 @@
 .. image: /images/2012-02-09_Open-advice-books-8098s.jpg
 .. roles: writer
 .. tags: Wikimedia, KDE, usability
-.. draft: true
+
 .. todo: find original image
 
 

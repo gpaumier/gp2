@@ -6,7 +6,7 @@
 .. image: /images/2006-08-13_Pirates-Large-DiDay.jpg
 .. roles: director, writer, coordinator
 .. tags: Performing arts, INSA
-.. draft: true
+
 
 
 .. highlights::
