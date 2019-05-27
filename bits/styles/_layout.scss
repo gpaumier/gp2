@@ -1,4 +1,4 @@
-.post-article, .post-project {
+.post-text, .post-project {
     padding: .5em;
 
     .post-image {
@@ -12,9 +12,34 @@
         text-align: center;
     }
 
-    .entry-content {
-        max-width: map-get($breakpoints, 'medium');
-        margin: auto;
+    .entry-content > div {
+      display: grid;
+      grid-template-columns: minmax(1em, 1fr)
+       minmax(0, 65ch) minmax(1em, 1fr);
+
+      & > * {
+        grid-column: 2 / 3;
+      }
+
+      .full-width, div.section {
+        grid-column: 1 / 4;
+      }
+
+      & > div.section {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr)
+         minmax(0, 65ch) minmax(0, 1fr);
+
+         & > * {
+           grid-column: 2 / 3;
+         }
+
+         .full-width {
+           grid-column: 1 / 4;
+           margin: auto;
+         }
+      }
+
     }
 
     @include breakpoint(small only) {
@@ -24,6 +49,33 @@
         }
     }
 }
+
+
+
+.page {
+
+  // .entry-content {
+  //   max-width: 65ch;
+  //   margin: auto;
+  // }
+
+  // .entry-content p {
+  //     max-width: 65ch;
+  //     margin-left: auto;
+  //     margin-right: auto;
+  // }
+  //
+  // .sidebar {
+  //   max-width: 50vw;
+  //   float: right;
+  //   margin: 2rem;
+  // }
+  //
+  // .section {
+  //   clear: both;
+  // }
+}
+
 
 // Attribution lines in blockquotes should be flushed right
 
@@ -43,3 +95,12 @@ svg {
 }
 
 // Project cards
+
+// Icon toolbar
+// Alternative: https://foundation.zurb.com/building-blocks/blocks/sticky-footer-css.html
+
+#icon_navbar {
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+}

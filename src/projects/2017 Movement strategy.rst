@@ -1,18 +1,25 @@
 .. title: Wikimedia 2030
 .. category: projects-en-featured
 .. subtitle: participatory strategy for a global movement
-.. slug: wikimedia-2030
+.. slug: wikimedia2030
 .. date: 2017-01-01T00:00:00
 .. end: 2017-11-30T00:00:00
 .. image: /images/2017-10-23_WM2030.png
 .. roles: architect, writer
-.. keywords: Wikimedia, strategy
+.. tags: Wikimedia, strategy
 
 .. highlights::
 
     Highlight goes here
 
 https://commons.wikimedia.org/wiki/File:WM2030.png
+
+https://blog.wikimedia.org/2017/11/03/wikimedia-movement-new-direction/
+https://blog.wikimedia.org/2017/05/19/wikimedia-strategy-2030-discussions/
+https://commons.wikimedia.org/wiki/Category:Wikimedia_Conference_2017_%E2%80%93_Introduction_and_Movement_Complexity
+https://commons.wikimedia.org/wiki/File:Felix_Nartey_at_Wikimedia_Conference_2017.jpg
+https://blog.wikimedia.org/2017/04/28/strategy-present-future/
+https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017
 
 Goal
 ====
@@ -29,8 +36,12 @@ participatory
 
 Process, tracks (new voices), cycles, drafting, advisory group, drafting committee, Berlin, williamsworks, Wikimania
 
+strategy coordinators, management
+
 
 victor's videos
+
+"knowledge belongs to all of us" ended up becoming the theme of the 2017 annual report: https://annual.wikimedia.org/2017/
 
 photos from salons, workshops, community discussions
 
@@ -97,6 +108,15 @@ Movement discussions
 Wikimedia Foundation internal planning
 
 https://meta.wikimedia.org/wiki/Wikimedia_2030/Process_planning
+
+
+https://www.forbes.com/sites/michaelbernick/2018/03/28/the-power-of-the-wikimedia-movement-beyond-wikimedia/#42557f8e5a75
+
+https://nonprofitquarterly.org/2018/03/30/wikimedias-strategic-direction-project-model-democracy/
+
+
+
+
 
 
 .. class:: copyright-notes

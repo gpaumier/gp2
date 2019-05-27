@@ -5,7 +5,7 @@
 .. end: 2006-05-12T00:00:00
 .. image: /images/2006_libertin4.png
 .. roles: stage actor
-.. keywords: Performing arts, INSA
+.. tags: Performing arts, INSA
 
 .. highlights::
 
@@ -89,4 +89,4 @@ there, as the red curtain fell, I knew I could do anything I set out to do.
 
 .. class:: copyright-notes
 
-    **Le Libertin** was written by Éric-Emmanuel Schmitt. Photos were taken from the video shot by the A/V club.
+    *Le Libertin* was written by Éric-Emmanuel Schmitt. Photos were taken from the video shot by the A/V club.

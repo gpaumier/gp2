@@ -192,11 +192,10 @@ var App = {
 };
 
 module.exports = App;
+
 });
 
 require.alias("process/browser.js", "process");process = require('process');require.register("___globals___", function(exports, require, module) {
   
 });})();require('___globals___');
 
-
-//# sourceMappingURL=fumseck.js.map

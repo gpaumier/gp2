@@ -6,10 +6,30 @@
 .. end: 2008-11-06T00:00:00
 .. image: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
 .. roles: project lead, researcher, writer
-.. keywords: labs-on-chips, microfluidics, PNIPAM, polymers
+.. tags: labs-on-chips, microfluidics, PNIPAM, polymers
 .. draft: true
 
 
 .. highlights::
 
     For three years, I worked at the crossroads of physics, microelectronics, biology and chemistry to develop miniaturized laboratories based on a polymer that changes properties with temperature.
+
+
+• Worked on miniaturized systems for chemical and biological analysis ("labs on chips")
+• Developed a new technology based on thermosensitive polymer coatings
+• Explored applications in controlled electro-osmosis and controlled adsorption/release of proteins
+
+Labs on chips are miniaturized devices integrating one or several laboratory functions, usually dedicated to the handling of chemical and biological samples. Our work aimed at integrating a smart polymer called poly(N-isopropylacrylamide) (PNIPAM) in microsystems, in order to develop a new technological process for labs on chips. PNIPAM is a thermosensitive polymer that undergoes a reversible state transition; it switches from a hydrophilic, swollen state below its temperature of transition (LCST ~ 32°C), to a hydrophobic, collapsed state above it. The technology we developed is based on heating elements and a surface functionalization process to graft the PNIPAM layer. Our results show that the electro-osmotic flow can be modulated by thermally controlling the PNIPAM, thus paving the way to electrokinetic mixers. This thermal control also enables the adsorption (and partial desorption) of proteins on fonctionalized beads, the main application being sample preparation.
+
+https://fr.wikisource.org/wiki/Technologies_PNIPAM_pour_les_laboratoires_sur_puce
+
+
+http://thesesups.ups-tlse.fr/420/
+
+
+Université Paul-Sabatier
+LAAS-CNRS
+
+photos salle blanche, portes ouvertes pour Commons
+
+images et articles (cf blog posts, poster, etc.)

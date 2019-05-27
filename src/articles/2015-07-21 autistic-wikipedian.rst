@@ -50,6 +50,7 @@ In this essay, I want to share with you some of what I've learned, and share my 
 One caveat I want to start with is that autism is a spectrum. There's a popular saying among online autistic communities that says: "You've met an autist, you've met *one* autist." Just keep this in mind: What I'm presenting here is based on my personal experience, and isn't going to apply equally to all autistic people.
 
 .. figure:: /images/2007-07-31_Taipei_Wm2007_Guillaume.jpg
+   :figclass: full-width
    :alt: A picture of Guillaume Paumier sitting on a bench, changing a lens on a camera, on a background of green plants.
 
    "`Taipei Wm2007 Guillaume.jpg <https://commons.wikimedia.org/wiki/File:Taipei_Wm2007_Guillaume.jpg>`_",    by `Cary Bass <https://commons.wikimedia.org/wiki/User:Bastique>`_, under `CC-By-SA 3.0    Unported <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`_,    from Wikimedia Commons.
@@ -116,6 +117,7 @@ If you apply this model to an oral conversation, you quickly see all the opportu
 If this is the case for neurotypical people, meaning people with a "typical" brain, imagine how challenging it can be for autists like me. A great analogy is given in the movie *The Imitation Game*, inspired by the life of Alan Turing, who is portrayed in the film as being on the autism spectrum.
 
 .. figure:: /images/2015-07-21_imitation_game.png
+   :figclass: full-width
    :alt: A screenshot of the movie The Imitation Game, showing a young Alan Turing (played by Alex Lawther) and his friend Christopher Morcom (portrayed by Jack Bannon). They are sitting against a tree, and Christopher is handing Alan a book.
 
    Still from *The Imitation Game*. © 2014 The Weinstein Company. All rights reserved.
@@ -159,6 +161,7 @@ This is only one of the challenges faced by autistic people, and I would now lik
 The most common consequence I've noticed in my experience, and in accounts from other autistic people, is a feeling of profound isolation. The lack of Theory of mind and the constant risk of miscommunication make it difficult to build relationships. It's not anyone's fault in particular; it's due to a general lack of awareness.
 
 .. figure:: /images/Wikimania_2014_welcome_reception_02.jpg
+   :figclass: full-width
    :alt: A photograph of the Wikimania 2014 welcome reception.
 
    "`Wikimania 2014 welcome reception 02 <https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg>`_", by Chris McKenna, under CC-BY-SA 4.0 International, from Wikimedia
@@ -243,6 +246,7 @@ Live long and prosper. 🖖
 
 
 .. figure:: /images/2015-07-21_ISS_42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg
+   :figclass: full-width
 
    "`ISS-42 Samantha Cristoforetti Leonard Nimoy tribute <https://commons.wikimedia.org/wiki/File:ISS-42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg>`_", by `NASA <https://www.nasa.gov>`_, in the Public domain, from Wikimedia Commons.
 

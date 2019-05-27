@@ -1,5 +1,5 @@
-<ul class="menu expanded icon-top">
-    {% for page in ['home', 'projects', 'articles', 'contact', 'sitemap'] %}
+<ul class="menu expanded icons icon-top text-center hide-for-large" id="icon_navbar">
+    {% for page in ['home', 'projects', 'writing', 'contact'] %}
         <li>
             <a href="{{ messages('iconbar_' + page + '_link')}}" class="item">
                 <i class="{{ messages('iconbar_' + page + '_class')}}"></i>

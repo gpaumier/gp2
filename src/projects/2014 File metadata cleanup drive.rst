@@ -5,7 +5,7 @@
 .. end: 2015-06-30T00:00:00
 .. image: /images/2014-09-11_MrMetadata-screenshot.png
 .. roles: analyst, project lead, coder
-.. keywords: Wikimedia, metadata, Wikimedia Commons, licensing, multimedia
+.. tags: Wikimedia, metadata, Wikimedia Commons, licensing, multimedia
 
 .. highlights::
 
@@ -113,7 +113,7 @@ An assessment of impact conducted in January 2015 showed that, in three months, 
 
     In three months, over a third of the files missing machine-readable metadata were fixed.
 
-    The source data comes from MrMetadata, and more specifically the historical tallies for Commons and historical tallies for all wikis combined between 2014-10-10 and 2015-01-22. The stacked bar chart (blue & yellow) uses the left-side axis. The deltas (Δ) represent the absolute difference in files for Commons (Δ in the blue bars) and for all other wikis (Δ in the yellow bars) between the start and end dates of the chart. The standalone Δtotal is the total difference for all wikis combined. The top (green) line chart uses the right-side axis.
+    The source data comes from MrMetadata, and more specifically the historical tallies for Commons and historical tallies for all wikis combined between 2014-10-10 and 2015-01-22. The stacked bar chart (blue & yellow) uses the left-side axis. The deltas (Δ) represent the absolute difference in files for Commons (Δ in the blue bars) and for all other wikis (Δ in the yellow bars) between the start and end dates of the chart. The standalone Δ\ :sub:`total` is the total difference for all wikis combined. The top (green) line chart uses the right-side axis.
 
 
 The challenge at this point was that most of the low-hanging fruits (templates that were on lots of pictures) have been exhausted, and most of the remaining files don't have templates. This means that we need to add the templates ourselves to structure information that is currently in raw wikitext, which will take more time. This will be done by running focused campaigns using bots on large sets of files whenever possible.

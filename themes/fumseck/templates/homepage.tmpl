@@ -1,0 +1,49 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'post_helper.tmpl' as helper with context %}
+{% import 'post_header.tmpl' as pheader with context %}
+{% extends 'page.tmpl' %}
+
+{% block header %}
+{% endblock %}
+
+{% block content %}
+<article class="page h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+  <div class="grid-y medium-grid-frame hero-full-screen ">
+    <div class="cell shrink header medium-cell-block-container">
+      {% include "_header.tmpl" %}
+    </div>
+    <div class="cell medium-auto medium-cell-block-container grid-y medium-grid-frame align-center-middle">
+      <div class="grid-x grid-padding-x ">
+        <div class="cell medium-6 medium-cell-block-y">
+          <div>{{ post.text() | get_lead_text }}</div>
+
+        </div>
+      </div>
+    </div>
+    <div class="cell shrink medium-cell-block-container scroll-button">
+      <a href="#main-content-section"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M24 12c0-6.627-5.373-12-12-12s-12 5.373-12 12 5.373 12 12 12 12-5.373 12-12zm-18.005-1.568l1.415-1.414 4.59 4.574 4.579-4.574 1.416 1.414-5.995 5.988-6.005-5.988z"/></svg></a>
+    </div>
+  </div>
+
+  <div id="main-content-section">
+
+    {% if post.meta('image') %}
+        <img src="{{ post.meta('image') }}" class="post-image"/>
+    {% endif %}
+
+    <header>
+        <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>
+    </header>
+
+    <div class="e-content entry-content" itemprop="articleBody text">
+    {{ post.text() }}
+    </div>
+  </div>
+
+  </div>
+
+
+
+</article>
+{% endblock %}
