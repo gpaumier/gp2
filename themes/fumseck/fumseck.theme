@@ -1,0 +1,5 @@
+[Theme]
+engine = jinja
+parent = base-jinja
+author = Guillaume Paumier
+author_url = https://guillaumepaumier.com/
