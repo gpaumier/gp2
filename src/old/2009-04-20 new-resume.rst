@@ -1,11 +1,12 @@
 .. title: New resume
-.. category: articles-en
 .. slug: new-resume
 .. date: 2009-04-20 17:56:05
-.. tags: mathjax
-.. keywords: interdisciplinarity, Scribus
+.. tags: 
+.. category: articles-en
+.. has_math: yes
 .. image: /images/2009-04-20_cv_gpaumier_en.png
 .. image-caption: The 2-column, colorful resume highlights both sides of my experience and interests, and combines them into a common goal.
+.. keywords: interdisciplinarity, Scribus
 .. todo: higher resolution images
 
 .. highlights::
