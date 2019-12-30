@@ -52,5 +52,5 @@ MESSAGES = {
     "iconbar_contact_link": "/fr/contact",
     "iconbar_contact_class": "fa fa-envelope",
     "iconbar_contact_label": "Contact",
-    "date_format_long": "%d %B %Y"
+    "date_format_long": "d MMMM yyyy"
 }
