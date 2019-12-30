@@ -16,7 +16,7 @@ The |enfoiros|_ is a student club from the *Institut National des Sciences Appli
 
 .. |enfoiros| replace:: *Enfoiros*
 
-.. _enfoiros: http://etud.insa-toulouse.fr/~enfoiros/
+.. _enfoiros: https://www.enfoiros.org/
 
 
 Founded in 2000, the club's purpose revolves around activities aimed at supporting the *Restaurants du Cœur* ("*les Restos*"), a French charity providing food and support to the needy.
