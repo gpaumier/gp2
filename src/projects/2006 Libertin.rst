@@ -15,7 +15,7 @@
 "Libertinage is the faculty to separate sex from love, mates from
 mating, in a word, libertinage is all about nuance and accuracy." This
 is what a philandering Diderot tells his wife, as he is constantly
-solicited and needs to write the *Encyclopédie*'s article about
+solicited and needs to write the *Encyclopédie*’s article about
 Morality.
 
 *Le Libertin* is a play by French author Éric-Emmanuel Schmitt
