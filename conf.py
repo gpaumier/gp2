@@ -17,7 +17,6 @@ DEFAULT_LANG = "en"
 TRANSLATIONS = {
     DEFAULT_LANG: "",
     "fr": "./fr",
-    "pt": "./pt",
 }
 
 TRANSLATIONS_PATTERN = "{path}_{lang}.{ext}"
@@ -150,7 +149,11 @@ FILTERS = {
 # (the thumbnail has ``.thumbnail`` added before the file extension).
 # The format is a dictionary of {source: relative destination}.
 
-IMAGE_FOLDERS = {'src/images': 'images'}
+IMAGE_FOLDERS = {
+    'src/images/others': 'images',
+    'src/images/others-free': 'images',
+    'src/images/own': 'images'
+    }
 # IMAGE_THUMBNAIL_SIZE = 400
 PRESERVE_EXIF_DATA = True
 EXIF_WHITELIST = {'*': '*'}
