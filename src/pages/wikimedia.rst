@@ -430,6 +430,32 @@ Coming up with useful answers starts with asking the right questions, so I devel
 
 All the discussions were documented in `anonymized transcripts <https://meta.wikimedia.org/wiki/Values/2016_discussion/Transcripts>`__ from which `several themes <https://meta.wikimedia.org/wiki/Values/2016_discussion/Themes>`__ emerged. They were further refined, crafted, and distilled into five statements that eventually became the `Wikimedia Foundation's values <https://wikimediafoundation.org/wiki/Values>`__.
 
+
+Bringing the values to life: activity at the annual "all-hands" meeting of the Wikimedia Foundation staff
+
+poetry, mixed media, dance, clay
+or just plain discussion
+
+
+.. figure:: /images/2018-01-26_Values_All-hands_9676_v1.jpg
+   :figwidth: 30em
+
+.. figure:: /images/2018-01-26_Values_All-hands_9679_v1.jpg
+   :figwidth: 30em
+
+.. figure:: /images/2018-01-26_Values_All-hands_9687_v1.jpg
+   :figwidth: 30em
+
+.. figure:: /images/2018-01-26_Values_All-hands_9688_v1.jpg
+   :figwidth: 30em
+
+.. figure:: /images/2018-01-26_Values_All-hands_9730_v1.jpg
+   :figwidth: 30em
+
+
+Integrating the values in organizational culture and the employee lifecycle (hiring, onboarding, evaluation, etc.)
+
+
 Movement Strategy: Wikimedia 2030
 ---------------------------------
 
