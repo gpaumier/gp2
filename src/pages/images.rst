@@ -18,6 +18,12 @@ Images
    `Elti Meshau <https://unsplash.com/@eltimeshau>`__ on `Unsplash <https://unsplash.com/photos/2S2F2exmbhw>`__.
 
 
+.. figure:: /images/Jigsaw_Puzzle.svg
+   :figwidth: 30em
+
+   Psyon on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Jigsaw_Puzzle.svg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
+
+
 
 .. figure:: /images/matthew-henry-fPxOowbR6ls-unsplash.jpg
    :figwidth: 30em
@@ -97,113 +103,373 @@ Images
    `Victor Freitas <https://unsplash.com/@victorfreitas>`__ on `Unsplash <https://unsplash.com/photos/Yuv-iwByVRQ>`__.
 
 
-Videos
-======
 
-.. raw:: html
-
-    <figure class="video" style="width:30em">
-      <video autoplay loop muted>
-    	  <source src="/videos/coverr-Fishermen-Resting.webm" type='video/webm; codecs="vp8.0, vorbis"'>
-      </video>
-    </figure>
-
-    <figure class="video" style="width:30em">
-      <video autoplay loop muted>
-    	  <source src="/videos/coverr-Green.webm" type='video/webm; codecs="vp8.0, vorbis"'>
-      </video>
-    </figure>
-
-    <figure class="video" style="width:30em">
-      <video autoplay loop muted>
-    	  <source src="/videos/coverr-Puddle.webm" type='video/webm; codecs="vp8.0, vorbis"'>
-      </video>
-    </figure>
-
-    <figure class="video" style="width:30em">
-      <video autoplay loop muted>
-    	  <source src="/videos/coverr-windy.webm" type='video/webm; codecs="vp8.0, vorbis"'>
-      </video>
-    </figure>
-
-    <figure class="video" style="width:30em">
-      <video autoplay loop muted>
-    	  <source src="/videos/coverr-Nature-Sunset.webm" type='video/webm; codecs="vp8.0, vorbis"'>
-      </video>
-    </figure>
-
-
-    <figure class="video" style="width:30em">
-      <video autoplay loop muted>
-    	  <source src="/videos/ccoverr-mountain-lake-1572171891276.mp4" type='video/mp4; codecs="vp8.0, vorbis"'>
-      </video>
-    </figure>
-
-
-    <figure class="video" style="width:30em">
-      <video autoplay loop muted>
-    	  <source src="/videos/coverr-Snow-motion.mp4" type='video/mp4; codecs="vp8.0, vorbis"'>
-      </video>
-    </figure>
-
-
-    <figure class="video" style="width:30em">
-      <video autoplay loop muted>
-    	  <source src="/videos/coverr-Tree-Close-Up.webm" type='video/webm; codecs="vp8.0, vorbis"'>
-      </video>
-    </figure>
-
-
-.. figure:: /videos/coverr-Fishermen-Resting.webm
+.. figure:: /images/Wikimedia_Summit_2019_-_Group_photo_4.jpg
    :figwidth: 30em
 
-   `Coverr <https://coverr.co/videos/fisherman-boats-in-the-ocean-Q9gONWmDUy>`__.
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_Group_photo_4.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
-.. figure:: /videos/coverr-Green.webm
+
+.. figure:: /images/Movement_Strategy_Space_at_Wikimania_2017_01.jpg
    :figwidth: 30em
 
-   `Coverr <https://coverr.co/videos/grass-blown-by-the-wind-gKhovpJ6Fe>`__.
+   `Nicole Ebber (WMDE) <https://commons.wikimedia.org/wiki/User:Nicole_Ebber_(WMDE)>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Movement_Strategy_Space_at_Wikimania_2017_01.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
-.. figure:: /videos/coverr-Puddle.webm
+
+.. figure:: /images/Wikimedia_movement_strategy_at_Wikimania_2017_01.jpg
    :figwidth: 30em
 
-   `Coverr <https://coverr.co/videos/puddle-of-rainy-water-RUouWxOq1f>`__.
+   `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_01.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
-.. figure:: /videos/coverr-windy.webm
+
+.. figure:: /images/Wikimedia_movement_strategy_at_Wikimania_2017_06.jpg
    :figwidth: 30em
 
-   `Coverr <https://coverr.co/videos/windy-forest-plants-X5WKTPQvic>`__.
+   `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_06.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
-.. figure:: /videos/coverr-Nature-Sunset.webm
+
+.. figure:: /images/Wikimedia_movement_strategy_at_Wikimania_2017_08.jpg
    :figwidth: 30em
 
-   `Coverr <https://coverr.co/videos/nature-sunset-qFAdpnkjwA>`__.
+   `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_08.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
-
-.. figure:: /videos/coverr-mountain-lake-1572171891276.mp4
+.. figure:: /images/2017_Movement_Strategy_at_Wikimania_-_participation_in_session_04-03.jpg
    :figwidth: 30em
 
-   `Coverr <https://coverr.co/videos/mountain-lake-SzbwQXG2Vc>`__.
+   Abby Walla / Wikimedia Foundation on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:2017_Movement_Strategy_at_Wikimania_-_participation_in_session_04-03.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
-.. figure:: /videos/coverr-Snow-motion.mp4
+.. figure:: /images/2017_Wikimedia_Movement_Strategy_at_Wikimania_-_session_04-02_-_photo_4.jpg
    :figwidth: 30em
 
-   `Coverr <https://coverr.co/videos/snow-motion-Ska8XMO3RD>`__.
+   Abby Walla / Wikimedia Foundation on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:2017_Wikimedia_Movement_Strategy_at_Wikimania_-_session_04-02_-_photo_4.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
-.. figure:: /videos/coverr-Tree-Close-Up.webm
+
+.. figure:: /images/Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Indigenas_-_Cochabamba,_Bolivia.jpg
    :figwidth: 30em
 
-   `Coverr <https://coverr.co/videos/tree-close-up-SulvlXl5ln>`__.
+   `Barrioflores <https://commons.wikimedia.org/wiki/User:Barrioflores>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Ind%C3%ADgenas_-_Cochabamba,_Bolivia.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+
+.. figure:: /images/2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_&_Maithili_Wikimedians_1001_22.jpg
+   :figwidth: 30em
+
+   `Nabin K. Sapkota <https://commons.wikimedia.org/wiki/User:Nabin_K._Sapkota>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_%26_Maithili_Wikimedians_1001_22.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+
+.. figure:: /images/Photo_de_famille_15.jpg
+   :figwidth: 30em
+
+   `Aman ADO <https://commons.wikimedia.org/wiki/User:Aman_ADO>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Photo_de_famille_15.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Meet-up_1_2019_de_la_strategie_2030_14.jpg
+   :figwidth: 30em
+
+   `Aman ADO <https://commons.wikimedia.org/wiki/User:Aman_ADO>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Meet-up_1_2019_de_la_strat%C3%A9gie_2030_14.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+
+.. figure:: /images/Salon_strategique_wikimedia_cote_Ivoire_2019_35_retouche.jpg
+   :figwidth: 30em
+
+   `Modjou <https://commons.wikimedia.org/wiki/User:Modjou>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Salon_strat%C3%A9gique_wikimedia_c%C3%B4te_d%27Ivoire_2019_35_(retouche).jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+
+.. figure:: /images/Wikimedia_Conference_2018_–_299.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_299.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2018_–_296.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_296.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2018_–_136.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_136.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2018_–_134.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_134.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2018_–_071.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_071.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2018_–_058.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_058.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_26.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_26.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_60.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_60.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_167.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_167.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_172.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_172.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_182.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_182.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_163.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_163.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_146.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_146.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_151.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_151.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_153.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_153.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_285.jpg
+   :figwidth: 30em
+
+   René Zieger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_285.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_286.jpg
+   :figwidth: 30em
+
+   René Zieger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_286.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_268.jpg
+   :figwidth: 30em
+
+   René Zieger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_268.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_269.jpg
+   :figwidth: 30em
+
+   René Zieger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_269.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_135.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_135.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_143.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_143.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_151.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_151.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_200.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_200.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_226.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_226.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_104.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_104.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_109.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_109.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_115.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_115.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_117.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_117.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_118.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_118.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_62.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_62.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_64.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_64.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_68.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_68.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_74.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_74.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_75.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_75.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_85.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_85.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_223.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_223.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_248.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_248.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_Group_photo_4.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_Group_photo_4.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Participants_during_WMCON_2017_11.jpg
+   :figwidth: 30em
+
+   `Nabin K. Sapkota <https://commons.wikimedia.org/wiki/User:Nabin_K._Sapkota>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Participants_during_WMCON_2017_11.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Conference_2018_–_296.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_296.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/WMCON_Berlin_2017_60.jpg
+   :figwidth: 30em
+
+   `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:WMCON_Berlin_2017_60.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Felix_Nartey_at_Wikimedia_Conference_2017.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Felix_Nartey_at_Wikimedia_Conference_2017.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/GF_Wikimedia_WMCON18_01_The_Big_Picture.jpg
+   :figwidth: 30em
+
+   Anna Lena Schiller for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:GF_Wikimedia_WMCON18_01_The_Big_Picture.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
