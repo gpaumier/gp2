@@ -1,0 +1,45 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'post_helper.tmpl' as helper with context %}
+{% import 'post_header.tmpl' as pheader with context %}
+{% extends 'base.tmpl' %}
+
+{% block header %}
+    {% include "_header.tmpl" %}
+{% endblock %}
+
+{% block content %}
+<article class="post-{{ post.meta('type') }} h-entry hentry postpage custom-{{ post.meta('slug') }}" itemscope="itemscope" itemtype="http://schema.org/Article">
+
+    <header>
+
+        <div class="titleblock">
+          <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>
+        </div>
+
+        <img src="{{ post.meta('image1') }}" class="image1" />
+        <img src="{{ post.meta('image2') }}" class="image2" />
+        <img src="{{ post.meta('image3') }}" class="image3" />
+
+        <p class="dateline"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date( messages('date_format_long'))|e }}</time></p>
+    </header>
+
+    <div class="e-content entry-content" itemprop="articleBody text">
+    {{ post.text() }}
+    </div>
+
+    <aside class="post-actions">
+        <ul>
+            <li><i class="fa fa-share-alt"></i> Share this content with your communities</li>
+            <li><i class="fa fa-pencil-square-o"></i> Edit this page or view its history</li>
+        </ul>
+    </aside>
+
+    <aside class="postpromonav">
+    <nav>
+    {{ helper.html_pager(post) }}
+    </nav>
+    </aside>
+
+    {{ helper.mathjax_script(post) }}
+</article>
+{% endblock %}
