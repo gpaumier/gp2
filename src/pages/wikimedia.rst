@@ -26,6 +26,12 @@
 
 	 summary
 
+.. figure:: /images/Wikimedia_Summit_2019_-_Group_photo_4.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_Group_photo_4.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
 
 The Stakes of Knowledge
 =======================
