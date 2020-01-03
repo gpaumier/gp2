@@ -58,6 +58,44 @@ Revenue Streams working group
 recommendations
 
 
+.. figure:: /images/Wikimedia_Summit_2019_-_60.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_60.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_167.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_167.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_182.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_182.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_163.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_163.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_146.jpg
+   :figwidth: 30em
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_146.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+.. figure:: /images/MJK_339487_RRRR_Working_Group_meeting_2019_Berlin.jpg
+   :figwidth: 30em
+
+   `Martin Kraft <http://photo.martinkraft.com/>`__ for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:MJK_339487_RRRR_Working_Group_meeting_2019_Berlin.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+
 Other
 -----
 
