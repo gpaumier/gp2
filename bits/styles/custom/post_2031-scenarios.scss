@@ -1,0 +1,189 @@
+article.custom-2031-scenarios {
+
+  header {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: 4fr auto auto;
+    grid-gap: .3rem;
+    height: 80vh;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      z-index: 25;
+    }
+
+    .image1 {
+      grid-column: 1 / 5;
+      grid-row: 1 / 4;
+      object-position: 60% 50%;
+      -webkit-clip-path: polygon(0 0, 100% 0, 75% 100%, 0 100%);
+      clip-path: polygon(0 0, 100% 0, 75% 100%, 0 100%);
+    }
+
+    .image2 {
+      grid-column: 4 / 8;
+      grid-row: 1 / 4;
+      object-position: 50% 75%;
+      -webkit-clip-path: polygon(25% 0, 100% 0, 75% 100%, 0 100%);
+      clip-path: polygon(25% 0, 100% 0, 75% 100%, 0 100%);
+    }
+
+    .image3 {
+      grid-column: 7 / 11;
+      grid-row: 1 / 4;
+      object-position: 35% 50%;
+      -webkit-clip-path: polygon(25% 0, 100% 0, 100% 100%, 0 100%);
+      clip-path: polygon(25% 0, 100% 0, 100% 100%, 0 100%);
+    }
+
+    .titleblock {
+      grid-column: 2 / 7;
+      grid-row: 2 / 3;
+      z-index: 50;
+      display:block;
+      background-color: rgba(203, 0, 0, 0.78);
+      color: white;
+      padding: .5rem;
+    }
+
+    h1 {
+      font-weight: bold;
+
+      font-size: 10vw;
+
+      @media (min-aspect-ratio: 1/1) {
+        font-size: 5vw;
+      }
+    }
+
+    p.dateline {
+      grid-column: 2 / 5;
+      grid-row: 3 / 4;
+      z-index: 50;
+      background-color: rgba(255, 255, 255, 0.65);
+      font-variant-caps: small-caps;
+      font-size: 1rem;
+    }
+  }
+
+  .highlights {
+
+  }
+
+  #the-war-of-the-words,
+  #human-obsolescence {
+
+    display: grid;
+    grid-template-columns: minmax(.5rem, 1fr) minmax(min-content, 45ch) minmax(min-content, 20ch) minmax(0, 4fr) minmax(.5rem, 1fr);
+    grid-row-gap: 1.5rem;
+
+    p {
+      grid-column: 2 / 4;
+      margin-bottom: 0;
+    }
+
+    h2 {
+      grid-column: 2 / 3;
+      align-self: end;
+    }
+
+    h2, p:nth-child(3) {
+      grid-column: 2 / 4;
+
+      @media screen and (min-width: 80ch) {
+        grid-column: 2 / 3;
+        padding-right: 2rem;
+      }
+    }
+
+    p:nth-child(3) {
+      font-size: 110%;
+      align-self: start;
+    }
+
+    .figure {
+
+      grid-column: 1 / 6;
+      height: 50vh;
+
+      img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        z-index: 25;
+      }
+
+      @media screen and (min-width: 80ch) {
+        grid-column: 3 / 5;
+        grid-row: 1 / 3;
+        height: 100%;
+        width: 100%;
+      }
+    }
+  }
+
+  #success-into-oblivion {
+
+    // Basically the same as the other two scenarios, except flipped. Grid placement is the same but with negative numbers.
+
+    // Flipped: grid-template-columns and padding-left
+
+    display: grid;
+    grid-template-columns: minmax(.5rem, 1fr) minmax(0, 4fr) minmax(min-content, 20ch) minmax(min-content, 45ch) minmax(.5rem, 1fr);
+    grid-row-gap: 1.5rem;
+
+    p {
+      grid-column: -2 / -4;
+      margin-bottom: 0;
+    }
+
+    h2 {
+      grid-column: -2 / -3;
+      align-self: end;
+    }
+
+    h2, p:nth-child(3) {
+      grid-column: -2 / -4;
+
+      @media screen and (min-width: 80ch) {
+        grid-column: -2 / -3;
+        padding-left: 2rem;
+      }
+    }
+
+    p:nth-child(3) {
+      font-size: 110%;
+      align-self: start;
+    }
+
+    .figure {
+
+      grid-column: -1 / -6;
+      height: 50vh;
+
+      img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        z-index: 25;
+      }
+
+      @media screen and (min-width: 80ch) {
+        grid-column: -3 / -5;
+        grid-row: -1 / -3;
+        height: 100%;
+        width: 100%;
+      }
+    }
+  }
+
+  .fig-the-war-of-the-words img {
+    object-position: 60% 50%;
+  }
+  .fig-success-into-oblivion img {
+    object-position: 50% 75%;
+  }
+
+}
