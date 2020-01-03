@@ -1,0 +1,41 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'post_helper.tmpl' as helper with context %}
+{% import 'post_header.tmpl' as pheader with context %}
+{% extends 'base.tmpl' %}
+
+{% block header %}
+    {% include "_header.tmpl" %}
+{% endblock %}
+
+{% block content %}
+<article class="page h-entry hentry postpage custom-{{ post.meta('slug') }}" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+    {% if post.meta('image') %}
+        <img src="{{ post.meta('image') }}" class="post-image"/>
+    {% endif %}
+
+    <header>
+
+      {% for i in range(1, 15) %}
+        <img src="{{ post.meta('image' ~ i) }}" class="header-image{{ i }}" />
+      {% endfor %}
+
+        <!--
+
+        <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>
+
+        {% if post.meta('subtitle') %}
+            <h1 class="subheader post-subtitle">{{ post.meta('subtitle') }}</h1>
+        {% endif %}
+
+      -->
+
+    </header>
+
+    <div class="e-content entry-content" itemprop="articleBody text">
+    {{ post.text() }}
+    </div>
+
+    {{ helper.mathjax_script(post) }}
+</article>
+{% endblock %}

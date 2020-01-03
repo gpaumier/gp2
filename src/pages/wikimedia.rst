@@ -5,16 +5,64 @@
 .. icon: fa-puzzle-piece
 .. icon-alternative: fa-wikipedia-w
 .. tag: needs-date-update
+.. template: custom/page_wikimedia.tmpl
+.. image1: /images/2010-07-03_Qt_duck.jpg
+.. image2: /images/2010-07-03_Qt_duck.jpg
+.. image3: /images/2012-03-22_Selfie_on_the_Queen_Mary_2173.jpg
+.. image4: /images/2013-06-12_tech_news_en.png
+.. image5: /images/2010-11-19_Puzzly.png
+.. image6: /images/2012-02-09_Open_advice_books_8098s.jpg
+.. image7: /images/2012-03-29_Wikimedia_Foundation_Office.jpg
+.. image8: /images/2012-06-25_Wikipedia-infographic.png
+.. image9: /images/2017-10-23_WM2030.png
+.. image10: /images/2010-07-03_Qt_duck.jpg
+.. image11: /images/GPaumier_April_2010_wikimedia_03_10_805.jpg
+.. image12: /images/2010-07-03_Qt_duck.jpg
+.. image13: /images/2010-07-03_Qt_duck.jpg
+.. image14: /images/The_Visit_of_Charles_Fraser,_cover_detail.png
+.. image15: /images/2010-07-03_Qt_duck.jpg
 
-Photos :
 
-.. https://commons.wikimedia.org/wiki/File:Capitole_du_libre_2011_-_Wiki_10.JPG
-.. https://commons.wikimedia.org/wiki/File:Wikimania_2015_talks_-_Day_5_(53).jpg
-.. https://commons.wikimedia.org/wiki/File:Taipei_Wm2007_Guillaume.jpg
-.. https://commons.wikimedia.org/wiki/File:Wikimania_2007_dungodung_16.jpg
-.. https://commons.wikimedia.org/wiki/File:Hackathon_-_Z%C3%BCrich_-_2014_-_Guillaume_Paumier.jpg
-.. https://secure.flickr.com/photos/ragesoss/5140417338/
-.. https://commons.wikimedia.org/wiki/File:Taipei_Wm2007_Guillaume.jpg
+.. highlights::
+
+	 summary
+
+
+The Stakes of Knowledge
+=======================
+
+.. figure:: /images/fred-kearney-enkfvvZkKv0-unsplash.jpg
+   :figwidth: 30em
+
+   `Fred Kearney <https://unsplash.com/@fredasem>`__ on `Unsplash <https://unsplash.com/photos/enkfvvZkKv0>`__.
+
+
+:doc:`stakes of knowledge <stakes-of-knowledge>`
+
+
+
+Equity
+======
+
+Initially: from a place of privilege. Information hoarder. Dossiers avec articles de journaux, exposés de classe, etc. Feuilletage d'encyclopédie en 15 (?) Volumes Larousse. Fear of loss.
+
+Thinking has evolved over time. Who gets to write history. Define identity and culture. Shape society's understanding. Underrepresented groups / marginalized.
+Fear of loss?
+
+Role in developing strategic direction for the movement. Alignment. Transformative. Now need partners, resources to make it a reality. Ecosystem. Opportunity. Vision of 2030 leading to story of now
+
+Knowledge equity.
+
+Describe in positive terms
+
+Empowerment ?
+Elevation of social discourse
+
+
+
+
+Old content
+===========
 
 I made my first edit to the French-language Wikipedia in August 2005 to fix a spelling mistake.\ [#firstedit]_ My second edit was to fix a conjugation mistake.\ [#secondedit]_ My third edit was to fix spelling and punctuation mistakes.\ [#thirdedit]_ I guess you could say there was a pattern.
 
@@ -57,23 +105,6 @@ First steps on the French-language Wikipedia
 Most of my early edits were to articles related to my studies and work, like adding content to the article about nanotechnology, adding a schematic to the one about atomic force microscopy, or translating the English-language article about the electrical double layer to French.
 
 I quickly moved on to reverting damaging edits made by vandals, contributing to the *Oracle* (a convivial reference desk-like space), welcoming new users, and participating in community discussions—using a colorfully obnoxious signature.
-
-.. sidebar:: Youthful mistakes: The signature
-
-    Wikipedians can customize the signature they use when communicating with one another. This feature enables users to add custom links to their talk page or other links. Inspired by other signatures, mine quickly came to look like this:
-
-    .. raw:: html
-
-        <a href="https://fr.wikipedia.org/wiki/Utilisateur:Guillom" title="Utilisateur:Guillom"><font color="#008080">G</font><font color="#008095">u</font><font color="#0080AA">i</font><font color="#0080BF">l</font><font color="#0080D4">l</font><font color="#0080E9">o</font><font color="#0080FF">m</font></a> | <a href="https://fr.wikipedia.org/wiki/Discussion_utilisateur:Guillom" title="Discussion utilisateur:Guillom"><b><font color="#808080">(o_O)</font></b> » <b><font color="#0080FF">(^_^)</font></b></a>
-
-    One can argue about the colors and the style, but the real offense here was the wikicode needed to generate it, which I was carelessly dumping into every discussion page I was commenting on:
-
-    .. code::
-       :class: wrap
-
-        [[Utilisateur:Guillom|<font color=#008080>G</font><font color=#008095>u</font><font color=#0080aa>i</font><font color=#0080bf>l</font><font color=#0080d4>l</font><font color=#0080e9>o</font><font color=#0080ff>m</font>]] | [[Discussion Utilisateur:Guillom|'''<font color=#808080>(o_O)</font>''' » '''<font color=#0080ff>(^_^)</font>''']]
-
-    Fortunately, I came to my senses a few weeks later and went back to a simpler (and monochromatic) signature. Still, it's amusing to see that I already had a preference for blue/teal/green colors back then.
 
 administration, technique
 
@@ -153,7 +184,7 @@ The Essense of Being Wikipedian
 
    Under `CC By-SA 3.0 Unported <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__ by John Blyberg, Mr Thinktank, PierreSelim, Garry Knight, and Louis-Michel van Loo, from `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikipedian.png>`__.
 
-Being Wikipedian (essence?): documenting the world, relying on facts and verifiable information, working in harmony (as much as possible) with complete strangers in pursuit of the best encyclopedic content possible, integrating sources and oranizing content, information architecture, working across language communities and collaborating with wikipedians from other language editions
+Being Wikipedian (essence?): documenting the world, relying on facts and verifiable information, working in harmony (as much as possible) with complete strangers in pursuit of the best encyclopedic content possible, integrating sources and organizing content, information architecture, working across language communities and collaborating with wikipedians from other language editions
 
 not only appealed to me, but I recognized myself in this culture
 (link to autistic-wikipedian: many years later, I would get a better understanding of why this mattered so much to me)
@@ -209,7 +240,7 @@ After a few months, I joined the ranks of the Volunteer response team leaders ("
 .. figure:: /images/2011-10-21_Keep-calm-and-click-edit.svg
    :figwidth: 10em
 
-   https://commons.wikimedia.org/wiki/File:Keep-calm-and-click-edit.svg Based on http://knowyourmeme.com/memes/keep-calm-and-carry-on Keep calm and carry on.
+   `Keep calm and click [edit] <https://commons.wikimedia.org/wiki/File:Keep-calm-and-click-edit.svg>`__ based on the `"Keep calm and carry on" meme <http://knowyourmeme.com/memes/keep-calm-and-carry-on>`__.
 
 The OTRS software didn't record administrative actions, so I set up an admin log on the private OTRS wiki for better transparency. I also built a system of templates for canned responses that enabled all OTRS volunteers to edit them on the wiki and suggest changes. Opening the system spread the maintenance of canned responses to all volunteers, thus only requiring administrator access to update the responses in the OTRS software itself.
 
@@ -403,6 +434,12 @@ Movement Strategy: Wikimedia 2030
       :slugs: wikimedia2030
       :template: sidebar_card.tmpl
 
+In 2016–2017, I was one of the Lead Architects of "Wikimedia 2030", an ambitious collaborative strategy process involving dozens of movement organizations and hundreds of individuals. I was key in designing the process and guiding the movement through an intense exercise involving several cycles of community discussions, in-person events, interviews with experts, and commissioned research.
+
+I led the synthesis of the inputs, conversations, and research into several drafts that were further discussed and edited. I was the main author of the Strategic Direction that emerged and went on to be endorsed by nearly a hundred Wikimedia organizations around the world.
+
+The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now serves as the compass for multi-year strategic planning by Wikimedia organizations, and guides decision-making around roles, responsibilities, and resources in the Wikimedia movement.
+
 https://office.wikimedia.org/wiki/Report:Guillaume
 
 https://www.forbes.com/sites/michaelbernick/2018/03/28/the-power-of-the-wikimedia-movement-beyond-wikimedia/#42557f8e5a75
@@ -412,6 +449,12 @@ https://nonprofitquarterly.org/2018/03/30/wikimedias-strategic-direction-project
 Advancement
 -----------
 
-In 2018, I joined the Foundation's Advancement team as Principal Program Manager.
+:doc:`Advancement <wikimedia-advancement>`
 
-first projects: revenue strategy, endowment governance
+In 2018, I joined the Wikimedia Foundation's Advancement department, where I lead special projects for the Chief Advancement Officer, serving as the department's de facto chief of staff.
+
+Current responsibilities in this role include:
+* Leading the organization's future thinking towards resilience in a changing world, navigating unknowns in technology, policy, industry, society, and climate, notably through scenario planning.
+* Leading Revenue strategy research and development of new revenue models for financial growth and long-term sustainability.
+* Collaborating with the Major Gifts & Foundations team on specialized materials and pitches for high-profile prospects, notably a $100 million grant application for MacArthur's 100&Change challenge.
+* Staffing the Investment Committee of the Wikimedia Endowment's Board, including portfolio performance.
