@@ -19,8 +19,7 @@
 .. image11: /images/GPaumier_April_2010_wikimedia_03_10_805.jpg
 .. image12: /images/2010-07-03_Qt_duck.jpg
 .. image13: /images/2010-07-03_Qt_duck.jpg
-.. image14: /images/The_Visit_of_Charles_Fraser,_cover_detail.png
-.. image15: /images/2010-07-03_Qt_duck.jpg
+.. image14: /images/2010-07-03_Qt_duck.jpg
 
 
 .. highlights::
