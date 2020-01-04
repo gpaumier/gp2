@@ -1,3 +1,6 @@
+@use 'typography';
+
+
 article.custom-wikimedia {
 
   header {
@@ -32,16 +35,14 @@ article.custom-wikimedia {
        z-index: 50;
        display:block;
        align-self: center;
-       background-color: rgba(203, 0, 0, 0.78);
-       color: white;
+       background-color: rgba(228, 83, 31, 0.78);
+       color: #f3f3f3;
        padding: .5rem;
        font-size: calc(2rem + 2vw);
-       line-height: calc(2rem + 1.5vw);
+       line-height: calc(2rem + 2vw);
      }
 
   }
-
-
 
 
   .entry-content .lead-figure,
@@ -53,7 +54,7 @@ article.custom-wikimedia {
 
   #the-stakes-of-knowledge {
 
-    @media screen and (min-width: 180ch) {
+    @media screen and (min-width: 180ch) and (min-height: 50rem) {
       display: grid;
       height: 95vh;
       grid-template-columns: repeat(3, 1fr);
@@ -78,7 +79,7 @@ article.custom-wikimedia {
       h2 {
         grid-column: 1/2;
         grid-row: 2/3;
-        color: white;
+        color: #f3f3f3;
         font-size: 3rem;
         align-self: end;
         text-align: left;
@@ -92,7 +93,7 @@ article.custom-wikimedia {
         column-count: 2;
         column-width: 20ch;
         z-index: 50;
-        color: white;
+        color: #f3f3f3;
         background-color: #332d2f44;
         padding: .2rem;
         align-self: center;
@@ -104,7 +105,7 @@ article.custom-wikimedia {
         }
 
         a, a:hover, a:visited {
-          color: white;
+          color: #f3f3f3;
           font-weight: bold;
 
         }
@@ -114,8 +115,10 @@ article.custom-wikimedia {
         }
 
         p:last-child {
+          //"Continue reading"
           text-indent: 0;
           margin-top: 1rem;
+          font-family: $fumseck-sans;
         }
       }
 
@@ -144,7 +147,7 @@ article.custom-wikimedia {
       background-color: #00004d99;
       font-size: calc(1.5rem + 1.5vw);
       line-height: calc(1.5rem + 1.5vw);
-      color: white;
+      color: #f3f3f3;
       grid-column: 2/3;
       grid-row: 2/3;
       align-self: center;
