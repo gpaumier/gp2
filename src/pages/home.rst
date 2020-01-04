@@ -52,6 +52,7 @@ When I was fourteen, my family moved to Réunion, a wonderful French island in t
 .. figure:: /images/CTS_Riviere_des_Pluies_et_flamboyants_05.jpg
    :figwidth: 10em
 
+
 We moved in the middle of the school year.\ [#troisieme]_ While the curriculum was mostly standardized at the national level, it wasn't necessarily covered in the same order or with the same textbooks, but I adapted. Apart from that: many books, little exercise, much solitude. The usual, except with sun and palmtrees.
 
 .. [#troisieme] We moved when I was halfway through my *troisième*, i.e. what would be the 8th grade in the US.
@@ -150,6 +151,11 @@ My journey of self-discovery has led me to realize the importance of the human e
 
 multiple perspectives to `get more hands onto that elephant <https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>`_.
 
+.. figure:: /images/Jalal_al-Din_Rumi,_Maulana_-_Townspeople_and_elephant.jpg
+   :figwidth: 30em
+
+`Townspeople, Who have Never Seen an Elephant, Examine its Appearance in the Dark <https://commons.wikimedia.org/wiki/File:Jalal_al-Din_Rumi,_Maulana_-_Townspeople,_Who_have_Never_Seen_an_Elephant,_Examine_its_Appearance_in_the_Dark_-_Walters_W626117B_-_Full_Page.jpg>`_
+
 variety of subjective human experiences
 
 I like to connect ideas across fields and bridge people across teams
@@ -188,6 +194,11 @@ obsessive documenter
 disciplined problem solving
 emergent strategy
 
+.. figure:: /images/awkward-yeti-the-plan
+   :figwidth: 10em
+
+`Awkward Yeti <http://theawkwardyeti.com/comic/plan/>`_
+
 
 
 I'm an interdisciplinary scientist.
@@ -207,7 +218,11 @@ reading
 
 hiking
 
+ballet
+
+lifting
+
+ballroom dancing
+
 .. figure:: /images/2016-04-10_Pain_0169.jpg
    :figwidth: 10em
-
-When I'm not working or volunteering, I enjoy spending my personal time at home and outside: baking bread, cooking French meals, hiking in the woods, taking online courses, and reading books to learn new things.
