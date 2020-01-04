@@ -21,7 +21,7 @@ Revenue strategy
 ================
 
 
-Gregg Partners
+Jeremy Gregg from `Gregg Partners <https://greggpartners.com/>`__
 
 
 
