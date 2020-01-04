@@ -18,3 +18,20 @@ def get_lead_text (post_text):
         lead_text = ''
 
     return lead_text
+
+def get_lead_figure (post_text):
+    """ Extract the lead figure from a post
+
+    This is similar to get_lead_text except for the lead figure.
+    The lead figure is identified by a <div> with the 'lead-figure' class"""
+
+    tree = html.fromstring(post_text)
+    node = tree.xpath('//div[@class="lead-figure figure"]')[0]
+
+    try:
+        lead_fig = node.text + ''.join(le.tostring(e, encoding='unicode') for e in node)
+
+    except IndexError:
+        lead_fig = '<p>ERROR</p>'
+
+    return lead_fig

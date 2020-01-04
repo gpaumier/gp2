@@ -189,7 +189,8 @@ FEED_TEASERS = False
 # Consult your engine's documentation on filters if you need help defining
 # those.
 TEMPLATE_FILTERS = {
-    'get_lead_text': jinja_filters.get_lead_text
+    'get_lead_text': jinja_filters.get_lead_text,
+    'get_lead_figure': jinja_filters.get_lead_figure
 }
 
 # Put in global_context things you want available on all your templates.
