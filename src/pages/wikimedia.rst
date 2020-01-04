@@ -24,10 +24,6 @@
    (add more about career)
 
 
-
-.. contents:: Contents
-   :backlinks: none
-
 The Stakes of Knowledge
 =======================
 
@@ -37,19 +33,17 @@ The Stakes of Knowledge
 
 .. container:: stakes-writeout
 
-   Initially: from a place of privilege. Information hoarder. Dossiers avec articles de journaux, exposés de classe, etc. Feuilletage d'encyclopédie en 15 (?) Volumes Larousse. Fear of loss.
+   It is easy to take knowledge for granted when you grow up surrounded by it. When I started editing Wikipedia, it was mostly out of curiosity and fascination.
 
-   Thinking has evolved over time. Who gets to write history. Define identity and culture. Shape society's understanding. Underrepresented groups, marginalized.
+   Curiosity about an encyclopedia that anyone could edit, and about the strange people who would devote their time to sharing knowledge for free.
 
-   Fear of loss?
+   Fascination about an opportunity to record the sum of all knowledge, which appealed to my knowledge-hoarder mind.
 
-   Role in developing strategic direction for the movement. Alignment. Transformative. Now need partners, resources to make it a reality. Ecosystem. Opportunity. Vision of 2030 leading to story of now
+   But thinking of knowledge as only an abstract concept is a privilege.
 
-   Knowledge equity.
+   Thinking of Wikipedia as merely a harmless hobby for people with too much time on their hands ignores the opportunity it represents for people who did not grow up surrounded by books.
 
-   Describe in positive terms
-
-   Elevation of social discourse
+   Knowledge has real consequences on human lives, both for individuals and for societies.
 
    :doc:`continue reading ☞ <stakes-of-knowledge>`
 
