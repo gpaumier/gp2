@@ -150,7 +150,8 @@ a {
     text-decoration-line: underline;
     text-decoration-style: solid;
     //text-decoration-color: map-get($foundation-palette, "primary");
-    text-decoration-color: transparentize(map-get($foundation-palette, "primary"), 0.7);
+    //text-decoration-color: transparentize(map-get($foundation-palette, "primary"), 0.7);
+    color: $body-font-color;
     text-decoration-skip: ink;
 }
 
