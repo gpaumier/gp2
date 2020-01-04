@@ -1,3 +1,6 @@
+// Default settings file in:
+// node_modules/foundation-sites/scss/settings/_settings.scss
+
 // Foundation line 48
 $global-font-size: 160%;
 
@@ -18,6 +21,9 @@ $body-font-family: $fumseck-serif;
 
 // Foundation line 134
 $paragraph-margin-bottom: 2rem;
+
+// Foundation line 189
+$blockquote-color: $body-font-color;
 
 // Font Awesome
 $fa-font-path: "/assets/fonts/fontawesome" !default;
