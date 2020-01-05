@@ -145,6 +145,18 @@ blockquote {
     }
 }
 
+.legend, .sidebar {
+    font-size: $small-font-size;
+}
+
+.caption {
+    font-size: .7rem;
+    color: #777;
+    a {
+        color: #777;
+    }
+}
+
 
 a {
     text-decoration-line: underline;

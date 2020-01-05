@@ -6,8 +6,7 @@ article.custom-stakes-of-knowledge {
      display: grid;
      grid-template-columns: 6fr minmax(min-content, 3fr) 1fr;
      grid-template-rows: 7fr 5fr min-content 1fr min-content;
-     height: 100vh;
-     margin-bottom: 3rem;
+     height: 90vh;
 
      img {
        grid-column: 1/5;
@@ -26,7 +25,6 @@ article.custom-stakes-of-knowledge {
        text-align: right;
        align-self: start;
        margin-bottom: 0;
-       font-size: .7rem;
        z-index: 50;
      }
 
@@ -70,7 +68,6 @@ article.custom-stakes-of-knowledge {
     display: none;
   }
 
-  .highlights,
   .note {
     max-width: 65ch;
     margin: auto;
@@ -97,7 +94,6 @@ article.custom-stakes-of-knowledge {
       grid-row: 1/2;
       width: 100%;
       height: 100%;
-
     }
 
     img {
@@ -128,13 +124,6 @@ article.custom-stakes-of-knowledge {
 
   .caption {
     text-align: right;
-    font-size: .7rem;
-  }
-
-  hr {
-      background: url(Memoria_sullo_scavo_della_Via_Appia_fregio_p_10.jpg)  no-repeat top center;
-      height: 122px;
-      border:none !important;
   }
 
   .note {

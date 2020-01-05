@@ -8,13 +8,18 @@
     }
 }
 
-.article-list-featured > hr, .project-list-featured > hr {
+// Previously for:
+// .article-list-featured hr, .project-list-featured hr
+
+hr {
     background: url(Memoria_sullo_scavo_della_Via_Appia_fregio_p_10.jpg)  no-repeat top center;
     height: 122px;
     border:none !important;
+    margin-top: calc(3vh + 3vw);
+    margin-bottom: calc(3vh + 3vw);
 }
 
-.article-list > hr {
+.article-list hr {
     background: url(Paragraph_decoration.png)  no-repeat top center;
     height: 30px;
     border:none !important;
