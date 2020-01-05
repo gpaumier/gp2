@@ -23,13 +23,21 @@
 
    (add more about career)
 
+   But first, I want to start with the reason . what animates me. What is at stake when we talk about knowledge.
+
 
 The Stakes of Knowledge
 =======================
 
-.. figure:: /images/fred-kearney-enkfvvZkKv0-unsplash.jpg
+.. container:: stakes-header
 
-   `Fred Kearney <https://unsplash.com/@fredasem>`__ on `Unsplash <https://unsplash.com/photos/enkfvvZkKv0>`__.
+   .. class:: stakes-header-text
+
+      The Stakes of Knowledge
+
+   .. figure:: /images/fred-kearney-enkfvvZkKv0-unsplash.jpg
+
+      `Fred Kearney <https://unsplash.com/@fredasem>`__ on `Unsplash <https://unsplash.com/photos/enkfvvZkKv0>`__.
 
 .. container:: stakes-writeout
 
@@ -47,6 +55,7 @@ The Stakes of Knowledge
 
    :doc:`continue reading ☞ <stakes-of-knowledge>`
 
+------------------------------------
 
 Advancement
 ===========

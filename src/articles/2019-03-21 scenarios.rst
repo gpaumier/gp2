@@ -8,7 +8,6 @@
 .. image1: /images/The_fin_de_siècle_newspaper_proprietor_(cropped).jpg
 .. image2: /images/Grosse_Linde_bei_Teuchatz_P1320563-PS.jpg
 .. image3: /images/Artificial-intelligence-155161_1280.png
-.. image4: /images/Magnificent_CME_Erupts_on_the_Sun_-_August_31.jpg
 
 
 .. highlights::
