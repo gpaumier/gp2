@@ -25,7 +25,6 @@ article.custom-wikimedia {
        text-align: right;
        align-self: start;
        margin-bottom: 0;
-       font-size: .7rem;
        z-index: 50;
      }
 
@@ -44,7 +43,6 @@ article.custom-wikimedia {
 
   }
 
-
   .entry-content .lead-figure,
   h1.entry-title {
      // The lead figure has been extracted and displayed in the header already.
@@ -52,76 +50,72 @@ article.custom-wikimedia {
      display: none;
  }
 
-  #the-stakes-of-knowledge {
+  #the-stakes-of-knowledge h2 {
+    display: none;
+  }
 
-    @media screen and (min-width: 180ch) and (min-height: 50rem) {
-      display: grid;
-      height: 95vh;
-      grid-template-columns: repeat(3, 1fr);
-      grid-template-rows: 5fr 5fr 2fr min-content;
+  .stakes-header {
 
-      .figure {
-        grid-column: 1/4;
-        grid-row: 1/4;
+    display: grid;
+    grid-template-columns: minmax(.5rem, 2vw) min-content 6fr;
+    grid-template-rows: 6fr min-content minmax(.5rem, 2vh);
+    height: calc(30vh + 10vw);
 
-        img {
-          height: 100%;
-          width: 100%;
-          object-fit: cover;
-          z-index: 25;
-        }
+    .figure {
+      grid-column: 1/4;
+      grid-row: 1/4;
 
-        .caption{
-          text-align: right;
-        }
+      img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        object-position: 0 70%;
+        z-index: 25;
       }
 
-      h2 {
-        grid-column: 1/2;
-        grid-row: 2/3;
-        color: #f3f3f3;
-        font-size: 3rem;
-        align-self: end;
-        text-align: left;
-        margin-left: 2rem;
-        z-index: 50;
+      .caption{
+        text-align: right;
       }
+    }
 
-      .stakes-writeout {
-        grid-column: 3/4;
-        grid-row: 1/4;
-        column-count: 2;
-        column-width: 20ch;
-        z-index: 50;
-        color: #f3f3f3;
-        background-color: #332d2f44;
-        padding: .2rem;
-        align-self: center;
+    .stakes-header-text {
+      grid-column: 2/3;
+      grid-row: 2/3;
+      color: #f3f3f3;
+      font-size: calc(2rem + 2vw);
+      line-height: calc(2.5rem + 2vw);
+      @extend %fumseck-sans-bold;
+      align-self: center;
+      text-align: left;
+      margin: 0;
+      z-index: 50;
+    }
+  }
 
-        p {
-          line-height: 1.3rem;
-          text-indent: 1rem;
-          margin: 0;
-        }
+  .stakes-writeout {
+    max-width: 100ch;
+    column-width: 30ch;
+    column-count: 3;
+    margin: auto;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    margin-top: 2rem;
 
-        a, a:hover, a:visited {
-          color: #f3f3f3;
-          font-weight: bold;
+    p {
+      line-height: 1.35rem;
+      text-indent: 1rem;
+      margin-bottom: 0;
+      padding: 0;
+    }
 
-        }
+    p:first-child {
+      text-indent: 0;
+    }
 
-        p:first-child {
-          text-indent: 0;
-        }
-
-        p:last-child {
-          //"Continue reading"
-          text-indent: 0;
-          margin-top: 1rem;
-          font-family: $fumseck-sans;
-        }
-      }
-
+    p:last-child {
+      //"Continue reading"
+      @extend %fumseck-sans-bold;
+      text-align: right;
     }
   }
 
