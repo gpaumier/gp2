@@ -1,3 +1,5 @@
+@use 'typography';
+
 article.custom-stakes-of-knowledge {
 
   // Article header
@@ -62,7 +64,7 @@ article.custom-stakes-of-knowledge {
   .entry-content .lead-figure {
      // The lead figure has been extracted and displayed in the header already.
      display: none;
- }
+  }
 
   h2 {
     display: none;
@@ -73,6 +75,7 @@ article.custom-stakes-of-knowledge {
     margin: auto;
     padding-left: .5rem;
     padding-right: .5rem;
+    @extend %fumseck-serif-italic;
   }
 
   .individual1,
@@ -124,10 +127,6 @@ article.custom-stakes-of-knowledge {
 
   .caption {
     text-align: right;
-  }
-
-  .note {
-    font-style: italic;
   }
 
 }

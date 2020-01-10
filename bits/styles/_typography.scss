@@ -152,8 +152,13 @@ blockquote {
 .caption {
     font-size: .7rem;
     color: #777;
+
     a {
         color: #777;
+
+      &:hover {
+        color: map-get($foundation-palette, "primary");
+      }
     }
 }
 
@@ -192,4 +197,16 @@ h2 {
         @extend %fumseck-serif-italic;
         font-style: italic;
     }
+}
+
+p.continue-reading {
+  @extend %fumseck-sans-bold;
+  text-align: right;
+  margin-top: .5rem;
+
+  a::after {
+    content: "☞";
+    display: inline-block;
+    margin-left: .3rem;
+  }
 }
