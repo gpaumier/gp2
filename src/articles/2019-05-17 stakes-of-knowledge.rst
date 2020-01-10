@@ -4,7 +4,6 @@
 .. date: 2019-05-17 18:57:00
 .. template: custom/post_stakes-of-knowledge.tmpl
 .. tags: Wikimedia
-.. status: draft
 .. image: /images/fred-kearney-enkfvvZkKv0-unsplash.jpg
 .. image-alt: Photograph of a book burning
 
@@ -17,11 +16,11 @@
 
 .. highlights::
 
-   It is easy to take knowledge for granted when you grow up surrounded by it. My childhood home was filled with books, and my mom even opened a library in our small village. I had access to education, and a fifteen-volume encyclopedia at home that I would just browse at random. I would collect magazines and create folders on topics of interest, putting together endearing reports for no other reason than it being fun.
+   It is easy to take knowledge for granted when you grow up surrounded by it. My childhood home was filled with books, and my mom even opened a library in our small village. I had access to education, and a fifteen-volume encyclopedia at home that I would browse at random. I would collect magazines and create folders on topics of interest, putting together endearing reports for no other reason than it being fun.
 
    When I started editing Wikipedia, it was mostly out of curiosity and fascination. Curiosity about an encyclopedia that anyone could edit, and about the strange people who would devote their time to sharing knowledge for free. Fascination about an opportunity to record the sum of all knowledge, which appealed to my knowledge-hoarder mind. I had found my people.
 
-   But thinking of knowledge as only an abstract concept is a privilege. Thinking of Wikipedia as merely a harmless hobby for people with too much time on their hands ignores the opportunity it represents for people who did not grow up surrounded by books. Over the years, I have deepened my understanding of the stakes of knowledge, and the real power it holds.
+   But thinking of knowledge as only an abstract concept is a privilege. Thinking of Wikipedia as merely a hobby for people with too much time on their hands ignores the opportunity it represents for people who did not grow up surrounded by books. Over the years, I have deepened my understanding of the stakes of knowledge, and the real power it holds.
 
    Knowledge has real consequences on human lives, both for individuals and for societies. This essay expresses why knowledge matters to me.
 

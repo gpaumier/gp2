@@ -4,7 +4,6 @@
 .. date: 2019-03-21
 .. tags: Wikimedia
 .. template: custom/post_2031-scenarios.tmpl
-.. status: draft
 .. image1: /images/The_fin_de_siècle_newspaper_proprietor_(cropped).jpg
 .. image2: /images/Grosse_Linde_bei_Teuchatz_P1320563-PS.jpg
 .. image3: /images/Artificial-intelligence-155161_1280.png
@@ -12,7 +11,7 @@
 
 .. highlights::
 
-   In this essay, I imagine scenarios about the world in 2030 and Wikimedia's place in it. The actual future is likely to be a combination of (favorable and unfavorable) elements from all these scenarios.
+   In this essay, I imagine scenarios about the world in 2030 and :doc:`Wikimedia's <wikimedia>` place in it. The actual future is likely to be a combination of (favorable and unfavorable) elements from all these scenarios. Additional context is available at the end.
 
 __________________________
 
@@ -21,6 +20,8 @@ __________________________
 
 .. figure:: /images/The_fin_de_siècle_newspaper_proprietor_(cropped).jpg
    :figclass: fig-the-war-of-the-words
+
+   Frederick Burr Opper on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:The_fin_de_si%C3%A8cle_newspaper_proprietor_(cropped).jpg>`__.
 
 It is the year 2031, and Wikipedia is celebrating its 30th birthday. In a world of unrest and division, Wikipedia seems strangely united. Environmental disasters due to global warming, compounded by socioeconomic crises and identity politics, have birthed a world where distrust and fear of the other are the new normal. Bad actors have never been more active online, whether they are state-funded or attempting to destabilize nations. The violence in the streets is fueled by institutional censorship, organized disinformation, and trolling campaigns that make the online atmosphere even more polluted and toxic than the actual atmosphere.
 
@@ -43,6 +44,8 @@ __________________________
 
 .. figure:: /images/Grosse_Linde_bei_Teuchatz_P1320563-PS.jpg
    :figclass: fig-success-into-oblivion
+
+   `Reinhold Möller <https://commons.wikimedia.org/wiki/User:Ermell>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gro%C3%9Fe_Linde_bei_Teuchatz_P1320563-PS.jpg>`__ // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__
 
 It is the year 2031, and Wikipedia is celebrating its 30th birthday. Hundreds of parties are happening around the world and on all continents. The Wikipedia Consortium can be proud of its achievements. We did it; we achieved the ambitious goals dreamed in the 2030 strategic direction. Looking back, our success can be attributed to a series of good decisions and external events that played in our favor, for better or for worse.
 
@@ -69,6 +72,8 @@ __________________________
 
 .. figure:: /images/Artificial-intelligence-155161_1280.png
    :figclass: fig-human-obsolescence
+
+   Pixabay on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Artificial-intelligence-155161_1280.png>`__ // `CC0 1.0 <https://creativecommons.org/publicdomain/zero/1.0/legalcode>`__
 
 It is the year 2031, and Wikipedia is celebrating its 30th birthday. Banners and celebratory logos have been chosen through community contests, but they saw little participation. No one is really in the mood for celebrating: last month, Wikipedia was acquired by a large media group. And even though the new owners have promised editorial independence, the few remaining editors expect the giant to kill off the site in the next few years. How did we not see this coming?
 
