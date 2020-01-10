@@ -12,7 +12,7 @@
 
 .. note::
 
-    This essay was the basis of the `talk of the same name <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ that I gave at the Wikimania 2015 conference. It is not an exact transcript. It is still a draft, which I'm publishing now in the interest of timeliness; I will continue to refine it over the next few weeks; you can `help edit it <https://github.com/gpaumier/gp2/blob/master/src/articles/2015-07-21%20autistic-wikipedian/index_en.md>`_. A `French version <https://guillaumepaumier.com/fr/2015/07/29/wikipedien-autiste/>`_ is also available.
+    This essay was the basis of the `talk of the same name <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ that I gave at the Wikimania 2015 conference. It is not an exact transcript.
 
 
 Introduction
