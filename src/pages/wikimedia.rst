@@ -49,13 +49,15 @@ The Stakes of Knowledge
 
    But thinking of knowledge as only an abstract concept is a privilege.
 
-   Thinking of Wikipedia as merely a harmless hobby for people with too much time on their hands ignores the opportunity it represents for people who did not grow up surrounded by books.
+   Thinking of Wikipedia as merely a hobby for people with too much time on their hands ignores the opportunity it represents for people who did not grow up surrounded by books.
 
    Knowledge has real consequences on human lives, both for individuals and for societies.
 
-   :doc:`continue reading ☞ <stakes-of-knowledge>`
+   .. class:: continue-reading
 
-------------------------------------
+      :doc:`continue reading <stakes-of-knowledge>`
+
+----
 
 Advancement
 ===========
@@ -84,13 +86,7 @@ Current responsibilities in this role include:
 Movement Strategy: Wikimedia 2030
 =================================
 
-.. sidebar:: Read more:
-
-   .. post-list::
-      :slugs: wikimedia2030
-      :template: sidebar_card.tmpl
-
-In 2016–2017, I was one of the Lead Architects of "Wikimedia 2030," an ambitious collaborative strategy process involving dozens of movement organizations and hundreds of individuals. I was key in designing the process and guiding the movement through an intense exercise involving several cycles of community discussions, in-person events, interviews with experts, and commissioned research.
+In 2016–2017, I was one of the Lead Architects of :doc:`Wikimedia 2030 <wikimedia2030>`, an ambitious collaborative strategy process involving dozens of movement organizations and hundreds of individuals. I was key in designing the process and guiding the movement through an intense exercise involving several cycles of community discussions, in-person events, interviews with experts, and commissioned research.
 
 I led the synthesis of the inputs, conversations, and research into several drafts that were further discussed and edited. I was the main author of the Strategic Direction that emerged and went on to be endorsed by nearly a hundred Wikimedia organizations around the world.
 
@@ -101,6 +97,8 @@ https://www.forbes.com/sites/michaelbernick/2018/03/28/the-power-of-the-wikimedi
 
 https://nonprofitquarterly.org/2018/03/30/wikimedias-strategic-direction-project-model-democracy/
 
+
+----
 
 History, identity
 =================
@@ -137,11 +135,7 @@ Although I titled this section "Becoming Wikipedian", there is an argument that 
 .. [#panciera] https://dl.acm.org/citation.cfm?doid=1531674.1531682 http://files.grouplens.org/papers/Group09WikipediansPanciera.pdf
 
 
-.. sidebar:: Read more:
-
-   .. post-list::
-      :slugs: wikipedia-2013-timeline
-      :template: sidebar_card.tmpl
+In 2013, produced an :doc:`interactive timeline <wikipedia-2013-timeline>` to serve as a retrospective of what had happened across the movement that year.
 
 
 Stating our Values
@@ -184,6 +178,8 @@ or just plain discussion
 Integrating the values in organizational culture and the employee lifecycle (hiring, onboarding, evaluation, etc.)
 
 
+----
+
 Product Strategy
 ================
 
@@ -191,31 +187,24 @@ Prior to leading the Wikimedia 2030 strategy effort, I managed special projects 
 
 In practice, this translated to leading initiatives like the File metadata cleanup drive, evaluating content corruption in Wikipedia's new visual editor, and making sense of findings from dozens of academic publications to guide product development.
 
-    What does it mean to be a Senior Analyst? As a long-time Wikimedian (since 2005), Guillaume understands many of Wikimedia's workflows deeply. As a self-confessed OCD introvert, he loves documenting, analyzing; breaking apart things and putting them back together in novel ways. He's awesome at information architecture, and at really thinking through all the options to solve a complex product problem.
+    What does it mean to be a Senior Analyst? As a long-time Wikimedian (since 2005), Guillaume understands many of Wikimedia's workflows deeply. ... he loves documenting, analyzing; breaking apart things and putting them back together in novel ways. He's awesome at information architecture, and at really thinking through all the options to solve a complex product problem.
 
     In other words, when I see a product that benefits from deep community expertise, I can throw Guillaume at it and he'll help. :)
 
-    --- Erik Möller\ [#analystannounce]_
+    --- `Erik Möller <https://lists.wikimedia.org/pipermail/wikimediaannounce-l/2014-October/000993.html>`__
 
-.. [#analystannounce] `Announcing Guillaume Paumier as Senior Analyst / SF relo <https://lists.wikimedia.org/pipermail/wikimediaannounce-l/2014-October/000993.html>`_. Erik Möller. `Wikimedia Announce mailing list <https://lists.wikimedia.org/mailman/listinfo/wikimediaannounce-l>`_. October 7, 2014.
 
 File metadata cleanup drive
----------------------------
 
 The goal of the `File metadata cleanup drive <file-metadata-cleanup-drive>`__ was to increase the number of multimedia files that contained machine-readable metadata on Wikimedia wikis. I created an automated dashboard to measure and identify the files without machine-readable data, and organized community efforts to fix file description pages and tweak license templates.
 
 In three months, the cleanup drive had contributed to eliminating a third of the files missing machine-readable metadata across all wikis, fixing over 800,000 files. Consistent machine-readable metadata will make the migration process to `Structured Data for Commons <https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Structured_data>`__ less tedious, by enabling programs to process most of the files automatically.
 
-.. sidebar:: Read more:
-
-   .. post-list::
-      :slugs: file-metadata-cleanup-drive
-      :template: sidebar_card.tmpl
-
 Research & analysis
--------------------
 
 In 2015, I supported the VisualEditor team with research and analyses, notably by performing a weekly qualitative review of edits made with VisualEditor, and by analyzing the most cited domains in Wikipedia references.
+
+.. photo Editors team offsite in Seattle?
 
 `sandbox <https://en.wikipedia.org/wiki/User:Guillaume_(WMF)/sandbox2>`__
 `vediffs.js <https://en.wikipedia.org/wiki/User:Guillaume_(WMF)/vediffs.js>`__
@@ -257,11 +246,7 @@ and to support volunteers worldwide who share multimedia files on Wikimedia Comm
 https://meta.wikimedia.org/wiki/Multimedia_usability_project_report
 
 
-.. sidebar:: Read more:
-
-   .. post-list::
-      :slugs: uploadwizard
-      :template: sidebar_card.tmpl
+:doc:`UploadWizard <uploadwizard>`
 
 During that time, I also contributed a chapter on User Experience to the *Open Advice* book, a collection of essays, stories and lessons learned by members of the Free Software community, edited by Lydia Pintscher.
 
@@ -273,20 +258,11 @@ Technical writing
 and as Technical Communications Manager
 https://wikimediafoundation.org/wiki/Job_openings/Technical_Communications_Manager
 
-.. sidebar:: Read more:
-
-   .. post-list::
-      :slugs: technical-communications-wikimedia
-      :template: sidebar_card.tmpl
-
+.. later: :doc:`Technical writing <technical-communications-wikimedia>`
 
 In 2011, I authored a chapter about the architecture of MediaWiki, the software that powers Wikipedia and its sister sites, for inclusion in the book *The Architecture of Open Source Applications, volume 2*. The chapter was based on the shared knowledge of MediaWiki developers, and written in collaboration with Sumana Harihareswara.
 
-.. sidebar:: Read more:
-
-   .. post-list::
-      :slugs: wikimedia-tech-news
-      :template: sidebar_card.tmpl
+:doc:`Tech News <wikimedia-tech-news>`
 
 visual editor rollout
 https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide
@@ -302,6 +278,7 @@ Guillaume Paumier has been Technical Communications Manager in the Engineering C
    By Sebastiaan ter Burg on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Questions_to_WMF%27s_new_Communications_team_at_Wikimania_2014.jpg>`__ // `CC BY 2.0 <https://creativecommons.org/licenses/by/2.0/legalcode>`__.
 
 
+----
 
 Community organizing
 ====================
@@ -331,7 +308,7 @@ Community organizing at the global level
 .. figure:: /images/2009-04-03_Wikimedia_conference_chapters_meeting_2009_9456.jpg
    :figwidth: 10em
 
-   Elke Wetzig on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_conference_chapters_meeting_2009_9456.jpg>`__ // , under `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
+   `Elke Wetzig <https://commons.wikimedia.org/wiki/User:Elya>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_conference_chapters_meeting_2009_9456.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
 In 2009, I was hired by Wikimedia Deutschland, the German chapter, to organize one of the first annual meetings of national Wikimedia chapters in Berlin. Representatives from 23 countries attended the conference, along with Wikimedia Foundation staff.
 
@@ -344,8 +321,10 @@ The conference was a success,\ [#wmconsurvey]_ and went on to be replicated ever
 .. [#wmconsurvey] `April 2009 Wikimedia Conference: Satisfaction survey <https://meta.wikimedia.org/wiki/April_2009_Wikimedia_Conference/Satisfaction_survey>`_
 
 
-Community operations and processes
-==================================
+Community operations
+====================
+
+I co-managed the Foundation's customer relationship system, and community of 300+ trusted volunteers answering questions and requests about Wikipedia.
 
 After a few months answering emails from the public as a member of the Volunteer Response Team, I joined the ranks of the Volunteer response team leaders ("OTRS administrators"), which gave me access to advanced tools to manage the various queues, create new ones, manage the access of volunteers, and maintain canned responses. In that capacity, I vetted, recruited, and onboarded new volunteers to respond to email in many languages. I also improved processes so that agents could focus their time on responding to emails.
 
@@ -362,18 +341,21 @@ By 2013, I had been volunteering on OTRS for six years, had responded to hundred
 Crosswiki service work
 ----------------------
 
-doing crosswiki service work
-https://meta.wikimedia.org/wiki/stewards
+.. figure:: /images/erik-witsoe-mODxn7mOzms-unsplash.jpg
+   :figwidth: 20em
 
-helping small wikis deal with vandalism
-Small Wiki Monitoring Team
-https://meta.wikimedia.org/wiki/Small_Wiki_Monitoring_Team
+   `Erik Witsoe <https://unsplash.com/@ewitsoe>`__ from `Unsplash <https://unsplash.com/photos/mODxn7mOzms>`__
+
+For a few years, I served as a member of the Wikimedia “`Stewards <https://meta.wikimedia.org/wiki/stewards>`__,” a handful of individuals entrusted with wide-ranging powers across the different language versions of Wikipedia and its sister sites.
+
+Stewards have the sensitive ability to grant and remove rights on any of the hundreds of thousands of user accounts across wikis, as well complete access to the software interface on all wikis. Use of those powers is regulated through policy.
+
+Although most of a steward's work is routine, they occasionally intervene in case of emergencies, like rampant vandalism or a rogue administrator abusing their tools.
+
+Serving as a steward and as part of the `Small Wiki Monitoring Team <https://meta.wikimedia.org/wiki/Small_Wiki_Monitoring_Team>`__ gave me an opportunity to work with contributors from a variety of languages and backgrounds over the years. I was left with a deep appreciation for their work, particularly in communities with few native speakers.
 
 
-Crosswiki work: SWMT, stewards
-
-translating texts and software
-
+----
 
 Communications
 ==============
@@ -391,13 +373,15 @@ https://meta.wikimedia.org/wiki/Wikimedia_documents_initiative
 Among the many areas in which I volunteered for the Wikimedia movement over the years, I was particularly involved in Communications.
 
 • I created and designed corporate documents and graphics, such as press kits and fundraising documents, and provided visual identity advice.
-• I co-managed the Foundation's customer relationship system, and community of 300+ trusted volunteers answering questions and requests about Wikipedia.
 • I answered press requests from international news outlets about Wikipedia and its sister sites.
 
 https://wikimania2007.wikimedia.org/wiki/File:Wikimania_2007_Presskit.pdf
 
 The last kind of emails was press requests: emails from journalists and international news outlets.
 
+especially in the early years (~2007)
+
+wikipedia was not as well respected or understood
 
 Personalized fundraising kit
 November 2007
@@ -405,6 +389,11 @@ November 2007
 
 Volunteer response team (OTRS)
 ------------------------------
+
+.. figure:: /images/sharon-mccutcheon-tn57JI3CewI-unsplash.jpg
+   :figwidth: 20em
+
+   `Sharon McCutcheon <https://unsplash.com/@sharonmccutcheon>`__ on `Unsplash <https://unsplash.com/photos/tn57JI3CewI>`__
 
 .. figure:: /images/OTRS.svg
    :figwidth: 10em
@@ -421,6 +410,7 @@ OTRS volunteers respond to thousands of emails every year, while ensuring the co
 
    "Permissions" emails are sent by copyright holders to keep a record of the license terms they are agreeing to when publishing their content (mostly pictures) on Wikimedia sites.
 
+----
 
 [volunteer contributions: articles, photos, etc.]
 =================================================
@@ -479,6 +469,9 @@ covering events (French presidential election, G8 in Deauville, conventions)
 accredited photographer for political rallies, events, and conventions
 
 As a photographer, Guillaume Paumier has covered international scientific & popular culture conferences. He has photographed heads of state, Hollywood actors and other public figures. His work has been featured in books, magazines and on countless websites.
+
+I like to take pictures during my travels, and I have also served as a photoreporter for Wikipedia and Wikimedia Commons. I have covered national events, international conferences and popular culture conventions. You may have seen some of my work in books, magazines, and on the web.
+
 
 .. container:: gallery
    :name: wikimedia-photos

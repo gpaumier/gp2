@@ -107,6 +107,13 @@ Revenue projections
 Major Gifts, Foundation, and Endowment
 ======================================
 
+.. figure:: /images/2018_Allhands_team_photo_C81A2782.jpg
+   :figwidth: 30em
+
+   `Myleen Hollero <http://myleenhollero.com/>`__ // `CC-BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
+
+
+
 crafted proposals tailored to high-net-worth prospects
 
 created a modular prospectus aimed for a wide audience
@@ -114,19 +121,3 @@ created a modular prospectus aimed for a wide audience
 co-wrote the grant application for 100&Change , :doc:`Stakes of Knowledge <stakes-of-knowledge>`
 
 staffed the Endowment Board's Investment committee and relationship with Tides
-
-
-
-
-
-.. class:: copyright-notes
-
-    Photo shown in the screenshot of the timeline: |Pumpkipedia|_ by `Ed Sanders`_, under `CC-BY-SA 3.0`_. Wikipedia logo: ™ Wikimedia Foundation.
-
-.. |Pumpkipedia| replace:: *Pumpkipedia*
-
-.. _Pumpkipedia: https://commons.wikimedia.org/wiki/User:ESanders_%28WMF%29/Pumpkipedia
-
-.. _Ed Sanders: https://commons.wikimedia.org/wiki/User:ESanders_%28WMF%29
-
-.. _CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/legalcode

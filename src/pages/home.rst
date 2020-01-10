@@ -26,119 +26,16 @@ Read on to learn more about my story, or :doc:`drop me a line <contact>`.
 
 .. [3] :doc:`Wikimedia Commons UploadWizard <uploadwizard>`
 
+
 ----
-
-My journey has not been a straight one. (Where would the fun be in that?)
-
-.. class:: early-years
-
-.. figure:: /images/maison.jpg
-   :figwidth: 10em
-
-The early years: Learning to adapt
-==================================
-
-I was born in Normandy, a region of northwestern France mostly known for its cheese, apples, and rain. I grew up in a middle-class family of telecom workers and was a remarkably unremarkable child. I read a lot, didn't like sports, and spent most of my time alone. Reading a lot and not liking sports didn't help with the alone thing either.
-
-.. figure:: /images/debout_sur_la_bouee.jpg
-   :figwidth: 10em
-
-When I was fourteen, my family moved to Réunion, a wonderful French island in the Indian Ocean, east of Madagascar and not far from Mauritius. Réunion is mostly known for its sugar cane, active volcano, and (contrary to Normandy) beautiful tropical weather. Except during cyclone season. During cyclone season, it's (like Normandy) a lot of rain.
-
-.. figure:: /images/CTS_Riviere_des_Pluies_et_flamboyants_09.jpg
-   :figwidth: 10em
-
-
-.. figure:: /images/CTS_Riviere_des_Pluies_et_flamboyants_05.jpg
-   :figwidth: 10em
-
-
-We moved in the middle of the school year.\ [#troisieme]_ While the curriculum was mostly standardized at the national level, it wasn't necessarily covered in the same order or with the same textbooks, but I adapted. Apart from that: many books, little exercise, much solitude. The usual, except with sun and palmtrees.
-
-.. [#troisieme] We moved when I was halfway through my *troisième*, i.e. what would be the 8th grade in the US.
-
-After high school, I went on to college at *Université de la Réunion* to study math, computer science, and some physics & chemistry on the side. After my first year, we moved back to Normandy, which meant doing the transfer dance all over again.
-
-The university curriculum was less standardized, and I had a lot to catch up on, but I didn't mind. On the contrary, I felt like it was an opportunity for me to learn about new things.
-
-.. pull-quote::
-
-   I started to realize that I needed to be intellectually stimulated, and that I had the capacity to adapt and catch up quickly.
-
-A year later, I joined a college-like |grande-ecole|_ to study engineering physics, microelectronics, and nanotechnology. One reason was that I loved how physics helped me understand the world. Another reason was that the idea of getting a Doctorate in Physics sounded cool. Another reason was that I had read a science-fiction book a few years earlier\ [#faust]_ in which nanotechnology was used to improve physical performance, and 19-year-old-Guillaume-with-body-image-issues found that concept fascinating. Another reason was that the college was in Toulouse, a lovely city in southwestern France with much less rain than Normandy.
-
-Not all of those reasons were good reasons. Youth is naïve. It all turned out alright.
-
-.. |grande-ecole| replace:: *Grande École*
-
-.. _grande-ecole: https://en.wikipedia.org/wiki/Grandes_%C3%A9coles
-
-.. [#faust] :title-reference:`Le Cycle de F.A.U.S.T.: Les Défenseurs`. Serge Lehman. Fleuve Noir (1996) `ISBN 978-2265060937 <http://www.worldcat.org/search?q=978-2265060937>`_.
-
-.. class:: college-years
-
-The college years: FOR SCIENCE! (and songs)
-===========================================
-
-I majored in :doc:`engineering physics and nanotechnology <studies>`,
-
-and developed :doc:`chemical processes for biochips <biochips>`.
-
-
-then completed my Ph.D on :doc:`polymer microsystems for biological analysis <phd>`.
-microfluidics
-interdisciplinarity
-thermoresponsive polymer
-microsystem
-
-.. figure:: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
-   :figwidth: 10em
-
-.. figure:: /images/2013-10-08_Presse_Marinoni_8863.jpg
-   :figwidth: 10em
-
-books for musicals, :doc:`scripts for plays <interclubs>`,
-
-.. class:: wikipedia-years
-
-The Wikipedia years: in service of free knowledge
-=================================================
-
-.. Inspired by https://en.wikipedia.org/wiki/Template:Main
-.. class:: main-article
-
-Main article: :doc:`The full Wikimedia story <wikimedia>`
-
-.. End class main-article
-
-.. Ajouter un globe Wikipédia avec le texte arrondi autour
-.. https://vimeo.com/209812549 à 24 minutes
-.. Penser à ajouter le TM pour que les avocats soient contents
-
-I am currently studying :doc:`online communities <wikimedia-research-codex>`, at the intersection of sociology and computer science.
-
-I also like to code.
-
-I have authored a :doc:`Wikipedia handbook <wikipedia-handbook>`, :doc:`book <mediawiki-architecture-aosa>` :doc:`chapters <open-advice>` about software development, and I have edited :doc:`technical reports<technical-communications-wikimedia>` professionally. I also :doc:`give talks <speaking>`.
-
-I like to take pictures during my travels, and I have also served as a photoreporter for Wikipedia and Wikimedia Commons. I have covered national events, international conferences and popular culture conventions. You may have seen some of my work in books, magazines, and on the web.
-
-
-I am passionate about free knowledge and I started contributing to Wikipedia in 2005. I have been serving the Wikimedia community in almost every possible role, from writing articles to giving presentations, helping small wikis deal with vandalism, creating documents, and organizing events. Since 2009, I have been working for the Wikimedia Foundation.
-
-.. figure:: /images/2012-03-22_Selfie_on_the_Queen_Mary_2173.jpg
-   :figwidth: 10em
-.. figure:: /images/2016-06-06_Libres_conseils_1011.jpg
-   :figwidth: 10em
-.. figure:: /images/2007-07-05_Wikimania_group_0302.jpg
-   :figwidth: 10em
 
 .. class:: present
 
-No time like the present
-========================
+How I think
+===========
 
 Looking back:
+
 * adaptation
 * ability to learn quickly
 * interdisciplinarity, working across fields with people from different backgrounds
@@ -194,18 +91,75 @@ obsessive documenter
 disciplined problem solving
 emergent strategy
 
-.. figure:: /images/awkward-yeti-the-plan
-   :figwidth: 10em
-
-`Awkward Yeti <http://theawkwardyeti.com/comic/plan/>`_
-
-
 
 I'm an interdisciplinary scientist.
 I'm an engineer.
 I'm a writer.
 I'm a photographer.
 I'm a Wikipedian.
+
+----
+
+.. class:: wikipedia-years
+
+Knowledge belongs to all of us
+==============================
+
+
+.. figure:: /images/Wikipedia-logo-v2.png
+   :figclass: wikipedia-logo
+
+
+.. class:: caption
+
+   Wikipedia logo by `Nohat <https://meta.wikimedia.org/wiki/User:Nohat>`__, `Paullusmagnus <https://meta.wikimedia.org/wiki/User:Paullusmagnus>`__, Wikimedia on Wikimedia Commons // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__ // ™ Wikimedia Foundation, Inc.
+
+.. Inspired by https://en.wikipedia.org/wiki/Template:Main
+.. class:: main-article
+
+
+I am passionate about free knowledge and I started contributing to Wikipedia in 2005. I have been serving the Wikimedia community in almost every possible role, from writing articles to giving presentations, helping small wikis deal with vandalism, creating documents, and organizing events. Since 2009, I have been working for the Wikimedia Foundation.
+
+.. class:: continue-reading
+
+   :doc:`continue reading <wikimedia>`
+
+
+.. figure:: /images/2012-03-22_Selfie_on_the_Queen_Mary_2173.jpg
+   :figwidth: 10em
+.. figure:: /images/2016-06-06_Libres_conseils_1011.jpg
+   :figwidth: 10em
+.. figure:: /images/2007-07-05_Wikimania_group_0302.jpg
+   :figwidth: 10em
+
+----
+
+.. class:: college-years
+
+Science / Engineering
+=====================
+
+
+I majored in :doc:`engineering physics and nanotechnology <studies>`,
+
+and developed :doc:`chemical processes for biochips <biochips>`.
+
+
+then completed my Ph.D on :doc:`polymer microsystems for biological analysis <phd>`.
+microfluidics
+interdisciplinarity
+thermoresponsive polymer
+microsystem
+
+.. figure:: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
+   :figwidth: 10em
+
+.. figure:: /images/2013-10-08_Presse_Marinoni_8863.jpg
+   :figwidth: 10em
+
+books for musicals, :doc:`scripts for plays <interclubs>`,
+
+----
 
 .. class:: play
 
@@ -226,3 +180,53 @@ ballroom dancing
 
 .. figure:: /images/2016-04-10_Pain_0169.jpg
    :figwidth: 10em
+
+
+----
+
+.. class:: early-years
+
+A life of learning
+==================
+
+or adaptation
+
+.. figure:: /images/maison.jpg
+   :figwidth: 10em
+
+I was born in Normandy, a region of northwestern France mostly known for its cheese, apples, and rain. I grew up in a middle-class family of telecom workers and was a remarkably unremarkable child. I read a lot, didn't like sports, and spent most of my time alone. Reading a lot and not liking sports didn't help with the alone thing either.
+
+.. figure:: /images/debout_sur_la_bouee.jpg
+   :figwidth: 10em
+
+When I was fourteen, my family moved to Réunion, a wonderful French island in the Indian Ocean, east of Madagascar and not far from Mauritius. Réunion is mostly known for its sugar cane, active volcano, and (contrary to Normandy) beautiful tropical weather. Except during cyclone season. During cyclone season, it's (like Normandy) a lot of rain.
+
+.. figure:: /images/CTS_Riviere_des_Pluies_et_flamboyants_09.jpg
+   :figwidth: 10em
+
+
+.. figure:: /images/CTS_Riviere_des_Pluies_et_flamboyants_05.jpg
+   :figwidth: 10em
+
+
+We moved in the middle of the school year.\ [#troisieme]_ While the curriculum was mostly standardized at the national level, it wasn't necessarily covered in the same order or with the same textbooks, but I adapted. Apart from that: many books, little exercise, much solitude. The usual, except with sun and palmtrees.
+
+.. [#troisieme] We moved when I was halfway through my *troisième*, i.e. what would be the 8th grade in the US.
+
+After high school, I went on to college at *Université de la Réunion* to study math, computer science, and some physics & chemistry on the side. After my first year, we moved back to Normandy, which meant doing the transfer dance all over again.
+
+The university curriculum was less standardized, and I had a lot to catch up on, but I didn't mind. On the contrary, I felt like it was an opportunity for me to learn about new things.
+
+.. pull-quote::
+
+   I started to realize that I needed to be intellectually stimulated, and that I had the capacity to adapt and catch up quickly.
+
+A year later, I joined a college-like |grande-ecole|_ to study engineering physics, microelectronics, and nanotechnology. One reason was that I loved how physics helped me understand the world. Another reason was that the idea of getting a Doctorate in Physics sounded cool. Another reason was that I had read a science-fiction book a few years earlier\ [#faust]_ in which nanotechnology was used to improve physical performance, and 19-year-old-Guillaume-with-body-image-issues found that concept fascinating. Another reason was that the college was in Toulouse, a lovely city in southwestern France with much less rain than Normandy.
+
+Not all of those reasons were good reasons. Youth is naïve. It all turned out alright.
+
+.. |grande-ecole| replace:: *Grande École*
+
+.. _grande-ecole: https://en.wikipedia.org/wiki/Grandes_%C3%A9coles
+
+.. [#faust] :title-reference:`Le Cycle de F.A.U.S.T.: Les Défenseurs`. Serge Lehman. Fleuve Noir (1996) `ISBN 978-2265060937 <http://www.worldcat.org/search?q=978-2265060937>`_.
