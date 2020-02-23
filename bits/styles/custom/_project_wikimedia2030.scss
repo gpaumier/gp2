@@ -1,0 +1,17 @@
+@use foundation-responsive-embed;
+
+
+article.custom-wikimedia2030 {
+
+  .entry-content .lead-figure,
+  h1.entry-title {
+     // The lead figure has been extracted and displayed in the header already.
+     // Also we don't need the page's title.
+     display: none;
+  }
+
+  .embed {
+    @include responsive-embed("widescreen");
+  }
+
+}

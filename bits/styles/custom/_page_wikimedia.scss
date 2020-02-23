@@ -1,6 +1,24 @@
 
 article.custom-wikimedia {
 
+  h2 {
+    font-size: calc(1.5rem + 1.5vw);
+  }
+
+  h3 {
+    font-size: calc(1rem + 1vw);
+  }
+
+  h2,
+  .stakes-writeout,
+  .identity-intro {
+    margin-bottom: 3rem;
+  }
+
+  h3 {
+    margin-bottom: 2rem;
+  }
+
   header {
      display: grid;
      grid-template-columns: 1fr 4fr 5fr;
@@ -47,6 +65,9 @@ article.custom-wikimedia {
      // Also we don't need the page's title.
      display: none;
  }
+
+/////////////////////////////////////////////////////////////
+
 
   #the-stakes-of-knowledge h2 {
     display: none;
@@ -95,28 +116,61 @@ article.custom-wikimedia {
     }
   }
 
-  .stakes-writeout {
+  /////////////////////////////////////////////////////////////
+  // Tri-columns intros
+
+  .stakes-writeout,
+  .identity-intro,
+  .product-tech-intro,
+  .community-operations-intro {
     max-width: 100ch;
     column-width: 30ch;
     column-count: 3;
     column-rule: 1px solid #666;
-    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
     padding-left: .5rem;
     padding-right: .5rem;
     margin-top: 2rem;
+    margin-bottom: 3rem;
 
     p {
       line-height: 1.35rem;
       text-indent: 1rem;
       margin-bottom: 0;
       padding: 0;
+      overflow-wrap: break-word;
+      word-wrap: break-word;
+      -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+      hyphens: auto;
     }
 
     p:first-child {
       text-indent: 0;
+      -webkit-initial-letter: 3.0;
+      initial-letter: 3.0;
     }
 
   }
+
+  /////////////////////////////////////////////////////////////
+
+  #recent-work {
+
+    #revenue-strategy-and-long-term-thinking {
+      @include split-layout-cover(left, 4, 65%);
+    }
+
+    #wikimedia-2030 {
+
+      @include split-layout-cover(right, 5, 35%);
+    }
+
+
+  }
+
+  /////////////////////////////////////////////////////////////
 
   .wikimedia-vision {
     height: 80vh;
@@ -125,6 +179,7 @@ article.custom-wikimedia {
     display: grid;
     grid-template-columns: minmax(0, 3fr) 4fr 1fr;
     grid-template-rows: minmax(0, 3fr) 4fr 1fr;
+    margin-bottom: 2rem;
 
     p:first-child {
       font-size: calc(.5rem + .5vw);
@@ -147,6 +202,116 @@ article.custom-wikimedia {
     }
   }
 
+  /////////////////////////////////////////////////////////////
+  #a-culture-of-sensemaking {
+    @include split-layout(right, 4, 45ch, 65ch);
+
+    .caption {
+      // override this because it's so long and looks weird otherwise
+      text-align: left;
+    }
+
+  }
+
+  #stating-our-values {
+    @include split-layout(left, 4, 50ch, 60ch);
+  }
+
+
+  #history-and-wikiarchaeology {
+    @include split-layout(right, 3, 45ch, 65ch);
+
+    figure { //Youtube embedded video
+      grid-column: 1 / 5;
+    }
+    .embed {
+        @include responsive-embed(widescreen);
+    }
+
+    .figure, figure {
+      margin-bottom: 1rem;
+    }
+
+    @media screen and (min-width: 80ch) {
+      .figure:nth-of-type(2) { // 11 years infographic
+        grid-column: -2/-3;
+        grid-row: 6/8;
+      }
+      figure { // Youtube embedded video
+        grid-column: -2/-3;
+        grid-row: 7/10; // TODO adjust once the text is finalized
+      }
+    }
+  }
+
+  /////////////////////////////////////////////////////////////
+  // Product and tech
+
+  #product-technology {
+    blockquote {
+
+      p {
+        font-size: calc(1rem + .7vw);
+        line-height: calc(1.5rem + 1.5vw);
+        margin-bottom: 1rem;
+      }
+
+      .attribution {
+        font-size: calc(1rem + 0.3vw);
+        line-height: calc(1.5rem + 1vw);
+      }
+
+      margin-top: calc(3vh + 3vw);
+      margin-bottom: calc(3vh + 3vw);
+      padding-top: calc(3vh + 3vw);
+      padding-bottom: calc(3vh + 3vw);
+      //border-top: 1px solid map-get($foundation-palette, "primary");
+      //border-bottom: 1px solid map-get($foundation-palette, "primary");
+      background-color: transparentize(map-get($foundation-palette, "primary"), 0.95);;
+
+    }
+  }
+
+  #product-strategy {
+    @include split-layout(right, 3, 45ch, 65ch);
+
+    .caption {
+      text-align: left;
+    }
+  }
+
+  #multimedia-usability-project {
+    @include split-layout(left, 3, 45ch, 65ch);
+  }
+
+  #technical-writing {
+    @include split-layout(right, 5, 45ch, 65ch);
+
+    .caption {
+      text-align: left;
+    }
+  }
+
+  /////////////////////////////////////////////////////////////
+
+  #wikimedia-france {
+    @include split-layout(right, 5);
+  }
+
+  #wikimedia-chapters-conference-2009 {
+    @include split-layout(left, 7);
+  }
+
+
+  #crosswiki-service-work {
+    @include split-layout-cover(right, 5, 50%);
+  }
+
+  #volunteer-response-team-otrs {
+    @include split-layout-cover(left, 7, 50%);
+  }
+
+  /////////////////////////////////////////////////////////////
   // Wikimedia photos slideshow / grid
 
   #wikimedia-photos {
