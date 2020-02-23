@@ -15,6 +15,21 @@ Images
 
 
 
+.. figure:: /images/Apollo_11_bootprint.jpg
+
+   NASA / Buzz Aldrin on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Apollo_11_bootprint.jpg>`__
+   
+
+.. figure:: /images/jens-lelie-u0vgcIOQG08-unsplash.jpg
+
+   `Jens Lelie <https://unsplash.com/@leliejens>`__ on `Unsplash <https://unsplash.com/photos/u0vgcIOQG08>`__
+
+
+.. figure:: /images/Forex_Money_for_Exchange_in_Currency_Bank.jpg
+
+   epSos.de on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Forex_Money_for_Exchange_in_Currency_Bank.jpg>`__ //  `CC BY 2.0 <https://creativecommons.org/licenses/by/2.0/legalcode>`__.
+
+
 .. figure:: /images/wiki-allhands2016-day1-0112.jpg
    :figwidth: 30em
 

@@ -103,6 +103,8 @@ Beyond the scenarios
 
 The point of this exercise is not to choose a scenario over another: we cannot choose what the future will look like, just like we cannot change the past. Our temporal agency is limited to the decisions we make in the present, based on our understanding of the past and the future. The point is to provoke thinking, devise strategies, and guide decisions that help us adapt to the variety of possible futures.
 
+Related to my work on :doc:`revenue strategy <wikimedia-revenue-strategy>`
+
 made into cards for activity :doc:`Advancement <wikimedia-advancement>`
 
 opportunity to extend the time perspective of participants, and tap into the collective creativity and
@@ -110,3 +112,9 @@ opportunity to extend the time perspective of participants, and tap into the col
 not recreate the scenarios, but provide elements of the story and see how the participants weave them together
 
 then open the "Black Swan" envelope halfway through the activity. Picked at random
+
+The scenarios all contain both favorable and unfavorable story elements, to ensure the people engaging with them wouldn’t be tempted to pick one as the future they favored. I used the scenarios to spark discussions and shift conversations from day-to-day concerns and busywork to longer-term strategic thinking.
+
+In a workshop with Advancement staff, I created cards, representing story elements of the scenarios, to encourage long-term thinking while tapping into the participants’ own expertise and imagination. “Black swan” cards introduced halfway through the activity forced the participants to contend with unpredictable, “wild card” events and how their draft strategies would fare in those new circumstances.
+
+Future-oriented thinking helps build resilience by shifting the perspective of the organization’s leaders to the long view, and leading them to imagine the future consequences of current events and choices they make today.

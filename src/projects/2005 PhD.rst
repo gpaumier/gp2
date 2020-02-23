@@ -19,7 +19,7 @@
 • Developed a new technology based on thermosensitive polymer coatings
 • Explored applications in controlled electro-osmosis and controlled adsorption/release of proteins
 
-Labs on chips are miniaturized devices integrating one or several laboratory functions, usually dedicated to the handling of chemical and biological samples. Our work aimed at integrating a smart polymer called poly(N-isopropylacrylamide) (PNIPAM) in microsystems, in order to develop a new technological process for labs on chips. PNIPAM is a thermosensitive polymer that undergoes a reversible state transition; it switches from a hydrophilic, swollen state below its temperature of transition (LCST ~ 32°C), to a hydrophobic, collapsed state above it. The technology we developed is based on heating elements and a surface functionalization process to graft the PNIPAM layer. Our results show that the electro-osmotic flow can be modulated by thermally controlling the PNIPAM, thus paving the way to electrokinetic mixers. This thermal control also enables the adsorption (and partial desorption) of proteins on fonctionalized beads, the main application being sample preparation.
+Labs on chips are miniaturized devices integrating one or several laboratory functions, usually dedicated to the handling of chemical and biological samples. My work aimed at integrating a smart polymer called poly(N-isopropylacrylamide) (PNIPAM) in microsystems, in order to develop a new technological process for labs on chips. PNIPAM is a thermosensitive polymer that undergoes a reversible state transition; it switches from a hydrophilic, swollen state below its temperature of transition (LCST ~ 32°C), to a hydrophobic, collapsed state above it. The technology I developed was based on heating elements and a surface functionalization process to graft the PNIPAM layer. My results showed that the electro-osmotic flow could be modulated by thermally controlling the PNIPAM, thus paving the way for electrokinetic mixers. This thermal control also enabled the adsorption (and partial desorption) of proteins on fonctionalized beads, the main application being sample preparation.
 
 https://fr.wikisource.org/wiki/Technologies_PNIPAM_pour_les_laboratoires_sur_puce
 
@@ -33,3 +33,111 @@ LAAS-CNRS
 photos salle blanche, portes ouvertes pour Commons
 
 images et articles (cf blog posts, poster, etc.)
+
+
+
+I published earlier some infographics I created for `my Ph.D thesis <http://guillaumepaumier.com/2008/12/19/ph-d-thesis-available-for-download-and-reuse/>`__, for example the `comparison between biological and technological objects <http://guillaumepaumier.com/2008/07/07/interdisciplinarity-biology-micro-nanotechnologies/>`__ at the micro and nano scale. Below are a few more specific to PNIPAM; they're now also available to illustrate Wikipedia articles about PNIPAM.
+
+Conformational switch
+---------------------
+
+.. figure:: /images/2008-11-06_PNIPAM_switch.svg
+
+PNIPAM is a thermosensitive polymer that undergoes a reversible coil-to-globule conformational transition around its lower critical solution temperature (LCST), around 32°C. It switches from a hydrophilic, swollen state to a hydrophobic, collapsed state.
+
+This file, like the others below, is `available on Wikimedia Commons <https://commons.wikimedia.org/wiki/File:PNIPAM_switch.svg>`_
+
+PNIPAM-based immunoassay
+------------------------
+
+The peculiar properties of PNIPAM make it possible to use this polymer as a support for immunoassays based on thermal precipitation.
+
+.. figure:: /images/2008-11-06_Thermal_precipitation_immunoassay.svg
+
+    Immunoassay based on the thermal precipitation of PNIPAM
+
+
+Cell culture
+------------
+
+PNIPAM-grafted surfaces can be used as a soft support for cell cultures. Cells grow on hydrophobic PNIPAM and are softly released by lowering the temperature and making the PNIPAM hydrophilic.
+
+.. figure:: /images/2008-11-06_Cell_culture_on_PNIPAM.svg
+
+    Cell culture on PNIPAM-grafted surfaces
+
+
+Adsorption and release of proteins
+----------------------------------
+
+The same way cells adsorb on hydrophobic PNIPAM surfaces, proteins may be reversibly trapped on PNIPAM surfaces, then released upon command. This is actually one of the things I did during my Ph.D.
+
+
+.. figure:: /images/2008-11-06_Controlled_adsorption_and_release_of_proteins_on_PNIPAM.svg
+
+    Controlled adsorption and release of proteins on hydrophobic PNIPAM-grafted surfaces
+
+
+    .. figure:: /images/2007-10-13_Molecular_beam_epitaxy_system_at_LAAS_0516.jpg
+       :figwidth: 30em
+
+
+
+    .. figure:: /images/2007-10-13_Wet_etching_tanks_at_LAAS_0465.jpg
+       :figwidth: 30em
+
+
+
+    .. figure:: /images/2007-11-08_EVG_620__MA_150_steppers_at_LAAS_FDLS_2007_0438.jpg
+       :figwidth: 30em
+
+
+
+    .. figure:: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
+       :figwidth: 30em
+
+
+
+    .. figure:: /images/Biological_and_technological_scales_compared-en.png
+       :figwidth: 30em
+
+
+
+    .. figure:: /images/gpaumier_thesis_page1.png
+       :figwidth: 30em
+
+
+
+    .. figure:: /images/microtas.png
+       :figwidth: 30em
+
+
+
+    .. figure:: /images/PNIPAM_microsystem.jpg
+       :figwidth: 30em
+
+
+
+    .. figure:: /images/PNIPAM_microsystems_at_LAAS_CNRS_011_June_2008.jpg
+       :figwidth: 30em
+
+
+
+    .. figure:: /images/PNIPAM_microsystems_at_LAAS_CNRS_022_June_2008.jpg
+       :figwidth: 30em
+
+
+
+    .. figure:: /images/poster_biodevices.png
+       :figwidth: 30em
+
+
+
+
+:doc:`MicroTAS conference <microtas-2007-paris-france>`
+
+:doc:`clean room photos <clean-room-guided-tour>`
+
+:doc:`Biodevices <biodevices-2008-funchal-madeira>`
+
+:doc:`interdiscplinarity <interdisciplinarity-biology-micro-nanotechnologies>`

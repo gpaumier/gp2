@@ -36,6 +36,8 @@ The Stakes of Knowledge
       The Stakes of Knowledge
 
    .. figure:: /images/fred-kearney-enkfvvZkKv0-unsplash.jpg
+      :alt: Photograph of a book burning
+      :target: /articles/stakes-of-knowledge/
 
       `Fred Kearney <https://unsplash.com/@fredasem>`__ on `Unsplash <https://unsplash.com/photos/enkfvvZkKv0>`__.
 
@@ -59,49 +61,52 @@ The Stakes of Knowledge
 
 ----
 
-Advancement
+Recent work
 ===========
 
-:doc:`Advancement <wikimedia-advancement>`
+Revenue strategy and long-term thinking
+---------------------------------------
 
 .. TODO: add group photo of department after all-hands. Using a placeholder in the meantime
 
-.. figure:: /images/2010-07-03_Qt_duck.jpg
-   :figwidth: 20em
+.. figure:: /images/javier-allegue-barros-C7B-ExXpOIE-unsplash.jpg
+   :alt: Photograph showing the silhouette of a signpost against a sunset
+   :target: /projects/wikimedia-advancement/
 
-In 2018, I joined the Wikimedia Foundation's Advancement department, where I currently lead special projects for the Chief Advancement Officer, serving as the department's de facto chief of staff.
+   `Javier Allegue Barros <https://unsplash.com/@soymeraki>`__ on `Unsplash <https://unsplash.com/photos/C7B-ExXpOIE>`__
 
-Current responsibilities in this role include:
+I currently lead special projects for the Wikimedia Foundation's Chief Advancement Officer, serving as the department's de facto chief of staff. In this role, I am leading the organization's future thinking towards resilience in a changing world, navigating unknowns in technology, policy, industry, society, and climate, notably through :doc:`scenario planning <2031-scenarios>`.
 
-* Leading the organization's future thinking towards resilience in a changing world, navigating unknowns in technology, policy, industry, society, and climate, notably through scenario planning.
+I lead :doc:`Revenue Strategy research <wikimedia-revenue-strategy>` and the development of new revenue models for financial growth and long-term sustainability. I also provide expertise and guidance to other teams in the Advancement department, notably the Major Gifts team.
 
-* Leading Revenue strategy research and development of new revenue models for financial growth and long-term sustainability.
+.. class:: continue-reading
 
-* Collaborating with the Major Gifts & Foundations team on specialized materials and pitches for high-profile prospects, notably a $100 million grant application for MacArthur's 100&Change challenge.
-
-* Staffing the Investment Committee of the Wikimedia Endowment's Board, including portfolio performance.
-
+   :doc:`learn more about my current work <wikimedia-advancement>`
 
 
-Movement Strategy: Wikimedia 2030
-=================================
+Wikimedia 2030
+--------------
 
-In 2016–2017, I was one of the Lead Architects of :doc:`Wikimedia 2030 <wikimedia2030>`, an ambitious collaborative strategy process involving dozens of movement organizations and hundreds of individuals. I was key in designing the process and guiding the movement through an intense exercise involving several cycles of community discussions, in-person events, interviews with experts, and commissioned research.
+.. figure:: /images/NASA_Earth_CO2-wikimedia2030.jpg
+   :alt: Screenshot of a NASA video of a computer model showing how carbon dioxide in the atmosphere travels around the globe.
+   :target: /projects/wikimedia2030/
 
-I led the synthesis of the inputs, conversations, and research into several drafts that were further discussed and edited. I was the main author of the Strategic Direction that emerged and went on to be endorsed by nearly a hundred Wikimedia organizations around the world.
+   NASA's Goddard Space Flight Center on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:A_Year_In_The_Life_Of_Earth%27s_CO2_11719-1920-MASTER.webm>`__ // Public Domain
+
+In 2016–2017, I was a Lead Architect for :doc:`Wikimedia 2030 <wikimedia2030>`, a global, participatory strategy process involving dozens of movement organizations and thousands of individuals. I was key in designing the process and guiding the movement through an intense exercise involving several cycles of community discussions, in-person events, interviews with experts, and commissioned research.
+
+I led the synthesis of all inputs, conversations, and research into several drafts that were further discussed and edited. I was the main author of the Strategic Direction that emerged and went on to be endorsed by nearly a hundred Wikimedia organizations around the world.
 
 The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now serves as the compass for multi-year strategic planning by Wikimedia organizations, and guides decision-making around roles, responsibilities, and resources in the Wikimedia movement.
 
+.. class:: continue-reading
 
-https://www.forbes.com/sites/michaelbernick/2018/03/28/the-power-of-the-wikimedia-movement-beyond-wikimedia/#42557f8e5a75
-
-https://nonprofitquarterly.org/2018/03/30/wikimedias-strategic-direction-project-model-democracy/
-
+   :doc:`learn more about Wikimedia 2030 <wikimedia2030>`
 
 ----
 
-History, identity
-=================
+History, culture & identity
+===========================
 
 .. container:: wikimedia-vision
 
@@ -109,180 +114,176 @@ History, identity
 
    a world in which every single human being can freely share in the sum of all knowledge.
 
+.. container:: identity-intro
 
-History
--------
+   I recognized myself early on in the Wikipedia vision of collecting and sharing "the sum of all knowledge." Wikipedians document the world, relying on facts and verifiable information, working in harmony (as much as possible) with complete strangers in pursuit of the best encyclopedic content possible. They integrate sources and organize content, working across language communities and collaborating with other Wikipedians around the world.
 
-wikiarchaeology, wikimedia history crash course you can edit, infographic
+   But being a Wikipedian isn't just about being modern Diderots, however noble that is. Free knowledge is about :doc:`so much more <stakes-of-knowledge>`. And the process through which that sum of knowledge is developed is what makes it so valuable; that's why, over the years, I have studied the history of Wikipedia, and sought to better understand its culture and identity.
 
-
-
-The Essense of Being Wikipedian
--------------------------------
+A culture of sensemaking
+------------------------
 
 .. figure:: /images/2012-02-14_Wikipedian_meme.png
-   :figwidth: 10em
 
-   John Blyberg, Mr Thinktank, PierreSelim, Garry Knight, and Louis-Michel van Loo, on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikipedian.png>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
+   Humor is part of the Wikipedia culture. This collage was my take on the "What people think I do / What I really do" meme, which "depict[s] a range of preconceptions associated with a particular field of occupation or expertise" and "compares varying impressions about one's profession held by others, self-image and the often mundane reality of the job." (from `Know Your Meme <https://knowyourmeme.com/memes/what-people-think-i-do-what-i-really-do>`__). Images by John Blyberg, Mr Thinktank, PierreSelim, Garry Knight, and Louis-Michel van Loo, on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikipedian.png>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
-Being Wikipedian (essence?): documenting the world, relying on facts and verifiable information, working in harmony (as much as possible) with complete strangers in pursuit of the best encyclopedic content possible, integrating sources and organizing content, information architecture, working across language communities and collaborating with wikipedians from other language editions
+Wikipedians have a unique affinity and talent for collecting and curating free, reliable knowledge. In a world of information overload, bias, and misinformation, they provide discernment, sensemaking, and human judgment on information, which all contributes to building trust.
 
-not only appealed to me, but I recognized myself in this culture
-(link to autistic-wikipedian: many years later, I would get a better understanding of why this mattered so much to me)
+This is something I started to ponder `back in 2010 </fr/articles/reference-necessaire/>`__ (fr) when I mused about how Wikipedians' habit of adding reliable sources to Wikipedia articles was seeping into many other areas of their lives, something I had experienced myself when I was writing my :doc:`Ph.D. thesis <phd>`: the jury said they had never read such a well-referenced and well-structured thesis. This realization finally crystallized much later as I was reflecting on the Wikimedia Foundation's :doc:`revenue strategy <wikimedia-revenue-strategy>` and identifying sustainable differentiators of Wikipedia.
 
-Although I titled this section "Becoming Wikipedian", there is an argument that Wikipedians are born, not made.\ [#panciera]_ I may have been a Wikipedian all along; I just didn't know it yet.
+.. class:: emphasis
 
-.. [#panciera] https://dl.acm.org/citation.cfm?doid=1531674.1531682 http://files.grouplens.org/papers/Group09WikipediansPanciera.pdf
-
-
-In 2013, produced an :doc:`interactive timeline <wikipedia-2013-timeline>` to serve as a retrospective of what had happened across the movement that year.
+   Wikipedians organize, weigh, and nuance facts; as a collective, they constitute a formidable sensemaking engine. Wikipedia, as a website, is merely the current manifestation and artifact of that ethos.
 
 
 Stating our Values
 ------------------
 
-In 2016, I co-led an `extensive conversation <https://meta.wikimedia.org/wiki/Values/2016_discussion>`__ to discuss and identify the Wikimedia Foundation's values. An original set of values had emerged from a soft consensus in 2007.\ [#valueshistory]_ Many employees had expressed confusion about the original set(s) of values and guiding principles, and felt the need for a new organization-wide consultation.
-
-.. [#valueshistory] `History of the Values <https://meta.wikimedia.org/wiki/Values/History>`__ on Wikimedia Meta-Wiki.
-
-Coming up with useful answers starts with asking the right questions, so I developed a `framing for the discussions <https://meta.wikimedia.org/wiki/Values/2016_discussion/Framing>`__, based on academic research, industry practices, and the history of the Wikimedia Foundation. This framing invited the different stakeholders (staff, Board, volunteers) to think deeply about what motivated them to be part of the movement, and helped identify the organization's values as *the  core intrinsic beliefs that drive us towards our vision*.
-
-All the discussions were documented in `anonymized transcripts <https://meta.wikimedia.org/wiki/Values/2016_discussion/Transcripts>`__ from which `several themes <https://meta.wikimedia.org/wiki/Values/2016_discussion/Themes>`__ emerged. They were further refined, crafted, and distilled into five statements that eventually became the `Wikimedia Foundation's values <https://wikimediafoundation.org/wiki/Values>`__.
-
-
-most company values are single words, but our experience showed that single words had very different meanings to people across the organization. Instead, we decided to state each of our values as a short sentence. Each statement was followed by a description / elaboration.
-
-
-Bringing the values to life: activity at the annual "all-hands" meeting of the Wikimedia Foundation staff
-
-poetry, mixed media, dance, clay
-or just plain discussion
-
-
-.. figure:: /images/2018-01-26_Values_All-hands_9676_v1.jpg
-   :figwidth: 30em
-
-.. figure:: /images/2018-01-26_Values_All-hands_9679_v1.jpg
-   :figwidth: 30em
-
-.. figure:: /images/2018-01-26_Values_All-hands_9687_v1.jpg
-   :figwidth: 30em
-
 .. figure:: /images/2018-01-26_Values_All-hands_9688_v1.jpg
-   :figwidth: 30em
 
-.. figure:: /images/2018-01-26_Values_All-hands_9730_v1.jpg
-   :figwidth: 30em
+   My colleagues in the Foundation's Talent & Culture team have been leading the efforts to bring those values to life and integrate them into the employee life cycle, from hiring to onboarding and performance evaluation. In 2018, we organized a workshop to invite employees to express how they approached the values in their work. They did so through a variety of media ranging from poetry to mixed media, dance, clay, or just plain discussion.
+
+I had another opportunity to understand what brings Wikipedians together in 2016, when I co-led an `extensive conversation <https://meta.wikimedia.org/wiki/Values/2016_discussion>`__ to discuss and identify the Wikimedia Foundation's values. I developed a `framing for the discussions <https://meta.wikimedia.org/wiki/Values/2016_discussion/Framing>`__, based on academic research, industry practices, and the history of the Wikimedia Foundation. This framing invited the different stakeholders (staff, Board, volunteers) to think deeply about what motivated them to be part of the movement, and helped identify the organization's values as "the core intrinsic beliefs that drive us towards our vision."
+
+In the end, this project was also an opportunity for me to better understand my own motivations and values. As we were writing the `final set of values <https://wikimediafoundation.org/about/values/>`__, I realized how closely my own beliefs resonated with them, and why I felt so much at home at Wikimedia.
 
 
-Integrating the values in organizational culture and the employee lifecycle (hiring, onboarding, evaluation, etc.)
+History and wikiarchaeology
+---------------------------
 
+.. figure:: /images/andrew-neel-1-29wyvvLJA-unsplash.jpg
+
+   `Andrew Neel <https://unsplash.com/@andrewtneel>`__ on `Unsplash <https://unsplash.com/photos/1-29wyvvLJA>`__
+
+Another pillar of the Wikipedia culture is its insistence on keeping a history of nearly everything. Some of this custom originates in the wiki platform itself: when anyone can edit the site and change its content immediately for all subsequent visitors of a page, it is necessary to keep a diligent history, if only to be able to undo malicious or misguided changes.
+
+The obsession of Wikipedians with documentation and record-keeping is both a blessing and a curse when it comes to studying the history of the Wikimedia movement. A blessing because hardly anything ever disappears completely from the archives of the site. A curse because the overabundance of historical artifacts and documents makes wikiarchaeology a relentless exercise in endurance, perseverance, and often luck.
+
+As someone who has been part of the Wikimedia movement for a long time, I consider it my responsibility to help preserve its collective history and institutional memory. Remembering history isn't just a crucial part of staying true to who we are; the study of history is also how we make sense of the past and understand how events and decisions, both good and bad, have shaped our present.
+
+My commitment to understanding and preserving Wikipedia's collective history has manifested in several ways over the years. For example, in 2013, I produced an :doc:`interactive timeline <wikipedia-2013-timeline>` to serve as a retrospective of what had happened across the Wikimedia movement that year. In 2018, I led a workshop for the Wikimedia Foundation's :doc:`Advancement team <wikimedia-advancement>` to spark the transmission of knowledge. Old-timers shared stories and memories that they thought newcomers would find of interest, and newcomers asked old-timers questions from a fresh perspective.
+
+In 2012, I gave a talk at Wikimania, the annual Wikipedia conference, entitled "Eleven years of Wikipedia, or the Wikimedia history crash course you can edit." The presentation consisted of a large chronological infographic through which I walked the audience. I also printed the graphic on a large poster and invited the participants to correct or expand its content throughout the conference, in true Wikipedia fashion.
+
+.. figure:: /images/2012-06-25_Wikipedia-infographic.png
+
+   Infographic developed for the talk "Eleven years of Wikipedia, or the Wikimedia history crash course you can edit."
+
+.. raw:: html
+
+   <figure id="2012-wikimedia-history-wikimania-video">
+     <div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/ZRA1sKIBB_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+     <figcaption>Video of my talk "Eleven years of Wikipedia, or the Wikimedia history crash course you can edit" at Wikimania 2012 in Washington, D.C. // Video loaded from YouTube <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>. A few months prior, I had delivered a similar talk at <a href="https://www.capitoledulibre.org" title="Capitole du Libre">Capitole du Libre</a> in Toulouse; the <a href="http://www.toulibre.org/pub/2011-11-26-capitole-du-libre/video/paumier-10-ans-wikip%C3%A9dia.webm" title="Video recording of the talk at Capitole du Libre">video recording</a> of that talk (in French) is also available (WebM format, 55 min, 169 MB).</figcaption>
+   </figure>
+
+
+
+"Who documents the documenters?"
+
+such a unique and fascinating endeavor
+defies
+works in practice but not in theory
 
 ----
 
-Product Strategy
-================
+Product & Technology
+====================
 
-Prior to leading the Wikimedia 2030 strategy effort, I managed special projects for the Deputy Director & VP of Product & Strategy, and served as a strategic advisor to the organization and its leadership team.
+.. figure:: /images/Presse_Marinoni_8863_banner.jpg
+   :alt: Close-up on the gears of Marinoni's printing machine
 
-In practice, this translated to leading initiatives like the File metadata cleanup drive, evaluating content corruption in Wikipedia's new visual editor, and making sense of findings from dozens of academic publications to guide product development.
+.. container:: product-tech-intro
 
-    What does it mean to be a Senior Analyst? As a long-time Wikimedian (since 2005), Guillaume understands many of Wikimedia's workflows deeply. ... he loves documenting, analyzing; breaking apart things and putting them back together in novel ways. He's awesome at information architecture, and at really thinking through all the options to solve a complex product problem.
+   I dedicated my first few years at the Wikimedia Foundation to improving the technical platform that makes Wikipedia possible.
 
-    In other words, when I see a product that benefits from deep community expertise, I can throw Guillaume at it and he'll help. :)
+   As a Product Manager, I sought to understand the needs of Wikipedia contributors and translate them into product requirements that could be implemented by developers.
 
-    --- `Erik Möller <https://lists.wikimedia.org/pipermail/wikimediaannounce-l/2014-October/000993.html>`__
+   As a technical writer, I translated techspeak into communications for multiple audiences on a wide spectrum of specialized technical expertise, ranging from technical reports to corporate communications to newsletters for casual Wikipedia contributors.
 
+   As a Senior Analyst, I stepped in to lead time-sensitive initiatives and strategic research critical to the Foundation's product development efforts.
 
-File metadata cleanup drive
+   These roles enabled me to bring together my skills as an engineer, writer, and researcher, to solve complex problems creatively, and to fulfill my need for interdisciplinary work that spans fields and social groups.
 
-The goal of the `File metadata cleanup drive <file-metadata-cleanup-drive>`__ was to increase the number of multimedia files that contained machine-readable metadata on Wikimedia wikis. I created an automated dashboard to measure and identify the files without machine-readable data, and organized community efforts to fix file description pages and tweak license templates.
+..
 
-In three months, the cleanup drive had contributed to eliminating a third of the files missing machine-readable metadata across all wikis, fixing over 800,000 files. Consistent machine-readable metadata will make the migration process to `Structured Data for Commons <https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Structured_data>`__ less tedious, by enabling programs to process most of the files automatically.
+    "Guillaume understands many of Wikimedia's workflows deeply. ... he loves documenting, analyzing, breaking apart things and putting them back together in novel ways. He's awesome at information architecture, and at really thinking through all the options to solve a complex product problem."
 
-Research & analysis
+    --- `Erik Möller <https://lists.wikimedia.org/pipermail/wikimediaannounce-l/2014-October/000993.html>`__, Deputy Director & VP of Product & Strategy (2014).
 
-In 2015, I supported the VisualEditor team with research and analyses, notably by performing a weekly qualitative review of edits made with VisualEditor, and by analyzing the most cited domains in Wikipedia references.
+Product strategy
+----------------
 
-.. photo Editors team offsite in Seattle?
+Prior to leading the Wikimedia 2030 strategy effort, I managed special projects for the Wikimedia Foundation's Deputy Director, and served as a strategic advisor to the organization and its leadership team.
 
-`sandbox <https://en.wikipedia.org/wiki/User:Guillaume_(WMF)/sandbox2>`__
-`vediffs.js <https://en.wikipedia.org/wiki/User:Guillaume_(WMF)/vediffs.js>`__
+In practice, this meant leading initiatives like the :doc:`File metadata cleanup drive <file-metadata-cleanup-drive>`. The high number of files missing machine-readable copyright information was blocking the wide release of MediaViewer, the plugin that opens images in full screen on Wikipedia pages. The plugin needed to be able to read the copyright information from the images to comply with license requirements. I created an automated dashboard to measure and identify the files with unreadable data, and organized community efforts to fix them. In three months, the cleanup drive had contributed to eliminating a third of the unreadable files across all wikis, fixing over 800,000 files.
 
-Research codex
+.. figure:: /images/2014-09-11_MrMetadata-screenshot.png
 
-In October 2015, I started working on a review of the scientific literature in order to build the Wikimedia Research Codex, a living reference guide to the state of scholarly knowledge about Wikipedia, Wikimedia projects and online collaborative communities.
+   I coded an online tool in Python to query tens of millions of multimedia files across all Wikimedia sites and check that their copyright information was easily accessible by automated programs.
 
-https://meta.wikimedia.org/wiki/Research:Codex
+In this role, I also produced a research report on the `roles performed by Wikipedia contributors <https://meta.wikimedia.org/wiki/Research:Codex/Roles_of_contributors>`__, based on a literature review of over a hundred scientific publications. The report helped product managers and designers understand scholarly knowledge about Wikipedia and online communities in a language that spoke to them. In addition, I supported the VisualEditor team with quality assurance research to identify critical software bugs, and analyzed the most cited websites in Wikipedia references to improve automated citation formatting. Those efforts enabled the team to move forward with a wider release of the visual editor to Wikipedia contributors.
 
-
-Product development and technical writing
-=========================================
 
 Multimedia usability project
 ----------------------------
 
-.. figure:: /images/2012-03-29_Wikimedia_Foundation_Office.jpg
-   :alt: A photo of a plaque of the Wikimedia Foundation logo at their offices
-   :figwidth: 10em
-   :figclass: hero
+.. container:: figures
 
-I joined the Wikimedia Foundation's staff in October 2009 as a `Product Manager for Multimedia Usability <https://wikimediafoundation.org/wiki/Job_openings/Product_Manager_-_Multimedia_Usability>`_ and I relocated to San Francisco.
-
-The Multimedia Usability Project was a special project of the Wikimedia Foundation funded by a $300,000 grant from the `Ford Foundation <https://www.fordfoundation.org/>`_. The project's goal was to increase multimedia participation on Wikimedia sites, to be accomplished primarily through an overhaul of the uploading process to Wikimedia Commons, the central media repository for Wikipedia and its sister sites.
-
-Two main products were delivered as part of the project, both based on extensive user research: a new multi-file upload system for Wikimedia Commons, featuring a wizard-style interface and a temporary holding area; and an illustrated licensing tutorial, explaining the basics of copyright and free licenses in plain language.
-
-We contracted an independent firm to conduct a usability study, which compared the existing and new upload systems. Their results showed an indisputable improvement of the users' experience.
-
-released as main upload tool shortly after the end of the grant period
-
-The Wikimedia Foundation continued the development of UploadWizard beyond this project,
-
-support for campaigns and contests; Wiki Loves Monuments
-
-and to support volunteers worldwide who share multimedia files on Wikimedia Commons.
-
-https://meta.wikimedia.org/wiki/Multimedia_usability_project_report
+   .. figure:: /images/upwiz.png
+      :figclass: framed-img
 
 
-:doc:`UploadWizard <uploadwizard>`
+      As a Product Manager, I led the development of UploadWizard, a multi-file upload system  designed to make it easier for contributors to upload pictures to Wikipedia. It has now been used to upload over 20 million files.
 
-During that time, I also contributed a chapter on User Experience to the *Open Advice* book, a collection of essays, stories and lessons learned by members of the Free Software community, edited by Lydia Pintscher.
+   .. figure:: /images/2010-11-05_Licensing_tutorial_en.png
+      :figclass: framed-img
 
-:doc:`publications <writing>`
+      I worked with a graphic artist to develop an illustrated tutorial explaining the basics of copyright law and free licensing to new contributors.
+
+.. TODO: :doc:`UploadWizard <uploadwizard>`
+
+I first joined the Wikimedia Foundation's staff in October 2009 as a Product Manager for Multimedia Usability. The `Multimedia Usability Project <https://meta.wikimedia.org/wiki/Multimedia_usability_project_report>`__ was a special project to increase multimedia participation on Wikimedia sites, through an overhaul of the uploading process to Wikimedia Commons, the central media repository for all language editions of Wikipedia. The two-person team was funded by a $300,000 grant from the `Ford Foundation <https://www.fordfoundation.org/>`__.
+
+Two main products were delivered as part of the project, both based on extensive user research: a new multi-file upload system for Wikimedia Commons, featuring a wizard-style interface; and an illustrated licensing tutorial, explaining the basics of copyright and free licenses in plain language. More features were added after the completion of the grant, notably to support campaigns and contests like Wiki Loves Monuments, a worldwide contest that was recognized by the  Guinness Book of Records as the largest photography competition.
+
+As of February 2020, UploadWizard has been used to upload over 20 million files to Wikimedia Commons.
+
 
 Technical writing
 -----------------
 
-and as Technical Communications Manager
-https://wikimediafoundation.org/wiki/Job_openings/Technical_Communications_Manager
+.. container:: figures
+
+   .. figure:: /images/2012-02-09_Open_advice_books_8098s.jpg
+
+      I contributed a chapter on User Experience to the *Open Advice* book, a collection of essays, stories and lessons learned by members of the Free Software community.
+
+   .. figure:: /images/2013-06-12_tech_news_en.png
+      :figclass: framed-img
+
+      Tech News, a weekly technical newsletter I created in 2013 for Wikipedia contributors, has now been running for seven years and has been instrumental in improving relationships between engineering staff and Wikipedia communities.
+
+.. /images/2014-01-02_Technews_screen.png
+
+Transparency is a guiding principle of the Wikimedia Foundation: it ensures that the organization is accountable about its activities to the general public and its donors, and that Wikipedia contributors have a say in changes that affect them on the site.
+
+As Technical Communications Manager, I was responsible for assembling, editing, and publishing the monthly engineering reports covering technical activities for the whole organization. I was also the editor of the Wikimedia Tech Blog, writing and editing technical blog posts on a variety of topics from software updates to data center migrations.
+
+.. JD: https://foundation.wikimedia.org/w/index.php?title=Job_openings/Technical_Communications_Manager&oldid=87984
 
 .. later: :doc:`Technical writing <technical-communications-wikimedia>`
 
-In 2011, I authored a chapter about the architecture of MediaWiki, the software that powers Wikipedia and its sister sites, for inclusion in the book *The Architecture of Open Source Applications, volume 2*. The chapter was based on the shared knowledge of MediaWiki developers, and written in collaboration with Sumana Harihareswara.
+During that period, I authored :doc:`a few book chapters <writing>`. One detailed the architecture of MediaWiki, the software that powers Wikipedia, for inclusion in *The Architecture of Open Source Applications, volume 2*. Another one, on the topic of user experience, was included in *Open Advice*, a collection of essays, stories and lessons learned by members of the Free Software community.
 
-:doc:`Tech News <wikimedia-tech-news>`
+In 2013, I started :doc:`Tech News <wikimedia-tech-news>`, a weekly technical newsletter for Wikipedia contributors. Written in intentionally simple language, its goal was to inform Wikipedians without specialized technical knowledge about software changes that might affect them. I worked with volunteers to translate the newsletter in about a dozen languages every week, and wrote a Lua script to distribute multilingual newsletters. The newsletter, now managed by the Community Liaisons team, has been running for seven years and has been instrumental in improving relationships between engineering staff and Wikipedia communities.
 
-visual editor rollout
-https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide
-
-tech news
-assemble multilingual newsletter (Lua module)
-
-Guillaume Paumier has been Technical Communications Manager in the Engineering Community Team since early 2011. In this role, he's been instrumental in developing the monthly engineering reports (including all the underlying infrastructure on mediawiki.org), vetting and writing technical blog posts and social media updates, and most recently, co-launching the weekly tech newsletter and keeping it running.
-
-.. figure:: /images/2014-08-09_Wikimania_2014.jpg
-   :figwidth: 10em
-
-   By Sebastiaan ter Burg on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Questions_to_WMF%27s_new_Communications_team_at_Wikimania_2014.jpg>`__ // `CC BY 2.0 <https://creativecommons.org/licenses/by/2.0/legalcode>`__.
-
+.. visual editor rollout: https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide
 
 ----
 
-Community organizing
+Community Organizing
 ====================
-
 
 .. figure:: /images/2007-08-05_Wikimania_2007_Commons_puzzle_piece.jpg
    :figclass: section-picture
@@ -293,40 +294,62 @@ Community organizing
 Wikimédia France
 ----------------
 
-community organizing at the local level
+In 2006, I gave my first presentation about Wikipedia, :doc:`the first of many <speaking>`. I started becoming more involved in public outreach, workshops, and training. I also started volunteering for `Wikimédia France <https://meta.wikimedia.org/wiki/Wikim%C3%A9dia_France/en>`_, the local Wikimedia chapter, and a few months later I was elected to its Board. The chapter was small and had no paid staff, so Board members took on the work and responsibilities that would traditionally be in the purview of staff.
 
-In 2006, I gave my first presentation about Wikipedia, :doc:`the first of many <speaking>`. I started becoming more involved in public outreach, workshops, and training. I also started volunteering for `Wikimédia France <https://meta.wikimedia.org/wiki/Wikim%C3%A9dia_France/en>`_, the local chapter, and a few months later I was elected to its Board. The chapter was small and had no paid staff, so this was a "working Board": one whose members take on the work and responsibilities that would traditionally be in the purview of staff.
-
-As a Board member, and later Secretary, I managed membership logistics, engaged donors, and streamlined the Board's decision making process. In addition to a Board member's usual responsibilities around governance, I created and ran an internal newsletter to keep members informed, and organized the chapter's activities into working groups to facilitate the involvement of volunteers.
+As a Board member, and later also Secretary, I focused on transparency, efficiency, and community organizing at the local level: I managed membership logistics, engaged donors, and streamlined the Board's decision making process. In addition to a Board member's usual responsibilities around governance, I also created an internal newsletter to keep members informed, and organized the chapter's activities into working groups to facilitate the involvement of volunteers.
 
 
 Wikimedia Chapters conference 2009
 ----------------------------------
 
-Community organizing at the global level
-
 .. figure:: /images/2009-04-03_Wikimedia_conference_chapters_meeting_2009_9456.jpg
-   :figwidth: 10em
 
    `Elke Wetzig <https://commons.wikimedia.org/wiki/User:Elya>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_conference_chapters_meeting_2009_9456.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
-In 2009, I was hired by Wikimedia Deutschland, the German chapter, to organize one of the first annual meetings of national Wikimedia chapters in Berlin. Representatives from 23 countries attended the conference, along with Wikimedia Foundation staff.
+In 2009, I moved on to Community organizing at the global level, and organized one of the first annual meetings of national Wikimedia chapters, on behalf of Wikimedia Deutschland. Representatives from 23 countries and the Wikimedia Foundation attended the conference in Berlin. I developed the conference's program in advance with the participants, balancing competing interests and navigating movement politics. I also coordinated travel arrangements and subsidies between chapters, to ensure that all the groups were represented at the meeting.
 
-At that time, I was deeply embedded in the global Wikimedia network, owing to my involvement in governance, committees, mailing lists, and events. Transitioning to a paid position after years of volunteering was exciting, as was the opportunity to work more closely with Wikimedians from all over the world.
+The conference was a success, and went on to be replicated every year since. Now called the Wikimedia Summit, it has become one of the main venues for the Wikimedia movement to discuss governance, determine strategy, and share experiences.
 
-I developed as schedule with the participants in advance of the conference, balancing many competing interests and preferences. I also coordinated travel arrangements and subsidies between chapters, to ensure all the groups were represented at the meeting. I coordinated all aspects of the conference, including its budget, documentation, and the hiring of staff.
+----
 
-The conference was a success,\ [#wmconsurvey]_ and went on to be replicated every year since, becoming one of the main venues for the Wikimedia movement to discuss governance, determine strategy, and share experiences.
-
-.. [#wmconsurvey] `April 2009 Wikimedia Conference: Satisfaction survey <https://meta.wikimedia.org/wiki/April_2009_Wikimedia_Conference/Satisfaction_survey>`_
-
-
-Community operations
+Community Operations
 ====================
 
-I co-managed the Foundation's customer relationship system, and community of 300+ trusted volunteers answering questions and requests about Wikipedia.
+.. container:: community-operations-intro
 
-After a few months answering emails from the public as a member of the Volunteer Response Team, I joined the ranks of the Volunteer response team leaders ("OTRS administrators"), which gave me access to advanced tools to manage the various queues, create new ones, manage the access of volunteers, and maintain canned responses. In that capacity, I vetted, recruited, and onboarded new volunteers to respond to email in many languages. I also improved processes so that agents could focus their time on responding to emails.
+   Among the many areas in which I volunteered for the Wikimedia movement over the years, I was particularly involved in Communications.
+
+   I created and designed corporate documents and graphics, such as press kits and fundraising prospectuses, and provided visual identity advice.
+
+   I also answered press requests from international news outlets about Wikipedia and its sister sites at a time when Wikipedia was not as well respected and understood as it is today.
+
+   I co-managed the Foundation's customer relationship system, and community of 300+ trusted volunteers answering questions and requests about Wikipedia.
+
+
+
+
+
+Volunteer response team (OTRS)
+------------------------------
+
+.. figure:: /images/sharon-mccutcheon-tn57JI3CewI-unsplash.jpg
+
+   `Sharon McCutcheon <https://unsplash.com/@sharonmccutcheon>`__ on `Unsplash <https://unsplash.com/photos/tn57JI3CewI>`__
+
+In early 2007, I joined the `Volunteer Response Team <https://en.wikipedia.org/wiki/Wikipedia:Volunteer_Response_Team>`_, the team of volunteer Wikimedians who answer the emails sent to Wikipedia and other Wikimedia sites by the general public through the "`Contact us <https://en.wikipedia.org/wiki/Wikipedia:Contact_us>`_" pages. This group is also referred to as "OTRS agents," after the name of the customer service software we use.
+
+OTRS volunteers respond to thousands of emails every year, while ensuring the confidentiality of the messages and protecting the privacy of the people who email us. Many emails are similar and can be answered using canned responses, but the rest are often related to complex questions or tricky conflicts, which involve research, lengthy back-and-forth, and sometimes mediation.
+
+Types of emails handled by the volunteer response team
+
+"Info" emails are inquiries from the general public, and often function like a service desk to explain how Wikipedia works.
+
+"Quality" emails focus on issues with the content of articles, and often involve `biographies of living persons <https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons>`_.
+
+"Permissions" emails are sent by copyright holders to keep a record of the license terms they are agreeing to when publishing their content (mostly pictures) on Wikimedia sites.
+
+
+After a few months answering emails from the public as a member of the Volunteer Response Team, I joined the ranks of the Volunteer response team leaders ("OTRS administrators"), which gave me access to advanced tools to manage the various queues, create new ones, manage the access of volunteers, and maintain canned responses. In that capacity, I vetted, recruited, and onboarded dozens of new volunteers to respond to email in many languages. I also improved processes so that agents could focus their time on responding to emails.
 
 .. figure:: /images/2011-10-21_Keep-calm-and-click-edit.svg
    :figwidth: 10em
@@ -335,14 +358,10 @@ After a few months answering emails from the public as a member of the Volunteer
 
 The OTRS software didn't record administrative actions, so I set up an admin log on the private OTRS wiki for better transparency. I also built a system of templates for canned responses that enabled all OTRS volunteers to edit them on the wiki and suggest changes. Opening the system spread the maintenance of canned responses to all volunteers, thus only requiring administrator access to update the responses in the OTRS software itself.
 
-By 2013, I had been volunteering on OTRS for six years, had responded to hundreds of emails, recruited dozens of new volunteers, and promoted some of them to administrators. Many were very active, and I had shifted my focus to other activities in the Wikimedia movement, so I relinquished my access, confident that the team was in good hands.
-
-
 Crosswiki service work
 ----------------------
 
 .. figure:: /images/erik-witsoe-mODxn7mOzms-unsplash.jpg
-   :figwidth: 20em
 
    `Erik Witsoe <https://unsplash.com/@ewitsoe>`__ from `Unsplash <https://unsplash.com/photos/mODxn7mOzms>`__
 
@@ -354,61 +373,7 @@ Although most of a steward's work is routine, they occasionally intervene in cas
 
 Serving as a steward and as part of the `Small Wiki Monitoring Team <https://meta.wikimedia.org/wiki/Small_Wiki_Monitoring_Team>`__ gave me an opportunity to work with contributors from a variety of languages and backgrounds over the years. I was left with a deep appreciation for their work, particularly in communities with few native speakers.
 
-
-----
-
-Communications
-==============
-
-While at Wikimédia France, I was also a press contact and co-authored a :doc:`book on Wikipedia <writing>` with Florence Devouard.
-
-
-Communications, marketing, and documents
-----------------------------------------
-
-creating documents
-Wikimedia documents initiative
-https://meta.wikimedia.org/wiki/Wikimedia_documents_initiative
-
-Among the many areas in which I volunteered for the Wikimedia movement over the years, I was particularly involved in Communications.
-
-• I created and designed corporate documents and graphics, such as press kits and fundraising documents, and provided visual identity advice.
-• I answered press requests from international news outlets about Wikipedia and its sister sites.
-
-https://wikimania2007.wikimedia.org/wiki/File:Wikimania_2007_Presskit.pdf
-
-The last kind of emails was press requests: emails from journalists and international news outlets.
-
-especially in the early years (~2007)
-
-wikipedia was not as well respected or understood
-
-Personalized fundraising kit
-November 2007
-
-
-Volunteer response team (OTRS)
-------------------------------
-
-.. figure:: /images/sharon-mccutcheon-tn57JI3CewI-unsplash.jpg
-   :figwidth: 20em
-
-   `Sharon McCutcheon <https://unsplash.com/@sharonmccutcheon>`__ on `Unsplash <https://unsplash.com/photos/tn57JI3CewI>`__
-
-.. figure:: /images/OTRS.svg
-   :figwidth: 10em
-
-In early 2007, I joined the `Volunteer Response Team <https://en.wikipedia.org/wiki/Wikipedia:Volunteer_Response_Team>`_, the team of volunteer Wikimedians who answer the emails sent to Wikipedia and other Wikimedia sites by the general public through the "`Contact us <https://en.wikipedia.org/wiki/Wikipedia:Contact_us>`_" pages. This group is also referred to as "OTRS agents," after the name of the customer service software we use.
-
-OTRS volunteers respond to thousands of emails every year, while ensuring the confidentiality of the messages and protecting the privacy of the people who email us. Many emails are similar and can be answered using canned responses, but the rest are often related to complex questions or tricky conflicts, which involve research, lengthy back-and-forth, and sometimes mediation.
-
-.. sidebar:: Types of emails handled by the volunteer response team
-
-   "Info" emails are inquiries from the general public, and often function like a service desk to explain how Wikipedia works.
-
-   "Quality" emails focus on issues with the content of articles, and often involve `biographies of living persons <https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons>`_.
-
-   "Permissions" emails are sent by copyright holders to keep a record of the license terms they are agreeing to when publishing their content (mostly pictures) on Wikimedia sites.
+.. https://wikimania2007.wikimedia.org/wiki/File:Wikimania_2007_Presskit.pdf
 
 ----
 
@@ -495,3 +460,19 @@ I like to take pictures during my travels, and I have also served as a photorepo
    .. image:: /images/PNIPAM_microsystems_at_LAAS_CNRS_022_June_2008.jpg
       :alt: alt
       :name: pnipam3
+
+Parking lot
+===========
+
+`sandbox <https://en.wikipedia.org/wiki/User:Guillaume_(WMF)/sandbox2>`__
+`vediffs.js <https://en.wikipedia.org/wiki/User:Guillaume_(WMF)/vediffs.js>`__
+
+`PM JD <https://foundation.wikimedia.org/w/index.php?title=Job_openings/Product_Manager_-_Multimedia_Usability&oldid=87954>`__
+
+.. figure:: /images/2014-08-09_Wikimania_2014.jpg
+
+   By Sebastiaan ter Burg on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Questions_to_WMF%27s_new_Communications_team_at_Wikimania_2014.jpg>`__ // `CC BY 2.0 <https://creativecommons.org/licenses/by/2.0/legalcode>`__.
+
+
+.. figure:: /images/2012-03-29_Wikimedia_Foundation_Office.jpg
+   :alt: A photo of a plaque of the Wikimedia Foundation logo at their offices
