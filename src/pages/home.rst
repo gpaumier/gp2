@@ -43,19 +43,45 @@ Looking back:
 * defining/scoping and solving problems
 * bringing clarity
 * research
+* Interdisciplinarity
+* I am an interface between people and fields and ideas
+* Complex problems
+* Moving parts
+* Systems and details
+* Time view: past, present, future
+* Deconstruct, arrange in new ways, sensemaking, build up and construct something new, novel
 
 My journey of self-discovery has led me to realize the importance of the human element in
 
-multiple perspectives to `get more hands onto that elephant <https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>`_.
+multiple perspectives to `get more hands onto that elephant <https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>`__.
 
 .. figure:: /images/Jalal_al-Din_Rumi,_Maulana_-_Townspeople_and_elephant.jpg
    :figwidth: 30em
 
-`Townspeople, Who have Never Seen an Elephant, Examine its Appearance in the Dark <https://commons.wikimedia.org/wiki/File:Jalal_al-Din_Rumi,_Maulana_-_Townspeople,_Who_have_Never_Seen_an_Elephant,_Examine_its_Appearance_in_the_Dark_-_Walters_W626117B_-_Full_Page.jpg>`_
+   `Townspeople, Who have Never Seen an Elephant, Examine its Appearance in the Dark <https://commons.wikimedia.org/wiki/File:Jalal_al-Din_Rumi,_Maulana_-_Townspeople,_Who_have_Never_Seen_an_Elephant,_Examine_its_Appearance_in_the_Dark_-_Walters_W626117B_-_Full_Page.jpg>`__
 
 variety of subjective human experiences
 
 I like to connect ideas across fields and bridge people across teams
+
+
+Individual decision-making can be impeded by `bounded rationality <https://en.wikipedia.org/wiki/Bounded_rationality>`__ and `selective exposure <https://en.wikipedia.org/wiki/Selective_exposure_theory>`__. An additional concern when discussing specialized topics as a large group is the `information deficit <https://en.wikipedia.org/wiki/Information_deficit_model>`__ of its members and the `communal reinforcement <https://en.wikipedia.org/wiki/Communal_reinforcement>`__ built in the group over time. In order to mitigate those limitations, I strive to `frame <https://en.wikipedia.org/wiki/Framing_(social_sciences)>`__ the issues I work on by situating the problem in its broader landscape, as a way to increase the information available for decision-making.
+
+
+
+
+
+https://wikimediafoundation.org/about/values/
+
+We welcome and cherish our differences.
+
+The sum of all knowledge for every single human being; we can’t do that by leaving people out. Our vision is about more than providing universal access to all forms of knowledge. It’s about creating an inclusive culture. It’s about inviting others to join in and thrive with us. It’s about embracing human diversity. It’s about saying, “We see you and you belong with us.”
+
+Our differences are precious; they make us smarter, stronger, more humble. They balance our biases and weaknesses. They open our minds. We do our best work when we understand a problem from all its perspectives.
+
+We encourage others to do what we can’t, and we help them succeed. When voices are absent, ignored, or silenced, we seek them out. We are welcoming hosts, caring neighbors, and equitable allies. We don’t fear difference. We welcome it with curiosity, delight, and hope.
+
+
 
 
 transformative social change.

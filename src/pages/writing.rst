@@ -54,7 +54,7 @@ In 2011, I authored a chapter about the architecture of `MediaWiki <https://www.
 
 * Guillaume Paumier and Sumana Harihareswara, "MediaWiki", in *The Architecture of Open Source Applications, Volume II*, ed. Amy Brown and‎ Greg Wilson (Lulu.com, 2012). ISBN 978-1105571817
 
-  * `Read online <http://aosabook.org/en/mediawiki.html>`__ \| `Buy on Amazon <https://www.amazon.com/dp/1105571815/>`__
+  * `Read online <https://aosabook.org/en/mediawiki.html>`__ \| `Buy on Amazon <https://www.amazon.com/dp/1105571815/>`__
 
 Research publications
 =====================

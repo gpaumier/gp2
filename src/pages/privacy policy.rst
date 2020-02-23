@@ -28,17 +28,13 @@ third-parties, unless required to do so by law.
 I avoid loading remote content from third-party sites in order not to
 leak your visits to them; there are rare cases where this is inevitable,
 for example when embedding a video. In those cases, I'll do my best to
-let you opt-in to load and display this external content.
+let you opt-in to load and display this external content. Videos embedded from YouTube use "`Privacy-enhanced mode <https://support.google.com/youtube/answer/171780?hl=en>`__," meaning that YouTube doesn't set cookies unless you play the video.
 
 
 Opting out completely
 =====================
 
-In case you deem these privacy protection settings insufficient, you may
-elect to opt out completely by setting up a non-tracking opt-out cookie
-(see below), or enabling the "Do Not Track" option in your web browser.
-Note that this cannot affect remote loading of resources hosted on other
-sites.
+In case you deem these privacy protection settings insufficient, you may elect to opt out of Piwik completely by setting up a non-tracking opt-out cookie (see below), or enabling the "Do Not Track" option in your web browser. Note that this cannot affect remote loading of resources hosted on other sites.
 
 .. raw:: html
 
@@ -53,4 +49,4 @@ law <http://fr.wikipedia.org/wiki/Loi_relative_%C3%A0_l%27informatique,_aux_fich
 of January 6, 1978 regarding information technology, files and
 liberties, you have the right to be granted access, correction and
 removal of your personal data recorded by the site. If you wish to
-exercise this right, please `contact me <https://guillaumepaumier.com/contact>`__.
+exercise this right, please :doc:`contact me <contact>`.

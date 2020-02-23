@@ -2,7 +2,7 @@
 .. category: articles-en-featured
 .. slug: stakes-of-knowledge
 .. date: 2019-05-17 18:57:00
-.. template: custom/post_stakes-of-knowledge.tmpl
+.. template: custom/post_hero.tmpl
 .. tags: Wikimedia
 .. image: /images/fred-kearney-enkfvvZkKv0-unsplash.jpg
 .. image-alt: Photograph of a book burning
