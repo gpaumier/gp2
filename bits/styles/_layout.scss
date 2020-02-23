@@ -1,3 +1,118 @@
+// Mixins
+
+@mixin default-layout($width) {
+
+  display: grid;
+  grid-template-columns: minmax(.5rem, 1fr) minmax(min-content, $width) minmax(.5rem, 1fr);
+  margin-bottom: 3rem;
+
+  .figure {
+    grid-column: 1 / 4;
+    margin-bottom: 2rem;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  h3, p {
+    grid-column: 2 / 3;
+  }
+
+  h3 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+
+  .caption {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@mixin split-layout($image-side, $image-row-span, $image-width: 65ch, $text-width: 65ch) {
+
+  display: grid;
+  grid-template-columns:
+    minmax(.5rem, 1fr)
+    minmax(min-content, if($image-side == "left", $image-width, $text-width))
+    minmax(min-content, if($image-side == "left", $text-width, $image-width))
+    minmax(.5rem, 1fr);
+  margin-bottom: 3rem;
+
+  > .figure,
+  .figures {
+    grid-column: 1 / 5;
+    margin-bottom: 2rem;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  h3, p {
+    grid-column: 2 / 4;
+  }
+
+  h3 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+
+  .caption {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  @media screen and (min-width: 80ch) {
+    > .figure,
+    .figures {
+      grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
+      grid-row: 1 / #{$image-row-span + 1};
+    }
+
+    h3, p {
+      grid-column: if($image-side == "left", #{3/4}, #{-3/-4});
+      padding-#{$image-side}: 2rem;
+    }
+
+    .caption {
+      text-align: $image-side;
+    }
+  }
+
+}
+
+@mixin split-layout-cover($image-side, $image-row-span, $image-position) {
+
+  @include split-layout($image-side, $image-row-span);
+
+  .figure {
+
+    height: 50vh;
+
+    img {
+      height: 100%;
+      object-fit: cover;
+      object-position: $image-position;
+    }
+  }
+
+  @media screen and (min-width: 80ch) {
+    .figure {
+      height: 100%;
+    }
+
+    p:last-child { // for proper alignment with bottom of image
+      margin-bottom: 0;
+    }
+  }
+
+}
+
+
+//////////////////////////////////////////////////
+
 .post-default-text, .post-default-project {
     padding: .5em;
 

@@ -132,7 +132,7 @@ blockquote {
     @extend %fumseck-serif-italic;
 }
 
-.caption, .legend, .sidebar {
+figcaption, .caption, .legend, .sidebar {
     @extend %fumseck-sans;
     font-size: $small-font-size;
 
@@ -149,7 +149,7 @@ blockquote {
     font-size: $small-font-size;
 }
 
-.caption {
+figcaption, .caption {
     font-size: .7rem;
     color: #777;
 
@@ -169,7 +169,11 @@ a {
     //text-decoration-color: map-get($foundation-palette, "primary");
     //text-decoration-color: transparentize(map-get($foundation-palette, "primary"), 0.7);
     color: $body-font-color;
-    text-decoration-skip: ink;
+
+    &.privacy-policy {
+      text-decoration-line: none;
+    }
+
 }
 
 .footnote-reference {
