@@ -14,7 +14,7 @@
 
 In my work, I guide executives and mission-driven organizations through intricate, interdisciplinary challenges using integrative thinking, ingenuity, and empathy.
 
-I like to tackle complex problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process, culminating with nearly a hundred independent organizations worldwide agreeing on a common strategic direction.\ [1]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [2]_ Or designing software that powers the World's largest photography competition.\ [3]_
+I like to tackle complex problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process, culminating with a hundred independent organizations worldwide agreeing on a common strategic direction.\ [1]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [2]_ Or designing software that powers the World's largest photography competition.\ [3]_
 
 I currently work at the Wikimedia Foundation, the nonprofit organization that brings free knowledge to hundreds of millions of people every month and supports them as they collectively make sense of our world.
 
@@ -31,27 +31,75 @@ Read on to learn more about my story, or :doc:`drop me a line <contact>`.
 
 .. class:: present
 
-How I think
-===========
+How I think/work
+================
 
-Looking back:
+Integrating information
 
-* adaptation
+I have the ability to absorb massive amounts of information on almost any topic, and extract their essence to produce a.
+I take streams of information and reweave them in ways that integrate
+
 * ability to learn quickly
-* interdisciplinarity, working across fields with people from different backgrounds
-* building stuff
-* defining/scoping and solving problems
-* bringing clarity
 * research
-* Interdisciplinarity
-* I am an interface between people and fields and ideas
-* Complex problems
-* Moving parts
-* Systems and details
-* Time view: past, present, future
 * Deconstruct, arrange in new ways, sensemaking, build up and construct something new, novel
+* weaving in new ways
+* ability to
+* Integrative thinking and pattern recognition are my talents.
+* That is how I connect the dots and find the signals emerging from the noise.
+* document
+* sometimes contradictory
+* find commonalities
 
-My journey of self-discovery has led me to realize the importance of the human element in
+Understanding the human element
+
+* emotions, cognitive biases, power dynamics, structural inequality
+* variety of subjective human experiences
+* My journey of self-discovery has led me to realize the importance of the human element in
+* We are faillible. importance of acknowledging failures and learning from them
+
+
+
+clarity and complexity
+
+I have a talent for bringing clarity to complex problems.
+
+
+
+* discernment
+* bringing clarity
+* Complex problems
+* Systems and details
+A time view that spans past, present, and future.
+* systems thinking, expertise, rigor, intellectual integrity,
+* looking for the Black Swan
+* cracking complexity
+* system levers
+* the moment of insight
+* strategy, foresight
+* use my ability to recognize patterns and connect the dots to find the signals that emerge from the noise.
+* As a scientist, my process is to start from diligent discovery, seek out multiple perspectives, and convert research into insights. I love to understand how systems work, experiment, document, and distill knowledge from observational evidence.
+
+
+Bridging people and disciplines
+
+I am able to quickly learn new concepts and become fluent in new disciplines, which makes me a great interface between people working on interdisciplinary projects.
+
+* interdisciplinarity, working across fields with people from different backgrounds
+* I am an interface between people and fields and ideas
+* I like to connect ideas across fields and bridge people across teams
+* integrate perspectives and knowledge across disciplines
+* bridging ideas and connecting people
+* is what motivates me the most, as it gives me the opportunity to constantly learn, challenge my world view, and build relationships with people from different backgrounds,
+* building community by bringing differences together and finding common ground. It takes more work, but it's more sustainable and rewarding in the long term than excluding others based on arbitrary characteristics to reinforce the sense of in-group.
+
+
+Use those skills towards:
+
+* transformative social change
+* fairness, justice, pluralism, pluralistic society
+* positive impact
+* mission-driven organizations
+* particularly in the context of the climate crisis
 
 multiple perspectives to `get more hands onto that elephant <https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>`__.
 
@@ -60,69 +108,10 @@ multiple perspectives to `get more hands onto that elephant <https://en.wikipedi
 
    `Townspeople, Who have Never Seen an Elephant, Examine its Appearance in the Dark <https://commons.wikimedia.org/wiki/File:Jalal_al-Din_Rumi,_Maulana_-_Townspeople,_Who_have_Never_Seen_an_Elephant,_Examine_its_Appearance_in_the_Dark_-_Walters_W626117B_-_Full_Page.jpg>`__
 
-variety of subjective human experiences
-
-I like to connect ideas across fields and bridge people across teams
 
 
-Individual decision-making can be impeded by `bounded rationality <https://en.wikipedia.org/wiki/Bounded_rationality>`__ and `selective exposure <https://en.wikipedia.org/wiki/Selective_exposure_theory>`__. An additional concern when discussing specialized topics as a large group is the `information deficit <https://en.wikipedia.org/wiki/Information_deficit_model>`__ of its members and the `communal reinforcement <https://en.wikipedia.org/wiki/Communal_reinforcement>`__ built in the group over time. In order to mitigate those limitations, I strive to `frame <https://en.wikipedia.org/wiki/Framing_(social_sciences)>`__ the issues I work on by situating the problem in its broader landscape, as a way to increase the information available for decision-making.
+Individual decision-making can be impeded by bounded rationality and selective exposure. An additional concern when discussing specialized topics as a large group is the information deficit of its members and the communal reinforcement built in the group over time. In order to mitigate those limitations, I strive to frame the issues I work on by situating the problem in its broader landscape, as a way to increase the quality of information available for decision-making.
 
-
-
-
-
-https://wikimediafoundation.org/about/values/
-
-We welcome and cherish our differences.
-
-The sum of all knowledge for every single human being; we can’t do that by leaving people out. Our vision is about more than providing universal access to all forms of knowledge. It’s about creating an inclusive culture. It’s about inviting others to join in and thrive with us. It’s about embracing human diversity. It’s about saying, “We see you and you belong with us.”
-
-Our differences are precious; they make us smarter, stronger, more humble. They balance our biases and weaknesses. They open our minds. We do our best work when we understand a problem from all its perspectives.
-
-We encourage others to do what we can’t, and we help them succeed. When voices are absent, ignored, or silenced, we seek them out. We are welcoming hosts, caring neighbors, and equitable allies. We don’t fear difference. We welcome it with curiosity, delight, and hope.
-
-
-
-
-transformative social change.
-
-systems thinking, expertise, rigor, intellectual integrity,
-
-
-Integrative thinking and pattern recognition are my talents. That is how I connect the dots and find the signals emerging from the noise.
-
-
-
-, bridging ideas and connecting people
-
-positive impact
-
-As a scientist, my process is to start from diligent discovery, seek out multiple perspectives, and convert research into  insights. I love to understand how systems work, experiment, document, and distill knowledge from observational evidence.
-
-, and use my ability to recognize patterns and connect the dots to find the signals that emerge from the noise.
-interdisciplinary work
-
-
-is what motivates me the most, as it gives me the opportunity to constantly learn, challenge my world view, and build relationships with people from different backgrounds,
-
-Welcome to my humble corner of the Internet. Here I document
-cracking complexity
-system levers
-seek insights from observational evidence
-learning from failure
-the moment of insight
-looking for the Black Swan
-strategy
-obsessive documenter
-disciplined problem solving
-emergent strategy
-
-
-I'm an interdisciplinary scientist.
-I'm an engineer.
-I'm a writer.
-I'm a photographer.
-I'm a Wikipedian.
 
 ----
 
@@ -149,6 +138,17 @@ I am passionate about free knowledge and I started contributing to Wikipedia in 
 .. class:: continue-reading
 
    :doc:`continue reading <wikimedia>`
+
+.
+https://wikimediafoundation.org/about/values/
+
+We welcome and cherish our differences.
+
+The sum of all knowledge for every single human being; we can’t do that by leaving people out. Our vision is about more than providing universal access to all forms of knowledge. It’s about creating an inclusive culture. It’s about inviting others to join in and thrive with us. It’s about embracing human diversity. It’s about saying, “We see you and you belong with us.”
+
+Our differences are precious; they make us smarter, stronger, more humble. They balance our biases and weaknesses. They open our minds. We do our best work when we understand a problem from all its perspectives.
+
+We encourage others to do what we can’t, and we help them succeed. When voices are absent, ignored, or silenced, we seek them out. We are welcoming hosts, caring neighbors, and equitable allies. We don’t fear difference. We welcome it with curiosity, delight, and hope.
 
 
 .. figure:: /images/2012-03-22_Selfie_on_the_Queen_Mary_2173.jpg
