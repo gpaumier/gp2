@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Wed Apr 23 15:19:46 2008 -->
+<!-- Magnification: 1.000 -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="476.57959"
+   height="616.76587"
+   viewBox="7188 -237 1599 2101"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="nipam.svg"
+   sodipodi:docbase="/home/guillom"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <metadata
+     id="metadata63">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs61" />
+  <sodipodi:namedview
+     inkscape:window-height="592"
+     inkscape:window-width="822"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.56481357"
+     inkscape:cx="247.11706"
+     inkscape:cy="289.88732"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:current-layer="svg2" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:0.025in"
+     id="g4"
+     transform="matrix(0.9845314,0,0,0.9845314,114.71506,30.183523)">
+<!-- Line -->    <polyline
+       points="7650,-225 7575,-225 7575,300 7650,300 "
+       style="stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline6" />
+<!-- Line -->    <polyline
+       points="8475,-225 8550,-225 8550,300 8475,300 "
+       style="stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline8" />
+<!-- Line -->    <polyline
+       points="8030,813 8220,681 "
+       style="stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline10" />
+<!-- Line -->    <polyline
+       points="8058,847 8247,715 "
+       style="stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline12" />
+<!-- Line -->    <polyline
+       points="7875,0 8100,150 "
+       style="stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline14" />
+<!-- Line -->    <polyline
+       points="7200,75 7650,-150 "
+       style="stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline16" />
+<!-- Line -->    <polyline
+       points="8325,75 8775,-150 "
+       style="stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline18" />
+<!-- Line -->    <polyline
+       points="8250,300 8250,525 "
+       style="stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline20" />
+<!-- Line -->    <polyline
+       points="8475,1050 8475,1275 "
+       style="stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline22" />
+<!-- Line -->    <polyline
+       points="8238,692 8463,842 "
+       style="stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline24" />
+<!-- Line -->    <polyline
+       points="8463,1442 8688,1592 "
+       style="stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline26" />
+<!-- Line -->    <polyline
+       points="8463,1442 8238,1592 "
+       style="stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline28" />
+<!-- Text -->    <text
+       xml:space="preserve"
+       x="7725"
+       y="-75"
+       font-style="normal"
+       font-weight="normal"
+       font-size="120"
+       id="text30"
+       style="font-size:120px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;font-family:Times">CH<tspan
+   font-size="80"
+   dy="35"
+   id="tspan32"
+   style="font-size:80px">2</tspan><tspan
+   dy="-35"
+   id="tspan34" /></text>
+<!-- Text -->    <text
+       xml:space="preserve"
+       x="8175"
+       y="225"
+       font-style="normal"
+       font-weight="normal"
+       font-size="120"
+       id="text36"
+       style="font-size:120px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;font-family:Times">CH</text>
+<!-- Text -->    <text
+       xml:space="preserve"
+       x="8625"
+       y="300"
+       font-style="normal"
+       font-weight="normal"
+       font-size="120"
+       id="text38"
+       style="font-size:120px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;font-family:Times">n</text>
+<!-- Text -->    <text
+       xml:space="preserve"
+       x="8196"
+       y="675"
+       font-style="normal"
+       font-weight="normal"
+       font-size="120"
+       id="text40"
+       style="font-size:120px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;font-family:Times">C</text>
+<!-- Text -->    <text
+       xml:space="preserve"
+       x="7950"
+       y="975"
+       font-style="normal"
+       font-weight="normal"
+       font-size="120"
+       id="text42"
+       style="font-size:120px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;font-family:Times">O</text>
+<!-- Text -->    <text
+       xml:space="preserve"
+       x="8400"
+       y="975"
+       font-style="normal"
+       font-weight="normal"
+       font-size="120"
+       id="text44"
+       style="font-size:120px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;font-family:Times">NH</text>
+<!-- Text -->    <text
+       xml:space="preserve"
+       x="8400"
+       y="1425"
+       font-style="normal"
+       font-weight="normal"
+       font-size="120"
+       id="text46"
+       style="font-size:120px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;font-family:Times">CH</text>
+<!-- Text -->    <text
+       xml:space="preserve"
+       x="8100"
+       y="1800"
+       font-style="normal"
+       font-weight="normal"
+       font-size="120"
+       id="text48"
+       style="font-size:120px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;font-family:Times">CH<tspan
+   font-size="80"
+   dy="35"
+   id="tspan50"
+   style="font-size:80px">3</tspan><tspan
+   dy="-35"
+   id="tspan52" /></text>
+<!-- Text -->    <text
+       xml:space="preserve"
+       x="8550"
+       y="1800"
+       font-style="normal"
+       font-weight="normal"
+       font-size="120"
+       id="text54"
+       style="font-size:120px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;font-family:Times">CH<tspan
+   font-size="80"
+   dy="35"
+   id="tspan56"
+   style="font-size:80px">3</tspan><tspan
+   dy="-35"
+   id="tspan58" /></text>
+  </g>
+</svg>

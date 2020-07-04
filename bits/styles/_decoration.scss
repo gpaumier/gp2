@@ -1,6 +1,26 @@
 .framed,
-.framed-img > img {
-    border: 1px solid $dark-gray;
+.framed-img {
+
+  margin-bottom: .5rem;
+
+  &> img {
+      border: 1px solid $dark-gray;
+      margin-bottom: 0;
+  }
+}
+
+@mixin graph-paper () {
+
+  // most for use in .expert below, but also in a few other places (like the technical abstract and the citations on the Ph.D page) so let's make it reusable.
+
+  background: url(Graph_paper_inch_green_pattern.svg);
+  border: 1px dashed #0B0;
+  padding: .4rem;
+  color: #050;
+  margin-bottom: 1.5rem;
+}
+.expert {
+  @include graph-paper;
 }
 
 @include breakpoint(medium) {
