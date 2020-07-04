@@ -18,7 +18,7 @@
 
 
 "Is this a position you'd be interested in?""
-https://wikimediafoundation.org/wiki/Job_openings/Product_Manager_-_Multimedia_Usability
+`Product manager <https://wikimediafoundation.org/wiki/Job_openings/Product_Manager_-_Multimedia_Usability>`__
 August 2009
 
 

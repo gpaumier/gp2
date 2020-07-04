@@ -4,7 +4,7 @@
 .. icon: fa-puzzle-piece
 .. icon-alternative: fa-wikipedia-w
 .. tag: needs-date-update
-.. template: custom/page_wikimedia.tmpl
+.. template: page_custom.tmpl
 .. image: /images/Wikimedia_Summit_2019_-_Group_photo_4.jpg
 .. image-alt: Group photo of Wikimedians at the 2019 Wikimedia Summit in Berlin
 
@@ -174,7 +174,7 @@ In 2012, I gave a talk at Wikimania, the annual Wikipedia conference, entitled "
    <figure id="2012-wikimedia-history-wikimania-video">
      <div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/ZRA1sKIBB_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-     <figcaption>Video of my talk "Eleven years of Wikipedia, or the Wikimedia history crash course you can edit" at Wikimania 2012 in Washington, D.C. // Video loaded from YouTube <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>. A few months prior, I had delivered a similar talk at <a href="https://www.capitoledulibre.org" title="Capitole du Libre">Capitole du Libre</a> in Toulouse; the <a href="http://www.toulibre.org/pub/2011-11-26-capitole-du-libre/video/paumier-10-ans-wikip%C3%A9dia.webm" title="Video recording of the talk at Capitole du Libre">video recording</a> of that talk (in French) is also available (WebM format, 55 min, 169 MB).</figcaption>
+     <figcaption>Video of my talk "Eleven years of Wikipedia, or the Wikimedia history crash course you can edit" at Wikimania 2012 in Washington, D.C. // Video loaded from YouTube <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>.</figcaption>
    </figure>
 
 
@@ -223,6 +223,8 @@ In practice, this meant leading initiatives like the :doc:`File metadata cleanup
    I coded an online tool in Python to query tens of millions of multimedia files across all Wikimedia sites and check that their copyright information was easily accessible by automated programs.
 
 In this role, I also produced a research report on the `roles performed by Wikipedia contributors <https://meta.wikimedia.org/wiki/Research:Codex/Roles_of_contributors>`__, based on a literature review of over a hundred scientific publications. The report helped product managers and designers understand scholarly knowledge about Wikipedia and online communities in a language that spoke to them. In addition, I supported the VisualEditor team with quality assurance research to identify critical software bugs, and analyzed the most cited websites in Wikipedia references to improve automated citation formatting. Those efforts enabled the team to move forward with a wider release of the visual editor to Wikipedia contributors.
+
+.. TODO: Ajouter image et note à propos de Systems Dynamics https://meta.wikimedia.org/wiki/User:Guillaume_(WMF)/Dynamics_of_Wikimedia_systems
 
 
 Multimedia usability project
@@ -286,8 +288,8 @@ Community Organizing
 ====================
 
 .. figure:: /images/2007-08-05_Wikimania_2007_Commons_puzzle_piece.jpg
-   :figclass: section-picture
-   :name: wikimania-2007-commons-puzzle-piece
+   :figclass: community-organizing-lead-image
+
 
    Holding the Commons with `Brianna <https://commons.wikimedia.org/wiki/User:Pfctdayelise>`__ and `Cary <https://commons.wikimedia.org/wiki/User:Bastique>`__ at Wikimania 2007 in Taipei, Taiwai. From `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimania_2007_Commons_puzzle_piece.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
@@ -315,18 +317,20 @@ The conference was a success, and went on to be replicated every year since. Now
 Community Operations
 ====================
 
+.. figure:: /images/hans-peter-gauster-3y1zF4hIPCg-unsplash.jpg
+   :figclass: community-operations-lead-image
+
+   `Hans-Peter Gauster <https://unsplash.com/@sloppyperfectionist>`__ on `Unsplash <https://unsplash.com/photos/3y1zF4hIPCg>`__
+
 .. container:: community-operations-intro
 
    Among the many areas in which I volunteered for the Wikimedia movement over the years, I was particularly involved in Communications.
 
    I created and designed corporate documents and graphics, such as press kits and fundraising prospectuses, and provided visual identity advice.
 
-   I also answered press requests from international news outlets about Wikipedia and its sister sites at a time when Wikipedia was not as well respected and understood as it is today.
+   I also answered press requests from international news outlets about Wikipedia and its sister sites at a time when Wikipedia was not as well-respected and understood as it is today.
 
    I co-managed the Foundation's customer relationship system, and community of 300+ trusted volunteers answering questions and requests about Wikipedia.
-
-
-
 
 
 Volunteer response team (OTRS)
@@ -336,27 +340,10 @@ Volunteer response team (OTRS)
 
    `Sharon McCutcheon <https://unsplash.com/@sharonmccutcheon>`__ on `Unsplash <https://unsplash.com/photos/tn57JI3CewI>`__
 
-In early 2007, I joined the `Volunteer Response Team <https://en.wikipedia.org/wiki/Wikipedia:Volunteer_Response_Team>`_, the team of volunteer Wikimedians who answer the emails sent to Wikipedia and other Wikimedia sites by the general public through the "`Contact us <https://en.wikipedia.org/wiki/Wikipedia:Contact_us>`_" pages. This group is also referred to as "OTRS agents," after the name of the customer service software we use.
+In 2007, I joined the `Volunteer Response Team <https://en.wikipedia.org/wiki/Wikipedia:Volunteer_Response_Team>`_ who answers the emails sent to Wikipedia by the general public. This group is also referred to as "OTRS agents," after the name of the customer service software we use. OTRS volunteers respond to thousands of emails every year, while ensuring the confidentiality of the messages and protecting the privacy of the people who email us. Many emails are similar and can be answered using canned responses, but the rest are often related to complex questions or tricky conflicts, which involve research, lengthy back-and-forth, and sometimes mediation.
 
-OTRS volunteers respond to thousands of emails every year, while ensuring the confidentiality of the messages and protecting the privacy of the people who email us. Many emails are similar and can be answered using canned responses, but the rest are often related to complex questions or tricky conflicts, which involve research, lengthy back-and-forth, and sometimes mediation.
+After a few months, I became a team leader ("OTRS administrator"), which gave me access to advanced tools to manage queues, volunteers, and canned responses. In that capacity, I vetted, recruited, and onboarded dozens of new volunteers to respond to email in many languages. I also improved processes so that agents could focus their time on responding to emails.
 
-Types of emails handled by the volunteer response team
-
-"Info" emails are inquiries from the general public, and often function like a service desk to explain how Wikipedia works.
-
-"Quality" emails focus on issues with the content of articles, and often involve `biographies of living persons <https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons>`_.
-
-"Permissions" emails are sent by copyright holders to keep a record of the license terms they are agreeing to when publishing their content (mostly pictures) on Wikimedia sites.
-
-
-After a few months answering emails from the public as a member of the Volunteer Response Team, I joined the ranks of the Volunteer response team leaders ("OTRS administrators"), which gave me access to advanced tools to manage the various queues, create new ones, manage the access of volunteers, and maintain canned responses. In that capacity, I vetted, recruited, and onboarded dozens of new volunteers to respond to email in many languages. I also improved processes so that agents could focus their time on responding to emails.
-
-.. figure:: /images/2011-10-21_Keep-calm-and-click-edit.svg
-   :figwidth: 10em
-
-   `Keep calm and click [edit] <https://commons.wikimedia.org/wiki/File:Keep-calm-and-click-edit.svg>`__ based on the `"Keep calm and carry on" meme <http://knowyourmeme.com/memes/keep-calm-and-carry-on>`__.
-
-The OTRS software didn't record administrative actions, so I set up an admin log on the private OTRS wiki for better transparency. I also built a system of templates for canned responses that enabled all OTRS volunteers to edit them on the wiki and suggest changes. Opening the system spread the maintenance of canned responses to all volunteers, thus only requiring administrator access to update the responses in the OTRS software itself.
 
 Crosswiki service work
 ----------------------
@@ -367,9 +354,7 @@ Crosswiki service work
 
 For a few years, I served as a member of the Wikimedia “`Stewards <https://meta.wikimedia.org/wiki/stewards>`__,” a handful of individuals entrusted with wide-ranging powers across the different language versions of Wikipedia and its sister sites.
 
-Stewards have the sensitive ability to grant and remove rights on any of the hundreds of thousands of user accounts across wikis, as well complete access to the software interface on all wikis. Use of those powers is regulated through policy.
-
-Although most of a steward's work is routine, they occasionally intervene in case of emergencies, like rampant vandalism or a rogue administrator abusing their tools.
+Stewards have the sensitive ability to grant and remove rights on any of the hundreds of thousands of user accounts across wikis, as well complete access to the software interface on all wikis. Use of those powers is regulated through policy. Although most of a steward's work is routine, they occasionally intervene in case of emergencies, like rampant vandalism or a rogue administrator abusing their tools.
 
 Serving as a steward and as part of the `Small Wiki Monitoring Team <https://meta.wikimedia.org/wiki/Small_Wiki_Monitoring_Team>`__ gave me an opportunity to work with contributors from a variety of languages and backgrounds over the years. I was left with a deep appreciation for their work, particularly in communities with few native speakers.
 
@@ -377,8 +362,16 @@ Serving as a steward and as part of the `Small Wiki Monitoring Team <https://met
 
 ----
 
-[volunteer contributions: articles, photos, etc.]
-=================================================
+Editing Wikipedia
+=================
+
+.. figure:: /images/2010-10-28_Guillaume_by_Steven_Walling.jpg
+   :figclass: editing-wikipedia-lead-image
+
+   `Steven Walling <https://en.wikipedia.org/wiki/User:Steven_Walling>`__ on `flickr <https://secure.flickr.com/photos/ragesoss/5140417338/>`__ //  `CC-BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__.
+
+
+volunteer contributions: articles, photos, etc.
 
 I made my first edit to the French-language Wikipedia in August 2005 to fix a spelling mistake.\ [#firstedit]_ My second edit was to fix a conjugation mistake.\ [#secondedit]_ My third edit was to fix spelling and punctuation mistakes.\ [#thirdedit]_ I guess you could say there was a pattern.
 
@@ -468,10 +461,6 @@ Parking lot
 `vediffs.js <https://en.wikipedia.org/wiki/User:Guillaume_(WMF)/vediffs.js>`__
 
 `PM JD <https://foundation.wikimedia.org/w/index.php?title=Job_openings/Product_Manager_-_Multimedia_Usability&oldid=87954>`__
-
-.. figure:: /images/2014-08-09_Wikimania_2014.jpg
-
-   By Sebastiaan ter Burg on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Questions_to_WMF%27s_new_Communications_team_at_Wikimania_2014.jpg>`__ // `CC BY 2.0 <https://creativecommons.org/licenses/by/2.0/legalcode>`__.
 
 
 .. figure:: /images/2012-03-29_Wikimedia_Foundation_Office.jpg
