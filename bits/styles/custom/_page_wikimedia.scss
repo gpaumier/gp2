@@ -232,7 +232,7 @@ article.custom-wikimedia {
       margin-bottom: 1rem;
     }
 
-    @media screen and (min-width: 80ch) {
+    @media screen and (min-width: 100ch) {
       .figure:nth-of-type(2) { // 11 years infographic
         grid-column: -2/-3;
         grid-row: 6/8;

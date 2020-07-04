@@ -25,6 +25,8 @@
 
     The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now serves as the compass for multi-year strategic planning by Wikimedia organizations, and guides decision-making around roles, responsibilities, and resources in the Wikimedia movement.
 
+.. contents::
+
 
 "Your mission, should you choose to accept it ..."
 ==================================================
@@ -58,13 +60,13 @@ We put together a team. We designed a process, and adjusted it many times. Our a
    .. figure:: /images/MYHO8747-edit.jpg
       :figwidth: 30em
 
-      `Myleen Hollero <http://myleenhollero.com/>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+      `Myleen Hollero <http://myleenhollero.com/>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
 
    .. figure:: /images/MYHO9171-edit.jpg
       :figwidth: 30em
 
-      `Myleen Hollero <http://myleenhollero.com/>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+      `Myleen Hollero <http://myleenhollero.com/>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
 
    .. figure:: /images/Wikimedia_Conference_2017_–_117.jpg
