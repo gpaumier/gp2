@@ -128,11 +128,34 @@ pre {
     }
 }
 
+.expert {
+
+  @extend %fumseck-sans;
+
+  strong {
+      @extend %fumseck-sans-bold;
+  }
+
+  em {
+      @extend %fumseck-sans-italic;
+  }
+
+  font-size: .9rem;
+
+  p {
+    margin-bottom: 1rem;
+  }
+
+}
+
 blockquote {
     @extend %fumseck-serif-italic;
 }
 
-figcaption, .caption, .legend, .sidebar {
+figcaption,
+.caption,
+.legend,
+.sidebar {
     @extend %fumseck-sans;
     font-size: $small-font-size;
 
@@ -151,10 +174,10 @@ figcaption, .caption, .legend, .sidebar {
 
 figcaption, .caption {
     font-size: .7rem;
-    color: #777;
+    color: #6a6a6a;
 
     a {
-        color: #777;
+        color: #6a6a6a;
 
       &:hover {
         color: map-get($foundation-palette, "primary");

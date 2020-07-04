@@ -30,28 +30,40 @@
   }
 }
 
-@mixin split-layout($image-side, $image-row-span, $image-width: 65ch, $text-width: 65ch) {
+//////////////////////////////////////////////////
+
+@mixin split-layout($image-side, $image-row-span, $side-width: 65ch, $main-width: 65ch) {
 
   display: grid;
   grid-template-columns:
     minmax(.5rem, 1fr)
-    minmax(min-content, if($image-side == "left", $image-width, $text-width))
-    minmax(min-content, if($image-side == "left", $text-width, $image-width))
+    minmax(min-content, if($image-side == "left", $side-width, $main-width))
+    1.5rem
+    minmax(min-content, if($image-side == "left", $main-width, $side-width))
     minmax(.5rem, 1fr);
   margin-bottom: 3rem;
 
   > .figure,
   .figures {
-    grid-column: 1 / 5;
+    grid-column: 1 / 6;
     margin-bottom: 2rem;
 
     img {
       width: 100%;
     }
+
+    .caption {
+      // remove bottom margin here since we added it to the parent element
+      margin-bottom: 0;
+    }
   }
 
-  h3, p {
-    grid-column: 2 / 4;
+  h3,
+  p,
+  dl,
+  .aside,
+  .expert {
+    grid-column: 2 / 5;
   }
 
   h3 {
@@ -64,26 +76,37 @@
     padding-right: 0;
   }
 
-  @media screen and (min-width: 80ch) {
+  @media screen and (min-width: 100ch) {
     > .figure,
-    .figures {
+    .figures,
+    .aside {
       grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
       grid-row: 1 / #{$image-row-span + 1};
     }
 
-    h3, p {
-      grid-column: if($image-side == "left", #{3/4}, #{-3/-4});
-      padding-#{$image-side}: 2rem;
+    h3,
+    p,
+    dl,
+    .expert {
+      grid-column: if($image-side == "left", #{4/5}, #{-4/-5});
+      // .expert is here since by default it's going in the main column.
+      // To override, use the place-split-layout-element mixin, but make sure the rule is specific enough to override this one
     }
 
     .caption {
-      text-align: $image-side;
+      // comment this out for now since it causes more problems than it solves
+      // text-align: $image-side;
     }
   }
 
 }
 
+//////////////////////////////////////////////////
+
+
 @mixin split-layout-cover($image-side, $image-row-span, $image-position) {
+
+  // Like split-layout but here the image has an object-fit: cover
 
   @include split-layout($image-side, $image-row-span);
 
@@ -98,18 +121,154 @@
     }
   }
 
-  @media screen and (min-width: 80ch) {
+  @media screen and (min-width: 100ch) {
     .figure {
       height: 100%;
     }
 
-    p:last-child { // for proper alignment with bottom of image
+    p:last-child,
+    dl:last-child { // for proper alignment with bottom of image
       margin-bottom: 0;
     }
   }
 
 }
 
+
+//////////////////////////////////////////////////
+
+
+
+@mixin place-split-layout-element($image-side, $grid-row: "auto") {
+
+  // A utility to place split-layout figures in their proper row and columns if the built-in rules aren't enough.
+
+  grid-column: 1/6;
+
+  img {
+    width: 100%;
+  }
+
+  @media screen and (min-width: 100ch) {
+    grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
+    grid-row: #{$grid-row};
+  }
+
+}
+
+
+@mixin spread-split-layout-element($grid-row: auto) {
+
+  // A utility to spread split-layout figures across both columns of a split layout.
+
+  grid-column: 1/6;
+
+  img {
+    width: 100%;
+  }
+
+  @media screen and (min-width: 100ch) {
+    grid-column: 2/5;
+    grid-row: #{$grid-row};
+  }
+
+}
+
+//////////////////////////////////////////////////
+
+
+@mixin split-layout-hero($image-side, $image-row-span, $background: dark, $side-width: 65ch, $main-width: 65ch) {
+
+  // Like split-layout but with a graphic spread first for h2 title and one-liner <p>.
+
+  @include split-layout($image-side, $image-row-span, $side-width, $main-width);
+
+  grid-template-rows:
+    minmax(.5rem, 2vh)
+    35vh
+    35vh
+    minmax(.5rem, 2vh)
+    2rem
+    auto;
+
+  h2 {
+    grid-column: 2/5;
+    grid-row: 2/4;
+    align-self: center;
+    z-index: 50;
+    color: if($background == "dark", #f3f3f3, #222);
+  }
+
+  > .figure:first-of-type {
+
+    // This is the first picture in the section, i.e. the one we want to use as graphic spread.
+
+    grid-column: 1/6;
+    grid-row: 1/5;
+    z-index: 25;
+
+    img {
+      height: 100%;
+      object-fit: cover;
+      // If we have a dark background with bright text, make the background darker by reducing brightness; otherwise make it brighter by increasing transparency.
+      filter: if($background == "dark", brightness(60%), opacity(20%));
+    }
+  }
+
+  &:after {
+
+    // Reserve the fifth row with an invisible character (immediately underneath the graphic spread) to leave space for the caption and to bump the paragraph text to the next available row.
+
+    content: ' ';
+    grid-column: 1/6;
+    grid-row: 5/6;
+  }
+
+  @media screen and (min-width: 100ch) {
+
+    h2 {
+      grid-column: 2/5;
+      grid-row: 2/3;
+      align-self: end;
+    }
+
+    > p:first-of-type {
+      grid-column: 2/5;
+      grid-row: 3/4;
+      align-self: center;
+      z-index: 50;
+      font-size: calc(1rem + .5vw);
+      line-height: calc(1.5rem + 1vw);
+      color: if($background == "dark", #f3f3f3, #222);
+    }
+
+    > .figure,
+    .figures {
+      grid-row: 6 / #{6 + $image-row-span};
+    }
+
+  }
+
+}
+
+//////////////////////////////////////////////////
+
+@mixin side-by-side-figures($column-gap: 0) {
+
+  // A little utility to place two figures side by side in a grid, and have a (manual) caption spread underneath
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: $column-gap;
+  grid-template-rows: min-content min-content;
+
+  p.caption {
+    grid-column: 1/3;
+    grid-row: 2/3;
+    margin-top: .2rem;
+    margin-bottom: 1rem;
+  }
+}
 
 //////////////////////////////////////////////////
 
