@@ -1,0 +1,32 @@
+article.custom-biochips {
+
+  h2 {
+    font-size: calc(1.5rem + 2vw);
+    line-height: calc(2.5rem + 2vw);
+  }
+
+  /////////////////////////////////////////////////////////////
+
+  #technical-abstract,
+  dl {
+    @include graph-paper;
+  }
+
+  #technical-abstract {
+    padding: 1.5rem calc(1.5rem + 2vw);
+    border: 2px dotted #0B0;
+    margin-bottom: 3rem;
+  }
+
+  /////////////////////////////////////////////////////////////
+
+  .cea2-protocol {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-end;
+  }
+
+
+}
