@@ -159,11 +159,14 @@ article.custom-wikimedia {
   #recent-work {
 
     #revenue-strategy-and-long-term-thinking {
-      @include split-layout-cover(left, 4, 65%);
+      @include split-layout-cover(
+        $image-side: left,
+        $image-row-span: 4,
+        $image-position: 65%,
+        );
     }
 
     #wikimedia-2030 {
-
       @include split-layout-cover(right, 5, 35%);
     }
 
@@ -204,7 +207,7 @@ article.custom-wikimedia {
 
   /////////////////////////////////////////////////////////////
   #a-culture-of-sensemaking {
-    @include split-layout(right, 4, 45ch, 65ch);
+    @include split-layout-txt-pics(right, 4, 45ch, 65ch);
 
     .caption {
       // override this because it's so long and looks weird otherwise
@@ -214,12 +217,12 @@ article.custom-wikimedia {
   }
 
   #stating-our-values {
-    @include split-layout(left, 4, 50ch, 60ch);
+    @include split-layout-txt-pics(left, 4, 50ch, 60ch);
   }
 
 
   #history-and-wikiarchaeology {
-    @include split-layout(right, 3, 45ch, 65ch);
+    @include split-layout-txt-pics(right, 3, 45ch, 65ch);
 
     figure { //Youtube embedded video
       grid-column: 1 / 5;
@@ -273,7 +276,7 @@ article.custom-wikimedia {
   }
 
   #product-strategy {
-    @include split-layout(right, 3, 45ch, 65ch);
+    @include split-layout-txt-pics(right, 3, 45ch, 65ch);
 
     .caption {
       text-align: left;
@@ -281,11 +284,11 @@ article.custom-wikimedia {
   }
 
   #multimedia-usability-project {
-    @include split-layout(left, 3, 45ch, 65ch);
+    @include split-layout-txt-pics(left, 3, 45ch, 65ch);
   }
 
   #technical-writing {
-    @include split-layout(right, 5, 45ch, 65ch);
+    @include split-layout-txt-pics(right, 5, 45ch, 65ch);
 
     .caption {
       text-align: left;
@@ -295,11 +298,11 @@ article.custom-wikimedia {
   /////////////////////////////////////////////////////////////
 
   #wikimedia-france {
-    @include split-layout(right, 5);
+    @include split-layout-txt-pics(right, 5);
   }
 
   #wikimedia-chapters-conference-2009 {
-    @include split-layout(left, 7);
+    @include split-layout-txt-pics(left, 7);
   }
 
 

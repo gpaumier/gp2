@@ -43,6 +43,8 @@ microsystems
 
 two applications explored for microsystems: reversible trapping of proteins, and electrokinetic control. Trapping requires uniform heating of the microfluidic channel to optimize adorption efficiency. Electrokinetic control, to create valves and mixers, relies on heterogeneous surface charges, qui requires superlocal control of PNIPAM, through individual, addressable, miniaturized heating elements
 
+Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), one of the largest research labs of the French state research organisation, CNRS. LAAS is located in Toulouse, France.
+
 Technical abstract
 ==================
 
@@ -177,7 +179,6 @@ More complex microfluidic functions include magnetic or optical elements coming 
 
 PNIPAM
 ======
-
 
 .. figure:: /images/PhD_lab1.jpg
 
