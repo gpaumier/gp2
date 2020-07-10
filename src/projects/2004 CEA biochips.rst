@@ -17,8 +17,6 @@
    :figclass: lead-figure
    :alt: Illustration of a DNA microarray, showing rows of color dots
 
-.. contents::
-
 
 .. highlights::
 
@@ -38,11 +36,20 @@ The biological model concerns a neuropeptide known as Substance P (SP), and the 
 
 In order to facilitate the transfer of this protocol to microsystems, I developed a vapor phase adaptation of the CEA-2 silanization protocol, and validated it using contact angle measurement and atomic force microscopy. After optimizing the protocol on glass slides with the SP/anti-SP model, I applied it to microsystems for proteomics. In particular, I explored the vapor-phase silanization of peptide digestion microreactors developed for the BioChipLab project.
 
-Biochips
-========
+Biochips and microarrays
+========================
+
+.. figure:: /images/Mouse_cdna_microarray.jpg
+
+   Louis M. Staudt/NIH on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Mouse_cdna_microarray.jpg>`__ // Public domain
 
 Rationale and applications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /images/Biochip.jpg
+
+   `Argonne Laboratory <https://www.flickr.com/people/35734278@N05>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Biochip.jpg>`__ // `CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__
+
 
 high throughput testing , sensitivity, large scale
 
@@ -116,6 +123,8 @@ Method of immobilizing probes, in particular for producing bio chips
 
 Antibody microarray
 ===================
+
+.. figure:: /images/Biochips_236-30_532.jpg
 
 Substance P
 ~~~~~~~~~~~
@@ -207,36 +216,40 @@ Reproducibility test
 .. figure:: /images/Biochips_236-32_532.jpg
 
 Chemical characterization
-=========================
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Reaction kinetics
-~~~~~~~~~~~~~~~~~
+-----------------
 
 .. figure:: /images/Biochips_reaction_kinetics.svg
 
    Reaction kinetics
 
 Photothermal deflection spectroscopy
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------
 
 Photothermal deflection spectroscopy (PDS), also called "Mirage effect"
 
 gold nanobeads
 
-Violaine Vizcaino from the Laboratoire d'Ingénierie des Composants Photoniques
+Violaine Vizcaino from the *Laboratoire d'Ingénierie des Composants Photoniques*
 
 .. figure:: /images/Biochips_billes100.png
 
 Neutron reflectometry
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 Neutron reflectometer with horizontal scattering geometry
 
 Institut Laue-Langevin (ILL) with Giovanna Fragneto
 D17 reflectometer
 
-Vapor phase silanization
+Vapor-phase silanization
 ========================
+
+.. figure:: /images/luke-besley-zAv-nWtQJlc-unsplash.jpg
+
+   `Luke Besley <https://unsplash.com/@besluk>`__ on `Unsplash <https://unsplash.com/photos/zAv-nWtQJlc>`__
 
 Adapting the protocol
 ~~~~~~~~~~~~~~~~~~~~~
