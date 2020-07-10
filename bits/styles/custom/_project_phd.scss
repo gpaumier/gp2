@@ -124,7 +124,12 @@ article.custom-phd {
 
   #honey-i-shrunk-the-lab {
 
-    @include split-layout-hero(right, 4, light, 45ch, 65ch);
+    @include split-layout-txt-pics-hero(
+      $image-side: right,
+      $background: light,
+      $text-width: 65ch,
+      $pics-width: 45ch,
+    );
 
     h2 {
       // Use italics because it's a quote, and switch to seif because we don't have a bold italic sans font.
@@ -155,7 +160,13 @@ article.custom-phd {
 
     // There are only 5 paragraphs of text in the main column in split layout, but the side column is long, so we extend it to 6 rows in case there's overflow (otherwise the main column stretches vertically to match).
 
-    @include split-layout-hero(left, 3, dark, 45ch, 65ch);
+    @include split-layout-txt-pics-hero(
+      $image-side: left,
+      $image-row-span: 3,
+      $background: dark,
+      $text-width: 65ch,
+      $pics-width: 45ch,
+    );
 
     .expert {
       @include place-split-layout-element(left, "9/11")
@@ -167,7 +178,13 @@ article.custom-phd {
 
   #pnipam {
 
-    @include split-layout-hero(right, 4, light, 45ch, 65ch);
+    @include split-layout-txt-pics-hero(
+      $image-side: right,
+      $image-row-span: 4,
+      $background: light,
+      $text-width: 65ch,
+      $pics-width: 45ch,
+    );
 
     > .figure:first-of-type img {
         filter: opacity(25%) saturate(200%);
@@ -241,13 +258,15 @@ article.custom-phd {
 
   #surface-functionalization {
 
-    @include split-layout-hero(right, 2, dark, 45ch, 65ch);
+    @include split-layout-txt-pics-hero(
+      $background: dark,
+    );
 
     // This section has subsections
 
     #grafting-chemistry {
       @include spread-split-layout-element();
-      @include split-layout(right, 2, 45ch, 65ch);
+      @include split-layout-txt-pics(right, 2, 45ch, 65ch);
 
       .expert {
         @include place-split-layout-element(right, "2/4");
@@ -262,7 +281,7 @@ article.custom-phd {
 
     #contact-angle {
       @include spread-split-layout-element();
-      @include split-layout(left, 2, 45ch, 65ch);
+      @include split-layout-txt-pics(left, 2, 45ch, 65ch);
 
       .functionalization-hydrophobic-hydrophilic {
         @include side-by-side-figures();
@@ -276,7 +295,7 @@ article.custom-phd {
 
     #infrared-spectroscopy {
       @include spread-split-layout-element();
-      @include split-layout(right, 2, 45ch, 65ch);
+      @include split-layout-txt-pics(right, 2, 45ch, 65ch);
 
       .functionalization-ftir {
         @include place-split-layout-element(right, "2/5");
@@ -322,7 +341,13 @@ article.custom-phd {
 
   #electrokinetic-mixing {
 
-    @include split-layout-hero(right, 4, dark, 45ch, 65ch);
+    @include split-layout-txt-pics-hero(
+      $image-side: right,
+      $image-row-span: 4,
+      $background: dark,
+      $text-width: 65ch,
+      $pics-width: 45ch,
+    );
 
     .mixers-principle {
       @include place-split-layout-element(right, "8/10");
@@ -336,7 +361,9 @@ article.custom-phd {
 
   #electro-osmotic-flow {
 
-    @include split-layout-hero(left, 4, light, 45ch, 65ch);
+    @include split-layout-txt-pics-hero(
+      $background: light,
+    );
 
     > .figure:first-of-type img {
         // Increase opacity and saturation a bit since contrast of the image is low.
@@ -345,7 +372,7 @@ article.custom-phd {
 
     #electro-osmosis {
       @include spread-split-layout-element();
-      @include split-layout(left, 2, 40ch, 70ch);
+      @include split-layout-txt-pics(left, 2, 40ch, 70ch);
 
       .eof-edl {
         @include place-split-layout-element(left, "2/5");
@@ -354,7 +381,7 @@ article.custom-phd {
 
     #controlling-the-electro-osmotic-flow-with-pnipam {
       @include spread-split-layout-element();
-      @include split-layout(right, 2, 45ch, 65ch);
+      @include split-layout-txt-pics(right, 2, 45ch, 65ch);
 
       .eof-experiment {
         @include place-split-layout-element(right, "2/5");
@@ -380,7 +407,13 @@ article.custom-phd {
 
   #microfluidic-chip {
 
-    @include split-layout-hero(right, 4, dark, 35ch, 75ch);
+    @include split-layout-txt-pics-hero(
+      $image-side: right,
+      $image-row-span: 4,
+      $background: dark,
+      $text-width: 75ch,
+      $pics-width: 35ch,
+    );
 
     .chip-pillars {
       @include place-split-layout-element(right, "6/11");
@@ -404,7 +437,13 @@ article.custom-phd {
 
   #heating-elements {
 
-    @include split-layout-hero(right, 1, dark, 35ch, 75ch);
+    @include split-layout-txt-pics-hero(
+      $image-side: right,
+      $image-row-span: 1,
+      $background: dark,
+      $text-width: 75ch,
+      $pics-width: 35ch,
+    );
 
     > .figure:first-of-type img {
       // make this a little darker to ensure legibility despite the resistor's glow
@@ -440,7 +479,13 @@ article.custom-phd {
 
   #catching-proteins {
 
-    @include split-layout-hero(right, 4, dark, 45ch, 65ch);
+    @include split-layout-txt-pics-hero(
+      $image-side: right,
+      $image-row-span: 4,
+      $background: dark,
+      $text-width: 65ch,
+      $pics-width: 45ch,
+    );
 
     .catching-proteins-principle {
       @include place-split-layout-element(right, "7/9");
@@ -473,7 +518,7 @@ article.custom-phd {
 
   #beyond-the-research {
 
-    @include split-layout-hero(right, 4, light, 45ch, 65ch);
+    @include split-layout-hero(light, 45ch, 65ch);
 
     > .figure:first-of-type img {
         // Increase opacity and saturation a bit since contrast of the image is low.

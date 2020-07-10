@@ -32,16 +32,18 @@
 
 //////////////////////////////////////////////////
 
-@mixin split-layout($image-side, $image-row-span, $side-width: 65ch, $main-width: 65ch) {
+@mixin split-layout($left-width: 65ch, $right-width: 65ch) {
 
   display: grid;
   grid-template-columns:
     minmax(.5rem, 1fr)
-    minmax(min-content, if($image-side == "left", $side-width, $main-width))
+    minmax(min-content, $left-width)
     1.5rem
-    minmax(min-content, if($image-side == "left", $main-width, $side-width))
+    minmax(min-content, $right-width)
     minmax(.5rem, 1fr);
   margin-bottom: 3rem;
+
+  // Full-width images in small viewports
 
   > .figure,
   .figures {
@@ -53,6 +55,9 @@
     }
 
     .caption {
+      // The figure spans all 6 columns so the img can reach the edges of the viewport, but the caption isn't a child element of the grid so we can't confine it to columns 2-5, so we need to re-add the side margins here
+      margin-left: .5rem;
+      margin-right: .5rem;
       // remove bottom margin here since we added it to the parent element
       margin-bottom: 0;
     }
@@ -71,17 +76,29 @@
     text-align: center;
   }
 
-  .caption {
-    padding-left: 0;
-    padding-right: 0;
-  }
+}
+
+//////////////////////////////////////////////////
+
+// Mixins for partial layouts in a split context
+// Used to build more specialized split layouts
+
+@mixin txt-pics-columns-in-split($image-side, $image-row-span, $pics-width: 65ch, $text-width: 65ch, $image-row-start: 1) {
+
+  // Rules for splitting content into a text column and a pics column. To be embedded in a split layout, not for direct use. Made as a mixin so it can be included in both regular and with-cover split layouts.
 
   @media screen and (min-width: 100ch) {
     > .figure,
     .figures,
     .aside {
       grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
-      grid-row: 1 / #{$image-row-span + 1};
+      grid-row: #{$image-row-start} / #{$image-row-span + $image-row-start + 1};
+
+    .caption{
+        // Remove the margins when we're no longer in full-width picture
+        margin-left: 0;
+        margin-right: 0;
+      }
     }
 
     h3,
@@ -92,97 +109,11 @@
       // .expert is here since by default it's going in the main column.
       // To override, use the place-split-layout-element mixin, but make sure the rule is specific enough to override this one
     }
-
-    .caption {
-      // comment this out for now since it causes more problems than it solves
-      // text-align: $image-side;
-    }
   }
 
 }
 
-//////////////////////////////////////////////////
-
-
-@mixin split-layout-cover($image-side, $image-row-span, $image-position) {
-
-  // Like split-layout but here the image has an object-fit: cover
-
-  @include split-layout($image-side, $image-row-span);
-
-  .figure {
-
-    height: 50vh;
-
-    img {
-      height: 100%;
-      object-fit: cover;
-      object-position: $image-position;
-    }
-  }
-
-  @media screen and (min-width: 100ch) {
-    .figure {
-      height: 100%;
-    }
-
-    p:last-child,
-    dl:last-child { // for proper alignment with bottom of image
-      margin-bottom: 0;
-    }
-  }
-
-}
-
-
-//////////////////////////////////////////////////
-
-
-
-@mixin place-split-layout-element($image-side, $grid-row: "auto") {
-
-  // A utility to place split-layout figures in their proper row and columns if the built-in rules aren't enough.
-
-  grid-column: 1/6;
-
-  img {
-    width: 100%;
-  }
-
-  @media screen and (min-width: 100ch) {
-    grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
-    grid-row: #{$grid-row};
-  }
-
-}
-
-
-@mixin spread-split-layout-element($grid-row: auto) {
-
-  // A utility to spread split-layout figures across both columns of a split layout.
-
-  grid-column: 1/6;
-
-  img {
-    width: 100%;
-  }
-
-  @media screen and (min-width: 100ch) {
-    grid-column: 2/5;
-    grid-row: #{$grid-row};
-  }
-
-}
-
-//////////////////////////////////////////////////
-
-
-@mixin split-layout-hero($image-side, $image-row-span, $background: dark, $side-width: 65ch, $main-width: 65ch) {
-
-  // Like split-layout but with a graphic spread first for h2 title and one-liner <p>.
-
-  @include split-layout($image-side, $image-row-span, $side-width, $main-width);
-
+@mixin hero-in-split($background: dark) {
   grid-template-rows:
     minmax(.5rem, 2vh)
     35vh
@@ -242,11 +173,140 @@
       color: if($background == "dark", #f3f3f3, #222);
     }
 
-    > .figure,
-    .figures {
-      grid-row: 6 / #{6 + $image-row-span};
+  }
+}
+
+//////////////////////////////////////////////////
+
+@mixin split-layout-txt-pics($image-side, $image-row-span, $pics-width: 65ch, $text-width: 65ch) {
+
+  // A split layout with text in one column and images in the other
+
+  @if $image-side == "left" {
+    @include split-layout($pics-width, $text-width)
+  } @else {
+    @include split-layout($text-width, $pics-width)
+  };
+
+  @include txt-pics-columns-in-split($image-side, $image-row-span);
+
+}
+
+//////////////////////////////////////////////////
+
+
+@mixin split-layout-hero($background: dark, $left-width: 65ch, $right-width: 65ch) {
+
+  // Like split-layout but with a graphic spread first for h2 title and one-liner <p>.
+
+  @include split-layout($left-width, $right-width);
+  @include hero-in-split($background);
+
+}
+
+//////////////////////////////////////////////////
+
+
+@mixin split-layout-txt-pics-hero($image-side: right, $image-row-span:4, $background: dark, $text-width: 65ch, $pics-width: 65ch) {
+
+  // A split-layout with both a hero section-title and text/pics columns
+
+  @if $image-side == "left" {
+    @include split-layout($pics-width, $text-width)
+  } @else {
+    @include split-layout($text-width, $pics-width)
+  };
+
+  @include hero-in-split($background);
+  @include txt-pics-columns-in-split($image-side, $image-row-span, $image-row-start: 6);
+
+}
+
+//////////////////////////////////////////////////
+
+@mixin split-layout-hero($left-width: 65ch, $right-width: 65ch, $image-position: 50% 50%) {
+
+  // A split layout with a hero image with h2 text
+
+  @include split-layout($left-width, $right-width);
+  @include hero-in-split($image-position);
+
+}
+
+//////////////////////////////////////////////////
+
+
+@mixin split-layout-cover($image-side, $image-row-span, $image-position) {
+
+  // Like split-layout but here the image has an object-fit: cover
+
+  @include split-layout-txt-pics(
+    $image-side,
+    $image-row-span,
+    $pics-width: 65ch,
+    $text-width: 65ch,
+  );
+
+  .figure {
+
+    height: 50vh;
+
+    img {
+      height: 100%;
+      object-fit: cover;
+      object-position: $image-position;
+    }
+  }
+
+  @media screen and (min-width: 100ch) {
+    .figure {
+      height: 100%;
     }
 
+    p:last-child,
+    dl:last-child { // for proper alignment with bottom of image
+      margin-bottom: 0;
+    }
+  }
+
+}
+
+//////////////////////////////////////////////////
+
+// Mixins to place elements in a split layout
+
+
+@mixin place-split-layout-element($image-side, $grid-row: "auto") {
+
+  // A utility to place split-layout figures in their proper row and columns if the built-in rules aren't enough.
+
+  grid-column: 1/6;
+
+  img {
+    width: 100%;
+  }
+
+  @media screen and (min-width: 100ch) {
+    grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
+    grid-row: #{$grid-row};
+  }
+
+}
+
+
+@mixin spread-split-layout-element($grid-row: auto) {
+
+  // A utility to spread split-layout figures across both columns of a split layout.
+
+  grid-column: 1/6;
+
+  img {
+    width: 100%;
+  }
+
+  @media screen and (min-width: 100ch) {
+    grid-column: 2/5;
+    grid-row: #{$grid-row};
   }
 
 }
