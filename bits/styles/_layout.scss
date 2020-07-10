@@ -202,6 +202,9 @@
   @include split-layout($left-width, $right-width);
   @include hero-in-split($background);
 
+  > * {
+    @include spread-split-layout-element();
+  }
 }
 
 //////////////////////////////////////////////////
@@ -219,17 +222,6 @@
 
   @include hero-in-split($background);
   @include txt-pics-columns-in-split($image-side, $image-row-span, $image-row-start: 6);
-
-}
-
-//////////////////////////////////////////////////
-
-@mixin split-layout-hero($left-width: 65ch, $right-width: 65ch, $image-position: 50% 50%) {
-
-  // A split layout with a hero image with h2 text
-
-  @include split-layout($left-width, $right-width);
-  @include hero-in-split($image-position);
 
 }
 
@@ -299,10 +291,6 @@
   // A utility to spread split-layout figures across both columns of a split layout.
 
   grid-column: 1/6;
-
-  img {
-    width: 100%;
-  }
 
   @media screen and (min-width: 100ch) {
     grid-column: 2/5;

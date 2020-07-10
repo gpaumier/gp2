@@ -258,14 +258,13 @@ article.custom-phd {
 
   #surface-functionalization {
 
-    @include split-layout-txt-pics-hero(
+    @include split-layout-hero(
       $background: dark,
     );
 
     // This section has subsections
 
     #grafting-chemistry {
-      @include spread-split-layout-element();
       @include split-layout-txt-pics(right, 2, 45ch, 65ch);
 
       .expert {
@@ -280,7 +279,6 @@ article.custom-phd {
     }
 
     #contact-angle {
-      @include spread-split-layout-element();
       @include split-layout-txt-pics(left, 2, 45ch, 65ch);
 
       .functionalization-hydrophobic-hydrophilic {
@@ -294,7 +292,6 @@ article.custom-phd {
     }
 
     #infrared-spectroscopy {
-      @include spread-split-layout-element();
       @include split-layout-txt-pics(right, 2, 45ch, 65ch);
 
       .functionalization-ftir {
@@ -361,7 +358,7 @@ article.custom-phd {
 
   #electro-osmotic-flow {
 
-    @include split-layout-txt-pics-hero(
+    @include split-layout-hero(
       $background: light,
     );
 
@@ -371,7 +368,6 @@ article.custom-phd {
     }
 
     #electro-osmosis {
-      @include spread-split-layout-element();
       @include split-layout-txt-pics(left, 2, 40ch, 70ch);
 
       .eof-edl {
@@ -380,7 +376,6 @@ article.custom-phd {
     }
 
     #controlling-the-electro-osmotic-flow-with-pnipam {
-      @include spread-split-layout-element();
       @include split-layout-txt-pics(right, 2, 45ch, 65ch);
 
       .eof-experiment {
