@@ -69,7 +69,7 @@ I have a talent for bringing clarity to complex problems.
 * bringing clarity
 * Complex problems
 * Systems and details
-A time view that spans past, present, and future.
+* A time view that spans past, present, and future.
 * systems thinking, expertise, rigor, intellectual integrity,
 * looking for the Black Swan
 * cracking complexity
@@ -101,12 +101,11 @@ Use those skills towards:
 * mission-driven organizations
 * particularly in the context of the climate crisis
 
-multiple perspectives to `get more hands onto that elephant <https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>`__.
 
 .. figure:: /images/Jalal_al-Din_Rumi,_Maulana_-_Townspeople_and_elephant.jpg
    :figwidth: 30em
 
-   `Townspeople, Who have Never Seen an Elephant, Examine its Appearance in the Dark <https://commons.wikimedia.org/wiki/File:Jalal_al-Din_Rumi,_Maulana_-_Townspeople,_Who_have_Never_Seen_an_Elephant,_Examine_its_Appearance_in_the_Dark_-_Walters_W626117B_-_Full_Page.jpg>`__
+   Seeking multiple perspectives to `get more hands onto that elephant <https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>`__. `Townspeople, Who have Never Seen an Elephant, Examine its Appearance in the Dark <https://commons.wikimedia.org/wiki/File:Jalal_al-Din_Rumi,_Maulana_-_Townspeople,_Who_have_Never_Seen_an_Elephant,_Examine_its_Appearance_in_the_Dark_-_Walters_W626117B_-_Full_Page.jpg>`__
 
 
 
@@ -139,7 +138,9 @@ I am passionate about free knowledge and I started contributing to Wikipedia in 
 
    :doc:`continue reading <wikimedia>`
 
-.
+.. TODO: add summary after writing the intro of the Wikimedia page
+
+
 https://wikimediafoundation.org/about/values/
 
 We welcome and cherish our differences.
@@ -162,20 +163,22 @@ We encourage others to do what we can’t, and we help them succeed. When voices
 
 .. class:: college-years
 
-Science / Engineering
+Science & Engineering
 =====================
 
 
-I majored in :doc:`engineering physics and nanotechnology <studies>`,
+I initially majored in Mathematics and Computer Science before turning to Physics, with a double major in Materials & Semiconductors and in Nanotechnology. I went on to develop :doc:`chemical processes for biochips <biochips>` and then completed my Ph.D on :doc:`polymer microsystems for biological analysis <phd>`.
 
-and developed :doc:`chemical processes for biochips <biochips>`.
+I adapted a capillary-based immunoassay to a planar microarray, and developed a vapor-phase silanization protocol for use in peptide digestion microsystems.
 
-
-then completed my Ph.D on :doc:`polymer microsystems for biological analysis <phd>`.
 microfluidics
 interdisciplinarity
 thermoresponsive polymer
 microsystem
+
+
+.. TODO: Add link to studies page once written: :doc:`engineering physics and nanotechnology <studies>`,
+
 
 .. figure:: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
    :figwidth: 10em
@@ -183,30 +186,33 @@ microsystem
 .. figure:: /images/2013-10-08_Presse_Marinoni_8863.jpg
    :figwidth: 10em
 
-books for musicals, :doc:`scripts for plays <interclubs>`,
+
 
 ----
 
 .. class:: play
 
-All work and no play
-====================
+Playfulness & Creativity
+========================
 
-LEGO
+When there isn't a global pandemic going on, I spend a fair amount of time out and about. In the past few years, I have taken up powerlifting, breadmaking, and ballet, and experimented with piano and ballroom dancing. I also like to go on long walks with or without my camera.
 
-reading
+I am an avid reader and bibliophile, sometimes to the point of tsundoku. During the 2020 pandemic confinement, I have also spent my free time creating terrariums and bottle gardens, building construction sets, coloring mandalas, exploring new languages, and finishing to fold one thousand origami cranes.
 
-hiking
+.. class:: continue-reading
 
-ballet
+   :doc:`continue reading <play>`
 
-lifting
+books for musicals, :doc:`scripts for plays <interclubs>`
 
-ballroom dancing
+.. TODO Ajouter autres photos, trouver un arrangement
+
+.. Hexagones? https://www.cssscript.com/demo/responsive-hexagon-grid-pure-css/
 
 .. figure:: /images/2016-04-10_Pain_0169.jpg
    :figwidth: 10em
 
+Playfulness design: Swipe / slideshow, grid if more space
 
 ----
 
@@ -235,7 +241,7 @@ When I was fourteen, my family moved to Réunion, a wonderful French island in t
    :figwidth: 10em
 
 
-We moved in the middle of the school year.\ [#troisieme]_ While the curriculum was mostly standardized at the national level, it wasn't necessarily covered in the same order or with the same textbooks, but I adapted. Apart from that: many books, little exercise, much solitude. The usual, except with sun and palmtrees.
+We moved in the middle of the school year.\ [#troisieme]_ While the curriculum was mostly standardized at the national level, it wasn't necessarily covered in the same order or with the same textbooks, but I adapted. Apart from that: many books, little exercise, much solitude. The usual, except with sun and palm trees.
 
 .. [#troisieme] We moved when I was halfway through my *troisième*, i.e. what would be the 8th grade in the US.
 
@@ -247,12 +253,8 @@ The university curriculum was less standardized, and I had a lot to catch up on,
 
    I started to realize that I needed to be intellectually stimulated, and that I had the capacity to adapt and catch up quickly.
 
-A year later, I joined a college-like |grande-ecole|_ to study engineering physics, microelectronics, and nanotechnology. One reason was that I loved how physics helped me understand the world. Another reason was that the idea of getting a Doctorate in Physics sounded cool. Another reason was that I had read a science-fiction book a few years earlier\ [#faust]_ in which nanotechnology was used to improve physical performance, and 19-year-old-Guillaume-with-body-image-issues found that concept fascinating. Another reason was that the college was in Toulouse, a lovely city in southwestern France with much less rain than Normandy.
+A year later, I enrolled at a *Grande École* to study engineering physics, microelectronics, and nanotechnology. One reason was that I loved how physics helped me understand the world. Another reason was that the idea of getting a Doctorate in Physics sounded cool. Another reason was that I had read a science-fiction book a few years earlier,[#faust]_ in which nanotechnology was used to improve physical performance, and 19-year-old-Guillaume-with-body-image-issues was finding that concept fascinating. Another reason was that the college was in Toulouse, a lovely city in southwestern France with much less rain than Normandy.
 
 Not all of those reasons were good reasons. Youth is naïve. It all turned out alright.
-
-.. |grande-ecole| replace:: *Grande École*
-
-.. _grande-ecole: https://en.wikipedia.org/wiki/Grandes_%C3%A9coles
 
 .. [#faust] :title-reference:`Le Cycle de F.A.U.S.T.: Les Défenseurs`. Serge Lehman. Fleuve Noir (1996) `ISBN 978-2265060937 <http://www.worldcat.org/search?q=978-2265060937>`_.
