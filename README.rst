@@ -40,6 +40,7 @@ Install Nikola and extras:
 
 ::
 
+    $ pip install --upgrade pip setuptools wheel
     $ pip install --upgrade "Nikola[extras]"
 
 Clone the site's repository:
@@ -77,7 +78,7 @@ Install the theme's dependencies:
 
 ::
 
-    # npm install
+    $ npm install
 
 Launch Brunch in watcher mode:
 
@@ -86,3 +87,8 @@ Launch Brunch in watcher mode:
     $ brunch watch
 
 Bits (JS and CSS) compiled by Brunch will be picked up by brunch and compiled, then Nikola will update its build folder, if it's simultaneously running in ``auto`` mode; otherwise, ``build`` manually.
+
+Maintenance stuff:
+
+::
+      $ npm outdated
