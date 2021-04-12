@@ -18,7 +18,7 @@ Images
 .. figure:: /images/Apollo_11_bootprint.jpg
 
    NASA / Buzz Aldrin on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Apollo_11_bootprint.jpg>`__
-   
+
 
 .. figure:: /images/jens-lelie-u0vgcIOQG08-unsplash.jpg
 
@@ -117,11 +117,6 @@ Images
 
    `Alina Grubnyak <https://unsplash.com/@alinnnaaaa>`__ on `Unsplash <https://unsplash.com/photos/ZiQkhI7417A>`__.
 
-
-.. figure:: /images/2010-10-28_Guillaume_by_Steven_Walling.jpg
-   :figwidth: 30em
-
-   `Steven Walling <https://en.wikipedia.org/wiki/User:Steven_Walling>`__ on `flickr <https://secure.flickr.com/photos/ragesoss/5140417338/>`__ //  `CC-BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__.
 
 
 .. figure:: /images/Wikimania_2007_dungodung_16.jpg
