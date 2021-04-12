@@ -12,6 +12,12 @@
 .. https://protips.readthedocs.io/link-roles.html
 .. https://doughellmann.com/blog/2010/05/09/defining-custom-roles-in-sphinx/
 
+
+.. figure:: /images/2014-08-09_Wikimania_2014.jpg
+
+   By Sebastiaan ter Burg on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Questions_to_WMF%27s_new_Communications_team_at_Wikimania_2014.jpg>`__ // `CC BY 2.0 <https://creativecommons.org/licenses/by/2.0/legalcode>`__.
+
+
 Over the years, I have often talked about free knowledge, online communities, open source, how Wikipedia works, and the Wikimedia movement. I have talked in English and French to students, scientists, librarians, Wikimedians, open-source advocates, software developers, community workers, and the general public. I have also led many workshops to mentor new contributors and train people on how to edit Wikipedia.
 
 These days, I prefer to focus on fewer but more specialized talks that give me the opportunity to research topics more thoroughly and ensure that they are tailored to the audience.
@@ -72,7 +78,7 @@ November 26–27, 2011 \| Toulouse, France
 
 * 10 ans de Wikipédia
 
-  * `Video recording <http://www.toulibre.org/pub/2011-11-26-capitole-du-libre/Video recording/paumier-10-ans-wikip%C3%A9dia.webm>`__ \| `Abstract <https://www.toulibre.org/ubuntuparty#conf_wikipedia>`__ \| `Code <https://github.com/gpaumier/wikipedia-infographic>`__
+  * `Video recording <http://www.toulibre.org/pub/2011-11-26-capitole-du-libre/Video recording/paumier-10-ans-wikip%C3%A9dia.webm>`__  (French, WebM, 55 min, 169 MB) \| `Abstract <https://www.toulibre.org/ubuntuparty#conf_wikipedia>`__ \| `Code <https://github.com/gpaumier/wikipedia-infographic>`__ \| Conference website: `Capitole du Libre <https://www.capitoledulibre.org>`__.
 
 Wikimania 2011
 --------------
