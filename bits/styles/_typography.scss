@@ -92,7 +92,7 @@ h1 {
     @extend %fumseck-serif-bold;
 }
 
-h2, h3 {
+h2, h3, h4 {
     @extend %fumseck-sans-bold;
 
     em {
@@ -236,4 +236,27 @@ p.continue-reading {
     display: inline-block;
     margin-left: .3rem;
   }
+}
+
+// Footnotes
+
+.footnote-reference, .fn-backref {
+  &:before {
+    content: '[';
+  }
+
+  &:after {
+    content: ']';
+  }
+
+  font-size: 80%;
+  text-decoration: none;
+}
+
+.fn-backref {
+  align-self: start;
+}
+
+.fn-backref, .footnote p {
+  font-size: .8rem;
 }

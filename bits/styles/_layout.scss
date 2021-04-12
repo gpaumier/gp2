@@ -64,6 +64,7 @@
   }
 
   h3,
+  h4,
   p,
   dl,
   .aside,
@@ -92,7 +93,7 @@
     .figures,
     .aside {
       grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
-      grid-row: #{$image-row-start} / #{$image-row-span + $image-row-start + 1};
+      grid-row: #{$image-row-start} / #{$image-row-span + $image-row-start};
 
     .caption{
         // Remove the margins when we're no longer in full-width picture
@@ -102,6 +103,7 @@
     }
 
     h3,
+    h4,
     p,
     dl,
     .expert {
@@ -178,7 +180,7 @@
 
 //////////////////////////////////////////////////
 
-@mixin split-layout-txt-pics($image-side, $image-row-span, $pics-width: 65ch, $text-width: 65ch) {
+@mixin split-layout-txt-pics($image-side: right, $image-row-span: 2, $pics-width: 65ch, $text-width: 65ch) {
 
   // A split layout with text in one column and images in the other
 
@@ -268,7 +270,7 @@
 // Mixins to place elements in a split layout
 
 
-@mixin place-split-layout-element($image-side, $grid-row: "auto") {
+@mixin place-split-layout-element($side, $grid-row: "auto") {
 
   // A utility to place split-layout figures in their proper row and columns if the built-in rules aren't enough.
 
@@ -279,7 +281,7 @@
   }
 
   @media screen and (min-width: 100ch) {
-    grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
+    grid-column: if($side == "left", #{2/3}, #{-2/-3});
     grid-row: #{$grid-row};
   }
 
@@ -434,4 +436,12 @@ svg {
      position: fixed;
      bottom: 0;
      width: 100%;
+}
+
+// Footnotes
+
+.footnote {
+  display: grid;
+  grid-template-columns: min-content 1fr;
+  grid-column-gap: .5rem;
 }
