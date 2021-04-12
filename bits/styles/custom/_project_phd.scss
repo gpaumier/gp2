@@ -169,7 +169,7 @@ article.custom-phd {
     );
 
     .expert {
-      @include place-split-layout-element(left, "9/11")
+      @include place-split-layout-element(left, "9/11");
       align-self: center;
     }
   }

@@ -124,7 +124,7 @@ article.custom-biochips {
 
     .cea2-protocol {
       //@include place-split-layout-element(left, "4/5");
-      @include spread-split-layout-element("4/5")
+      @include spread-split-layout-element("4/5");
       margin-bottom: 2rem;
       justify-self: center;
 
