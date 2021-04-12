@@ -6,18 +6,18 @@
   "author": "Guillaume Paumier",
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "^7.2.3",
     "@babel/core": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
+    "autoprefixer": "^10.2.5",
     "babel-brunch": "^7.0.1",
-    "brunch": "^3.0.0",
+    "brunch": "^4.0.0",
     "copycat-brunch": "^1.1.1",
-    "csswring": "^6.0.2",
+    "cssnano": "^5.0.0",
     "font-awesome": "^4.7.0",
     "foundation-sites": "^6.6.1",
     "jquery": "^3.4.1",
     "postcss-brunch": "^3.0.0",
-    "sass-brunch": "^2.10.4",
+    "sass-brunch": "^3.0.0",
     "what-input": "^5.0.3"
   }
 }
