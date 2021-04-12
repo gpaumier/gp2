@@ -19,6 +19,8 @@ def get_lead_text (post_text):
 
     return lead_text
 
+###############################################################################""
+
 def get_lead_figure (post_text):
     """ Extract the lead figure from a post
 
@@ -35,3 +37,5 @@ def get_lead_figure (post_text):
         lead_fig = '<p>ERROR</p>'
 
     return lead_fig
+
+###############################################################################""

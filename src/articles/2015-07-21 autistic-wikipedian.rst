@@ -253,10 +253,6 @@ Live long and prosper. 🖖
 
 .. [1] from the |court martial|_ episode in the original Star Trek series.
 
-.. |court martial| replace:: *Court Martial*
-
-.. _court martial: https://en.wikipedia.org/wiki/Court_Martial_%28Star_Trek:_The_Original_Series%29
-
 .. [2] Temple Grandin. *Thinking in Pictures*. p.152
 
 .. [3] Tony Attwood. *The complete guide to Asperger's syndrome*. p.126
@@ -265,11 +261,15 @@ Live long and prosper. 🖖
 
 .. [5] Maanvi Singh. |unemployed|_. NPR.
 
+.. [6] Steve Silberman. |forgotten history|_. TED 2015.
+
+.. |court martial| replace:: *Court Martial*
+
+.. _court martial: https://en.wikipedia.org/wiki/Court_Martial_%28Star_Trek:_The_Original_Series%29
+
 .. |unemployed| replace:: *Young Adults With Autism More Likely To Be Unemployed, Isolated*
 
 .. _unemployed: http://www.npr.org/sections/health-shots/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated
-
-.. [6] Steve Silberman. |forgotten history|_. TED 2015.
 
 .. |forgotten history| replace:: *The forgotten history of autism*
 
