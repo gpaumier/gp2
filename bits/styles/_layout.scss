@@ -95,7 +95,7 @@
       grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
       grid-row: #{$image-row-start} / #{$image-row-span + $image-row-start};
 
-    figcaption{
+    figcaption, .caption {
         // Remove the margins when we're no longer in full-width picture
         margin-left: 0;
         margin-right: 0;
@@ -146,6 +146,13 @@
       // If we have a dark background with bright text, make the background darker by reducing brightness; otherwise make it brighter by increasing transparency.
       filter: if($background == "dark", brightness(60%), opacity(20%));
     }
+
+    figcaption {
+      // The figure spans all 6 columns so the img can reach the edges of the viewport, but the caption isn't a child element of the grid so we can't confine it to columns 2-5, so we need to re-add the side margins here
+      margin-left: .5rem;
+      margin-right: .5rem;
+    }
+
   }
 
   &:after {
@@ -345,11 +352,11 @@
         grid-column: 2 / 3;
       }
 
-      .full-width, div.section {
+      .full-width, section {
         grid-column: 1 / 4;
       }
 
-      & > div.section {
+      & > section {
         display: grid;
         grid-template-columns: minmax(0, 1fr)
          minmax(0, 65ch) minmax(0, 1fr);
