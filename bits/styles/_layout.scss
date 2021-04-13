@@ -6,7 +6,7 @@
   grid-template-columns: minmax(.5rem, 1fr) minmax(min-content, $width) minmax(.5rem, 1fr);
   margin-bottom: 3rem;
 
-  .figure {
+  figure {
     grid-column: 1 / 4;
     margin-bottom: 2rem;
 
@@ -24,7 +24,7 @@
     text-align: center;
   }
 
-  .caption {
+  figcaption {
     padding-left: 0;
     padding-right: 0;
   }
@@ -45,7 +45,7 @@
 
   // Full-width images in small viewports
 
-  > .figure,
+  > figure,
   .figures {
     grid-column: 1 / 6;
     margin-bottom: 2rem;
@@ -54,7 +54,7 @@
       width: 100%;
     }
 
-    .caption {
+    figcaption {
       // The figure spans all 6 columns so the img can reach the edges of the viewport, but the caption isn't a child element of the grid so we can't confine it to columns 2-5, so we need to re-add the side margins here
       margin-left: .5rem;
       margin-right: .5rem;
@@ -89,13 +89,13 @@
   // Rules for splitting content into a text column and a pics column. To be embedded in a split layout, not for direct use. Made as a mixin so it can be included in both regular and with-cover split layouts.
 
   @media screen and (min-width: 100ch) {
-    > .figure,
+    > figure,
     .figures,
     .aside {
       grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
       grid-row: #{$image-row-start} / #{$image-row-span + $image-row-start};
 
-    .caption{
+    figcaption{
         // Remove the margins when we're no longer in full-width picture
         margin-left: 0;
         margin-right: 0;
@@ -132,7 +132,7 @@
     color: if($background == "dark", #f3f3f3, #222);
   }
 
-  > .figure:first-of-type {
+  > figure:first-of-type {
 
     // This is the first picture in the section, i.e. the one we want to use as graphic spread.
 
@@ -241,7 +241,7 @@
     $text-width: 65ch,
   );
 
-  .figure {
+  figure {
 
     height: 50vh;
 
@@ -253,7 +253,7 @@
   }
 
   @media screen and (min-width: 100ch) {
-    .figure {
+    figure {
       height: 100%;
     }
 
@@ -367,7 +367,7 @@
     }
 
     @include breakpoint(small only) {
-        .figure, {
+        figure, {
             margin-left: -.5em;
             margin-right: -.5em;
         }

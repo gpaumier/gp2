@@ -45,7 +45,7 @@ article.custom-biochips {
       $right-width: 65ch
     );
 
-    > .figure:first-of-type img {
+    > figure:first-of-type img {
       // make this a little darker to ensure legibility
         filter: brightness(35%);
     }
@@ -188,7 +188,7 @@ article.custom-biochips {
       column-span: all;
     }
 
-    .section {
+    section {
       display: flex;
       flex-direction: column;
       margin-bottom: 2rem;
@@ -217,8 +217,8 @@ article.custom-biochips {
       }
     }
 
-    .section,
-    .section * {
+    section,
+    section * {
       break-inside: avoid;
     }
 
@@ -268,7 +268,7 @@ article.custom-biochips {
       $text-width: 50ch,
     );
 
-    .figure {
+    figure {
       align-self: center;
     }
   }
