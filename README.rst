@@ -91,4 +91,5 @@ Bits (JS and CSS) compiled by Brunch will be picked up by brunch and compiled, t
 Maintenance stuff:
 
 ::
+
       $ npm outdated
