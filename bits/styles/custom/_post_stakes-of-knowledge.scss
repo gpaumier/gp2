@@ -1,4 +1,4 @@
-@use 'typography';
+@import 'typography';
 
 article.custom-stakes-of-knowledge {
 
@@ -20,7 +20,7 @@ article.custom-stakes-of-knowledge {
        z-index: 25;
      }
 
-    .caption {
+    figcaption {
        grid-column: 2/5;
        grid-row: 5/6;
        display:block;
@@ -92,7 +92,7 @@ article.custom-stakes-of-knowledge {
     grid-row-gap: 2rem;
     margin: 3rem 0;
 
-    .figure {
+    figure {
       grid-column: 1/4;
       grid-row: 1/2;
       width: 100%;
@@ -125,7 +125,7 @@ article.custom-stakes-of-knowledge {
     object-position: 50% 30%;
   }
 
-  .caption {
+  figcaption {
     text-align: right;
   }
 

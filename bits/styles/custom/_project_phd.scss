@@ -25,7 +25,7 @@ article.custom-phd {
     grid-template-columns: minmax(.5rem, 2vw) 1fr 4fr minmax(.5rem, 2vw);
     grid-template-rows: minmax(.5rem, 10vh) 20vh min-content min-content;
 
-    .figure {
+    figure {
       grid-column: 1/6;
       grid-row: 1/3;
 
@@ -39,7 +39,7 @@ article.custom-phd {
         transform: scaleX(-1);
       }
 
-      .caption{
+      figcaption{
         text-align: right;
       }
 
@@ -84,7 +84,7 @@ article.custom-phd {
       grid-template-columns: minmax(.5rem, 2vw) minmax(min-content, 1fr) minmax(.5rem, 6vw) minmax(min-content, 1fr) minmax(.5rem, 2vw);
       grid-template-rows: minmax(.5rem, 2vh) 25vh 50vh minmax(.5rem, 2vh);
 
-      .figure {
+      figure {
         grid-column: 1/6;
         grid-row: 1/5;
       }
@@ -136,7 +136,7 @@ article.custom-phd {
       @extend %fumseck-serif-bolditalic;
     }
 
-    > .figure:first-of-type img {
+    > figure:first-of-type img {
         // Adjust colors but keep the opacity
         filter: opacity(15%) hue-rotate(-60deg) saturate(400%);
     }
@@ -186,7 +186,7 @@ article.custom-phd {
       $pics-width: 45ch,
     );
 
-    > .figure:first-of-type img {
+    > figure:first-of-type img {
         filter: opacity(25%) saturate(200%);
     }
 
@@ -362,7 +362,7 @@ article.custom-phd {
       $background: light,
     );
 
-    > .figure:first-of-type img {
+    > figure:first-of-type img {
         // Increase opacity and saturation a bit since contrast of the image is low.
         filter: opacity(20%) saturate(300%);
     }
@@ -382,7 +382,7 @@ article.custom-phd {
         @include place-split-layout-element(right, "2/5");
         //align-self: center;
 
-        .figure img {
+        figure img {
           padding: .5rem;
         }
       }
@@ -390,7 +390,7 @@ article.custom-phd {
       .eof-pnipam-results {
         @include place-split-layout-element(left, "4/5");
 
-        .figure img {
+        figure img {
           padding: .5rem;
         }
       }
@@ -440,7 +440,7 @@ article.custom-phd {
       $pics-width: 35ch,
     );
 
-    > .figure:first-of-type img {
+    > figure:first-of-type img {
       // make this a little darker to ensure legibility despite the resistor's glow
         filter: brightness(45%);
     }
@@ -515,13 +515,13 @@ article.custom-phd {
 
     @include split-layout-hero(light, 45ch, 65ch);
 
-    > .figure:first-of-type img {
+    > figure:first-of-type img {
         // Increase opacity and saturation a bit since contrast of the image is low.
         filter: opacity(25%) saturate(200%);
     }
 
     @media screen and (min-width: 80ch) {
-      .figure:nth-of-type(3) {
+      figure:nth-of-type(3) {
         grid-row: 10/13;
       }
     }
