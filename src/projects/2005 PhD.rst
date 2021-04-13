@@ -341,7 +341,7 @@ Electro-osmosis
 
 .. class:: expert
 
-   The electrical double layer is a model that describes the electrical potential in an electrolyte near a surface. A first, dense layer of counter-ions (Stern layer ≤ 1 nm) mirrors the opposite surface charges, while a second, diffuse layer (Gouy-Chapman layer ∼10 nm) screens the first layer from the rest of the otherwise neutral liquid. The ζ-potential, defined as the potential difference between the Stern layer and the liquid, is characteristic of the electrical charges on the surface.
+   The electrical double layer is a model that describes the electrical potential in an electrolyte near a surface. A first, dense layer of counter-ions (Stern layer ≤ 1 nm) mirrors the opposite surface charges, while a second, diffuse layer (Gouy-Chapman layer ∼10 nm) screens the first layer from the rest of the otherwise neutral liquid. The ζ-potential, defined as the potential difference between the Stern layer and the liquid, is characteristic of the electrical charges on the surface.
 
 A common way to reduce electro-osmosis is to attach a polymer on the surface, thus hiding the electrical charges, and locally modifying the liquid's surface viscosity. In its swollen state, PNIPAM can serve this purpose, while in its collapsed state it exposes the electrical charges once again and the electro-osmotic flow resumes. In other words, PNIPAM enables us to hide and show surfaces charges on command by changing its temperature.
 
@@ -370,7 +370,7 @@ The electro-osmotic mobility *µ* can be measured by observing  the electro-osmo
 .. figure:: /images/PhD_eo_nipam_temp2.svg
    :figclass: eof-pnipam-results
 
-   A temperature study of the electro-osmotic mobility in a capillary coated with PNIPAM shows a the effect of PNIPAM around 32°C (146 experiments, electrical field 400 V/cm, TBE buffers 0,5× and 0,45×).
+   A temperature study of the electro-osmotic mobility in a capillary coated with PNIPAM shows a the effect of PNIPAM around 32°C (146 experiments, electrical field 400 V/cm, TBE buffers 0,5× and 0,45×).
 
 The temperature study of the electro-osmotic flow in microchannels coated with PNIPAM validated the principle of electrokinetic mixers based on the thermosensitive polymer. One of my colleagues then led the development of miniature heating elements to create addressable patterns of charges on the surface.
 
@@ -461,16 +461,16 @@ While it's possible to create one simulation for both phenomena (heat generation
 
       Finite elements modeling relies on breaking down the system into a mesh and computing physical effects in each of the small regions. Here, the area around the channel is meshed more densely, to obtain more accurate results in the primary region of interest.
 
-The final simulation shows that a simple Joule heating line provides a stable temperature high enough to trigger PNIPAM's transition in the channel in about 100 ms.
+The final simulation shows that a simple Joule heating line provides a stable temperature high enough to trigger PNIPAM's transition in the channel in about 100 ms.
 
 .. figure:: /images/PhD_resultats-transfert2D-chrono.png
    :figclass: heat-transfer-sim
 
-   A model of the heat transfer from the Joule resistor into the microfluidic assembly shows that the temperature inside the channel is enough to change the state of PNIPAM within 100 ms (temperature scale in Kelvin).
+   A model of the heat transfer from the Joule resistor into the microfluidic assembly shows that the temperature inside the channel is enough to change the state of PNIPAM within 100 ms (temperature scale in Kelvin).
 
 .. class:: expert
 
-   I built the system using techniques from microelectronics in a clean room environment. The resistor was made by lift-off metal deposition of a 8000 Å gold layer onto a 1000 Å grafting layer of titanium. Polycrystalline silicium, being more resistive than gold, is usually used to create Joule resistors. However, gold deposition is an easier process that the one for polysilicium, which involves low-pressure chemical vapor deposition (LPCVD) at around 600°C. I therefore chose gold for fast-paced, exploratory research.
+   I built the system using techniques from microelectronics in a clean room environment. The resistor was made by lift-off metal deposition of a 8000 Å gold layer onto a 1000 Å grafting layer of titanium. Polycrystalline silicium, being more resistive than gold, is usually used to create Joule resistors. However, gold deposition is an easier process that the one for polysilicium, which involves low-pressure chemical vapor deposition (LPCVD) at around 600°C. I therefore chose gold for fast-paced, exploratory research.
 
 After building the heating element, I measured the temperature using an infrared camera, and confirmed that it could activate PNIPAM.
 
@@ -479,7 +479,7 @@ After building the heating element, I measured the temperature using an infrared
    .. figure:: /images/PhD_IR_camera_Joule_resistor_rest.png
    .. figure:: /images/PhD_IR_camera_Joule_resistor_4V.png
 
-      Infrared thermography of the Ti-Au Joule resistor shows how it heats up the glass substrate. The resistor itself appears black due to gold's low emissivity and high reflectivity. The temperature is therefore measured instead on the glass adjacent to the resistor, which is a good approximation in a stationary regime (Top: 0V, 23°C. Bottom: 7V, 40°C).
+      Infrared thermography of the Ti-Au Joule resistor shows how it heats up the glass substrate. The resistor itself appears black due to gold's low emissivity and high reflectivity. The temperature is therefore measured instead on the glass adjacent to the resistor, which is a good approximation in a stationary regime (Top: 0V, 23°C. Bottom: 7 V, 40°C).
 
       .. TODO: add color legend
 
@@ -524,7 +524,7 @@ I coated microscopic silica beads with PNIPAM to use them to trap proteins (a pr
 
 .. class:: expert
 
-   Bovine serum albumine (BSA, CAS: 9048-46-8) is often used as a model protein in biology because it is widely available, affordable, stable, and middle-sized (~66 KDa). Florescein (CAS: 2321-07-5, excitation ~495 nm, emission ~521 nm) is a common fluorophore, whose isothiocyanate conjugate (FITC, CAS: 27072-45-3) easily binds to amine groups in proteins. I also conducted experiments with streptavidin conjugated with an Alexa fluorophore.
+   Bovine serum albumine (BSA, CAS: 9048-46-8) is often used as a model protein in biology because it is widely available, affordable, stable, and middle-sized (~66 KDa). Florescein (CAS: 2321-07-5, excitation ~495 nm, emission ~521 nm) is a common fluorophore, whose isothiocyanate conjugate (FITC, CAS: 27072-45-3) easily binds to amine groups in proteins. I also conducted experiments with streptavidin conjugated with an Alexa fluorophore.
 
 .. container:: catching-proteins-chip
 
