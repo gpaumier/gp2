@@ -68,7 +68,7 @@ Biological molecules, and antibodies in particular, are fragile. Droplets are pr
 .. figure:: /images/Biochips_spotter.jpg
    :figclass: spotter
 
-   At the LFCM lab, microarrays are printed in a clean room environment using a Packard BioChip Arrayer. Its four piezoelectric capillary tips deposit samples on the surface without contact, using technology similar to ink jet printing. Droplets have a volume of around 350 pL and leave the piezo tips with a kinetic energy lower than the substrate's surface energy, so that the droplet stays whole when it makes contact. The average diameter of spots printed on our silane layer is 150 µm.
+   At the LFCM lab, microarrays are printed in a clean room environment using a Packard BioChip Arrayer. Its four piezoelectric capillary tips deposit samples on the surface without contact, using technology similar to ink jet printing. Droplets have a volume of around 350 pL and leave the piezo tips with a kinetic energy lower than the substrate's surface energy, so that the droplet stays whole when it makes contact. The average diameter of spots printed on our silane layer is 150 µm.
 
 .. Vidéo : /videos/Biochips_spotting.mov
 
@@ -82,7 +82,7 @@ Microarrays often rely on fluorescence as a detection mechanism. *Fluorophores* 
 
    .. figure:: /images/Biochips_Jablonski_diagram.svg
 
-      The Jablonski diagram shows (1) the excitation of the fluorophore to an excited electronic state S':subscript:`1` by absorption of a photon of energy *h ν*:subscript:`ex`, (2) vibrational relaxation to a lower-energy state S\ :subscript:`1`, and (3) the return to the original electronic state S\ :subscript:`0` by emission of a photon of energy *h ν*:subscript:`em` lower than that of the absorbed photon.
+      The Jablonski diagram shows (1) the excitation of the fluorophore to an excited electronic state S':subscript:`1` by absorption of a photon of energy *h ν*:subscript:`ex`, (2) vibrational relaxation to a lower-energy state S\ :subscript:`1`, and (3) the return to the original electronic state S\ :subscript:`0` by emission of a photon of energy *h ν*:subscript:`em` lower than that of the absorbed photon.
 
    .. figure:: /images/Biochips_Stokes.svg
 
@@ -175,6 +175,8 @@ both biological and chemical parameters
 
 parameters studied (in collaboration with Isabelle Mingam)
 
+.. TODO: Collapse spotting patterns https://get.foundation/building-blocks/blocks/table-expand.html
+
 Probe attachment
 ----------------
 
@@ -184,14 +186,14 @@ A first experiment consisted in testing the grafting of antibodies and antigens 
 
 .. container:: spotting-pattern
 
-   * Antibody mAb SP31 1 μM
-   * Antibody mAb SP31 1 μM, 10% glycerol
-   * Biotinylated antibody mAb SP31-biot 0.8 μM
-   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM
-   * Control antibody Il2-73 1 μM, 10% glycerol
-   * Peptide LMN1 1 μM
-   * Peptide LMN1 1 μM, 10% glycerol
+   * Antibody mAb SP31 1 μM
+   * Antibody mAb SP31 1 μM, 10% glycerol
+   * Biotinylated antibody mAb SP31-biot 0.8 μM
+   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol
+   * Control antibody Il2-73 1 μM
+   * Control antibody Il2-73 1 μM, 10% glycerol
+   * Peptide LMN1 1 μM
+   * Peptide LMN1 1 μM, 10% glycerol
 
 Blocking proteins
 -----------------
@@ -202,14 +204,14 @@ This experiment is similar to the initial grafting of probes, but free actives s
 
 .. container:: spotting-pattern
 
-   * Antibody mAb SP31 1 μM
-   * Antibody mAb SP31 1 μM, 10% glycerol
-   * Biotinylated antibody mAb SP31-biot 0.8 μM
-   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM
-   * Control antibody Il2-73 1 μM, 10% glycerol
-   * Peptide LMN1 1 μM
-   * Peptide LMN1 1 μM, 10% glycerol
+   * Antibody mAb SP31 1 μM
+   * Antibody mAb SP31 1 μM, 10% glycerol
+   * Biotinylated antibody mAb SP31-biot 0.8 μM
+   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol
+   * Control antibody Il2-73 1 μM
+   * Control antibody Il2-73 1 μM, 10% glycerol
+   * Peptide LMN1 1 μM
+   * Peptide LMN1 1 μM, 10% glycerol
 
 Drying steps
 ------------
@@ -220,14 +222,14 @@ Incubating regular antibodies with biotinylated peptides should lead to a signif
 
 .. container:: spotting-pattern
 
-   * Antibody mAb SP31 1 μM
-   * Antibody mAb SP31 1 μM, 10% glycerol
-   * Biotinylated antibody mAb SP31-biot 0.8 μM
-   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM
-   * Control antibody Il2-73 1 μM, 10% glycerol
-   * Peptide LMN1 1 μM
-   * Peptide LMN1 1 μM, 10% glycerol
+   * Antibody mAb SP31 1 μM
+   * Antibody mAb SP31 1 μM, 10% glycerol
+   * Biotinylated antibody mAb SP31-biot 0.8 μM
+   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol
+   * Control antibody Il2-73 1 μM
+   * Control antibody Il2-73 1 μM, 10% glycerol
+   * Peptide LMN1 1 μM
+   * Peptide LMN1 1 μM, 10% glycerol
 
 Glycerol content
 ----------------
@@ -238,14 +240,14 @@ We originally used a 10% glycerol concentration for probes to prevent evaporatio
 
 .. container:: spotting-pattern
 
-   * Antibody mAb SP31 1 μM, 0% glycerol
-   * Antibody mAb SP31 1 μM, 2% glycerol
-   * Antibody mAb SP31 1 μM, 4% glycerol
-   * Antibody mAb SP31 1 μM, 6% glycerol
-   * Antibody mAb SP31 1 μM, 8% glycerol
-   * AntibodymAb SP31 1 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM, 10% glycerol
+   * Antibody mAb SP31 1 μM, 0% glycerol
+   * Antibody mAb SP31 1 μM, 2% glycerol
+   * Antibody mAb SP31 1 μM, 4% glycerol
+   * Antibody mAb SP31 1 μM, 6% glycerol
+   * Antibody mAb SP31 1 μM, 8% glycerol
+   * AntibodymAb SP31 1 μM, 10% glycerol
+   * Control antibody Il2-73 1 μM, 10% glycerol
+   * Control antibody Il2-73 1 μM, 10% glycerol
 
 Incubation
 ----------
@@ -257,9 +259,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 .. container:: spotting-pattern
 
-   * Antibody mAb SP31 1 μM, 10% glycerol
-   * Antibody mAb SP31 1 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM, 10% glycerol
+   * Antibody mAb SP31 1 μM, 10% glycerol
+   * Antibody mAb SP31 1 μM, 10% glycerol
+   * Control antibody Il2-73 1 μM, 10% glycerol
 
 
 Chemical layer
@@ -274,10 +276,10 @@ grafting biological probes at other stages of the chemical functionalization
 
 .. container:: spotting-pattern
 
-   * Antibody mAb SP31 1 μM, 10% glycérol
-   * Biotinylated antibody mAb SP31-biot 0, 8 μM, 10% glycérol
-   * Control antibody Il2-73 1 μM, 10% glycérol
-   * Peptide LMN1 1 μM, 10% glycérol
+   * Antibody mAb SP31 1 μM, 10% glycérol
+   * Biotinylated antibody mAb SP31-biot 0,8 μM, 10% glycérol
+   * Control antibody Il2-73 1 μM, 10% glycérol
+   * Peptide LMN1 1 μM, 10% glycérol
 
 
 Reducing agent
@@ -290,14 +292,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 .. container:: spotting-pattern
 
-   * Antibody mAb SP31 1 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
-   * Antibody mAb SP31 1 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
-   * Biotinylated antibody mAb SP31-biot 0, 8 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
-   * Biotinylated antibody mAb SP31-biot 0, 8 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
-   * Control antibody Il2-73 1 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
-   * Control antibody Il2-73 1 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
-   * Peptide LMN1 1 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
-   * Peptide LMN1 1 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
+   * Antibody mAb SP31 1 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
+   * Antibody mAb SP31 1 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
+   * Biotinylated antibody mAb SP31-biot 0,8 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
+   * Biotinylated antibody mAb SP31-biot 0,8 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
+   * Control antibody Il2-73 1 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
+   * Control antibody Il2-73 1 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
+   * Peptide LMN1 1 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
+   * Peptide LMN1 1 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
 
 
 Reproducibility
@@ -305,8 +307,8 @@ Reproducibility
 
 Ce protocole optimisé a été appliqué afin d’estimer la reproductibilité de notre test biologique.
 Nous avons pour cela réalisé un spotting sur l’ensemble de la lame de verre (couverture d’environ
-80%). Nous avons déposé 2196 spots (36 colonnes × 61 lignes ; pas en X : 600 μm ; pas en Y :
-800 μm) d’anticorps mAb SP31, incubés avec des peptides LMN1 marqués à l’Alexa-532.
+80%). Nous avons déposé 2196 spots (36 colonnes × 61 lignes ; pas en X : 600 μm ; pas en Y :
+800 μm) d’anticorps mAb SP31, incubés avec des peptides LMN1 marqués à l’Alexa-532.
 Le critère de variation interspots, qui est un indicateur de la reproductibilité entre plusieurs
 spots représentant le même test, est de 7,7% pour ce test (calcul effectué sur un échantillon de 1500
 spots de la zone incubée), ce qui représente une valeur correcte.
@@ -360,9 +362,9 @@ The principle is the same as fluorescence experiments, except the final detectio
 
    .. container:: spotting-pattern
 
-      * Antibody mAb SP31 1 μM, 2% glycerol
-      * Antibody mAb SP31 1 μM, 2% glycerol
-      * Control antibody Il2-73 1 μM, 2% glycerol
+      * Antibody mAb SP31 1 μM, 2% glycerol
+      * Antibody mAb SP31 1 μM, 2% glycerol
+      * Control antibody Il2-73 1 μM, 2% glycerol
 
 
 Neutron reflectometry
@@ -462,4 +464,4 @@ Mass spectrometry
 
 .. figure:: /images/Biochips_digestion.png
 
-   Mass spectrum of a sample of Cytochrome C (10 pmol/µL) digested by trypsine immobilized on a vapor-phase CEA-2 chemical layer. (F. Mittler / CEA-Léti)
+   Mass spectrum of a sample of Cytochrome C (10 pmol/µL) digested by trypsine immobilized on a vapor-phase CEA-2 chemical layer. (F. Mittler / CEA-Léti)
