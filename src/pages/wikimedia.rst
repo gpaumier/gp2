@@ -171,7 +171,7 @@ In 2012, I gave a talk at Wikimania, the annual Wikipedia conference, entitled "
 
 .. raw:: html
 
-   <figure id="2012-wikimedia-history-wikimania-video">
+   <figure id="wikimedia-history-wikimania-2012-video">
      <div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/ZRA1sKIBB_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
      <figcaption>Video of my talk "Eleven years of Wikipedia, or the Wikimedia history crash course you can edit" at Wikimania 2012 in Washington, D.C. // Video loaded from YouTube <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>.</figcaption>
