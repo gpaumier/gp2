@@ -117,7 +117,6 @@
 
 (function() {
 var global = typeof window === 'undefined' ? this : window;
-var process;
 var __makeRelativeRequire = function(require, mappings, pref) {
   var none = {};
   var tryReq = function(name, pref) {
@@ -793,6 +792,8 @@ require.register("foundation-sites/js/foundation.dropdown.js", function(exports,
   (function() {
     'use strict';
 
+function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
@@ -812,8 +813,6 @@ var _foundationUtil3 = require("./foundation.util.touch");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
-function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
-
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
@@ -828,13 +827,13 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
 
-function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function () { var Super = _getPrototypeOf(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _getPrototypeOf(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _possibleConstructorReturn(this, result); }; }
+function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = _getPrototypeOf(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _getPrototypeOf(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _possibleConstructorReturn(this, result); }; }
 
 function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
 
 function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
 
-function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Date.prototype.toString.call(Reflect.construct(Date, [], function () {})); return true; } catch (e) { return false; } }
+function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
 
 function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
 
@@ -859,7 +858,7 @@ var Dropdown = /*#__PURE__*/function (_Positionable) {
 
   _createClass(Dropdown, [{
     key: "_setup",
-
+    value:
     /**
      * Creates a new instance of a dropdown.
      * @class
@@ -868,7 +867,7 @@ var Dropdown = /*#__PURE__*/function (_Positionable) {
      *        Object should be of the dropdown panel, rather than its anchor.
      * @param {Object} options - Overrides to the default plugin settings.
      */
-    value: function _setup(element, options) {
+    function _setup(element, options) {
       this.$element = element;
       this.options = _jquery["default"].extend({}, Dropdown.defaults, this.$element.data(), options);
       this.className = 'Dropdown'; // ie9 back compat
@@ -1335,6 +1334,8 @@ require.register("foundation-sites/js/foundation.dropdownMenu.js", function(expo
   (function() {
     'use strict';
 
+function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
@@ -1356,8 +1357,6 @@ var _foundationUtil4 = require("./foundation.util.touch");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
-function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
-
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
@@ -1368,13 +1367,13 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
 
-function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function () { var Super = _getPrototypeOf(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _getPrototypeOf(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _possibleConstructorReturn(this, result); }; }
+function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = _getPrototypeOf(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _getPrototypeOf(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _possibleConstructorReturn(this, result); }; }
 
 function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
 
 function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
 
-function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Date.prototype.toString.call(Reflect.construct(Date, [], function () {})); return true; } catch (e) { return false; } }
+function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
 
 function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
 
@@ -1399,7 +1398,7 @@ var DropdownMenu = /*#__PURE__*/function (_Plugin) {
 
   _createClass(DropdownMenu, [{
     key: "_setup",
-
+    value:
     /**
      * Creates a new instance of DropdownMenu.
      * @class
@@ -1408,7 +1407,7 @@ var DropdownMenu = /*#__PURE__*/function (_Plugin) {
      * @param {jQuery} element - jQuery object to make into a dropdown menu.
      * @param {Object} options - Overrides to the default plugin settings.
      */
-    value: function _setup(element, options) {
+    function _setup(element, options) {
       this.$element = element;
       this.options = _jquery["default"].extend({}, DropdownMenu.defaults, this.$element.data(), options);
       this.className = 'DropdownMenu'; // ie9 back compat
@@ -1933,6 +1932,8 @@ require.register("foundation-sites/js/foundation.positionable.js", function(expo
   (function() {
     'use strict';
 
+function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
@@ -1944,8 +1945,6 @@ var _foundationCore = require("./foundation.core.plugin");
 
 var _foundationCore2 = require("./foundation.core.utils");
 
-function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
-
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
@@ -1956,13 +1955,13 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
 
-function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function () { var Super = _getPrototypeOf(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _getPrototypeOf(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _possibleConstructorReturn(this, result); }; }
+function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = _getPrototypeOf(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _getPrototypeOf(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _possibleConstructorReturn(this, result); }; }
 
 function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
 
 function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
 
-function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Date.prototype.toString.call(Reflect.construct(Date, [], function () {})); return true; } catch (e) { return false; } }
+function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
 
 function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
 
@@ -1999,7 +1998,7 @@ var Positionable = /*#__PURE__*/function (_Plugin) {
 
   _createClass(Positionable, [{
     key: "_init",
-
+    value:
     /**
      * Abstract class encapsulating the tether-like explicit positioning logic
      * including repositioning based on overlap.
@@ -2009,7 +2008,7 @@ var Positionable = /*#__PURE__*/function (_Plugin) {
      * generated) by explicitly declaring them.
      *
      **/
-    value: function _init() {
+    function _init() {
       this.triedPositions = {};
       this.position = this.options.position === 'auto' ? this._getDefaultPosition() : this.options.position;
       this.alignment = this.options.alignment === 'auto' ? this._getDefaultAlignment() : this.options.alignment;
@@ -3630,17 +3629,17 @@ require.register("jquery/dist/jquery.js", function(exports, require, module) {
 function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
 /*!
- * jQuery JavaScript Library v3.5.1
+ * jQuery JavaScript Library v3.6.0
  * https://jquery.com/
  *
  * Includes Sizzle.js
  * https://sizzlejs.com/
  *
- * Copyright JS Foundation and other contributors
+ * Copyright OpenJS Foundation and other contributors
  * Released under the MIT license
  * https://jquery.org/license
  *
- * Date: 2020-05-04T22:49Z
+ * Date: 2021-03-02T17:08Z
  */
 (function (global, factory) {
   "use strict";
@@ -3693,7 +3692,10 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
     // In some browsers, typeof returns "function" for HTML <object> elements
     // (i.e., `typeof document.createElement( "object" ) === "function"`).
     // We don't want to classify *any* DOM node as a function.
-    return typeof obj === "function" && typeof obj.nodeType !== "number";
+    // Support: QtWeb <=3.8.5, WebKit <=534.34, wkhtmltopdf tool <=0.12.5
+    // Plus for old WebKit, typeof returns "function" for HTML collections
+    // (e.g., `typeof document.getElementsByTagName("div") === "function"`). (gh-4756)
+    return typeof obj === "function" && typeof obj.nodeType !== "number" && typeof obj.item !== "function";
   };
 
   var isWindow = function isWindow(obj) {
@@ -3751,7 +3753,7 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
   // unguarded in another place, it seems safer to define global only for this module
 
 
-  var version = "3.5.1",
+  var version = "3.6.0",
       // Define a local copy of jQuery
   jQuery = function jQuery(selector, context) {
     // The jQuery object is actually just the init constructor 'enhanced'
@@ -4078,14 +4080,14 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
 
   var Sizzle =
   /*!
-   * Sizzle CSS Selector Engine v2.3.5
+   * Sizzle CSS Selector Engine v2.3.6
    * https://sizzlejs.com/
    *
    * Copyright JS Foundation and other contributors
    * Released under the MIT license
    * https://js.foundation/
    *
-   * Date: 2020-03-14
+   * Date: 2021-02-16
    */
   function (window) {
     var i,
@@ -4585,8 +4587,8 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
      */
 
     isXML = Sizzle.isXML = function (elem) {
-      var namespace = elem.namespaceURI,
-          docElem = (elem.ownerDocument || elem).documentElement; // Support: IE <=8
+      var namespace = elem && elem.namespaceURI,
+          docElem = elem && (elem.ownerDocument || elem).documentElement; // Support: IE <=8
       // Assume HTML when documentElement doesn't yet exist, such as inside loading iframes
       // https://bugs.jquery.com/ticket/4833
 
@@ -6250,7 +6252,6 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
     return elem.nodeName && elem.nodeName.toLowerCase() === name.toLowerCase();
   }
 
-  ;
   var rsingleTag = /^<([a-z][^\/\0>:\x20\t\r\n\f]*)[\x20\t\r\n\f]*\/?>(?:<\/\1>|)$/i; // Implement the identical functionality for filter and not
 
   function winnow(elements, qualifier, not) {
@@ -7019,8 +7020,8 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
           // subordinate fulfillment data
       resolveContexts = Array(i),
           resolveValues = _slice.call(arguments),
-          // the master Deferred
-      master = jQuery.Deferred(),
+          // the primary Deferred
+      primary = jQuery.Deferred(),
           // subordinate callback factory
       updateFunc = function updateFunc(i) {
         return function (value) {
@@ -7028,26 +7029,26 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
           resolveValues[i] = arguments.length > 1 ? _slice.call(arguments) : value;
 
           if (! --remaining) {
-            master.resolveWith(resolveContexts, resolveValues);
+            primary.resolveWith(resolveContexts, resolveValues);
           }
         };
       }; // Single- and empty arguments are adopted like Promise.resolve
 
 
       if (remaining <= 1) {
-        adoptValue(singleValue, master.done(updateFunc(i)).resolve, master.reject, !remaining); // Use .then() to unwrap secondary thenables (cf. gh-3000)
+        adoptValue(singleValue, primary.done(updateFunc(i)).resolve, primary.reject, !remaining); // Use .then() to unwrap secondary thenables (cf. gh-3000)
 
-        if (master.state() === "pending" || isFunction(resolveValues[i] && resolveValues[i].then)) {
-          return master.then();
+        if (primary.state() === "pending" || isFunction(resolveValues[i] && resolveValues[i].then)) {
+          return primary.then();
         }
       } // Multiple arguments are aggregated like Promise.all array elements
 
 
       while (i--) {
-        adoptValue(resolveValues[i], updateFunc(i), master.reject);
+        adoptValue(resolveValues[i], updateFunc(i), primary.reject);
       }
 
-      return master.promise();
+      return primary.promise();
     }
   }); // These usually indicate a programmer mistake during development,
   // warn about them ASAP rather than swallowing them by default.
@@ -7974,9 +7975,7 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
     return fragment;
   }
 
-  var rkeyEvent = /^key/,
-      rmouseEvent = /^(?:mouse|pointer|contextmenu|drag|drop)|click/,
-      rtypenamespace = /^([^.]*)(?:\.(.+)|)/;
+  var rtypenamespace = /^([^.]*)(?:\.(.+)|)/;
 
   function returnTrue() {
     return true;
@@ -8501,8 +8500,13 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
             if (saved !== result) {
               // Cancel the outer synthetic event
               event.stopImmediatePropagation();
-              event.preventDefault();
-              return result.value;
+              event.preventDefault(); // Support: Chrome 86+
+              // In Chrome, if an element having a focusout handler is blurred by
+              // clicking outside of it, it invokes the handler synchronously. If
+              // that handler calls `.remove()` on the element, the data is cleared,
+              // leaving `result` undefined. We need to guard against this.
+
+              return result && result.value;
             } // If this is an inner synthetic event for an event with a bubbling surrogate
             // (focus or blur), assume that the surrogate already propagated from triggering the
             // native event and prevent that from happening again here.
@@ -8638,32 +8642,7 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
     targetTouches: true,
     toElement: true,
     touches: true,
-    which: function which(event) {
-      var button = event.button; // Add which for key events
-
-      if (event.which == null && rkeyEvent.test(event.type)) {
-        return event.charCode != null ? event.charCode : event.keyCode;
-      } // Add which for click: 1 === left; 2 === middle; 3 === right
-
-
-      if (!event.which && button !== undefined && rmouseEvent.test(event.type)) {
-        if (button & 1) {
-          return 1;
-        }
-
-        if (button & 2) {
-          return 3;
-        }
-
-        if (button & 4) {
-          return 2;
-        }
-
-        return 0;
-      }
-
-      return event.which;
-    }
+    which: true
   }, jQuery.event.addProp);
   jQuery.each({
     focus: "focusin",
@@ -8683,6 +8662,11 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
         // Force setup before trigger
         leverageNative(this, type); // Return non-false to allow normal event-path propagation
 
+        return true;
+      },
+      // Suppress native focus or blur as it's already being fired
+      // in leverageNative.
+      _default: function _default() {
         return true;
       },
       delegateType: delegateType
@@ -9287,6 +9271,10 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
       // set in CSS while `offset*` properties report correct values.
       // Behavior in IE 9 is more subtle than in newer versions & it passes
       // some versions of this test; make sure not to make it pass there!
+      //
+      // Support: Firefox 70+
+      // Only Firefox includes border widths
+      // in computed dimensions. (gh-4529)
       reliableTrDimensions: function reliableTrDimensions() {
         var table, tr, trChild, trStyle;
 
@@ -9294,12 +9282,23 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
           table = document.createElement("table");
           tr = document.createElement("tr");
           trChild = document.createElement("div");
-          table.style.cssText = "position:absolute;left:-11111px";
+          table.style.cssText = "position:absolute;left:-11111px;border-collapse:separate";
+          tr.style.cssText = "border:1px solid"; // Support: Chrome 86+
+          // Height set through cssText does not get applied.
+          // Computed height then comes back as 0.
+
           tr.style.height = "1px";
-          trChild.style.height = "9px";
+          trChild.style.height = "9px"; // Support: Android 8 Chrome 86+
+          // In our bodyBackground.html iframe,
+          // display for all div elements is set to "inline",
+          // which causes a problem only in Android 8 Chrome 86.
+          // Ensuring the div is display: block
+          // gets around this issue.
+
+          trChild.style.display = "block";
           documentElement.appendChild(table).appendChild(tr).appendChild(trChild);
           trStyle = window.getComputedStyle(tr);
-          reliableTrDimensionsVal = parseInt(trStyle.height) > 3;
+          reliableTrDimensionsVal = parseInt(trStyle.height, 10) + parseInt(trStyle.borderTopWidth, 10) + parseInt(trStyle.borderBottomWidth, 10) === tr.offsetHeight;
           documentElement.removeChild(table);
         }
 
@@ -11364,7 +11363,7 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
   var rquery = /\?/; // Cross-browser xml parsing
 
   jQuery.parseXML = function (data) {
-    var xml;
+    var xml, parserErrorElem;
 
     if (!data || typeof data !== "string") {
       return null;
@@ -11374,12 +11373,14 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
 
     try {
       xml = new window.DOMParser().parseFromString(data, "text/xml");
-    } catch (e) {
-      xml = undefined;
-    }
+    } catch (e) {}
 
-    if (!xml || xml.getElementsByTagName("parsererror").length) {
-      jQuery.error("Invalid XML: " + data);
+    parserErrorElem = xml && xml.getElementsByTagName("parsererror")[0];
+
+    if (!xml || parserErrorElem) {
+      jQuery.error("Invalid XML: " + (parserErrorElem ? jQuery.map(parserErrorElem.childNodes, function (el) {
+        return el.textContent;
+      }).join("\n") : data));
     }
 
     return xml;
@@ -12121,10 +12122,10 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
 
         if (responses) {
           response = ajaxHandleResponses(s, jqXHR, responses);
-        } // Use a noop converter for missing script
+        } // Use a noop converter for missing script but not if jsonp
 
 
-        if (!isSuccess && jQuery.inArray("script", s.dataTypes) > -1) {
+        if (!isSuccess && jQuery.inArray("script", s.dataTypes) > -1 && jQuery.inArray("json", s.dataTypes) < 0) {
           s.converters["text script"] = function () {};
         } // Convert no matter what (that way responseXXX fields are always set)
 
@@ -12761,14 +12762,6 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
       if ("using" in options) {
         options.using.call(elem, props);
       } else {
-        if (typeof props.top === "number") {
-          props.top += "px";
-        }
-
-        if (typeof props.left === "number") {
-          props.left += "px";
-        }
-
         curElem.css(props);
       }
     }
@@ -13097,223 +13090,7 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
   return jQuery;
 });
   })();
-});
-require.register("process/browser.js", function(exports, require, module) {
-  require = __makeRelativeRequire(require, {}, "process");
-  (function() {
-    "use strict";
-
-// shim for using process in browser
-var process = module.exports = {}; // cached from whatever global is present so that test runners that stub it
-// don't break things.  But we need to wrap it in a try catch in case it is
-// wrapped in strict mode code which doesn't define any globals.  It's inside a
-// function because try/catches deoptimize in certain engines.
-
-var cachedSetTimeout;
-var cachedClearTimeout;
-
-function defaultSetTimout() {
-  throw new Error('setTimeout has not been defined');
-}
-
-function defaultClearTimeout() {
-  throw new Error('clearTimeout has not been defined');
-}
-
-(function () {
-  try {
-    if (typeof setTimeout === 'function') {
-      cachedSetTimeout = setTimeout;
-    } else {
-      cachedSetTimeout = defaultSetTimout;
-    }
-  } catch (e) {
-    cachedSetTimeout = defaultSetTimout;
-  }
-
-  try {
-    if (typeof clearTimeout === 'function') {
-      cachedClearTimeout = clearTimeout;
-    } else {
-      cachedClearTimeout = defaultClearTimeout;
-    }
-  } catch (e) {
-    cachedClearTimeout = defaultClearTimeout;
-  }
-})();
-
-function runTimeout(fun) {
-  if (cachedSetTimeout === setTimeout) {
-    //normal enviroments in sane situations
-    return setTimeout(fun, 0);
-  } // if setTimeout wasn't available but was latter defined
-
-
-  if ((cachedSetTimeout === defaultSetTimout || !cachedSetTimeout) && setTimeout) {
-    cachedSetTimeout = setTimeout;
-    return setTimeout(fun, 0);
-  }
-
-  try {
-    // when when somebody has screwed with setTimeout but no I.E. maddness
-    return cachedSetTimeout(fun, 0);
-  } catch (e) {
-    try {
-      // When we are in I.E. but the script has been evaled so I.E. doesn't trust the global object when called normally
-      return cachedSetTimeout.call(null, fun, 0);
-    } catch (e) {
-      // same as above but when it's a version of I.E. that must have the global object for 'this', hopfully our context correct otherwise it will throw a global error
-      return cachedSetTimeout.call(this, fun, 0);
-    }
-  }
-}
-
-function runClearTimeout(marker) {
-  if (cachedClearTimeout === clearTimeout) {
-    //normal enviroments in sane situations
-    return clearTimeout(marker);
-  } // if clearTimeout wasn't available but was latter defined
-
-
-  if ((cachedClearTimeout === defaultClearTimeout || !cachedClearTimeout) && clearTimeout) {
-    cachedClearTimeout = clearTimeout;
-    return clearTimeout(marker);
-  }
-
-  try {
-    // when when somebody has screwed with setTimeout but no I.E. maddness
-    return cachedClearTimeout(marker);
-  } catch (e) {
-    try {
-      // When we are in I.E. but the script has been evaled so I.E. doesn't  trust the global object when called normally
-      return cachedClearTimeout.call(null, marker);
-    } catch (e) {
-      // same as above but when it's a version of I.E. that must have the global object for 'this', hopfully our context correct otherwise it will throw a global error.
-      // Some versions of I.E. have different rules for clearTimeout vs setTimeout
-      return cachedClearTimeout.call(this, marker);
-    }
-  }
-}
-
-var queue = [];
-var draining = false;
-var currentQueue;
-var queueIndex = -1;
-
-function cleanUpNextTick() {
-  if (!draining || !currentQueue) {
-    return;
-  }
-
-  draining = false;
-
-  if (currentQueue.length) {
-    queue = currentQueue.concat(queue);
-  } else {
-    queueIndex = -1;
-  }
-
-  if (queue.length) {
-    drainQueue();
-  }
-}
-
-function drainQueue() {
-  if (draining) {
-    return;
-  }
-
-  var timeout = runTimeout(cleanUpNextTick);
-  draining = true;
-  var len = queue.length;
-
-  while (len) {
-    currentQueue = queue;
-    queue = [];
-
-    while (++queueIndex < len) {
-      if (currentQueue) {
-        currentQueue[queueIndex].run();
-      }
-    }
-
-    queueIndex = -1;
-    len = queue.length;
-  }
-
-  currentQueue = null;
-  draining = false;
-  runClearTimeout(timeout);
-}
-
-process.nextTick = function (fun) {
-  var args = new Array(arguments.length - 1);
-
-  if (arguments.length > 1) {
-    for (var i = 1; i < arguments.length; i++) {
-      args[i - 1] = arguments[i];
-    }
-  }
-
-  queue.push(new Item(fun, args));
-
-  if (queue.length === 1 && !draining) {
-    runTimeout(drainQueue);
-  }
-}; // v8 likes predictible objects
-
-
-function Item(fun, array) {
-  this.fun = fun;
-  this.array = array;
-}
-
-Item.prototype.run = function () {
-  this.fun.apply(null, this.array);
-};
-
-process.title = 'browser';
-process.browser = true;
-process.env = {};
-process.argv = [];
-process.version = ''; // empty string to avoid regexp issues
-
-process.versions = {};
-
-function noop() {}
-
-process.on = noop;
-process.addListener = noop;
-process.once = noop;
-process.off = noop;
-process.removeListener = noop;
-process.removeAllListeners = noop;
-process.emit = noop;
-process.prependListener = noop;
-process.prependOnceListener = noop;
-
-process.listeners = function (name) {
-  return [];
-};
-
-process.binding = function (name) {
-  throw new Error('process.binding is not supported');
-};
-
-process.cwd = function () {
-  return '/';
-};
-
-process.chdir = function (dir) {
-  throw new Error('process.chdir is not supported');
-};
-
-process.umask = function () {
-  return 0;
-};
-  })();
-});require.alias("jquery/dist/jquery.js", "jquery");
-require.alias("process/browser.js", "process");process = require('process');require.register("___globals___", function(exports, require, module) {
+});require.alias("jquery/dist/jquery.js", "jquery");require.register("___globals___", function(exports, require, module) {
   
 });})();require('___globals___');
 
