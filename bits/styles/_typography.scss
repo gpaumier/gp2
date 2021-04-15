@@ -260,3 +260,8 @@ p.continue-reading {
 .fn-backref, .footnote p {
   font-size: .8rem;
 }
+
+
+section:last-child, p:last-child {
+  margin-bottom: 0;
+}
