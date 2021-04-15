@@ -6,9 +6,17 @@
   grid-template-columns: minmax(.5rem, 1fr) minmax(min-content, $width) minmax(.5rem, 1fr);
   margin-bottom: 3rem;
 
+  &:last-child {
+    margin-bottom: 0;
+  }
+
   figure {
     grid-column: 1 / 4;
     margin-bottom: 2rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
 
     img {
       width: 100%;
@@ -43,12 +51,20 @@
     minmax(.5rem, 1fr);
   margin-bottom: 3rem;
 
+  &:last-child {
+    margin-bottom: 0;
+  }
+
   // Full-width images in small viewports
 
   > figure,
   .figures {
     grid-column: 1 / 6;
     margin-bottom: 2rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
 
     img {
       width: 100%;
