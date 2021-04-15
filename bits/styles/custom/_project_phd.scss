@@ -127,8 +127,8 @@ article.custom-phd {
     @include split-layout-txt-pics-hero(
       $image-side: right,
       $background: light,
-      $text-width: 65ch,
-      $pics-width: 45ch,
+      $text-width: 68ch,
+      $pics-width: 42ch,
     );
 
     h2 {
@@ -164,8 +164,8 @@ article.custom-phd {
       $image-side: left,
       $image-row-span: 3,
       $background: dark,
-      $text-width: 65ch,
-      $pics-width: 45ch,
+      $text-width: 68ch,
+      $pics-width: 42ch,
     );
 
     .expert {
@@ -182,8 +182,8 @@ article.custom-phd {
       $image-side: right,
       $image-row-span: 4,
       $background: light,
-      $text-width: 65ch,
-      $pics-width: 45ch,
+      $text-width: 68ch,
+      $pics-width: 42ch,
     );
 
     > figure:first-of-type img {
@@ -265,7 +265,7 @@ article.custom-phd {
     // This section has subsections
 
     #grafting-chemistry {
-      @include split-layout-txt-pics(right, 2, 45ch, 65ch);
+      @include split-layout-txt-pics(right, 2, 42ch, 68ch);
 
       .expert {
         @include place-split-layout-element(right, "2/4");
@@ -279,7 +279,7 @@ article.custom-phd {
     }
 
     #contact-angle {
-      @include split-layout-txt-pics(left, 2, 45ch, 65ch);
+      @include split-layout-txt-pics(left, 2, 42ch, 68ch);
 
       .functionalization-hydrophobic-hydrophilic {
         @include side-by-side-figures();
@@ -292,7 +292,7 @@ article.custom-phd {
     }
 
     #infrared-spectroscopy {
-      @include split-layout-txt-pics(right, 2, 45ch, 65ch);
+      @include split-layout-txt-pics(right, 2, 42ch, 68ch);
 
       .functionalization-ftir {
         @include place-split-layout-element(right, "2/5");
@@ -342,8 +342,8 @@ article.custom-phd {
       $image-side: right,
       $image-row-span: 4,
       $background: dark,
-      $text-width: 65ch,
-      $pics-width: 45ch,
+      $text-width: 68ch,
+      $pics-width: 42ch,
     );
 
     .mixers-principle {
@@ -368,7 +368,7 @@ article.custom-phd {
     }
 
     #electro-osmosis {
-      @include split-layout-txt-pics(left, 2, 40ch, 70ch);
+      @include split-layout-txt-pics(left, 2, 42ch, 68ch);
 
       .eof-edl {
         @include place-split-layout-element(left, "2/5");
@@ -376,7 +376,7 @@ article.custom-phd {
     }
 
     #controlling-the-electro-osmotic-flow-with-pnipam {
-      @include split-layout-txt-pics(right, 2, 45ch, 65ch);
+      @include split-layout-txt-pics(right, 2, 42ch, 68ch);
 
       .eof-experiment {
         @include place-split-layout-element(right, "2/5");
@@ -478,12 +478,12 @@ article.custom-phd {
       $image-side: right,
       $image-row-span: 4,
       $background: dark,
-      $text-width: 65ch,
-      $pics-width: 45ch,
+      $text-width: 68ch,
+      $pics-width: 42ch,
     );
 
     .catching-proteins-principle {
-      @include place-split-layout-element(right, "7/9");
+      @include place-split-layout-element(right, "6/9");
       align-self: center;
     }
 
@@ -513,7 +513,7 @@ article.custom-phd {
 
   #beyond-the-research {
 
-    @include split-layout-hero(light, 45ch, 65ch);
+    @include split-layout-hero(light, 42ch, 68ch);
 
     > figure:first-of-type img {
         // Increase opacity and saturation a bit since contrast of the image is low.
