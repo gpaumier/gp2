@@ -171,16 +171,16 @@ Some peptides are not directly marked with a fluorophore, but rather with a biot
 Parameter study & protocol optimization
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-both biological and chemical parameters
+Biological tests, and immunoassays in particular, can be difficult to control because they depend on so many different parameters: duration and temperature of the successive steps, humidity, blocking proteins, buffers, etc. In order to increase the reproducibility of our tests, I worked with fellow engineer Isabelle Mingam to study those parameters and optimize them for the most consistent results.
 
-parameters studied (in collaboration with Isabelle Mingam)
+The tests confirmed the need for blocking proteins to limit background noise, and a small amount of glycerol to limit the evaporation of droplets. We also found out that the drying step, done by centrifuge for DNA microarrays in the lab, might be too strong for antibodies: a softer drying method better preserved their integrity, in particular their antigen-binding site (paratope) needed to recognize and attach molecules of interest.
 
 .. TODO: Collapse spotting patterns https://get.foundation/building-blocks/blocks/table-expand.html
 
 Probe attachment
 ----------------
 
-A first experiment consisted in testing the grafting of antibodies and antigens on the CEA-2 chemical layer. Biotinylated antibodies and antigens were spotted, and their presence was directly detected using streptavidinated fluorophores (Cyanine3). As expected, only biotinylated antibodies (rows 3 & 4) and biotinylated peptides (rows 7 & 8) show significant fluorescence. Neither non-biotinylated nor control probes show high fluorescence.
+A first experiment tested the grafting of antibodies and antigens on the CEA-2 chemical layer. Biotinylated antibodies and antigens were spotted, and their presence was directly detected using streptavidinated fluorophores (Cyanine3). As expected, only biotinylated antibodies (rows 3 & 4) and biotinylated peptides (rows 7 & 8) showed significant fluorescence. Neither non-biotinylated nor control probes showed high fluorescence.
 
 .. figure:: /images/Biochips_GP-08_bloc2_532.jpg
 
@@ -198,7 +198,7 @@ A first experiment consisted in testing the grafting of antibodies and antigens 
 Blocking proteins
 -----------------
 
-This experiment is similar to the initial grafting of probes, but free actives sites are not blocked: without neutral proteins like bovine serum albumin (BSA), fluorophores adsorb on the surface and lead to high background noise.
+This experiment was similar to the initial grafting of probes, but free actives sites were not blocked: without neutral proteins like bovine serum albumin (BSA), fluorophores adsorbed on the surface and led to high background noise.
 
 .. figure:: /images/Biochips_GP-02_bloc2_532.jpg
 
@@ -216,7 +216,7 @@ This experiment is similar to the initial grafting of probes, but free actives s
 Drying steps
 ------------
 
-Incubating regular antibodies with biotinylated peptides should lead to a significant fluorescence signal, but it originally didn't (rows 1 & 2). This led us to reconsider the drying step by centrifuge after immobilization, which may damage the antibodies. We switched to a softer drying using an azote stream instead. The final drying step, after incubation and immediately before detection, can still be done using a centrifuge, since fluorophores are more robust than antibodies.
+Incubating regular antibodies with biotinylated peptides should lead to a significant fluorescence signal, but it originally didn't (rows 1 & 2). This led us to reconsider the drying step by centrifuge after immobilization, which might damage the antibodies. We switched to a softer drying step using an azote stream instead. The final drying step (after incubation and immediately before detection) can still be done using a centrifuge, since fluorophores are more robust than antibodies.
 
 .. figure:: /images/Biochips_GP-10_bloc2_532.jpg
 
@@ -234,7 +234,7 @@ Incubating regular antibodies with biotinylated peptides should lead to a signif
 Glycerol content
 ----------------
 
-We originally used a 10% glycerol concentration for probes to prevent evaporation. However, too high a concentration may decrease fluorescence later. A study of glycerol percentage reveals that 2% glycerol is enough to prevent evaporation.
+We originally used a 10% glycerol concentration for probes to prevent evaporation. However, too high a concentration may decrease fluorescence later. A study of glycerol percentage revealed that 2% glycerol was enough to prevent evaporation.
 
 .. figure:: /images/Biochips_217b-03_bloc1_532.jpg
 
@@ -249,10 +249,10 @@ We originally used a 10% glycerol concentration for probes to prevent evaporatio
    * Control antibody Il2-73 1 μM, 10% glycerol
    * Control antibody Il2-73 1 μM, 10% glycerol
 
-Incubation
-----------
+Incubation period
+-----------------
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A higher temperature on incubation leads to a faster reaction, but needs to remain compatible with our biological molecules. Our reaction kinetics study showed that the reaction between antibodies and antigens was very fast, so we tested incubation periods of five minutes (top) and one hour (bottom). Results after one hour showed more consistent fluorescence (indicative of target saturation) and comparable background noise.
 
 .. figure:: /images/Biochips_236-30_532s.jpg
 .. figure:: /images/Biochips_236-29_532s.jpg
@@ -267,25 +267,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Chemical layer
 --------------
 
-Stage of CEA-2 protocol
-
-grafting biological probes at other stages of the chemical functionalization
+In the original microarray protocol, DNA strands (oligonucleotides) were grafted onto the CEA-2 layer at the aldehyde stage via their amine ending (NH\ :subscript:`2`). Our antibodies and antigens also had amine functions, so it made sense to graft them at the aldehyde stage as well. Out of scientific curiosity, we decided to test grafting them on the epoxide (top) and diol (bottom) stages. Both led to less consistent, lower fluorescence, so we stuck to aldehyde.
 
 .. figure:: /images/Biochips_216-31_bloc2_532.jpg
 .. figure:: /images/Biochips_216-07_bloc2_532.jpg
 
 .. container:: spotting-pattern
 
-   * Antibody mAb SP31 1 μM, 10% glycérol
-   * Biotinylated antibody mAb SP31-biot 0,8 μM, 10% glycérol
-   * Control antibody Il2-73 1 μM, 10% glycérol
-   * Peptide LMN1 1 μM, 10% glycérol
+   * Antibody mAb SP31 1 μM, 10% glycerol
+   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol
+   * Control antibody Il2-73 1 μM, 10% glycerol
+   * Peptide LMN1 1 μM, 10% glycerol
 
 
 Reducing agent
 --------------
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The imine chemical function between the biological probe and the silane's aldehyde needs to be reduced to be stable over time. This reduction can be done *in situ*  by adding NaCNBH\ :subscript:`3` directly to the solution of probes (top), or afterwards with a NaBH\ :subscript:`4` bath (bottom). The latter turned out to damage the blocking proteins and increased background noise, so we chose *in situ* reduction.
 
 .. figure:: /images/Biochips_217b-06_bloc2_532.jpg
 .. figure:: /images/Biochips_217b-07_bloc2_532.jpg
@@ -294,8 +292,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
    * Antibody mAb SP31 1 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
    * Antibody mAb SP31 1 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
-   * Biotinylated antibody mAb SP31-biot 0,8 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
-   * Biotinylated antibody mAb SP31-biot 0,8 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
+   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
+   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
    * Control antibody Il2-73 1 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
    * Control antibody Il2-73 1 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
    * Peptide LMN1 1 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
@@ -305,21 +303,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Reproducibility
 ---------------
 
-Ce protocole optimisé a été appliqué afin d’estimer la reproductibilité de notre test biologique.
-Nous avons pour cela réalisé un spotting sur l’ensemble de la lame de verre (couverture d’environ
-80%). Nous avons déposé 2196 spots (36 colonnes × 61 lignes ; pas en X : 600 μm ; pas en Y :
-800 μm) d’anticorps mAb SP31, incubés avec des peptides LMN1 marqués à l’Alexa-532.
-Le critère de variation interspots, qui est un indicateur de la reproductibilité entre plusieurs
-spots représentant le même test, est de 7,7% pour ce test (calcul effectué sur un échantillon de 1500
-spots de la zone incubée), ce qui représente une valeur correcte.
-
-Conclusion: optimized protocol
+Once the different parameters of the protocol were optimized, we printed biological probes onto an entire glass slide, and measured an interspot variation of 7.7%, which indicates good reproducibility between spots of the same biological test.
 
 .. figure:: /images/Biochips_236-32_532.jpg
 
 .. container:: spotting-pattern
 
-   * Antibody mAb SP31 incubated with peptide LMN1 marked with Alexa-532.
+   * Antibody mAb SP31 incubated with peptide LMN1 marked with Alexa-532 (2196 spots: 36 columns by 61 lines; *x* step: 600 μm, *y* step: 800 μm)
+
 
 
 Chemical characterization
@@ -338,10 +329,10 @@ The principle of the experiment is similar to previous immunoassays, except fluo
 
 Our exploratory work showed promising results: we were able to observe
 
-.. figure:: /images/2010-07-03_Qt_duck.jpg
+.. figure:: /images/Biochips_reaction_kinetics_1nM.svg
    :figclass: reaction-kinetics-chart
 
-   Reaction kinetics
+   Reaction kinetics: Cinétique de liaison du modèle de guillaume pour une solutio de 1 nM (P = 500 µW, D = 0,5 mL/min, pH = 7,4
 
 .. [#galland2008] Rémi Galland. *Mise en œuvre de concepts de détecteurs optiques de fluorescence intégrant la source de lumière au composant pour des immunoanalyses adaptées à des applications hors laboratoires.* Ph.D dissertation. Biophysics, Université Joseph-Fourier -- Grenoble I, 2008. `tel-00332307 <https://tel.archives-ouvertes.fr/tel-00332307>`__.
 
