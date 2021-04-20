@@ -232,30 +232,56 @@ article.custom-biochips {
     @include spotting-pattern();
   }
 
+  /////////////////////////////////////////////////////////////
 
+  #alternative-detection-methods {
+    @include split-layout-hero(
+      $background: dark,
+      $left-width: 65ch,
+      $right-width: 65ch
+    );
+
+    > figure:first-of-type img {
+      // make this a little darker to ensure legibility
+        filter: brightness(35%);
+    }
+  }
 
   #reaction-kinetics {
     @include split-layout-txt-pics(
       $image-side: right,
-      $image-row-span: 3,
+      $image-row-span: 2,
       $pics-width: 50ch,
       $text-width: 50ch,
     );
 
+    .reaction-kinetics-diagram {
+      @media screen and (min-width: 100ch) {
+        justify-self: center;
+        max-width: 40ch;
+      }
+    }
+
     .reaction-kinetics-chart {
-      @include place-split-layout-element(right, "4/7");
+      @include place-split-layout-element(right, "3/5");
+      align-self: center;
     }
   }
 
   #photothermal-deflection-spectroscopy {
     @include split-layout-txt-pics(
       $image-side: left,
-      $image-row-span: 5,
-      $pics-width: 50ch,
-      $text-width: 50ch,
+      $image-row-span: 3,
+      $pics-width: 60ch,
+      $text-width: 60ch,
     );
 
+    .apparatus-jackson {
+      align-self: center;
+    }
+
     .figures {
+      @include place-split-layout-element(left, "4/7");
       align-self: center;
     }
   }
