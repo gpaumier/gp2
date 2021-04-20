@@ -360,7 +360,7 @@ The principle of the immunoassay is the same as in fluorescence experiments, exc
 
    In technical terms, an Argon laser provides the pump beam that heats up the surface. It's focused by mirrors rather than a dioptric system, which could cause chromatic aberrations. The probe beam from a 2 mW He-Ne laser is detected by a quadrant photodiode. The LICP's experiment is set up for Transverse PDS, where the pump beam comes in normal to the surface, and the probe beam passes parallel. The substrate's surface undergoes the usual CEA-2 process, and mAb SP31 antibodies are grafted onto it. A solution of biotinylated antigens is incubated on the surface, followed by streptavidinated gold nanobeads with a 10 nm diameter. The presence of the gold nanobeads is finally detected by PDS.
 
-Although we used a highly concentrated antigen solution for this exploratory experiment, we were able to detect antigens on their specific antibodies, indicating that the interaction had taken place. No signal was detected on the control antibodies, indicating that the interaction was specific to our probe antibodies.
+Although we admittedly used a highly concentrated antigen solution for this exploratory experiment, we were able to detect antigens on their specific antibodies, indicating that the interaction had taken place. No signal was detected on the control antibodies, indicating that the interaction was specific to our probes.
 
 .. container:: figures
 
