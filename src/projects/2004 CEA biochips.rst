@@ -140,6 +140,8 @@ Antibody microarray on CEA-2 protocol
 
 .. figure:: /images/Biochips_236-30_532.jpg
 
+TODO: add intro
+
 Substance P
 ~~~~~~~~~~~
 
@@ -162,7 +164,9 @@ Once the probes are bound to the chemical layer, the surface is rinsed to remove
 
 A solution containing the target molecules (antigens/peptides) is then deposited on the spotted surface, and left to incubate under a plastic cover slip. If the peptides are marked with a fluorophore, then detection is direct: after rinsing and drying the surface, the results are obtained directly from the fluorescence scanner.
 
-Some peptides are not directly marked with a fluorophore, but rather with a biotin, a small vitamin. Biotin has an extraordinarily high affinity for streptavidin, a larger protein; their bond is one of the strongest known non-covalent interactions. Such *biotinylated* peptides can be indirectly detected using *streptavidinated fluorophores*, meaning fluorophores attached to a streptavidin. The antibodies themselves can also be marked with a biotin, to check their presence on the surface independent of their interaction with peptides.
+.. class:: expert
+
+   Some peptides are not directly marked with a fluorophore, but rather with a biotin, a small vitamin. Biotin has an extraordinarily high affinity for streptavidin, a larger protein; their bond is one of the strongest known non-covalent interactions. Such *biotinylated* peptides can be indirectly detected using *streptavidinated fluorophores*, meaning fluorophores attached to a streptavidin. The antibodies themselves can also be marked with a biotin, to check their presence on the surface independent of their interaction with peptides.
 
 .. figure:: /images/Biochips_immunotest_paths.svg
 
@@ -312,44 +316,57 @@ Once the different parameters of the protocol were optimized, we printed biologi
    * Antibody mAb SP31 incubated with peptide LMN1 marked with Alexa-532 (2196 spots: 36 columns by 61 lines; *x* step: 600 μm, *y* step: 800 μm)
 
 
+Alternative detection methods
+=============================
 
-Chemical characterization
-~~~~~~~~~~~~~~~~~~~~~~~~~
+.. figure:: /images/jj-ying-fbKDd7R7_24-unsplash.jpg
+
+   `JJ Ying <https://unsplash.com/@jjying>`__ on `Unsplash <https://unsplash.com/photos/fbKDd7R7_24>`__
+
+TODO: Add intro; chemical characterization
 
 Reaction kinetics
------------------
+~~~~~~~~~~~~~~~~~
 
-All the fluorescence-based experiments conducted so far were done after a period of incubation between antibodies and peptides. I worked with Rémi Galland, from the CEA's *Laboratoire d'Imagerie des Systèmes d'Acquisition* (LISA),\ [#galland2008]_ to study the kinetics of that interaction in real time,
-
-The principle of the experiment is similar to previous immunoassays, except fluorescence is measured continuously as the target peptides, marked with fluorophores, are introduced into the system.
+All the fluorescence-based experiments conducted so far were done after a period of incubation between antibodies and peptides. I worked with Rémi Galland, from the CEA's *Laboratoire d'Imagerie des Systèmes d'Acquisition* (LISA), to study the kinetics of that interaction in real time.\ [#galland2008]_ The principle of the experiment was similar to previous immunoassays, except that fluorescence wass measured continuously as the target peptides, marked with fluorophores, were introduced into the system.
 
 .. figure:: /images/Biochips_reaction_kinetics.svg
+   :figclass: reaction-kinetics-diagram
 
-   Principle of real-time measurement of the antibody-peptide
+   Principle of real-time measurement of the antibody−peptide interaction.
 
-Our exploratory work showed promising results: we were able to observe
+Our exploratory work showed promising results: we were able to observe a rapid increase in signal during the first few minutes of the experiment, showing a plateau (indicating saturation) after about 30 minutes. The signal then decreased over time due to photobleaching (the gradual fading of fluorophores under the exciting light). These results prompted us to experiment with shorter incubation periods (described above).
 
 .. figure:: /images/Biochips_reaction_kinetics_1nM.svg
    :figclass: reaction-kinetics-chart
 
-   Reaction kinetics: Cinétique de liaison du modèle de guillaume pour une solutio de 1 nM (P = 500 µW, D = 0,5 mL/min, pH = 7,4
+   Reaction kinetics between mAb SP31 antibodies, grafted on CEA-2 chemistry, and fluorescein-marked LMN1 peptides in solution at 1 nM (P = 500 µW, D = 0.5 mL/min, pH = 7.4).
 
 .. [#galland2008] Rémi Galland. *Mise en œuvre de concepts de détecteurs optiques de fluorescence intégrant la source de lumière au composant pour des immunoanalyses adaptées à des applications hors laboratoires.* Ph.D dissertation. Biophysics, Université Joseph-Fourier -- Grenoble I, 2008. `tel-00332307 <https://tel.archives-ouvertes.fr/tel-00332307>`__.
 
 Photothermal deflection spectroscopy
-------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Photothermal deflection spectroscopy (PDS), also called "Mirage effect"
+Photothermal deflection spectroscopy (PDS) is a technique used to characterize thin layers by measuring the change in refractive index of a sample due to heating by light. In other words, one laser heats a surface to different degrees depending on what's on it; another laser is shone through the same surface, and the way it's deflected by heat provides information on what's there.
 
-gold nanobeads
+.. figure:: /images/Biochips_Photothermal_deflection_spectroscopy_setup.png
+   :figclass: framed apparatus-jackson
 
-In collaboration with Violaine Vizcaino from the CEA's *Laboratoire d'Ingénierie des Composants Photoniques* (LICP).
+   Experimental apparatus for transverse PDS from Jackson *et al.*'s 1981 article "`Photothermal deflection spectroscopy and detection <https://digital.library.unt.edu/ark:/67531/metadc827884/>`__." *Applied Optics.* **20** (8): 1333–1344.
 
-The principle is the same as fluorescence experiments, except the final detection step is done through streptavidin bound to gold nanoparticles rather than a fluorophore.
+The principle of the immunoassay is the same as in fluorescence experiments, except the final detection step to visualize antibodies and antigens is done indirectly using gold nanoparticles rather than a fluorophore. For this experiment, I partnered with Violaine Vizcaino, from the CEA's *Laboratoire d'Ingénierie des Composants Photoniques* (LICP).\ [#mirage]_
+
+.. class:: expert
+
+   In technical terms, an Argon laser provides the pump beam that heats up the surface. It's focused by mirrors rather than a dioptric system, which could cause chromatic aberrations. The probe beam from a 2 mW He-Ne laser is detected by a quadrant photodiode. The LICP's experiment is set up for Transverse PDS, where the pump beam comes in normal to the surface, and the probe beam passes parallel. The substrate's surface undergoes the usual CEA-2 process, and mAb SP31 antibodies are grafted onto it. A solution of biotinylated antigens is incubated on the surface, followed by streptavidinated gold nanobeads with a 10 nm diameter. The presence of the gold nanobeads is finally detected by PDS.
+
+Although we used a highly concentrated antigen solution for this exploratory experiment, we were able to detect antigens on their specific antibodies, indicating that the interaction had taken place. No signal was detected on the control antibodies, indicating that the interaction was specific to our probe antibodies.
 
 .. container:: figures
 
    .. figure:: /images/Biochips_billes100.png
+
+      Result of the PDS experiment in false colors for a 100 nM antigen solution. Antigens are detected (via gold nanobeads) on the first two rows containing specific antibodies, but not on the third row containing control antibodies.
 
    .. container:: spotting-pattern
 
@@ -357,9 +374,11 @@ The principle is the same as fluorescence experiments, except the final detectio
       * Antibody mAb SP31 1 μM, 2% glycerol
       * Control antibody Il2-73 1 μM, 2% glycerol
 
+.. [#mirage] Violaine's technical report isn't available publicly, but `Wikipedia's article on photothermal spectroscopy <https://en.wikipedia.org/wiki/Photothermal_spectroscopy>`__ provides a general overview of the technique, and details about the LICP's experimental setup are available in Appendix B of `my own report </documents/Biochips_report.pdf>`__ (in French), pages 69−72 (PDF, 3.2 MB).
+
 
 Neutron reflectometry
----------------------
+~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: /images/Institut_Laue_Langevin_inside_reactor_hall.jpg
 
@@ -383,6 +402,8 @@ Vapor-phase silanization for proteomics
 .. figure:: /images/luke-besley-zAv-nWtQJlc-unsplash.jpg
 
    `Luke Besley <https://unsplash.com/@besluk>`__ on `Unsplash <https://unsplash.com/photos/zAv-nWtQJlc>`__
+
+TODO: Add intro
 
 Adapting the protocol
 ~~~~~~~~~~~~~~~~~~~~~
