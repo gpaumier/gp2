@@ -43,6 +43,12 @@ Install Nikola and extras:
     $ pip install --upgrade pip setuptools wheel
     $ pip install --upgrade "Nikola[extras]"
 
+Install Nikola plugins as needed:
+
+::
+
+    $ nikola plugin -i sphinx_roles
+
 Clone the site's repository:
 
 ::
