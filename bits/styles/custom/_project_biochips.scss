@@ -186,6 +186,9 @@ article.custom-biochips {
     h3,
     & > p {
       column-span: all;
+      max-width: 100ch;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     section {
@@ -289,13 +292,35 @@ article.custom-biochips {
   #neutron-reflectometry {
     @include split-layout-txt-pics(
       $image-side: right,
-      $image-row-span: 5,
+      $image-row-span: 3,
       $pics-width: 50ch,
       $text-width: 50ch,
     );
 
-    figure {
+    .ill-reactor {
       align-self: center;
+    }
+
+    .d17-photo {
+      @include place-split-layout-element(right, "4/5");
+      align-self: center;
+    }
+
+    .d17-diagram {
+      @include place-split-layout-element(right, "5/8");
+      align-self: center;
+    }
+
+    table {
+      @include spread-split-layout-element("8/9");
+
+       th, td {
+         text-align: center;
+       }
+
+       th:first-of-type, td:first-of-type {
+         text-align: left;
+       }
     }
   }
 

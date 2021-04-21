@@ -7,7 +7,6 @@
 .. image: /images/DNA_microarray_23.svg
 .. tags: biochips, surface functionalization, silane
 .. template: page_custom.tmpl
-.. has_math: yes
 
 .. TODO: fix dates, fix title & subtitle
 
@@ -333,7 +332,7 @@ All the fluorescence-based experiments conducted so far were done after a period
 .. figure:: /images/Biochips_reaction_kinetics.svg
    :figclass: reaction-kinetics-diagram
 
-   Principle of real-time measurement of the antibody−peptide interaction.
+   Principle of real-time measurement of the interaction between antibodies and peptides.
 
 Our exploratory work showed promising results: we were able to observe a rapid increase in signal during the first few minutes of the experiment, showing a plateau (indicating saturation) after about 30 minutes. The signal then decreased over time due to photobleaching (the gradual fading of fluorophores under the exciting light). These results prompted us to experiment with shorter incubation periods (described above).
 
@@ -358,7 +357,11 @@ The principle of the immunoassay is the same as in fluorescence experiments, exc
 
 .. class:: expert
 
-   In technical terms, an Argon laser provides the pump beam that heats up the surface. It's focused by mirrors rather than a dioptric system, which could cause chromatic aberrations. The probe beam from a 2 mW He-Ne laser is detected by a quadrant photodiode. The LICP's experiment is set up for Transverse PDS, where the pump beam comes in normal to the surface, and the probe beam passes parallel. The substrate's surface undergoes the usual CEA-2 process, and mAb SP31 antibodies are grafted onto it. A solution of biotinylated antigens is incubated on the surface, followed by streptavidinated gold nanobeads with a 10 nm diameter. The presence of the gold nanobeads is finally detected by PDS.
+   .. container::
+
+      In technical terms, an Argon laser provides the pump beam that heats up the surface. It's focused by mirrors rather than a dioptric system, which could cause chromatic aberrations. The probe beam from a 2 mW He-Ne laser is detected by a quadrant photodiode. The LICP's experiment is set up for Transverse PDS, where the pump beam comes in normal to the surface, and the probe beam passes parallel.
+
+      The substrate's surface undergoes the usual CEA-2 process, and mAb SP31 antibodies are grafted onto it. A solution of biotinylated antigens is incubated on the surface, followed by streptavidinated gold nanobeads with a 10 nm diameter. The presence of the gold nanobeads is finally detected by PDS.
 
 Although we admittedly used a highly concentrated antigen solution for this exploratory experiment, we were able to detect antigens on their specific antibodies, indicating that the interaction had taken place. No signal was detected on the control antibodies, indicating that the interaction was specific to our probes.
 
@@ -374,24 +377,62 @@ Although we admittedly used a highly concentrated antigen solution for this expl
       * Antibody mAb SP31 1 μM, 2% glycerol
       * Control antibody Il2-73 1 μM, 2% glycerol
 
-.. [#mirage] Violaine's technical report isn't available publicly, but `Wikipedia's article on photothermal spectroscopy <https://en.wikipedia.org/wiki/Photothermal_spectroscopy>`__ provides a general overview of the technique, and details about the LICP's experimental setup are available in Appendix B of `my own report </documents/Biochips_report.pdf>`__ (in French), pages 69−72 (PDF, 3.2 MB).
+.. [#mirage] Violaine's technical report isn't publicly available, but `Wikipedia's article on photothermal spectroscopy <https://en.wikipedia.org/wiki/Photothermal_spectroscopy>`__ provides a general overview of the technique, and details about the LICP's experimental setup are available (in French) in Appendix B of `my own report (PDF, 3.2 MB) </documents/Biochips_report.pdf>`__, pages 69−72.
 
 
 Neutron reflectometry
 ~~~~~~~~~~~~~~~~~~~~~
 
+Towards the end of my time at CEA-Léti, I was offered the opportunity to visit the neighboring Institut Laue-Langevin (ILL), and to study my immunoassay layers using neutron reflectometry. I worked in collaboration with Giovanna Fragneto to prepare the samples, and subject them to the ILL's intense neutron source inside its D17 reflectometer.\ [#cubitt2002]_
+
 .. figure:: /images/Institut_Laue_Langevin_inside_reactor_hall.jpg
+   :figclass: ill-reactor
 
    Inside the hall of the high-flux nuclear reactor at Institut Laue-Langevin in Grenoble, France. (Nerd bzh on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Institut_Laue_Langevin_inside_reactor_hall.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__)
 
-one of the most intense neutron sources in the world
+Neutron reflectometry is a technique used to study thin films, by shining a tight neutron beam from a high flux nuclear reactor onto a very flat surface, and measuring the intensity of the reflected radiation. It is particularly adapted to the study of stratified biological layers, because neutrons are highly penetrating and not as damaging as X-rays to delicate samples like ours.
 
-Neutron reflectometer with horizontal scattering geometry
+.. figure:: /images/Biochips_d17_neutron_reflectometer.jpg
+   :figclass: d17-photo
 
-Institut Laue-Langevin (ILL) with Giovanna Fragneto
-D17 reflectometer
+   ILL's D17 reflectometer (`ILL/B. Lehn <https://en.lswn.it/health/neutrons-are-supporting-the-fight-against-diabetes/>`__)
 
-.. [#cubitt2002] \R. Cubitt and G. Fragneto. D17: The new reflectometer at the ILL. *Appl. Phys. A* **74**, s329--s331 (2002). `doi 10.1007/s003390201611 <https://doi.org/10.1007/s003390201611>`__, `full text <https://www.ill.eu/fileadmin/user_upload/ILL/3_Users/Scientific_groups/Large_Scale_Structures/People/Giovanna_FRAGNETO/D17.pdf>`__
+.. class:: expert
+
+   .. container::
+
+      Experiments were conducted with different liquids to provide contrast: water (H\ :subscript:`2`\ O), heavy water (D\ :subscript:`2`\ O), and silicon-matched water (SMW). SMW is an H\ :subscript:`2`\ O/D\ :subscript:`2`\ O mixture with a neutron scattering length density (SLD) (ρ\ :subscript:`w`\ = 2.07 × 10\ :superscript:`−6` Å\ :superscript:`−2`) that matches that of the silicon substrate, to facilitate measurement of the layers of interest.
+
+      Because antibodies are much larger than antigens, we inverted the immunoassay protocol to attach antigens on the surface first, and then incubate them with antibodies, rather than the other way around. Our hypothesis was that this would make it easier to detect changes in the thickness of the biological layers.
+
+.. figure:: /images/Biochips_D17.png
+   :figclass: d17-diagram framed
+
+   Two modes of operation of the `D17 reflectometer <https://www.ill.eu/users/instruments/instruments-list/d17/description/instrument-layout>`__ (Cubitt & Fragneto). D17 has a horizontal scattering geometry and offers two modes of operation: a monochromatic mode, and a time-of-flight mode (TOF) for dynamic studies like reaction kinetics.
+
+
+Our results (see table below) were consistent with layers of native silicon oxide, silane, and antigens. The blocking proteins increased the density of the antigen layer, which was consistent with the hypothesis that they saturated active free sites. However, the results for antibody layers were unexpected, showing thinner layers than with just the antigens. One explanation might be that our sensitive biological molecules, usually preserved in chemical buffers, were denatured during the experiment, and couldn't attach specifically.
+
+.. class:: expert
+
+   Confirming the presence of the mixed layer of antigens and blocking protein would require deuterating one of those two substances, meaning replacing hydrogen by its heavier isotope, deuterium, to vary their contrast. To avoid the possible denaturation of antibodies, preparing buffers using D\ :subscript:`2`\ O and silicon-matched water would provide contrast while preserving a physiological environment adapted to biological molecules. Although I wasn't able to conduct these follow-up experiments before the end of my contract, I still felt privileged to have been able to glimpse into this entirely different field of physics.
+
+
+======================================   ==============   =====   ============
+Layer                                    Thickness (nm)   |SLD|   Rugosity (Å)
+======================================   ==============   =====   ============
+SiO\ :subscript:`2`                      1.3              3.41    0.4
+Silane                                   0.7              −0.4    0.4
+LMN1 peptide                             6.7              1.4     1.2
+LMN1 peptide + |BSA|                     6.6              1.7     1.4
+LMN1 peptide + BSA + specific antibody   5.7              1.2     1.2
+LMN1 peptide + BSA + control antibody    5.7              1.2     1.2
+======================================   ==============   =====   ============
+
+.. |SLD| replace:: :abbr:`SLD (Scattering Length Density)` (×10\ :superscript:`−6` Å\ :superscript:`−2`)
+.. |BSA| replace:: :abbr:`BSA (Bovine serum albumin: blocking protein)`
+
+.. [#cubitt2002] \R. Cubitt and G. Fragneto. D17: The new reflectometer at the ILL. *Appl. Phys. A* **74**, s329--s331 (2002). `doi:10.1007/s003390201611 <https://doi.org/10.1007/s003390201611>`__, `full text (PDF, 140 KB) <https://www.ill.eu/fileadmin/user_upload/ILL/3_Users/Scientific_groups/Large_Scale_Structures/People/Giovanna_FRAGNETO/D17.pdf>`__
 
 
 ----
