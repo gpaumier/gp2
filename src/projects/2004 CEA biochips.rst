@@ -139,12 +139,12 @@ Antibody microarray on CEA-2 protocol
 
 .. figure:: /images/Biochips_236-30_532.jpg
 
-TODO: add intro
+My goal was to adapt an antigen-antibody biological test, which had been developed in capillaries, to a planar format that had been designed for DNA biochips. I brought those two techniques together, showed the feasibility of printing antibody microarrays on the CEA-2 chemical layer, and studied experimental parameters to optimize the protocol.
 
 Substance P
 ~~~~~~~~~~~
 
-Substance P (SP) is a neurotransmitter from the neurokinin family, synthesized by neurons and able to excite nearby neurons. SP is involved in many physiological systems, including  the transmission of pain information into the central nervous system.
+Substance P (SP) is a neurotransmitter from the neurokinin family, synthesized by neurons and able to excite nearby neurons. SP is involved in many physiological systems, including  the transmission of pain information to the central nervous system.
 
 Substance P was used as a model molecule in the development of a novel approach to detect biological warfare agents, led by Laure-Marie Neuburger of the *Laboratoire d'Études et de Recherches en Immunoanalyse* (LERI).\ [#neuburger2006]_ Laure-Marie had been developing the immunoassay in capillaries, and produced the antibodies and antigens, conjugated with fluorophores or other molecules. I adapted Laure-Marie's immunoassay to planar microarrays using the CEA-2 protocol, traditionally used for DNA biochips.
 
@@ -322,7 +322,7 @@ Alternative detection methods
 
    `JJ Ying <https://unsplash.com/@jjying>`__ on `Unsplash <https://unsplash.com/photos/fbKDd7R7_24>`__
 
-TODO: Add intro; chemical characterization
+Using fluorescence to reveal the antibody-antigen interaction after a period of incubation was the primary technique I used to develop the immunoassay. There are many other characterization methods for chemical surfaces and biological layers; I partnered with three nearby labs to study our biological model using real-time fluorescence, lasers, and neutrons.
 
 Reaction kinetics
 ~~~~~~~~~~~~~~~~~
@@ -390,7 +390,7 @@ Towards the end of my time at CEA-Léti, I was offered the opportunity to visit 
 
    Inside the hall of the high-flux nuclear reactor at Institut Laue-Langevin in Grenoble, France. (Nerd bzh on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Institut_Laue_Langevin_inside_reactor_hall.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__)
 
-Neutron reflectometry is a technique used to study thin films, by shining a tight neutron beam from a high flux nuclear reactor onto a very flat surface, and measuring the intensity of the reflected radiation. It is particularly adapted to the study of stratified biological layers, because neutrons are highly penetrating and not as damaging as X-rays to delicate samples like ours.
+Neutron reflectometry is a technique used to study thin films by shining a tight neutron beam from a high flux nuclear reactor onto a very flat surface, and measuring the intensity of the reflected radiation. It is particularly adapted to the study of stratified biological layers, because neutrons are highly penetrating and not as damaging as X-rays to delicate samples like ours.
 
 .. figure:: /images/Biochips_d17_neutron_reflectometer.jpg
    :figclass: d17-photo
@@ -401,7 +401,7 @@ Neutron reflectometry is a technique used to study thin films, by shining a tigh
 
    .. container::
 
-      Experiments were conducted with different liquids to provide contrast: water (H\ :subscript:`2`\ O), heavy water (D\ :subscript:`2`\ O), and silicon-matched water (SMW). SMW is an H\ :subscript:`2`\ O/D\ :subscript:`2`\ O mixture with a neutron scattering length density (SLD) (ρ\ :subscript:`w`\ = 2.07 × 10\ :superscript:`−6` Å\ :superscript:`−2`) that matches that of the silicon substrate, to facilitate measurement of the layers of interest.
+      We conducted experiments with different liquids to provide contrast: water (H\ :subscript:`2`\ O), heavy water (D\ :subscript:`2`\ O), and silicon-matched water (SMW). SMW is an H\ :subscript:`2`\ O/D\ :subscript:`2`\ O mixture with a neutron scattering length density (SLD) (ρ\ :subscript:`w`\ = 2.07 × 10\ :superscript:`−6` Å\ :superscript:`−2`) that matches that of the silicon substrate, to facilitate measurement of the layers of interest.
 
       Because antibodies are much larger than antigens, we inverted the immunoassay protocol to attach antigens on the surface first, and then incubate them with antibodies, rather than the other way around. Our hypothesis was that this would make it easier to detect changes in the thickness of the biological layers.
 
@@ -410,13 +410,11 @@ Neutron reflectometry is a technique used to study thin films, by shining a tigh
 
    Two modes of operation of the `D17 reflectometer <https://www.ill.eu/users/instruments/instruments-list/d17/description/instrument-layout>`__ (Cubitt & Fragneto). D17 has a horizontal scattering geometry and offers two modes of operation: a monochromatic mode, and a time-of-flight mode (TOF) for dynamic studies like reaction kinetics.
 
-
 Our results (see table below) were consistent with layers of native silicon oxide, silane, and antigens. The blocking proteins increased the density of the antigen layer, which was consistent with the hypothesis that they saturated active free sites. However, the results for antibody layers were unexpected, showing thinner layers than with just the antigens. One explanation might be that our sensitive biological molecules, usually preserved in chemical buffers, were denatured during the experiment, and couldn't attach specifically.
 
 .. class:: expert
 
    Confirming the presence of the mixed layer of antigens and blocking protein would require deuterating one of those two substances, meaning replacing hydrogen by its heavier isotope, deuterium, to vary their contrast. To avoid the possible denaturation of antibodies, preparing buffers using D\ :subscript:`2`\ O and silicon-matched water would provide contrast while preserving a physiological environment adapted to biological molecules. Although I wasn't able to conduct these follow-up experiments before the end of my contract, I still felt privileged to have been able to glimpse into this entirely different field of physics.
-
 
 ======================================   ==============   =====   ============
 Layer                                    Thickness (nm)   |SLD|   Rugosity (Å)
@@ -429,7 +427,7 @@ LMN1 peptide + BSA + specific antibody   5.7              1.2     1.2
 LMN1 peptide + BSA + control antibody    5.7              1.2     1.2
 ======================================   ==============   =====   ============
 
-.. |SLD| replace:: :abbr:`SLD (Scattering Length Density)` (×10\ :superscript:`−6` Å\ :superscript:`−2`)
+.. |SLD| replace:: :abbr:`SLD (Scattering Length Density)` (× 10\ :superscript:`−6` Å\ :superscript:`−2`)
 .. |BSA| replace:: :abbr:`BSA (Bovine serum albumin: blocking protein)`
 
 .. [#cubitt2002] \R. Cubitt and G. Fragneto. D17: The new reflectometer at the ILL. *Appl. Phys. A* **74**, s329--s331 (2002). `doi:10.1007/s003390201611 <https://doi.org/10.1007/s003390201611>`__, `full text (PDF, 140 KB) <https://www.ill.eu/fileadmin/user_upload/ILL/3_Users/Scientific_groups/Large_Scale_Structures/People/Giovanna_FRAGNETO/D17.pdf>`__
@@ -444,76 +442,100 @@ Vapor-phase silanization for proteomics
 
    `Luke Besley <https://unsplash.com/@besluk>`__ on `Unsplash <https://unsplash.com/photos/zAv-nWtQJlc>`__
 
-TODO: Add intro
+Add intro here
 
 Adapting the protocol
 ~~~~~~~~~~~~~~~~~~~~~
 
+All our experiments so far relied on attaching biological molecules to a chemical layer of silane, prepared on a flat surface like a glass slide, using the CEA-2 protocol. This liquid-phase silanization was done in organic solvents like toluene, which work well for glass and silicon substrates. However, they damage many other materials like polydimethylsiloxane (PDMS), a transparent and biocompatible polymer widely used in biological microsystems.
+
+When such polymers are involved, another solution is to conduct the silanization in *vapor phase*: instead of diluting the silane in a solvent, the liquid silane is turned into a gas that attaches to the surface. My goal was therefore to adapt the regular, liquid-phase CEA-2 protocol to a vapor-phase method, by heating the silane in a closed container and depositing it on our surfaces.
+
 .. figure:: /images/Biochips_vapor_phase.svg
+   :figclass: vapor-phase-diagram
 
-Analysis of chemical layers
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Atomic force microscopy
------------------------
-
-.. figure:: /images/Biochips_244-2A.png
-
-.. figure:: /images/Biochips_244-2B.png
-
-.. figure:: /images/Biochips_239-5A.png
-
-.. figure:: /images/Biochips_239-5B.png
-
+   Based on the scientific literature describing other silanes, I devised a protocol to silanize glass and silicon substrates in vapor phase, and compared their properties to those prepared with the liquid-phase CEA-2 protocol. I placed the slides in a tight Teflon container with a small quantity of liquid silane, and heated the system to 130°C to establish a liquid-gas equilibrium. I experimented with different periods of silanization and ways to activate the surface (with O\ :subscript:`2` plasma and NaOH Brown).
 
 Contact angle measurement
--------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. chart:: Box
-   :title: 'Contact angle comparison between liquid phase and vapor phase silanization'
-   :box_mode: extremes
-   :legend_at_bottom: True
-   :truncate_legend: -1
+Measuring the contact angle of a droplet of water is a fast and easy way to characterize a surface. On a hydrophilic surface, which attracts water, the droplet spreads out and yields a low contact angle. On a hydrophobic surface, which repels water, the droplet bulges out and gives a higher angle.
 
-   'Epoxyde, liquid phase', [66.3, 64.5, 68.1, 68.4, 66.6, 66.4, 67.3, 65.5, 64.2, 62.8]
-   'Epoxyde, vapor phase', [65.9, 66.1, 65.9, 66.2, 66.3, 65.8, 65.1, 65.9, 64, 64.7]
-   'Diol, liquid phase', [56, 54.8, 54, 54.1, 53.5, 52.6, 53.2, 52, 51.4, 50.9]
-   'Diol, vapor phase', [49.7, 51.1, 53.2, 52.9, 50.8, 50, 50, 49.1, 47.8, 50.1]
+.. figure:: /images/Attension_Theta_CA.png
+   :figclass: contact-angle-principle
+
+   The sessile drop technique provides information on the properties of a surface by measuring the contact angle of a droplet of liquid dropped on it (Jyrkorpela on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Attension_Theta_CA.png>`__ // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__).
+
+This method only provides limited information, because different materials and layers can lead to the same angle. However, standardized chemical protocol like CEA-2 have well-known contact angles that correspond to the chemical functions present on the surface at each stage.
+
+Therefore, I compared the contact angles of surfaces prepared with the CEA-2 protocol in vapor phase and in liquid phase, at two different stages of the process. The results indicated similar angles between vapor and liquid phase for both stages, which was encouraging, although not definitive.
+
+.. figure:: /images/Biochips-vapor-phase-contact-angle.svg
+   :figclass: vapor-contact-angle-results
+
+   Comparison of contact angle measurement between liquid phase and vapor phase silanization at two stages of the CEA-2 process (epoxyde and diol).
+
+Atomic force microscopy
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Another method in the toolbox of the surface chemist is atomic force microscopy (AFM). By sweeping a microscopic tip very close to the surface, and measuring the interaction between the two of them, scientists can reconstruct an image of the surface at the nanometer scale.
+
+I prepared two substrates with the vapor-phase and liquid-phase silanization protocols and observed them by AFM. The vapor-phase sample showed a smoother surface, with a rugosity (a measure of the small peaks and valley)  of about 2 Å, close to that of a naked surface. By contrast, the rugosity of the surface prepared with the liquid-phase protocol was over 32 Å.
+
+On its own, this result might indicate that the vapor-phase silanization had failed. Taken individually, contact angle and atomic force microscopy don't provide definitive proof of the success of the vapor-phase protocol. But since contact angles between protocols were consistent, the difference of rugosity might have been due to a more disorganized layer of silane deposited in liquid phase.
+
+.. container:: figures
+
+   .. figure:: /images/Biochips_244-2A.png
+   .. figure:: /images/Biochips_244-2B.png
+   .. figure:: /images/Biochips_239-5A.png
+   .. figure:: /images/Biochips_239-5B.png
+
+   .. class:: caption
+
+      Analysis of surfaces functionalized with CEA-2 chemistry in vapor phase (top) and liquid phase (bottom), using atomic force microscopy.
 
 
+Antibody microarray on vapor-phase silane
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Fluorescence
-------------
+.. container:: figures
 
-.. figure:: /images/Biochips_238a-02_532.jpg
+   .. figure:: /images/Biochips_238a-02_532.jpg
+   .. figure:: /images/Biochips_236-29_532.jpg
 
-.. figure:: /images/Biochips_236-29_532.jpg
+   .. class:: caption
 
-Homogeneity and reproducibility
--------------------------------
+      Comparison of results of our immunoassay on CEA-2 chemistry in vapor phase (left) and liquid phase (right), using fluorescence.
 
 .. figure:: /images/Biochips_245-02_532.jpg
+   :figclass: immunoassay-vapor-reproducibility
+
+
+Peptidic digestion & Mass spectrometry
+======================================
+
+.. figure:: /images/Biochips_Aerosol.png
+
+   `PiccoloNamek <https://en.wikipedia.org/wiki/User:PiccoloNamek>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Aerosol.png>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
 
 BioChipLab
 ~~~~~~~~~~
-
-intro
------
 
 .. figure:: /images/Biochips_biochiplab.png
 
    BioChipLab digestion module with connectors. (F. Mittler / CEA-Léti)
 
 Fluorescence microscopy
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: /images/Biochips_biochiplab_230904_puce5.png
 
    Fluorescence microcopy confirmed the successful vapor-phase silanization of a BioChipLab digestion module, by binding  Cyanine3 phosphoramidite on the diol ending. The channel surface inside the assembled chip was activated using plasma before silanization. (F. Mittler / CEA-Léti)
 
 Mass spectrometry
------------------
+~~~~~~~~~~~~~~~~~
 
 .. figure:: /images/Biochips_digestion.png
 

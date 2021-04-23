@@ -326,18 +326,19 @@
 
 //////////////////////////////////////////////////
 
-@mixin side-by-side-figures($column-gap: 0) {
+@mixin side-by-side-figures($column-gap: 0, $rows: 2) {
 
-  // A little utility to place two figures side by side in a grid, and have a (manual) caption spread underneath
+  // A little utility to place two figures side by side in a grid, and have a (manual) caption spread underneath.
+  // If we have more than to opictures (e.g. two rows of two pictures and one row of caption), increase $rows to add more explicit rows so the explicit placement of the caption works.
 
   display: grid;
   grid-template-columns: 1fr 1fr;
   column-gap: $column-gap;
-  grid-template-rows: min-content min-content;
+  grid-template-rows: repeat($rows, min-content);
 
   p.caption {
     grid-column: 1/3;
-    grid-row: 2/3;
+    grid-row: -2/-1;
     margin-top: .2rem;
     margin-bottom: 1rem;
   }

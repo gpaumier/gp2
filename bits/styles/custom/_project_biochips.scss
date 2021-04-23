@@ -147,6 +147,11 @@ article.custom-biochips {
       $left-width: 65ch,
       $right-width: 65ch
     );
+
+    > figure:first-of-type img {
+      // make this a little darker to ensure legibility
+        filter: brightness(40%);
+    }
   }
 
   #substance-p {
@@ -298,6 +303,7 @@ article.custom-biochips {
     );
 
     .ill-reactor {
+      @include place-split-layout-element(right, "2/4");
       align-self: center;
     }
 
@@ -323,6 +329,7 @@ article.custom-biochips {
        }
     }
   }
+  /////////////////////////////////////////////////////////////
 
   #vapor-phase-silanization-for-proteomics {
     @include split-layout-hero(
@@ -330,7 +337,86 @@ article.custom-biochips {
       $left-width: 65ch,
       $right-width: 65ch
     );
+
+    #adapting-the-protocol {
+      @include split-layout-txt-pics(
+        $image-side: right,
+        $image-row-span: 3,
+        $pics-width: 40ch,
+        $text-width: 65ch,
+      );
+
+      .vapor-phase-diagram {
+        img {
+          max-width: 10rem;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+        }
+
+        align-self: center;
+      }
+    }
+
+    #contact-angle-measurement {
+      @include split-layout-txt-pics(
+        $image-side: left,
+        $image-row-span: 3,
+        $pics-width: 40ch,
+        $text-width: 50ch,
+      );
+
+      .contact-angle-principle {
+        align-self: center;
+      }
+
+      .vapor-contact-angle-results {
+        @include place-split-layout-element(left, "4/5");
+        align-self: center;
+      }
+    }
+
+    #atomic-force-microscopy {
+
+      grid-column: 2/5;
+      max-width: 70ch;
+      justify-self: center;
+
+      .figures {
+        @include side-by-side-figures(0, 3);
+      }
+    }
+
+    #antibody-microarray-on-vapor-phase-silane {
+      @include split-layout-txt-pics(
+        $image-side: right,
+        $image-row-span: 3,
+        $pics-width: 25ch,
+        $text-width: 75ch,
+      );
+
+      .figures {
+        @include side-by-side-figures(1rem, 2);
+        @include place-split-layout-element(left, "4/5");
+      }
+
+      .immunoassay-vapor-reproducibility {
+        @include place-split-layout-element(right, "1/5");
+      }
+    }
+
+
+
   }
 
+  #peptidic-digestion-mass-spectrometry {
+    @include split-layout-hero(
+      $background: dark,
+      $left-width: 65ch,
+      $right-width: 65ch
+    );
+  }
+
+  /////////////////////////////////////////////////////////////
 
 }
