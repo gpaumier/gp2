@@ -280,7 +280,7 @@ article.custom-biochips {
     @include split-layout-txt-pics(
       $image-side: left,
       $image-row-span: 3,
-      $pics-width: 60ch,
+      $pics-width: 40ch,
       $text-width: 60ch,
     );
 
@@ -298,8 +298,8 @@ article.custom-biochips {
     @include split-layout-txt-pics(
       $image-side: right,
       $image-row-span: 3,
-      $pics-width: 50ch,
-      $text-width: 50ch,
+      $pics-width: 40ch,
+      $text-width: 60ch,
     );
 
     .ill-reactor {
@@ -307,13 +307,8 @@ article.custom-biochips {
       align-self: center;
     }
 
-    .d17-photo {
-      @include place-split-layout-element(right, "4/5");
-      align-self: center;
-    }
-
     .d17-diagram {
-      @include place-split-layout-element(right, "5/8");
+      @include place-split-layout-element(right, "4/7");
       align-self: center;
     }
 
@@ -391,21 +386,15 @@ article.custom-biochips {
       @include split-layout-txt-pics(
         $image-side: right,
         $image-row-span: 3,
-        $pics-width: 25ch,
+        $pics-width: 32ch,
         $text-width: 75ch,
       );
 
       .figures {
-        @include side-by-side-figures(1rem, 2);
-        @include place-split-layout-element(left, "4/5");
+        align-self: center;
       }
 
-      .immunoassay-vapor-reproducibility {
-        @include place-split-layout-element(right, "1/5");
-      }
     }
-
-
 
   }
 
@@ -415,6 +404,44 @@ article.custom-biochips {
       $left-width: 65ch,
       $right-width: 65ch
     );
+
+    #biochiplab {
+      @include split-layout-txt-pics(
+        $image-side: right,
+        $image-row-span: 3,
+        $pics-width: 32ch,
+        $text-width: 68ch,
+      );
+
+      figure {
+        @include place-split-layout-element(right, "3/5");
+        align-self: center;
+      }
+
+    }
+
+    #fluorescence-microscopy {
+      @include split-layout-txt-pics(
+        $image-side: left,
+        $image-row-span: 4,
+        $pics-width: 32ch,
+        $text-width: 68ch,
+      );
+    }
+
+    #mass-spectrometry {
+      @include split-layout-txt-pics(
+        $image-side: right,
+        $image-row-span: 4,
+        $pics-width: 60ch,
+        $text-width: 40ch,
+      );
+
+      figure {
+        align-self: center;
+      }
+    }
+
   }
 
   /////////////////////////////////////////////////////////////
