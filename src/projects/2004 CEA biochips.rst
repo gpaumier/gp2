@@ -1,14 +1,11 @@
 .. title: Surface functionalization for fluorescence immunoassays and microsystems
 .. category: projects-en
-.. subtitle: Surface functionalization
 .. slug: biochips
-.. date: 2004-09-01T00:00:00
-.. end: 2008-11-06T00:00:00
+.. date: 2004-05-01T00:00:00
+.. end: 2004-09-01T00:00:00
 .. image: /images/DNA_microarray_23.svg
 .. tags: biochips, surface functionalization, silane
 .. template: page_custom.tmpl
-
-.. TODO: fix dates, fix title & subtitle
 
 
 
@@ -23,6 +20,8 @@
 
 • Developed a miniaturized fluorescence-based immuno-assay on a microarray.
 • Adapted a liquid phase surface chemistry protocol to a vapor phase protocol for microsystems.
+
+with Guillaume Delapierre
 
 Laboratory for Functionalization and Chemistry for Microsystems (LFCM) of the CEA-Léti in Grenoble, France. CEA-Léti is one of the world's largest organizations for applied research in microelectronics and nanotechnology.
 
@@ -392,11 +391,6 @@ Towards the end of my time at CEA-Léti, I was offered the opportunity to visit 
 
 Neutron reflectometry is a technique used to study thin films by shining a tight neutron beam from a high flux nuclear reactor onto a very flat surface, and measuring the intensity of the reflected radiation. It is particularly adapted to the study of stratified biological layers, because neutrons are highly penetrating and not as damaging as X-rays to delicate samples like ours.
 
-.. figure:: /images/Biochips_d17_neutron_reflectometer.jpg
-   :figclass: d17-photo
-
-   ILL's D17 reflectometer (`ILL/B. Lehn <https://en.lswn.it/health/neutrons-are-supporting-the-fight-against-diabetes/>`__)
-
 .. class:: expert
 
    .. container::
@@ -442,12 +436,12 @@ Vapor-phase silanization for proteomics
 
    `Luke Besley <https://unsplash.com/@besluk>`__ on `Unsplash <https://unsplash.com/photos/zAv-nWtQJlc>`__
 
-Add intro here
+I adapted the CEA-2 chemical protocol to attach the silane as a gas instead of in a liquid solvent, which can damage some materials like those used in microdevices for protein analysis.
 
 Adapting the protocol
 ~~~~~~~~~~~~~~~~~~~~~
 
-All our experiments so far relied on attaching biological molecules to a chemical layer of silane, prepared on a flat surface like a glass slide, using the CEA-2 protocol. This liquid-phase silanization was done in organic solvents like toluene, which work well for glass and silicon substrates. However, they damage many other materials like polydimethylsiloxane (PDMS), a transparent and biocompatible polymer widely used in biological microsystems.
+All our experiments so far relied on attaching biological molecules to a chemical layer of silane, prepared on a flat surface like a glass slide, using the CEA-2 protocol. This *liquid-phase* silanization was done in organic solvents like toluene, which work well for glass and silicon substrates. However, they damage many other materials like polydimethylsiloxane (PDMS), a transparent and biocompatible polymer widely used in biological microsystems.
 
 When such polymers are involved, another solution is to conduct the silanization in *vapor phase*: instead of diluting the silane in a solvent, the liquid silane is turned into a gas that attaches to the surface. My goal was therefore to adapt the regular, liquid-phase CEA-2 protocol to a vapor-phase method, by heating the silane in a closed container and depositing it on our surfaces.
 
@@ -499,17 +493,24 @@ On its own, this result might indicate that the vapor-phase silanization had fai
 Antibody microarray on vapor-phase silane
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+I developed the vapor-phase protocol primarily for use in microsystems made with polymers that don't hold up well with solvents, but it can also be used for immunoassays made on regular glass slides. Therefore, I printed antibody spots on surfaces coated with vapor-phase silanization, incubated them with fluorescent antigens, and compared the results to the same test prepared with the liquid-phase protocol.
+
+The experiment was a success, with the antigens attaching to their specific antibodies and showing good fluorescence signal, similar to that on liquid-phase silanization. As expected, the antigens didn't attach to the control antibodies, whose spots were barely distinguishable from background signal.
+
 .. container:: figures
 
-   .. figure:: /images/Biochips_238a-02_532.jpg
-   .. figure:: /images/Biochips_236-29_532.jpg
+   .. figure:: /images/Biochips_238a-02_532s.png
+   .. figure:: /images/Biochips_236-29_532s.jpg
 
    .. class:: caption
 
-      Comparison of results of our immunoassay on CEA-2 chemistry in vapor phase (left) and liquid phase (right), using fluorescence.
+      Comparison of the immunoassay on CEA-2 chemistry in vapor phase (top) and liquid phase (bottom), using fluorescence.
 
-.. figure:: /images/Biochips_245-02_532.jpg
-   :figclass: immunoassay-vapor-reproducibility
+      .. container:: spotting-pattern
+
+         * Antibody mAb SP31 1 μM, 10% glycerol
+         * Antibody mAb SP31 1 μM, 10% glycerol
+         * Control antibody Il2-73 1 μM, 10% glycerol
 
 
 Peptidic digestion & Mass spectrometry
@@ -519,24 +520,42 @@ Peptidic digestion & Mass spectrometry
 
    `PiccoloNamek <https://en.wikipedia.org/wiki/User:PiccoloNamek>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Aerosol.png>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
+After developing a vapor-phase protocol for the CEA-2 chemistry, I applied it to the silanization of a microdevice used in the preparation of samples and the analysis of proteins.
 
 BioChipLab
 ~~~~~~~~~~
 
+The field of proteomics is dedicated to the study of proteins in the same way that genomics is the study of an organism's DNA. But whereas DNA remains more or less the same, proteins vary widely between cells and change over time. Proteins are also much larger molecules than DNA strands.
+
+One technique used by scientists to study proteins consists in cutting them into smaller fragments (peptides), and using mass spectrometry to identify those fragments by their charge and mass. The final piece of my work at CEA was to use vapor-phase silanization on a closed miniaturized device, in order to attach an enzyme that would cut break down proteins for analysis. For this work, I partnered with Frédérique Mittler, from the LFCM lab.
+
+
+.. class:: expert
+
+   In technical terms, the goal of the BioChipLab project was to develop a microsystem coupled to a mass spectrometer for proteomics and pharmacology. It included microreactors, a digestion module, and an electrospray nozzle. My work focused on functionalizing the peptidic digestion module with vapor-phase CEA-2 chemistry in order to graft trypsin, an enzyme that catalyzes the breakdown of proteins into smaller peptides for analysis.
+
 .. figure:: /images/Biochips_biochiplab.png
 
-   BioChipLab digestion module with connectors. (F. Mittler / CEA-Léti)
+   BioChipLab digestion module with connectors. (F. Mittler / CEA-Léti)
 
 Fluorescence microscopy
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+The full analysis involved many steps: silanization, binding of the enzyme, digestion of the proteins, and analysis of the peptides by mass spectrometry. If the final spectrum results showed the peaks characteristic of the expected peptides, then we would have confirmation that the process was a success.
+
+In order to experiment with the vapor-phase silanization and iterate more quickly, we first used devices with a transparent cover, and attempted to attach a fluorescent molecule on the silane. We were thus able to observe fluorescence in our device's microchannel, confirming that the molecules had attached to a layer of silane.
+
 .. figure:: /images/Biochips_biochiplab_230904_puce5.png
 
-   Fluorescence microcopy confirmed the successful vapor-phase silanization of a BioChipLab digestion module, by binding  Cyanine3 phosphoramidite on the diol ending. The channel surface inside the assembled chip was activated using plasma before silanization. (F. Mittler / CEA-Léti)
+   Fluorescence microcopy confirmed the successful vapor-phase silanization of a BioChipLab digestion module, by binding  Cyanine3 phosphoramidite on the diol ending. The channel surface inside the assembled chip was activated using plasma before silanization. (F. Mittler / CEA-Léti)
 
 Mass spectrometry
 ~~~~~~~~~~~~~~~~~
 
+Finally, we attached trypsin, the enzyme, to the layer of silane in the microchannel of our module. We attempted the digestion of Cytochrome C, a small protein, and analyzed the results with mass spectrometry.
+
+Initial results were promising, with a mass spectrum showing many of the expected peaks. The digestion might not have been complete, but this first result was an encouraging step towards further research.
+
 .. figure:: /images/Biochips_digestion.png
 
-   Mass spectrum of a sample of Cytochrome C (10 pmol/µL) digested by trypsine immobilized on a vapor-phase CEA-2 chemical layer. (F. Mittler / CEA-Léti)
+   Mass spectrum of a sample of Cytochrome C (10 pmol/µL) digested by trypsine immobilized on a vapor-phase CEA-2 chemical layer. Green squares indicate peaks corresponding to expected peptides. (F. Mittler / CEA-Léti)
