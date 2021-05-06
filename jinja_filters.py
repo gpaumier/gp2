@@ -8,10 +8,10 @@ def get_lead_text (post_text):
     The lead text is identified by a <blockquote> with the 'highlights' class"""
 
     tree = html.fromstring(post_text)
-    highlights = tree.xpath('//blockquote[@class="highlights"]')
 
     try:
         # http://stackoverflow.com/questions/29887576/xpath-extract-current-node-content-including-all-child-node
+        highlights = tree.xpath('//blockquote[@class="highlights"]')
         lead_text = highlights[0].text + ''.join(le.tostring(node, encoding='unicode') for node in highlights[0])
 
     except IndexError:
@@ -28,9 +28,9 @@ def get_lead_figure (post_text):
     The lead figure is identified by a <figure> with the 'lead-figure' class"""
 
     tree = html.fromstring(post_text)
-    node = tree.xpath('//figure[@class="lead-figure"]')[0]
 
     try:
+        node = tree.xpath('//figure[@class="lead-figure"]')[0]
         lead_fig = node.text + ''.join(le.tostring(e, encoding='unicode') for e in node)
 
     except IndexError:
