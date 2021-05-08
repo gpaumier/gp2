@@ -169,7 +169,7 @@ article.custom-phd {
     );
 
     .expert {
-      @include place-split-layout-element(left, "9/11");
+      @include place-split-layout-element(left, "9/12");
       align-self: center;
     }
   }
@@ -221,12 +221,6 @@ article.custom-phd {
       }
     }
 
-    #pnipam-transition-video {
-      .embed {
-          @include responsive-embed(widescreen);
-      }
-    }
-
     .pnipam-formula {
       @include place-split-layout-element(right, "6/8");
     }
@@ -245,7 +239,11 @@ article.custom-phd {
 
     #pnipam-transition-video {
       @include place-split-layout-element(right, "9/11");
-      align-self: center;
+      align-self: end;
+
+      .embed {
+          @include responsive-embed(widescreen);
+      }
     }
 
   }

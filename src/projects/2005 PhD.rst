@@ -7,7 +7,7 @@
 .. image: /images/PNIPAM_microsystems_at_LAAS_CNRS_022_June_2008.jpg
 .. tags: labs-on-a-chip, microfluidics, PNIPAM, polymers
 .. template: page_custom.tmpl
-.. has_math: yes
+.. has_math: true
 
 
 .. figure:: /images/PNIPAM_microsystem.jpg
@@ -170,6 +170,17 @@ Miniaturization dramatically increases the surface-to-volume ratio, meaning that
    In technical terms, microfluidics is the science and technology of systems that handle fluids and have at least one of their defining dimensions at the micrometer scale. Microfluidic systems typically have a low Reynolds number, defined as:
 
    TODO: add Reynolds number equation
+
+   .. math::
+
+      \mathrm{Re} =\frac{u L}{\nu} = \frac{\rho u L}{\mu}
+
+   where:
+   * :math:`ρ` is the density of the fluid (kg/m<sup>3</sup>)
+   * :math:`u` is the flow speed (m/s)
+   * :math:`L` is a characteristic linear dimension (m)
+   * :math:`μ` is the dynamic viscosity of the fluid (Pa·s or N·s/m<sup>2</sup> or kg/(m·s))
+   * :math:`ν` is the kinematic viscosity of the fluid (m<sup>2</sup>/s).
 
 Developing miniature labs therefore requires a whole microplumber's toolbox to move liquids around, like microchannels, pumps, valves, and mixers. The interface with the human world involves connecting two systems of very different scales, akin to picking up a single strand of hair off the floor using your fingers.
 
