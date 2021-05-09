@@ -214,6 +214,10 @@ books for musicals, :doc:`scripts for plays <interclubs>`
 
 Playfulness design: Swipe / slideshow, grid if more space
 
+Over the years I've dabbled with archery, ballet, martial arts, stage acting, fencing, ballroom dancing, photography, singing. These days, I enjoy powerlifting, reading, hiking, writing, and learning new languages.
+
+finding beauty in the ordinary and the extraordinary
+
 ----
 
 .. class:: early-years
