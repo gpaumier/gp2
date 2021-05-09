@@ -26,13 +26,13 @@ Install Python packages:
 
 ::
 
-    # pip install virtualenv
+    # pip install --upgrade virtualenv
 
 Set up the virtualenv:
 
 ::
 
-    $ virtualenv-3.4 nikola
+    $ virtualenv nikola
     $ cd nikola
     $ source bin/activate
 
@@ -53,7 +53,7 @@ Clone the site's repository:
 
 ::
 
-    $ git clone https://github.com/gpaumier/gp2.git
+    $ git clone git@github.com:gpaumier/gp2.git
 
 Build the site :
 
