@@ -4,7 +4,7 @@
 .. slug: wikimedia2030
 .. date: 2016-11-01T00:00:00
 .. end: 2017-12-31T00:00:00
-.. template: custom/post_hero.tmpl
+.. template: page_custom.tmpl
 .. image: /images/NASA_Earth_CO2-wikimedia2030.jpg
 .. roles: architect, writer
 .. tags: Wikimedia, strategy
@@ -25,17 +25,21 @@
 
     The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now serves as the compass for multi-year strategic planning by Wikimedia organizations, and guides decision-making around roles, responsibilities, and resources in the Wikimedia movement.
 
-.. contents::
+
 
 
 "Your mission, should you choose to accept it ..."
 ==================================================
 
 .. figure:: /images/emily-morter-m4GTgk-Q6QY-unsplash.jpg
-   :figwidth: 30em
 
    `Emily Morter <https://unsplash.com/@emilymorter>`__ on `Unsplash <https://unsplash.com/photos/m4GTgk-Q6QY>`__
 
+TODO: Add intro
+
+
+We chose to do this not because it was easy.
+--------------------------------------------
 
 Building a strategy is hard. Imagine building a shared strategy across a movement of hundreds of thousands of stakeholders, with no direct line of communication with most of them, no predetermined outcome, and while rebuilding trust and good faith that have been eroded in the past. Imagine building a collaborative strategy from the ground up, in true Wikipedian fashion, through a dialogue happening around the world in dozens of languages.
 
@@ -49,49 +53,45 @@ And so it began.
 
 We put together a team. We designed a process, and adjusted it many times. Our aim was to identify a common strategic direction that would unite and inspire people across our movement on our way to 2030, and help us make decisions. I was part of the `small core team <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/People/Core_team>`__ leading this process, along with other employees of the Wikimedia Foundation and in the movement, and the folks at `Williamsworks <http://williamsworks.com/>`__.
 
-.. container:: team
+.. figure:: /images/Wikimedia_Conference_2017_–_118.jpg
 
-   .. figure:: /images/Wikimedia_Conference_2017_–_118.jpg
-      :figwidth: 30em
-
-      Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_118.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_118.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
-   .. figure:: /images/MYHO8747-edit.jpg
-      :figwidth: 30em
+.. figure:: /images/MYHO8747-edit.jpg
 
-      `Myleen Hollero <http://myleenhollero.com/>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
-
-
-   .. figure:: /images/MYHO9171-edit.jpg
-      :figwidth: 30em
-
-      `Myleen Hollero <http://myleenhollero.com/>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
+   `Myleen Hollero <http://myleenhollero.com/>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
 
-   .. figure:: /images/Wikimedia_Conference_2017_–_117.jpg
-      :figwidth: 30em
+.. figure:: /images/MYHO9171-edit.jpg
 
-      Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_117.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   `Myleen Hollero <http://myleenhollero.com/>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
 
-   .. figure:: /images/Wikimedia_Conference_2018_–_134.jpg
-      :figwidth: 30em
+.. figure:: /images/Wikimedia_Conference_2017_–_117.jpg
 
-      Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_134.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_117.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
+
+.. figure:: /images/Wikimedia_Conference_2018_–_134.jpg
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_134.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+The 2030 horizon
+----------------
 
 We started from a simple question: *What do we want to build or achieve together by 2030?* The strategic direction was not meant to be a strategic plan. Plans are usually for 3–5 years, executable and measurable, specific to organizational capacity and resources. The direction needed to be broad, enduring, ambitious, and clear enough to provide guidance on overarching goals against which a specific plan could be built. Using 2030 as a time horizon enabled us to untangle our aspirations from our more immediate roles and interests, and let our imagination roam more freely.
 
 .. figure:: /images/WMCON_Berlin_2017_60.jpg
-   :figwidth: 30em
 
    `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:WMCON_Berlin_2017_60.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 From on-wiki discussions, to large conferences, to small meetups, to expert interviews, to desk and field research, the process was exhaustive, messy, and fascinating. It did not take long to confirm that the greatest strength of the Wikimedia movement is the talent, dedication, and integrity of its members. We are all part of this movement because we share a belief that :doc:`free knowledge makes the world a better place <stakes-of-knowledge>`.
 
 
-----
+Citations needed
+----------------
 
 Thinking about the future is an exercise in imagination, but we're Wikimedians, so it was an exercise in imagination based on facts, trends, and sources. We looked around to figure out what we already knew about the world we would be living in in 2030. We knew that there would be a lot more people in it, particularly in Asia and Africa.\ [#UNpop]_ We knew that technology would evolve dramatically, notably through `mobile devices <https://www.slideshare.net/a16z/mobile-is-eating-the-world-2016/10-10Everyone_gets_a_pocket_supercomputerMobile>`__, `rich media <http://www.kpcb.com/internet-trends>`__, messaging, and `new interfaces <http://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x>`__. We knew that it would be taking `about a hundred years <https://www.brookings.edu/research/why-wait-100-years-bridging-the-gap-in-global-education/>`__ for children in low-income countries to catch up to the education levels achieved in developed countries. And we knew that there was a trend towards a `centralization of the internet <https://www.fastcompany.com/3068627/internet-aws-cloud-centralization>`__  and a consolidation of power in the hands of a `few giant companies <http://www.economist.com/news/special-report/21707048-small-group-giant-companiessome-old-some-neware-once-again-dominating-global>`__, notably `in the tech industry <http://www.thedailybeast.com/articles/2014/02/09/how-a-few-monster-tech-firms-are-taking-over-everything-from-media-to-space-travel-and-what-it-means-for-the-rest-of-us.html>`__ .
 
@@ -101,17 +101,16 @@ Thinking about the future is an exercise in imagination, but we're Wikimedians, 
 .. container:: fears-hopes
 
    .. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_268.jpg
-      :figwidth: 30em
 
    .. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_269.jpg
-      :figwidth: 30em
 
       René Zieger for Wikimedia Deutschland e.V. on Wikimedia Commons `(1) <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_268.jpg>`__ `(2) <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_269.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
-----
+Building alignment
+------------------
 
-Fast forward a little under a year, and dozens of groups and organizations endorsed the new strategic direction, focused on `"Knowledge as a service" and "Knowledge equity <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/Direction>`__."
+Fast forward a little under a year, and dozens of groups and organizations endorsed the new strategic direction, focused on `"Knowledge as a service" and "Knowledge equity." <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/Direction>`__
 
 Several themes emerged from the mass of information and were further integrated into successive drafts of the direction. `A stable version emerged <https://blog.wikimedia.org/2017/08/10/wikimedia-2030-draft-strategic-direction/>`__ shortly before the Wikimania conference in August, and was discussed extensively online and in Montréal. I rewrote it, revised it, refined it, and it eventually became the final version of the strategic direction.
 
@@ -124,6 +123,18 @@ And yet, it worked.
 
 Engaging a whole movement
 =========================
+
+
+.. figure:: /images/Wikimedia_Summit_2019_-_172.jpg
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_172.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+TODO: add intro
+
+
+Learning from each other
+------------------------
 
 .. raw:: html
 
@@ -151,6 +162,8 @@ All those discussions and research projects produced massive amounts of notes, r
 
 
 
+Converging on a strategic direction
+-----------------------------------
 
 Wikimania 2017: first opportunity to discuss the draft strategic direction. Largest event in the Wikimedia movement
 
@@ -167,7 +180,6 @@ duality of the movement; socio-technical systems
 
 
 .. figure:: /images/Movement_Strategy_Space_at_Wikimania_2017_01.jpg
-   :figwidth: 30em
 
    `Nicole Ebber (WMDE) <https://commons.wikimedia.org/wiki/User:Nicole_Ebber_(WMDE)>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Movement_Strategy_Space_at_Wikimania_2017_01.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -175,7 +187,6 @@ duality of the movement; socio-technical systems
 
 
 .. figure:: /images/Wikimedia_movement_strategy_at_Wikimania_2017_01.jpg
-   :figwidth: 30em
 
    `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_01.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -183,7 +194,6 @@ duality of the movement; socio-technical systems
 
 
 .. figure:: /images/Wikimedia_movement_strategy_at_Wikimania_2017_06.jpg
-   :figwidth: 30em
 
    `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_06.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -191,26 +201,29 @@ duality of the movement; socio-technical systems
 
 
 .. figure:: /images/Wikimedia_movement_strategy_at_Wikimania_2017_08.jpg
-   :figwidth: 30em
 
    `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_08.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 .. figure:: /images/2017_Movement_Strategy_at_Wikimania_-_participation_in_session_04-03.jpg
-   :figwidth: 30em
 
    Abby Walla / Wikimedia Foundation on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:2017_Movement_Strategy_at_Wikimania_-_participation_in_session_04-03.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
 .. figure:: /images/2017_Wikimedia_Movement_Strategy_at_Wikimania_-_session_04-02_-_photo_4.jpg
-   :figwidth: 30em
 
    Abby Walla / Wikimedia Foundation on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:2017_Wikimedia_Movement_Strategy_at_Wikimania_-_session_04-02_-_photo_4.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
-A global effort / Bringing in new voices
-========================================
+Amplifying new voices
+=====================
+
+.. figure:: /images/Meet-up_1_2019_de_la_strategie_2030_14.jpg
+
+   `Aman ADO <https://commons.wikimedia.org/wiki/User:Aman_ADO>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Meet-up_1_2019_de_la_strat%C3%A9gie_2030_14.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
 
 As we're looking at the trends to consider, we also need to go beyond what we know and who we know. Our vision, what we're set to accomplish, requires that we realize that we're not alone. We're part of an ecosystem, and we need others. We need partners. Those voices will help define our future, because they're part of it.
 
@@ -222,7 +235,6 @@ Some of that has already happened, and it will continue over the next few months
 
 
 .. figure:: /images/Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Indigenas_-_Cochabamba,_Bolivia.jpg
-   :figwidth: 30em
 
    `Barrioflores <https://commons.wikimedia.org/wiki/User:Barrioflores>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Ind%C3%ADgenas_-_Cochabamba,_Bolivia.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -230,7 +242,6 @@ Some of that has already happened, and it will continue over the next few months
 
 
 .. figure:: /images/2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_&_Maithili_Wikimedians_1001_22.jpg
-   :figwidth: 30em
 
    `Nabin K. Sapkota <https://commons.wikimedia.org/wiki/User:Nabin_K._Sapkota>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_%26_Maithili_Wikimedians_1001_22.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -238,27 +249,27 @@ Some of that has already happened, and it will continue over the next few months
 
 
 .. figure:: /images/Photo_de_famille_15.jpg
-   :figwidth: 30em
 
    `Aman ADO <https://commons.wikimedia.org/wiki/User:Aman_ADO>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Photo_de_famille_15.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
-.. figure:: /images/Meet-up_1_2019_de_la_strategie_2030_14.jpg
-   :figwidth: 30em
-
-   `Aman ADO <https://commons.wikimedia.org/wiki/User:Aman_ADO>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Meet-up_1_2019_de_la_strat%C3%A9gie_2030_14.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
 
 .. figure:: /images/Salon_strategique_wikimedia_cote_Ivoire_2019_35_retouche.jpg
-   :figwidth: 30em
 
    `Modjou <https://commons.wikimedia.org/wiki/User:Modjou>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Salon_strat%C3%A9gique_wikimedia_c%C3%B4te_d%27Ivoire_2019_35_(retouche).jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-What comes next
-===============
+Recommendations and implementation
+==================================
+
+.. figure:: /images/Wikimedia_Conference_2018_–_299.jpg
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_299.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+Phase 2: Working groups and recommendations
+-------------------------------------------
 
 "Phase 2"
 
@@ -266,7 +277,6 @@ Movement discussions
 
 Wikimedia Foundation internal planning
 
-https://meta.wikimedia.org/wiki/Wikimedia_2030/Process_planning
 
 
 Some of the upcoming discussions will revolve around “big questions” like movement roles, governance, and decision making, while others will be more goal-oriented and will aim to build organizational strategies and multi-year strategic plans.
@@ -275,64 +285,55 @@ For my part: decided to focus on another endeavor as I joined the Wikimedia Foun
 
 I was not done thinking about the future though. Taking the long view. :doc:`2031 scenarios <2031-scenarios>`
 
+Towards implementation
+----------------------
+
+
+
+
 The People
+==========
+
+
+.. figure:: /images/Wikimedia_Conference_2017_–_223.jpg
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_223.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
 
 What I took away, what I learned
 
 sense of accomplishment;
 
 
-.. figure:: /images/Wikimedia_Conference_2018_–_299.jpg
-   :figwidth: 30em
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_299.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-.. figure:: /images/Wikimedia_Conference_2018_–_136.jpg
-   :figwidth: 30em
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_136.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 .. figure:: /images/Wikimedia_Conference_2018_–_071.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_071.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 .. figure:: /images/Wikimedia_Conference_2018_–_058.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_058.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
 .. figure:: /images/Wikimedia_Summit_2019_-_26.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_26.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
-.. figure:: /images/Wikimedia_Summit_2019_-_172.jpg
-   :figwidth: 30em
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_172.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
 .. figure:: /images/Wikimedia_Summit_2019_-_151.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_151.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 .. figure:: /images/Wikimedia_Summit_2019_-_153.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_153.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 .. figure:: /images/Wikimedia_Conference_2017_–_135.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_135.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -340,14 +341,12 @@ sense of accomplishment;
 
 
 .. figure:: /images/Wikimedia_Conference_2017_–_143.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_143.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
 .. figure:: /images/Wikimedia_Conference_2017_–_151.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_151.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -356,49 +355,41 @@ sense of accomplishment;
 
 
 .. figure:: /images/Wikimedia_Conference_2017_–_226.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_226.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 .. figure:: /images/Wikimedia_Conference_2017_–_109.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_109.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 .. figure:: /images/Wikimedia_Conference_2017_–_64.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_64.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 .. figure:: /images/Wikimedia_Conference_2017_–_104.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_104.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 .. figure:: /images/Wikimedia_Conference_2017_–_248.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_248.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
 .. figure:: /images/Participants_during_WMCON_2017_11.jpg
-   :figwidth: 30em
 
    `Nabin K. Sapkota <https://commons.wikimedia.org/wiki/User:Nabin_K._Sapkota>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Participants_during_WMCON_2017_11.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 .. figure:: /images/Wikimedia_Conference_2018_–_296.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_296.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 
 .. figure:: /images/Felix_Nartey_at_Wikimedia_Conference_2017.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Felix_Nartey_at_Wikimedia_Conference_2017.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -407,7 +398,6 @@ sense of accomplishment;
 
 
 .. figure:: /images/Wikimedia_Conference_2017_–_115.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_115.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -415,7 +405,6 @@ sense of accomplishment;
 
 
 .. figure:: /images/Wikimedia_Conference_2017_–_62.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_62.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -423,30 +412,20 @@ sense of accomplishment;
 
 
 .. figure:: /images/Wikimedia_Conference_2017_–_68.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_68.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 .. figure:: /images/Wikimedia_Conference_2017_–_74.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_74.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 .. figure:: /images/Wikimedia_Conference_2017_–_75.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_75.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 .. figure:: /images/Wikimedia_Conference_2017_–_85.jpg
-   :figwidth: 30em
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_85.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-.. figure:: /images/Wikimedia_Conference_2017_–_223.jpg
-   :figwidth: 30em
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_223.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
