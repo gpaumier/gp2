@@ -3,12 +3,144 @@
 
 article.custom-wikimedia2030 {
 
-  .entry-content .lead-figure,
-  h1.entry-title {
-     // The lead figure has been extracted and displayed in the header already.
-     // Also we don't need the page's title.
-     display: none;
+  #your-mission-should-you-choose-to-accept-it {
+    @include split-layout-hero(
+      $background: dark,
+      $left-width: 65ch,
+      $right-width: 65ch
+    );
   }
+
+
+
+
+
+
+  #we-chose-to-do-this-not-because-it-was-easy {
+    @include split-layout-txt-pics(
+      $image-side: right,
+      $image-row-span: 4,
+      $pics-width: 50ch,
+      $text-width: 65ch,
+    );
+
+  }
+
+  #the-2030-horizon {
+    @include split-layout-txt-pics(
+      $image-side: left,
+      $image-row-span: 4,
+      $pics-width: 50ch,
+      $text-width: 65ch,
+    );
+
+  }
+
+  #citations-needed {
+    @include split-layout-txt-pics(
+      $image-side: right,
+      $image-row-span: 4,
+      $pics-width: 50ch,
+      $text-width: 65ch,
+    );
+
+  }
+
+  #building-alignment {
+    @include split-layout-txt-pics(
+      $image-side: left,
+      $image-row-span: 4,
+      $pics-width: 50ch,
+      $text-width: 65ch,
+    );
+
+  }
+
+  /////////////////////////////////////////////////////////////
+
+
+  #engaging-a-whole-movement {
+    @include split-layout-hero(
+      $background: dark,
+      $left-width: 65ch,
+      $right-width: 65ch
+    );
+  }
+
+  #learning-from-each-other {
+    @include split-layout-txt-pics(
+      $image-side: right,
+      $image-row-span: 4,
+      $pics-width: 50ch,
+      $text-width: 65ch,
+    );
+  }
+
+  #converging-on-a-strategic-direction {
+    @include split-layout-txt-pics(
+      $image-side: left,
+      $image-row-span: 4,
+      $pics-width: 50ch,
+      $text-width: 65ch,
+    );
+  }
+
+
+  /////////////////////////////////////////////////////////////
+
+
+  #amplifying-new-voices {
+    @include split-layout-txt-pics-hero(
+      $image-side: left,
+      $image-row-span: 3,
+      $background: dark,
+      $text-width: 68ch,
+      $pics-width: 42ch,
+    );
+  }
+
+
+
+
+  /////////////////////////////////////////////////////////////
+
+  #recommendations-and-implementation {
+    @include split-layout-hero(
+      $background: dark,
+      $left-width: 65ch,
+      $right-width: 65ch
+    );
+  }
+
+  #phase-2-working-groups-and-recommendations {
+    @include split-layout-txt-pics(
+      $image-side: right,
+      $image-row-span: 4,
+      $pics-width: 50ch,
+      $text-width: 65ch,
+    );
+  }
+
+  #towards-implementation {
+    @include split-layout-txt-pics(
+      $image-side: left,
+      $image-row-span: 4,
+      $pics-width: 50ch,
+      $text-width: 65ch,
+    );
+  }
+
+  /////////////////////////////////////////////////////////////
+
+  #the-people {
+    @include split-layout-hero(
+      $background: dark,
+      $left-width: 65ch,
+      $right-width: 65ch
+    );
+  }
+  /////////////////////////////////////////////////////////////
+
 
   .embed {
     @include responsive-embed("widescreen");
