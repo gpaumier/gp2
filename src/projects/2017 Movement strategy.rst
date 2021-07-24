@@ -288,8 +288,7 @@ I was not done thinking about the future though. Taking the long view. :doc:`203
 Towards implementation
 ----------------------
 
-
-
+https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2018-20/Reports/Movement_Strategy_Playbook
 
 The People
 ==========
