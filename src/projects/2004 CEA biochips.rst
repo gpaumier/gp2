@@ -129,7 +129,7 @@ The CEA-2 protocol is an established way to attach biological molecules to surfa
 
    A large desiccator serves as silanization reactor. Modified to hold up to forty glass slides or twenty-five 100-mm wafers, it improves reproducibility by silanizing  substrates in bulk.
 
-.. [#cea2] Françoise Vinet and Alain Hoang / Commissariat à l'Énergie Atomique. *Method of immobilizing probes, in particular for producing bio chips*. `Patent FR2818662 <https://bases-brevets.inpi.fr/fr/document/FR2818662.html>`__ (2002).
+.. [#cea2] Françoise Vinet and Alain Hoang / Commissariat à l'Énergie Atomique. *Method of immobilizing probes, in particular for producing bio chips*. `Patent FR2818662 <https://data.inpi.fr/brevets/FR2818662>`__ (2002).
 
 ----
 
