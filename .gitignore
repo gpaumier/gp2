@@ -40,3 +40,6 @@ output
 
 #Image metadata files
 *.xmp
+
+# Official Nikola plugins
+plugins/sphinx_roles/*
