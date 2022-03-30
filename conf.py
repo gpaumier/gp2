@@ -36,7 +36,7 @@ NAVIGATION_LINKS = {
     ),
 }
 
-THEME = "fumseck"
+THEME = "phenix"
 
 
 POSTS = (
