@@ -113,6 +113,28 @@ Use those skills towards:
 
 Individual decision-making can be impeded by bounded rationality and selective exposure. An additional concern when discussing specialized topics as a large group is the information deficit of its members and the communal reinforcement built in the group over time. In order to mitigate those limitations, I strive to frame the issues I work on by situating the problem in its broader landscape, as a way to increase the quality of information available for decision-making.
 
+----
+
+.. figure:: /images/Gotong_Royong_Pindah_Rumah.jpg
+   :figwidth: 30em
+
+   Herusutimbul on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gotong_Royong_Pindah_Rumah.jpg>`_ // `CC-By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_
+
+It takes a village.
+
+Barn raising is a fundamental concept in online communities like ours. Barn raising "occurs when a community actively decides to come to the same place at the same time to help achieve some specific goal."\ [#BarnRaisingMeatBall]_ The metaphor comes from the collective effort needed to raise an actual barn,\ [#BarnRaisingWP]_ a process that is all but impossible to do on one's own, and demands collaboration and good will from the community. While mostly reminiscent of 18th- and 19th-century rural North America, barn raising is only one example of communal work encountered in many societies around the world.\ [#CommunalWork]_ The Indonesian ethos of *Gotong royong* similarly refers to carrying burdens together, which sometimes translates to literally carrying your neighbor's home to a new location.\ [#GotongRoyong]_
+
+Wikis are built by people coming together to achieve something that one person couldn't do alone. Most human endeavors are no different. A good strategy with broad alignment can't be built by just the CEO or a few executives. It takes a collective effort to carry this burden together and build it in the wiki spirit of good-faith collaboration. Only then can we raise the barn as a community.
+
+.. [#BarnRaisingMeatBall] See `BarnRaising <http://meatballwiki.org/wiki/BarnRaising>`_ on MeatballWiki, the community reference on online communities. Barnraising is also where `Barnstars <http://meatballwiki.org/wiki/BarnStar>`_ come from, as tokens of appreciation for individual efforts.
+
+.. [#BarnRaisingWP] See `Barn raising <https://en.wikipedia.org/wiki/Barn_raising>`_ on the English-language Wikipedia.
+
+.. [#CommunalWork] See `Communal work <https://en.wikipedia.org/wiki/Communal_work>`_ on the English-language Wikipedia.
+
+.. [#GotongRoyong] See `Gotong royong <https://id.wikipedia.org/wiki/Gotong_royong>`_ on the Indonesian-language Wikipedia.
+
+
 
 ----
 
