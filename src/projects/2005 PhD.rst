@@ -18,7 +18,7 @@
 
 .. highlights::
 
-    For three years, I worked at the crossroads of physics, microelectronics, biology and chemistry to develop miniaturized laboratories based on a polymer that changes properties with temperature.
+    During my research, I worked at the crossroads of physics, microelectronics, biology and chemistry to develop miniaturized laboratories based on a polymer that changes properties with temperature.
 
 • Worked on miniaturized systems for chemical and biological analysis ("labs on a chip")
 • Developed a new technology based on thermosensitive polymer coatings
@@ -37,6 +37,9 @@ explore the development and integration of technologies based on PNIPAM
 limited to simple, flexible technologies on purpose since it's initial exploration
 
 two main applications: as an interface between microsystem and biological molecules, and as mechanism to control fluids
+
+convergence of biologists, chemists, physicists and engineers towards the common micro- and nanoscale
+
 
 microsystems
 
@@ -81,30 +84,30 @@ Honey, I shrunk the lab.
    Frank Schwemmer et al. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:LabDisk_for_SAXS.gif>`__ // `CC BY 3.0 <https://creativecommons.org/licenses/by/3.0/legalcode>`__.
 
 
-ADD ONE-LINER
+Using techniques developed for microelectronics, researchers are able to miniaturize entire lab functions to the size of a microchip, paving the way for cheap, reliable testing kits and biomedical devices that fit in your pocket.
 
-sequencing of the human genome
-dramatic improvements in sequence analysis and high-throughput screening
-automated processes
+At-home pregnancy tests are some of the simplest examples of miniaturized devices for biological analysis. They take in a direct sample (urine) that doesn't require further preparation, and detect a molecule of interest in it (the human pregnancy hormone, hCG). Similarly, diabetic people use glucose meters with test strips to measure the glucose levels in their blood. The Covid-19 pandemic has also introduced many people to the need for rapid, cheap testing and diagnosis. At-home Covid tests are very similar to pregnancy tests, if slightly more involved: the sample must usually be collected with a dry swab, and then diluted into a liquid for analysis on a strip.
+
+All these tests are relatively inexpensive and widely available; they provide a generally reliable result within minutes and don't require specialized technical expertise. They don't necessarily replace further professional analysis in a full-fledged lab, but they provide quick results by bringing the lab to you in small package. They are the very basic (and rather large) cousins of *labs-on-a-chip.*
 
 .. class:: expert
 
-   transcriptomics, proteomics, metabolomics, cellomics, and other -omics sciences: new challenges of molecular biology
+   Technically, pregnancy tests may even qualify as the simplest example of micro total analysis systems (microTAS), a class of miniaturized systems that integrate the complete sequence of analysis from a raw sample (saliva, urine, blood) up to the test result. Labs-on-a-chip don't always accept raw samples, and may include only specific functions of the sequence of analysis, because integrating the whole chain isn't possible or beneficial.
 
-miniaturization
-
-With the 2020 Covid-19 pandemic, many people are now more familiar with the need for rapid, cheap testing and diagnosis.
+Advanced labs-on-a-chips integrate several lab functions into a miniaturized device. They combine the advances made in consumer electronics through the very large scale integration of transistors, with applications in biology and medicine. As such, they build on the expertise, tools, and processes in semiconductor manufacturing, to design and mass-produce reliable testing units at low cost.
 
 .. figure:: /images/Suni_Williams_aboard_the_ISS.jpg
    :figclass: loc-iss
 
    Lab-on-a-chip devices enable rapid testing with small amounts of samples and reagents. In this picture, Astronaut Sunita L. Williams, works with `LOCAD-PTS <https://en.wikipedia.org/wiki/LOCAD>`__, a lab-on-a-chip for rapid detection of biological and chemical substances onboard the International Space Station. (NASA on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Suni_Williams_aboard_the_ISS.jpg>`__ // Public domain)
 
-concept of lab-on-chips applies mass production and parallel processing of microelectronics and semiconductors that have led to the massive increase in power and decrease in price of consumer electronics
+Miniaturization has advantages inherent to biological analysis as well. By integrating multiple lab functions close together on a single chip, labs-on-a-chip require much smaller volumes of samples and chemical substances. Connections are simplified and sample waste is reduced. Disposable, single-use chips also limit cross-contamination.
 
-point-of-care testing : testing on premises, as close to the patient as possible
+.. class:: expert
 
-in particular in geographies and contexts that lack full-fledged bioanalysis labs
+   Labs-on-a-chip can lead to performance improvements in separation analysis like capillary electrophoresis, where miniaturized channels decrease molecular and thermal diffusion distances. Combining biological analysis and electronics into single devices also opens the door to dramatic improvements in automated analysis and high-throughput screening. This becomes particularly relevant to address new challenges of molecular biology in fields such as transcriptomics, proteomics, metabolomics, cellomics, and other -omics sciences.
+
+Test kits integrated on a chip are often portable and usable by people with limited expertise. Large batches of units may be shipped during a large-scale health crisis, and support clinical diagnosis as close to the patient as possible, in particular in geographies and contexts that lack full-fledged bioanalysis labs. Other applications of labs-on-a-chip include environmental monitoring (e.g. testing for contaminants in food and water), pharmaceutical research (high-throughput screening for drug discovery) and defense against bioterrorism.
 
 .. container:: loc-nist
 
@@ -116,26 +119,6 @@ in particular in geographies and contexts that lack full-fledged bioanalysis lab
 
       Microfluidic devices developed at NIST. G. Cooksey, NIST: `1 <https://commons.wikimedia.org/wiki/File:Microfluidic_palette_(5880463875).jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:Microfluidic_Device_(6842746147).jpg>`__, `3 <https://commons.wikimedia.org/wiki/File:Lab_on_a_Chip_(7788250170).jpg>`__ // Public domain.
 
-
-convergence of biologists, chemists, physicists and engineers towards the common micro- and nanoscale
-
-Dimension reduction: save time and reagents; better performance; lower cost
-
-smaller dimensions means smaller volumes and shorter distances
-smaller volumes for samples and reagents
-
-performance improvement: separation analysis like capillary electrophoresis: miniaturized channels decrease molecular and thermal diffusion distances. Faster analysis
-
-lower cost:
-simpler, integrate multiple functions on a simple chips, up to complete analysis chain. Simplified connections, less waste. portability (at-home, large-scale health crisis, including in contexts with limited or derelict infrastructure). Advantages of VLSI: very larce scale integration: large-scale manufacturing of microelectronics. Reproducibility, lower cost. Possibly disposable, single-use chips; limit cross-contamination.
-
-MICROFLUIDICS FOR LIFE SCIENCES: MICROTAS AND LAB ON CHIPS
-
-micro total analysis systems: microTAS
-miniaturized systems that integrate the complete analysis sequence of from the raw sample (saliva, urine, blood) to the test result.
-lab-on-a-chip: LOC: doesn't necessarily include the whole sequence of analysis
-
-most of applications of microfluidics and lab-on-chips belong to the fields of analytical chemistry and molecular biology. Study of all sorts of biological molecules and macromolecules (DNA, proteins and peptides, cells, andibodies and antigens, carbohydrates). Clinical diagnosis, notably point of service. And pharmaceutical research: high-throughput screening for drug discovery. Biomedical and environmental monitoring: food quality, water pollution. Biodefense and fight against bioterrorism
 
 ----
 
@@ -149,7 +132,7 @@ Microfluidics
    `Steve Jurvetson <https://www.flickr.com/people/jurvetson/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Maple_leaf_structure.jpg>`__ // `CC BY 2.0 <https://creativecommons.org/licenses/by/2.0/legalcode>`__.
 
 
-In nature, the capillary action inside the tiny veins of a plant overcomes gravity to draw water to its leaves. Similarly, shrinking a whole lab onto a chip changes the balance of physical forces, and how liquids behave.
+In nature, the capillary action inside the tiny veins of a plant manages to overcome the force of gravity to draw water upwards to its leaves. Similarly, shrinking a whole lab onto a chip changes the balance of physical forces, and how liquids behave at the microscale.
 
 At the macroscale of humans, water obeys the laws of gravity and goes down, as anyone who has spilled their tea can attest. But at the microscale, water and other fluids behave differently, bringing us into the world of *microfluidics*.
 
@@ -169,22 +152,25 @@ Miniaturization dramatically increases the surface-to-volume ratio, meaning that
 
    In technical terms, microfluidics is the science and technology of systems that handle fluids and have at least one of their defining dimensions at the micrometer scale. Microfluidic systems typically have a low Reynolds number, defined as:
 
-   TODO: add Reynolds number equation
-
    .. math::
 
       \mathrm{Re} =\frac{u L}{\nu} = \frac{\rho u L}{\mu}
 
    where:
-   * :math:`ρ` is the density of the fluid (kg/m<sup>3</sup>)
+
+   * :math:`ρ` is the density of the fluid (kg/m³)
+
    * :math:`u` is the flow speed (m/s)
+
    * :math:`L` is a characteristic linear dimension (m)
-   * :math:`μ` is the dynamic viscosity of the fluid (Pa·s or N·s/m<sup>2</sup> or kg/(m·s))
-   * :math:`ν` is the kinematic viscosity of the fluid (m<sup>2</sup>/s).
+
+   * :math:`μ` is the dynamic viscosity of the fluid (Pa·s or N·s/m² or kg/(m·s))
+
+   * :math:`ν` is the kinematic viscosity of the fluid (m²/s).
 
 Developing miniature labs therefore requires a whole microplumber's toolbox to move liquids around, like microchannels, pumps, valves, and mixers. The interface with the human world involves connecting two systems of very different scales, akin to picking up a single strand of hair off the floor using your fingers.
 
-More complex microfluidic functions include magnetic or optical elements coming from the field of micro-electromechanical systems (MEMS). Technological bricks developed to assemble labs-on-a-chip include sample preparation and preconcentration, microreactors, chemical separation by chromatography and electrophoresis, and detection through fluorescence and mass spectrometry
+More complex microfluidic functions include magnetic or optical elements coming from the field of micro-electromechanical systems (MEMS). Technological bricks developed to assemble labs-on-a-chip include sample preparation and preconcentration, microreactors, chemical separation by chromatography and electrophoresis, and detection through fluorescence and mass spectrometry.
 
 ----
 
@@ -239,12 +225,12 @@ Surface functionalization
 
    `Kumiko SHIMIZU <https://unsplash.com/@shimikumi32>`__ on `Unsplash <https://unsplash.com/photos/g8pnjeOHf5M>`__
 
-Attaching PNIPAM to a surface involves successive chemical steps, like applying coats of primer, paint, and finish onto a wall, each layer building on the previous one. In the end, PNIPAM looks like a layer of moss covering a boulder.
+Attaching PNIPAM to a surface involves successive chemical steps, like applying coats of primer, paint, and finish onto a wall, each layer building on the previous one. In the end, PNIPAM looks like a layer of microscopic moss.
 
 Grafting chemistry
 ~~~~~~~~~~~~~~~~~~
 
-To attach PNIPAM on surfaces, chemists use a primer layer of *silane*. Silanes are molecules that include an atom of silicon, which makes them useful to attach all sorts of other molecules on surfaces made of silicon, silicon oxide, and glass (an amorphous kind of silicon oxide). Silicon and silicon oxides are omnipresent in microelectronics and its micro-engineering processes, many of which are now used to make microsystems and labs-on-a chip.
+To attach PNIPAM on surfaces, chemists use a primer layer of *silane*. Silanes are molecules that include an atom of silicon, which makes them useful to attach all sorts of other molecules on surfaces made of silicon, silicon oxide, and glass (an amorphous kind of silicon oxide). Silicon and silicon oxides are omnipresent in microelectronics and its micro-engineering processes, many of which are now used to make microsystems and labs-on-a chip. The specific "silanization" protocol I used to attach PNIPAM was one with which I had worked extensively during :doc:`my time at CEA-Léti <biochips>` to graft antibodies, peptides, and enzymes to silicon surfaces.
 
 .. container:: expert
 
@@ -253,8 +239,6 @@ To attach PNIPAM on surfaces, chemists use a primer layer of *silane*. Silanes a
    The silanization process, called "CEA-2," was developed at the CEA-Léti lab to attach biological probes on biochips. It results in a covalent --Si--O--Si-- bond between the surface and the silane.
 
    The methacrylate end of TMSPM serves as starting point for the radical chain polymerization of PNIPAM and polyacrylamide, the latter of which I used as a temperature-insensitive control for PNIPAM in some experiments.
-
-.. TODO: Add link to biochips page when it's done
 
 .. container:: silane-afm
 
