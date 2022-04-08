@@ -142,11 +142,11 @@ article.custom-phd {
     }
 
     .loc-iss {
-      @include place-split-layout-element(right, "6/10");
+      @include place-split-layout-element(right, "6/8");
     }
 
     .loc-nist {
-      @include place-split-layout-element(right, "10/15");
+      @include place-split-layout-element(right, "9/13");
     }
 
 
