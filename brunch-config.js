@@ -4,16 +4,16 @@ module.exports = {
     javascripts: {
       joinTo: {
         'libs.js': /^node_modules/,
-        'fumseck.js': /^bits/
+        'phenix.js': /^bits/
       }
     },
     stylesheets: {
-      joinTo: 'fumseck.css'
+      joinTo: 'phenix.css'
     }
   },
   paths: {
     watched: ['bits'],
-    public: 'themes/fumseck/assets'
+    public: 'themes/phenix/assets'
   },
   plugins: {
     sass: {
