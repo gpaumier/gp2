@@ -20,33 +20,9 @@
 
     During my research, I worked at the crossroads of physics, microelectronics, biology and chemistry to develop miniaturized laboratories based on a polymer that changes properties with temperature.
 
-• Worked on miniaturized systems for chemical and biological analysis ("labs on a chip")
-• Developed a new technology based on thermosensitive polymer coatings
-• Explored applications in controlled electro-osmosis and controlled adsorption/release of proteins
 
+Using techniques developed for microelectronics, researchers are able to miniaturize entire lab functions to the size of a microchip, paving the way for cheap, reliable testing kits and biomedical devices that fit in your pocket. However, shrinking a whole lab onto a chip changes the balance of physical forces, and how liquids behave at the microscale. My research centered around PNIPAM, a polymer whose properties change with temperature. I studied how to use PNIPAM to control the flow of fluids in micro channels, and to trap and release proteins for biological analysis. I conducted this research with Anne-Marie Gué and Jan Sudor at the Laboratory for Analysis and Architecture of Systems (LAAS-CNRS) in Toulouse, France.
 
-
-
-My work: PNIPAM in miniature devices
-
-
-my work: first step in the development of a new family of smart microlabs based on active surfaces.
-
-explore the development and integration of technologies based on PNIPAM
-
-limited to simple, flexible technologies on purpose since it's initial exploration
-
-two main applications: as an interface between microsystem and biological molecules, and as mechanism to control fluids
-
-convergence of biologists, chemists, physicists and engineers towards the common micro- and nanoscale
-
-
-microsystems
-
-
-two applications explored for microsystems: reversible trapping of proteins, and electrokinetic control. Trapping requires uniform heating of the microfluidic channel to optimize adorption efficiency. Electrokinetic control, to create valves and mixers, relies on heterogeneous surface charges, qui requires superlocal control of PNIPAM, through individual, addressable, miniaturized heating elements
-
-Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), one of the largest research labs of the French state research organisation, CNRS. LAAS is located in Toulouse, France.
 
 Technical abstract
 ==================
@@ -540,16 +516,16 @@ The desorption rate, meaning how much of the proteins detach from the PNIPAM-coa
 
    Alexa-streptavidin conjugates adsorbed on PNIPAM-coated beads and then desorbed up to around 60% when the temperature was lowered.
 
-----
-
-Beyond the research
-===================
-
-.. figure:: /images/2007-10-13_Wet_etching_tanks_at_LAAS_0465.jpg
-
-photos salle blanche, portes ouvertes pour Commons, etc
-
-
-.. figure:: /images/2007-10-13_Molecular_beam_epitaxy_system_at_LAAS_0516.jpg
-
-.. figure:: /images/2007-11-08_EVG_620__MA_150_steppers_at_LAAS_FDLS_2007_0438.jpg
+.. ----
+..
+.. Beyond the research
+.. ===================
+..
+.. .. figure:: /images/2007-10-13_Wet_etching_tanks_at_LAAS_0465.jpg
+..
+.. photos salle blanche, portes ouvertes pour Commons, etc
+..
+..
+.. .. figure:: /images/2007-10-13_Molecular_beam_epitaxy_system_at_LAAS_0516.jpg
+..
+.. .. figure:: /images/2007-11-08_EVG_620__MA_150_steppers_at_LAAS_FDLS_2007_0438.jpg
