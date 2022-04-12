@@ -1,5 +1,6 @@
 .. title: Projets
 .. slug: projets
+.. status: draft
 
 .. highlights::
 

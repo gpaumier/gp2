@@ -6,6 +6,7 @@
 .. image: /images/wp-pug-cover-small.jpg
 .. roles: writer
 .. keywords: Wikimedia, Wikipedia, wikiarchaeology
+.. status: draft
 
 
 

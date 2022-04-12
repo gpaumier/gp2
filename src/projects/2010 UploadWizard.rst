@@ -6,6 +6,7 @@
 .. image: /images/upwiz.png
 .. roles: designer, product manager
 .. tags: Wikimedia, Wikimedia Commons, licensing, multimedia, usability
+.. status: draft
 
 
 

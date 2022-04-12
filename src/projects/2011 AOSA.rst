@@ -7,6 +7,7 @@
 .. image: /images/2011-08-02_aosa-cover-crop.jpg
 .. roles: writer, researcher
 .. keywords: Wikimedia, MediaWiki, Engineering, wikiarchaeology, software architecture
+.. status: draft
 
 
 
