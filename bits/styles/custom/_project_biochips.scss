@@ -162,7 +162,7 @@ article.custom-biochips {
       $text-width: 50ch,
     );
 
-    dl {
+  .footnote {
       @include place-split-layout-element(right, "3/4");
       align-self: center;
     }
