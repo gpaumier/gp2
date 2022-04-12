@@ -138,3 +138,20 @@ Baking
    Placeholder caption
 
 breadmaking, baking, etc.
+
+
+----
+
+
+
+Performing arts
+===============
+
+.. figure:: /images/2010-07-03_Qt_duck.jpg
+   :alt: Placeholder
+   :target: /
+
+   Placeholder caption
+
+:doc:`Enfoiros <enfoiros>`
+:doc:`Le Libertin <le-libertin>`
