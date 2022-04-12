@@ -5,7 +5,8 @@
 .. end: 2015-06-18T00:00:00
 .. image: /images/2015-06-18_ve-diff-review.png
 .. roles: researcher, coder
-.. tags: Wikimedia, Wikipedia, VisualEditor, research, citations
+.. keywords: Wikimedia, Wikipedia, VisualEditor, research, citations
+.. status: draft
 
 
 .. highlights::

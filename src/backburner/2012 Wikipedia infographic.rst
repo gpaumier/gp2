@@ -6,7 +6,8 @@
 .. end: 2012-07-14T00:00:00
 .. image: /images/2012-06-25_Wikipedia-infographic.png
 .. roles: researcher, designer
-.. tags: Wikimedia, Wikipedia, wikiarchaeology
+.. keywords: Wikimedia, Wikipedia, wikiarchaeology
+.. status: draft
 
 
 

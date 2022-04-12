@@ -5,7 +5,8 @@
 .. end: 2006-05-30T00:00:00
 .. image: /images/2006-08-13_Pirates-Large-DiDay.jpg
 .. roles: director, writer, coordinator
-.. tags: Performing arts, INSA
+.. keywords: Performing arts, INSA
+.. status: draft
 
 
 
@@ -99,7 +100,7 @@ https://www.youtube.com/watch?v=gbeiCftUyq4
 
 https://www.youtube.com/watch?v=TplFk5ItFdQ
 
-Interclubs 2005 : 
+Interclubs 2005 :
 Fabien Vauthey, Nicolas Perony, Steven Gazal, Karell Vertet, Eléonore Klein, Olfa Aidoudi, Romain Roux et Gael Laumond
 
 
