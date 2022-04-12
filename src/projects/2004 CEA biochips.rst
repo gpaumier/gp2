@@ -11,19 +11,15 @@
 
 .. figure:: /images/DNA_microarray_23.svg
    :figclass: lead-figure
-   :alt: ustration of a DNA microarray, showing rows of color dots
+   :alt: Illustration of a DNA microarray, showing rows of color dots
 
 
 .. highlights::
 
-    add abstract here
+    I developed a miniaturized fluorescence-based immuno-assay on a microarray, and adapted a liquid-phase surface chemistry protocol to a vapor-phase protocol for microsystems.
 
-• Developed a miniaturized fluorescence-based immuno-assay on a microarray.
-• Adapted a liquid phase surface chemistry protocol to a vapor phase protocol for microsystems.
+Microarrays contain thousands of spots with biological probes, like DNA or proteins, attached to the surface via a chemical layer. They rely on fluorescence and help scientists test many different samples in parallel. My goal was to adapt an antigen-antibody biological test, which had been developed in capillaries, to a planar format designed for DNA biochips. I brought these two techniques together and partnered with nearby labs to study this biological interaction with real-time fluorescence, lasers, and neutrons. I adapted the protocol to work in fragile microsystems used in the preparation of samples and the analysis of proteins. I conducted this research with Guillaume Delapierre at the Laboratory for Functionalization and Chemistry for Microsystems (LFCM) at CEA-Léti in Grenoble, France.
 
-with Guillaume Delapierre
-
-Laboratory for Functionalization and Chemistry for Microsystems (LFCM) of the CEA-Léti in Grenoble, France. CEA-Léti is one of the world's largest organizations for applied research in microelectronics and nanotechnology.
 
 Technical abstract
 ==================
@@ -43,7 +39,7 @@ Biochips and microarrays
 
    Louis M. Staudt/NIH on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Mouse_cdna_microarray.jpg>`__ // Public domain
 
-Microarrays contain thousands of spots containing biological probes, like DNA or proteins, attached to the surface via a chemical layer. They rely on fluorescence and help scientists test many different samples in parallel.
+Microarrays contain thousands of spots with biological probes, like DNA or proteins, attached to the surface via a chemical layer. They rely on fluorescence and help scientists test many different samples in parallel.
 
 Mass parallel testing
 ~~~~~~~~~~~~~~~~~~~~~
@@ -138,7 +134,7 @@ Antibody microarray on CEA-2 protocol
 
 .. figure:: /images/Biochips_236-30_532.jpg
 
-My goal was to adapt an antigen-antibody biological test, which had been developed in capillaries, to a planar format that had been designed for DNA biochips. I brought those two techniques together, showed the feasibility of printing antibody microarrays on the CEA-2 chemical layer, and studied experimental parameters to optimize the protocol.
+My goal was to adapt an antigen-antibody biological test, which had been developed in capillaries, to a planar format designed for DNA biochips. I brought those two techniques together, showed the feasibility of printing antibody microarrays on the CEA-2 chemical layer, and studied experimental parameters to optimize the protocol.
 
 Substance P
 ~~~~~~~~~~~
