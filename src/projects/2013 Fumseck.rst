@@ -11,7 +11,7 @@
 
 .. highlights::
 
-    Fumseck is a responsive, mobile-first theme for WordPress that I built specifically for this site. It’s based on the Solarized color scheme and the Latin Modern font family.
+    Fumseck was a responsive, mobile-first theme for WordPress that I built specifically for this site. It was based on the Solarized color scheme and the Latin Modern font family.
 
 
 I've never been entirely satisfied with any of the themes that I've tested and used over the years. At some point, I realized that the only way I was going to be happy with both the design and the features was by coding the theme myself. The problem, of course, was that I had never coded in PHP (the scripting language used by WordPress), and that my knowledge of CSS was very basic, although they were both fields I wanted to dive into eventually.
