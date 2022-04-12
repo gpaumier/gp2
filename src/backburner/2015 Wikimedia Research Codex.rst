@@ -5,7 +5,8 @@
 .. end: 2016-10-30T00:00:00
 .. image: /images/2016-03-06_Humanities_books_0014.jpg
 .. roles: researcher, writer
-.. tags: Wikimedia, Wikipedia, research
+.. keywords: Wikimedia, Wikipedia, research
+.. status: draft
 
 
 

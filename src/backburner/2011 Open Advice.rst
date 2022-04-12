@@ -6,7 +6,8 @@
 .. end: 2012-02-06T00:00:00
 .. image: /images/2012-02-09_Open-advice-books-8098s.jpg
 .. roles: writer
-.. tags: Wikimedia, KDE, usability
+.. keywords: Wikimedia, KDE, usability
+.. status: draft
 
 .. todo: find original image
 
