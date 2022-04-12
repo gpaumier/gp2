@@ -185,7 +185,7 @@ var App = {
 
     (0, _jquery["default"])(document).foundation();
     (0, _jquery["default"])(document).ready(function () {
-      console.log('Fumseck JavaScript loaded.');
+      console.log('Phenix JavaScript loaded.');
     });
   }
 };
