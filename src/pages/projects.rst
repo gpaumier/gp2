@@ -1,6 +1,7 @@
 .. title: Projects
 .. slug: projects
 .. icon: fa-tasks
+.. status: draft
 
 Featured projects
 =================

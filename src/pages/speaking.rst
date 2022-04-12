@@ -3,6 +3,7 @@
 .. image:
 .. icon: fa-calendar
 .. has_math: yes
+.. status: draft
 
 .. https://commons.wikimedia.org/wiki/File:Questions_to_WMF%27s_new_Communications_team_at_Wikimania_2014.jpg
 
@@ -22,7 +23,7 @@ Over the years, I have often talked about free knowledge, online communities, op
 
 These days, I prefer to focus on fewer but more specialized talks that give me the opportunity to research topics more thoroughly and ensure that they are tailored to the audience.
 
-If you would like to invite me for a talk or workshop, please :doc:`get in touch <contact>` and we will work together to scope your needs.
+If you would like to invite me for a talk or workshop, please scroll down to get in touch, and we will work together to scope your needs.
 
 Previous events
 ===============

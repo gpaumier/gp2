@@ -3,6 +3,7 @@
 ..
     template: archive-articles.jade
 .. icon: fa-pencil
+.. status: draft
 
 
 Featured articles

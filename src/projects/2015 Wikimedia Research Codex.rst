@@ -6,6 +6,7 @@
 .. image: /images/2016-03-06_Humanities_books_0014.jpg
 .. roles: researcher, writer
 .. tags: Wikimedia, Wikipedia, research
+.. status: draft
 
 
 
