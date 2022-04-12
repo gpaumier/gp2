@@ -83,7 +83,7 @@
   h4,
   p,
   dl,
-  .aside,
+  aside,
   .expert {
     grid-column: 2 / 5;
   }
@@ -107,7 +107,7 @@
   @media screen and (min-width: 100ch) {
     > figure,
     .figures,
-    .aside {
+    aside {
       grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
       grid-row: #{$image-row-start} / #{$image-row-span + $image-row-start};
 
