@@ -71,7 +71,7 @@ Revenue strategy and long-term thinking
 
 .. figure:: /images/javier-allegue-barros-C7B-ExXpOIE-unsplash.jpg
    :alt: Photograph showing the silhouette of a signpost against a sunset
-   :target: /projects/wikimedia-advancement/
+   :target: /wikimedia/advancement/
 
    `Javier Allegue Barros <https://unsplash.com/@soymeraki>`__ on `Unsplash <https://unsplash.com/photos/C7B-ExXpOIE>`__
 
@@ -81,7 +81,7 @@ I lead :doc:`Revenue Strategy research <wikimedia-revenue-strategy>` and the dev
 
 .. class:: continue-reading
 
-   :doc:`learn more about my current work <wikimedia-advancement>`
+   :doc:`learn more about my current work <advancement>`
 
 
 Wikimedia 2030
@@ -89,7 +89,7 @@ Wikimedia 2030
 
 .. figure:: /images/NASA_Earth_CO2-wikimedia2030.jpg
    :alt: Screenshot of a NASA video of a computer model showing how carbon dioxide in the atmosphere travels around the globe.
-   :target: /projects/wikimedia2030/
+   :target: /wikimedia/wikimedia2030/
 
    NASA's Goddard Space Flight Center on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:A_Year_In_The_Life_Of_Earth%27s_CO2_11719-1920-MASTER.webm>`__ // Public Domain
 
@@ -161,7 +161,7 @@ The obsession of Wikipedians with documentation and record-keeping is both a ble
 
 As someone who has been part of the Wikimedia movement for a long time, I consider it my responsibility to help preserve its collective history and institutional memory. Remembering history isn't just a crucial part of staying true to who we are; the study of history is also how we make sense of the past and understand how events and decisions, both good and bad, have shaped our present.
 
-My commitment to understanding and preserving Wikipedia's collective history has manifested in several ways over the years. For example, in 2013, I produced an :doc:`interactive timeline <wikipedia-2013-timeline>` to serve as a retrospective of what had happened across the Wikimedia movement that year. In 2018, I led a workshop for the Wikimedia Foundation's :doc:`Advancement team <wikimedia-advancement>` to spark the transmission of knowledge. Old-timers shared stories and memories that they thought newcomers would find of interest, and newcomers asked old-timers questions from a fresh perspective.
+My commitment to understanding and preserving Wikipedia's collective history has manifested in several ways over the years. For example, in 2013, I produced an :doc:`interactive timeline <wikipedia-2013-timeline>` to serve as a retrospective of what had happened across the Wikimedia movement that year. In 2018, I led a workshop for the Wikimedia Foundation's :doc:`Advancement team <advancement>` to spark the transmission of knowledge. Old-timers shared stories and memories that they thought newcomers would find of interest, and newcomers asked old-timers questions from a fresh perspective.
 
 In 2012, I gave a talk at Wikimania, the annual Wikipedia conference, entitled "Eleven years of Wikipedia, or the Wikimedia history crash course you can edit." The presentation consisted of a large chronological infographic through which I walked the audience. I also printed the graphic on a large poster and invited the participants to correct or expand its content throughout the conference, in true Wikipedia fashion.
 

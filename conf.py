@@ -43,13 +43,16 @@ THEME = "phenix"
 
 POSTS = (
     ("src/articles/*.rst", "articles", "post.tmpl"),
-    ("src/projects/*.rst", {"en": "projects", "fr": "projets"}, "project.tmpl"),
+    #("src/projects/*.rst", {"en": "projects", "fr": "projets"}, "project.tmpl"),
     # ("src/projects/*_fr.rst", "projects", "post.tmpl"),
     # ("src/photos/*.rst", "photos", "post.tmpl"),
     # ("src/events/*.rst", "events", "post.tmpl"),
 )
 PAGES = (
     ("src/pages/*.rst", "", "page.tmpl"),
+    ("src/pages/wikimedia/*.rst", "wikimedia", "project.tmpl"),
+    ("src/pages/play/*.rst", {"en": "play", "fr": "loisirs"}, "project.tmpl"),
+    ("src/pages/scitech/*.rst", "scitech", "project.tmpl")
 )
 
 
