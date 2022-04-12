@@ -91,11 +91,18 @@ Research publications
 
   * Guillaume Paumier. Technical report (Institut national des sciences appliquées de Toulouse & CEA-Léti, 2004) \| :doc:`Read more <biochips>`
 
-Articles & essays
-=================
 
-Also post on the Wikimedia blog: https://blog.wikimedia.org/author/gpaumier/
+Featured articles and essays
+============================
 
 .. post-list::
-   :categories: articles-en-featured, articles-en
+   :categories: articles-en-featured
+   :template: project_list_featured.tmpl
+
+
+All articles and essays
+=======================
+
+.. post-list::
+   :categories: articles-en
    :template: article_list.tmpl
