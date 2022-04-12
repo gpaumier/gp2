@@ -14,13 +14,16 @@
 
     (pronounced "gui-yom" (:abbr:`IPA (International Phonetic Alphabet)`: [ɡijom])
 
+I'm a science Ph.D, a photographer and a master of organization & optimization. For fun, I travel, I put things into boxes and I play Lego.
+
+
 In my work, I guide executives and mission-driven organizations through intricate, interdisciplinary challenges using integrative thinking, ingenuity, and empathy.
 
 I like to tackle complex problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process, culminating with a hundred independent organizations worldwide agreeing on a common strategic direction.\ [1]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [2]_ Or designing software that powers the World's largest photography competition.\ [3]_
 
 I currently work at the Wikimedia Foundation, the nonprofit organization that brings free knowledge to hundreds of millions of people every month and supports them as they collectively make sense of our world.
 
-Read on to learn more about my story, or :doc:`drop me a line <contact>`.
+Read on to learn more about my story, or scroll down to contact me.
 
 .. [1] :doc:`Wikimedia 2030: participatory strategy for a global movement <wikimedia2030>`
 
