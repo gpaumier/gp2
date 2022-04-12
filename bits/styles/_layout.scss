@@ -106,8 +106,7 @@
 
   @media screen and (min-width: 100ch) {
     > figure,
-    .figures,
-    aside {
+    .figures {
       grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
       grid-row: #{$image-row-start} / #{$image-row-span + $image-row-start};
 
