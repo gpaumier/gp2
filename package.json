@@ -5,7 +5,7 @@
   "description": "gp2",
   "author": "Guillaume Paumier",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "@babel/core": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
     "autoprefixer": "^10.2.5",
