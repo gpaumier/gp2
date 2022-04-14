@@ -67,7 +67,7 @@ MESSAGES = {
     "menu_section_elsewhere": "Elsewhere on the web",
     "menu_twitter_link": "https://twitter.com/gpaumier",
     "menu_twitter_label": "twitter",
-    "menu_twitter_description": "puns, random thoughts, and (mis)adventures in gay dating",
+    "menu_twitter_description": "puns, memes, random thoughts, and (mis)adventures in gay dating",
     "menu_instagram_link": "https://instagram.com/guillaume.paumier",
     "menu_instagram_label": "instagram",
     "menu_instagram_description": "travel pics, random pics, and the occasional thirst trap",
