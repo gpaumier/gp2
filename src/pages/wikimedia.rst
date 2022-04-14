@@ -296,9 +296,11 @@ Community Organizing
 Wikimédia France
 ----------------
 
-In 2006, I gave my first presentation about Wikipedia, :doc:`the first of many <speaking>`. I started becoming more involved in public outreach, workshops, and training. I also started volunteering for `Wikimédia France <https://meta.wikimedia.org/wiki/Wikim%C3%A9dia_France/en>`_, the local Wikimedia chapter, and a few months later I was elected to its Board. The chapter was small and had no paid staff, so Board members took on the work and responsibilities that would traditionally be in the purview of staff.
+In 2006, I gave my first presentation about Wikipedia, the first of many speaking. I started becoming more involved in public outreach, workshops, and training. I also started volunteering for `Wikimédia France <https://meta.wikimedia.org/wiki/Wikim%C3%A9dia_France/en>`_, the local Wikimedia chapter, and a few months later I was elected to its Board. The chapter was small and had no paid staff, so Board members took on the work and responsibilities that would traditionally be in the purview of staff.
 
 As a Board member, and later also Secretary, I focused on transparency, efficiency, and community organizing at the local level: I managed membership logistics, engaged donors, and streamlined the Board's decision making process. In addition to a Board member's usual responsibilities around governance, I also created an internal newsletter to keep members informed, and organized the chapter's activities into working groups to facilitate the involvement of volunteers.
+
+.. TODO: :doc:`the first of many <speaking>`
 
 
 Wikimedia Chapters conference 2009
