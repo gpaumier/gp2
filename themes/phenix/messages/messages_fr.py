@@ -60,7 +60,7 @@ MESSAGES = {
     "menu_siteinfo_link": "/fr/a-propos-du-site",
     "menu_siteinfo_label": "À propos du site",
     "menu_section_elsewhere": "Ailleurs sur la toile",
-    "menu_twitter_description": "jeux de mots, pensées en vrac, et (més)aventures romantiques",
+    "menu_twitter_description": "jeux de mots, mèmes, pensées en vrac, et (més)aventures romantiques",
     "menu_instagram_description": "photos de voyages, photos en vrac, et autoportraits occasionnels",
     "menu_linkedin_description": "jsp, « networking »",
     "menu_description_separator": "&nbsp;: ",
