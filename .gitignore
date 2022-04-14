@@ -43,3 +43,6 @@ output
 
 # Official Nikola plugins
 plugins/sphinx_roles/*
+
+# Local Netlify folder
+.netlify

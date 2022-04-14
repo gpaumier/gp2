@@ -11,7 +11,9 @@
 
 .. highlights::
 
-   In this essay, I imagine scenarios about the world in 2030 and :doc:`Wikimedia's <wikimedia>` place in it. The actual future is likely to be a combination of (favorable and unfavorable) elements from all these scenarios. Additional context is available at the end.
+   In this essay, I imagine scenarios about the world in 2030 and :doc:`Wikimedia's <wikimedia>` place in it. The actual future is likely to be a combination of (favorable and unfavorable) elements from all these scenarios.
+
+(Additional context is available at the end.)
 
 __________________________
 
@@ -105,7 +107,7 @@ The point of this exercise is not to choose a scenario over another: we cannot c
 
 Related to my work on :doc:`revenue strategy <wikimedia-revenue-strategy>`
 
-made into cards for activity :doc:`Advancement <wikimedia-advancement>`
+made into cards for activity :doc:`Advancement <advancement>`
 
 opportunity to extend the time perspective of participants, and tap into the collective creativity and
 
