@@ -21,5 +21,4 @@ Les versions précédentes du site sont disponibles via l'outil `WayBack Machine
 Mentions légales
 ================
 
-Le propriétaire et éditeur de ce site est Guillaume Paumier. Ce site est hébergé par `FIXME <http://www.gandi.net>`__, 15 place de la Nation,
-Paris (75011).
+Le propriétaire et éditeur de ce site est Guillaume Paumier. Ce site est hébergé par `Netlify <https://www.netlify.com>`__. Vous pouvez consulter l'`engagement de Netlify sur la protection de vos données <https://www.netlify.com/gdpr-ccpa>`__ (en anglais).
