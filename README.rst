@@ -84,7 +84,7 @@ Install the theme's dependencies:
 
 ::
 
-    $ npm install
+    $ npm install -D
 
 Launch Brunch in watcher mode:
 
@@ -99,3 +99,10 @@ Maintenance stuff:
 ::
 
       $ npm outdated
+
+Building for deployment
+=======================
+
+* `Install Docker <https://en.opensuse.org/Docker>`__
+
+* Set up the `local build container <https://github.com/netlify/build-image#available-images>`__
