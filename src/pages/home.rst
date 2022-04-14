@@ -19,7 +19,7 @@ I'm a science Ph.D, a photographer and a master of organization & optimization. 
 
 In my work, I guide executives and mission-driven organizations through intricate, interdisciplinary challenges using integrative thinking, ingenuity, and empathy.
 
-I like to tackle complex problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process, culminating with a hundred independent organizations worldwide agreeing on a common strategic direction.\ [1]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [2]_ Or designing software that powers the World's largest photography competition.\ [3]_
+I like to tackle complex problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process, culminating with a hundred independent organizations worldwide agreeing on a common strategic direction.\ [1]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [2]_ Or designing software that powers the World's largest photography competition.
 
 I currently work at the Wikimedia Foundation, the nonprofit organization that brings free knowledge to hundreds of millions of people every month and supports them as they collectively make sense of our world.
 
@@ -29,7 +29,7 @@ Read on to learn more about my story, or scroll down to contact me.
 
 .. [2] :doc:`Ph.D thesis: PNIPAM technologies for labs-on-chips <phd>`
 
-.. [3] :doc:`Wikimedia Commons UploadWizard <uploadwizard>`
+.. .. [3] :doc:`Wikimedia Commons UploadWizard <uploadwizard>`
 
 
 ----
@@ -230,7 +230,7 @@ I am an avid reader and bibliophile, sometimes to the point of tsundoku. During 
 
    :doc:`continue reading <play>`
 
-books for musicals, :doc:`scripts for plays <interclubs>`
+books for musicals, interclubs
 
 .. TODO Ajouter autres photos, trouver un arrangement
 
