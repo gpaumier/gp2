@@ -83,5 +83,7 @@ MESSAGES = {
     "contact_form_email_placeholder": "Your email address",
     "contact_form_message_label": "Message:",
     "contact_form_message_placeholder": "Type your message here",
-    "contact_form_button_label": "Send"
+    "contact_form_button_label": "Send",
+    "edit_link_github_prefix": "https://github.com/gpaumier/gp2/tree/main/",
+    "edit_link_label": "Edit this page or view its history on GitHub"
 }
