@@ -75,5 +75,13 @@ MESSAGES = {
     "menu_linkedin_label": "linkedin",
     "menu_linkedin_description": "idk, “networking”",
     "menu_description_separator": ": ",
-    "menu_section_contact": "Contact"
+    "menu_section_contact": "Contact",
+    "contact_form_action_target": "/message-sent",
+    "contact_form_name_label": "Name:",
+    "contact_form_name_placeholder": "(optional)",
+    "contact_form_email_label": "Email:",
+    "contact_form_email_placeholder": "Your email address",
+    "contact_form_message_label": "Message:",
+    "contact_form_message_placeholder": "Type your message here",
+    "contact_form_button_label": "Send"
 }
