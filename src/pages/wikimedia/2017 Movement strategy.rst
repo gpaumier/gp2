@@ -281,7 +281,7 @@ Wikimedia Foundation internal planning
 
 Some of the upcoming discussions will revolve around “big questions” like movement roles, governance, and decision making, while others will be more goal-oriented and will aim to build organizational strategies and multi-year strategic plans.
 
-For my part: decided to focus on another endeavor as I joined the Wikimedia Foundation's :doc:`Advancement department <wikimedia-advancement>`. I continued to participate in Wikimedia 2030 as a member of the "Revenue Streams" working group, whose mission was to .... I also continued to advise the Wikimedia 2030 core team as needed.
+For my part: decided to focus on another endeavor as I joined the Wikimedia Foundation's :doc:`Advancement department <advancement>`. I continued to participate in Wikimedia 2030 as a member of the "Revenue Streams" working group, whose mission was to .... I also continued to advise the Wikimedia 2030 core team as needed.
 
 I was not done thinking about the future though. Taking the long view. :doc:`2031 scenarios <2031-scenarios>`
 

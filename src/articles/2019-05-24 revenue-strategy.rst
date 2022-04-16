@@ -13,7 +13,7 @@
 
 .. highlights::
 
-  The importance of Revenue Strategy for the Wikimedia Foundation lies in two main factors: the uncertain future facing us, which might endanger existing revenue sources, and the impetus to grow, mandated by the ambitions of the Wikimedia movement. The following is a summary of my reflection on Revenue Strategy for the Foundation's :doc:`Advancement department <wikimedia-advancement>`.
+  The importance of Revenue Strategy for the Wikimedia Foundation lies in two main factors: the uncertain future facing us, which might endanger existing revenue sources, and the impetus to grow, mandated by the ambitions of the Wikimedia movement. The following is a summary of my reflection on Revenue Strategy for the Foundation's :doc:`Advancement department <advancement>`.
 
 
 Challenges to the banner fundraising model
