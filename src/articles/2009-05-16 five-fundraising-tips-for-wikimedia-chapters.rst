@@ -7,17 +7,17 @@
 
 .. highlights::
 
-    Last year, I started to document myself about fundraising. Originally, I did it because I intended to use what I would learn to improve Wikimedia France’s management of fundraising. I eventually distanced myself from Wikimedia France for various reasons, but I figured I’d still share a few thoughts that may prove useful to all chapters. Although this article is mainly Wikimedia-focused, the general principles are universal.
+    Last year, I started to learn about fundraising. Originally, I did it because I intended to use what I would learn to improve Wikimedia France’s management of fundraising. I eventually distanced myself from Wikimedia France for various reasons, but I figured I’d still share a few thoughts that may prove useful to all chapters. Although this article is mainly Wikimedia-focused, the general principles are universal.
 
 
-1. Document yourselves
-======================
+1. Do your research
+===================
 
 You can't just improvise fundraising. You're asking people their money: you have to do your research and behave professionally.
 
 Raising funds is like drawing: it's not a matter of innate talent. Some rare people are naturally good at it, but most people have to learn and practice regularly in order to be really good at it. The good news is that you don't need to learn *a lot* to be *good enough* to see a noticeable change in your income; it may not follow the `Pareto principle <http://en.wikipedia.org/wiki/Pareto_principle>`__, but it's still good news.
 
-There are many books about fundraising out there. Here's a list of books I own and I read. They're short and very good to begin with.
+There are many books about fundraising out there. Here's a list of books I own and I have read. They're short and very good to begin with.
 
 -  `Fund Raising Realities Every Board Member Must Face: A 1-Hour Crash Course on Raising Major Gifts for Nonprofit Organizations <http://www.amazon.com/gp/product/1889102105/>`__. David Lansdowne, Emerson & Church, 2007.
 -  `How to Write Fundraising Materials That Raise More Money: The Art, the Science, the Secrets <http://www.amazon.com/gp/product/1889102318>`__. Tom Ahern, Emerson & Church, 2007.

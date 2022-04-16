@@ -49,6 +49,8 @@ MESSAGES = {
     "iconbar_contact_link": "/fr/contact",
     "iconbar_contact_label": "Contact",
     "date_format_long": "d MMMM yyyy",
+    "footer_title": "Navigation de bas de page",
+    "menu_section_main_links": "Navigation principale",
     "menu_home_link": "/fr",
     "menu_home_label": "Accueil",
     "menu_writing_link": "/fr/ecrits",
@@ -72,5 +74,6 @@ MESSAGES = {
     "contact_form_email_placeholder": "Votre adresse électronique",
     "contact_form_message_label": "Message&nbsp;:",
     "contact_form_message_placeholder": "Écrivez votre message ici",
-    "contact_form_button_label": "Envoyer"
+    "contact_form_button_label": "Envoyer le message",
+    "edit_link_label": "Modifier cette page ou voir son historique sur GitHub"
 }

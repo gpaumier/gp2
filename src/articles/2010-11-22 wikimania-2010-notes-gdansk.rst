@@ -2,7 +2,7 @@
 .. category: articles-en
 .. slug: wikimania-2010-notes-gdansk
 .. date: 2010-11-22 22:16:04
-.. tags: Wikimania, Wikimedia
+.. tags: Wikimedia
 .. keywords: Wikimania, Wikimedia, Gdansk
 .. image: /images/2010-07-10_Gdansk_0359.jpg
 .. todo: find original photo

@@ -22,18 +22,9 @@
     {{ post.text() }}
     </div>
 
-    <aside class="post-actions">
-        <ul>
-            <li><i class="fa fa-share-alt"></i> Share this content with your communities</li>
-            <li><i class="fa fa-pencil-square-o"></i> Edit this page or view its history</li>
-        </ul>
-    </aside>
-
-    <aside class="postpromonav">
-    <nav>
-    {{ helper.html_pager(post) }}
-    </nav>
-    </aside>
+    {% block edit_link %}
+        {% include "_edit_link.tmpl" %}
+    {% endblock %}
 
     {{ helper.mathjax_script(post) }}
 </article>

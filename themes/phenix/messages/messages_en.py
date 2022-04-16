@@ -53,7 +53,8 @@ MESSAGES = {
     "iconbar_contact_class": "fa fa-envelope",
     "iconbar_contact_label": "Contact",
     "date_format_long": "MMMM d, yyyy",
-    "menu_section_main_links": "Main links",
+    "footer_title": "Footer navigation",
+    "menu_section_main_links": "Main navigation",
     "menu_home_link": "/",
     "menu_home_label": "Home",
     "menu_writing_link": "/writing",
@@ -83,5 +84,7 @@ MESSAGES = {
     "contact_form_email_placeholder": "Your email address",
     "contact_form_message_label": "Message:",
     "contact_form_message_placeholder": "Type your message here",
-    "contact_form_button_label": "Send"
+    "contact_form_button_label": "Send message",
+    "edit_link_github_prefix": "https://github.com/gpaumier/gp2/tree/main/",
+    "edit_link_label": "Edit this page or view its history on GitHub"
 }

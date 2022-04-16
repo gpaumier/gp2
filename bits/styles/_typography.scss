@@ -265,3 +265,13 @@ p.continue-reading {
 section:last-child, p:last-child {
   margin-bottom: 0;
 }
+
+// Footer
+
+body > footer {
+  @extend %fumseck-sans;
+
+  button {
+      @extend %fumseck-sans-bold;
+  }
+}

@@ -2,7 +2,7 @@
 .. category: articles-en-featured
 .. slug: autistic-wikipedian
 .. date: 2015-07-29 17:14:00
-.. tags: Wikimedia, Autism
+.. tags: Wikimedia
 .. image: /images/2013-03-08_Death_Valley_5903.jpg
 
 

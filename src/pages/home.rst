@@ -23,7 +23,7 @@ I like to tackle complex problems, like leading a global movement of 70,000+ vol
 
 I currently work at the Wikimedia Foundation, the nonprofit organization that brings free knowledge to hundreds of millions of people every month and supports them as they collectively make sense of our world.
 
-Read on to learn more about my story, or scroll down to contact me.
+Read on to learn more about my story, or :ref:`scroll down <footer-contact>` to contact me.
 
 .. [1] :doc:`Wikimedia 2030: participatory strategy for a global movement <wikimedia2030>`
 

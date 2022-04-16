@@ -23,7 +23,7 @@ Over the years, I have often talked about free knowledge, online communities, op
 
 These days, I prefer to focus on fewer but more specialized talks that give me the opportunity to research topics more thoroughly and ensure that they are tailored to the audience.
 
-If you would like to invite me for a talk or workshop, please scroll down to get in touch, and we will work together to scope your needs.
+If you would like to invite me for a talk or workshop, please :ref:`scroll down <footer-contact>` to get in touch, and we will work together to scope your needs.
 
 Previous events
 ===============
