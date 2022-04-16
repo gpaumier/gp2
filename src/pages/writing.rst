@@ -1,5 +1,6 @@
 .. title: Writing
 .. slug: writing
+.. template: page_custom.tmpl
 .. image:
 .. icon: fa-puzzle-piece
 .. icon-alternative: fa-wikipedia-w

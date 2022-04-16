@@ -1,14 +1,14 @@
 // Mixins
 
-@mixin default-layout($width) {
+@mixin default-layout($width: 65ch) {
 
   display: grid;
   grid-template-columns: minmax(.5rem, 1fr) minmax(min-content, $width) minmax(.5rem, 1fr);
   margin-bottom: 3rem;
 
-  &:last-child {
-    margin-bottom: 0;
-  }
+  // &:last-child {
+  //   margin-bottom: 0;
+  // }
 
   figure {
     grid-column: 1 / 4;

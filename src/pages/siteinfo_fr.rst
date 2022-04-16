@@ -1,6 +1,5 @@
 .. title: À propos du site
 .. slug: a-propos-du-site
-.. icon: fa-info-circle
 
 Respect de la vie privée
 ========================
