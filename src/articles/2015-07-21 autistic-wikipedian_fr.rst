@@ -11,7 +11,7 @@
 
 .. note::
 
-    Cet essai est à l'origine de ma `présentation du même nom <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ donnée lors de la conférence Wikimania 2015. Il s'agit d'un brouillon, que j'ai décidé de publier maintenant afin d'éviter une attente trop longue ; je vais continuer à le peaufiner au cours des prochaines semaines, et `vous pouvez contribuer <https://github.com/gpaumier/gp2/blob/master/src/articles/2015-07-21%20autistic-wikipedian/index_fr.md>`_ à son amélioration. Le `texte original en anglais <http://guillaumepaumier.com/2015/07/29/autistic-wikipedian/>`_ est également disponible.
+    Cet essai est à l'origine de ma `présentation du même nom <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ donnée lors de la conférence Wikimania 2015. Il ne s'agit pas d'une retranscription exacte.
 
 
 Introduction
