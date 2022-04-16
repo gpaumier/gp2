@@ -276,7 +276,7 @@ As Technical Communications Manager, I was responsible for assembling, editing, 
 
 .. later: :doc:`Technical writing <technical-communications-wikimedia>`
 
-During that period, I authored :doc:`a few book chapters <writing>`. One detailed the architecture of MediaWiki, the software that powers Wikipedia, for inclusion in *The Architecture of Open Source Applications, volume 2*. Another one, on the topic of user experience, was included in *Open Advice*, a collection of essays, stories and lessons learned by members of the Free Software community.
+During that period, I authored :doc:`a few book chapters <writings>`. One detailed the architecture of MediaWiki, the software that powers Wikipedia, for inclusion in *The Architecture of Open Source Applications, volume 2*. Another one, on the topic of user experience, was included in *Open Advice*, a collection of essays, stories and lessons learned by members of the Free Software community.
 
 In 2013, I started :doc:`Tech News <wikimedia-tech-news>`, a weekly technical newsletter for Wikipedia contributors. Written in intentionally simple language, its goal was to inform Wikipedians without specialized technical knowledge about software changes that might affect them. I worked with volunteers to translate the newsletter in about a dozen languages every week, and wrote a Lua script to distribute multilingual newsletters. The newsletter, now managed by the Community Liaisons team, has been running for seven years and has been instrumental in improving relationships between engineering staff and Wikipedia communities.
 

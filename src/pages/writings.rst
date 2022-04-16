@@ -1,9 +1,18 @@
-.. title: Writing
-.. slug: writing
+.. title: Writings
+.. slug: writings
 .. template: page_custom.tmpl
-.. image:
+.. image: /images/Leonardo_da_Vinci_-_Ambrosiana-Codice-Atlantico-Codex-Atlanticus-f-272-verso.jpg
 .. icon: fa-puzzle-piece
 .. icon-alternative: fa-wikipedia-w
+
+
+.. figure:: /images/Leonardo_da_Vinci_-_Ambrosiana-Codice-Atlantico-Codex-Atlanticus-f-272-verso.jpg
+   :figclass: lead-figure
+   :alt: Photo of a page of Leonardo da Vinci's Codex Atlanticus showing text and diagrams
+
+   Leonardo da Vinci's Codex Atlanticus, f. 272 verso, on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Ambrosiana-Codice-Atlantico-Codex-Atlanticus-f-272-verso.jpg>`__ // Public domain.
+
+
 
 Books
 =====
