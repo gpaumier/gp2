@@ -241,14 +241,6 @@ p.continue-reading {
 // Footnotes
 
 .footnote-reference, .fn-backref {
-  &:before {
-    content: '[';
-  }
-
-  &:after {
-    content: ']';
-  }
-
   font-size: 80%;
   text-decoration: none;
 }
