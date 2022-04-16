@@ -2,7 +2,7 @@
 .. category: articles-en
 .. slug: wikimedia-multimedia-ux-testing-videos
 .. date: 2010-07-23 10:29:54
-.. tags: Wikimedia, video
+.. tags: Wikimedia
 .. keywords: Multimedia usability, UX, video, Engineering, Wikimedia
 .. image: /images/2010-06-22_usability_testing_by_neilk.jpg
 .. image-caption: The observation room at the testing facility; the testing is happening in the background, behind the semi-transparent glass.

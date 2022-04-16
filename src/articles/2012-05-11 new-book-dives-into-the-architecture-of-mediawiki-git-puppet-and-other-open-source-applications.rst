@@ -3,7 +3,8 @@
 .. clean: no
 .. slug: new-book-dives-into-the-architecture-of-mediawiki-git-puppet-and-other-open-source-applications
 .. date: 2012-05-11 09:45:27
-.. tags: MediaWiki,Wikimedia blog,Engineering,Wikimedia
+.. tags: Wikimedia
+.. keywords: MediaWiki, Wikimedia blog, Engineering, Wikimedia
 .. image:
 .. source-link: https://blog.wikimedia.org/2012/05/11/book-architecture-mediawiki-open-source-applications/
 .. source-label: Wikimedia Tech blog

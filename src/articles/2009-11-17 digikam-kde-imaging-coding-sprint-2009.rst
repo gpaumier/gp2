@@ -2,7 +2,6 @@
 .. category: articles-en
 .. slug: digikam-kde-imaging-coding-sprint-2009
 .. date: 2009-11-17 08:07:00
-.. tags: KDE
 .. keywords: digiKam, KDE
 .. image: /images/2009-11-14_digikam_coding_sprint_johannes.jpg
 

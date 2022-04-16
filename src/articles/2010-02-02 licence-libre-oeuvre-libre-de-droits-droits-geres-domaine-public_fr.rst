@@ -2,7 +2,7 @@
 .. category: articles-fr
 .. slug: licence-libre-oeuvre-libre-de-droits-droits-geres-domaine-public
 .. date: 2010-02-02 20:56:59
-.. tags: Photo, Wikimedia
+.. tags: Wikimedia
 .. image: /images/2010-02-02_photos_polaroids_5901.png
 .. todo: find original collage
 

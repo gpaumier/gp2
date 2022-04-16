@@ -2,7 +2,7 @@
 .. category: articles-en
 .. slug: wikimedia-kde-akademy-2010
 .. date: 2010-07-22 10:28:32
-.. tags: Wikimedia, KDE, video
+.. tags: Wikimedia
 .. keywords: aKademy, Multimedia usability, UX, video, Engineering, KDE, Wikimedia
 .. image: /images/2010-07-03_Qt_duck.jpg
 .. image-caption: “Take the duck from your desk, look at your code and explain to the duck—line by line—what it does.”
