@@ -3,6 +3,7 @@
 .. slug: reference-necessaire
 .. date: 2010-02-10 04:45:25
 .. tags: Wikimedia
+.. image: /images/Webcomic_xkcd_-_Wikipedian_protester_-_English.svg
 
 
 .. highlights::
@@ -15,18 +16,17 @@ Wikipedia étant modifiable par tout internaute, il est important de préciser c
 
 C'est ensuite devenu une *private joke*, une blague comprise uniquement des initiés. On a ainsi vu des autocollants [citation needed] `apposés sur des affiches, dans la rue <https://www.flickr.com/photos/tags/citationneeded/>`__, à la suite d'affirmations particulièrement péremptoires.
 
-.. figure:: /images/2010-02-10_Burgers_built_with_what_you_love_citation_needed_by_Matt_Mechtley.jpg
+.. figure:: /images/2010-02-10_Burgers_built_with_what_you_love_citation_needed_by_Mira_Mechtley.jpg
    :alt: Panneau publicitaire représentant un burger. La publicité comporte un texte vantant les mérites du burger. Un autocollant avec le texte « citation needed » a été collé sur la publicité, à la suite du texte.
-   :target: http://www.flickr.com/photos/34085067@N00/2205859072
 
-   Burgers built with what you love (citation needed). `Matt Mechtley <https://www.flickr.com/photos/mmechtley/>`__ on `flickr <https://www.flickr.com/photos/34085067@N00/2205859072>`__ // `CC BY-SA <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__
+   Burgers built with what you love (citation needed). `Mira Mechtley <https://www.flickr.com/photos/mmechtley/>`__ on `flickr <https://www.flickr.com/photos/mmechtley/2205859072/in/album-72157603429112869/>`__ // `CC BY-SA <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__
 
 
 xkcd, une célèbre bande dessinée sur Internet, a également consacré une planche à ce sujet (l'une de mes favorites). On y voit, lors d'un discours politique, un membre de l'assemblée tendre un panneau [citation needed] à l'adresse de l'orateur, l'invitant ainsi à fournir des références pour étayer ses affirmations et ses promesses:
 
-.. figure:: /images/wikipedian_protester.png
+.. figure:: /images/Webcomic_xkcd_-_Wikipedian_protester_-_English.svg
 
-   `Wikipedian Protester <https://xkcd.com/285/>`__ by `Randall Munroe <https://xkcd.com/about>`_ // `CC BY <https://creativecommons.org/licenses/by/2.5/legalcode>`__
+   `Wikipedian Protester <https://xkcd.com/285/>`__ by `Randall Munroe <https://xkcd.com/about>`_ // `CC BY <https://creativecommons.org/licenses/by/2.5/legalcode>`__ // `Vectorized <https://commons.wikimedia.org/wiki/File:Webcomic_xkcd_-_Wikipedian_protester_-_English.svg>`__ by `Ponor <https://commons.wikimedia.org/wiki/User:Ponor>`__
 
 
 Je pense que la volonté, parfois même la manie, d'indiquer la source des informations ajoutées dans les articles de Wikipedia a un effet profond sur ses auteurs. C'est une impression que j'ai particulièrement ressentie lors des différentes rencontres avec des Wikimédiens, de France ou d'ailleurs. Ils ont souvent les mêmes réflexes, la même tendance à immédiatement exercer leur esprit critique face à n'importe quelle information.
