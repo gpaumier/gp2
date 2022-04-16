@@ -1,0 +1,19 @@
+
+<form
+  name="contact"
+  method="POST"
+  action="{{ messages('contact_form_action_target')}}"
+  data-netlify="true">
+  <p>
+    <label>{{ messages('contact_form_name_label')}} <input type="text" name="name" placeholder="{{ messages('contact_form_name_placeholder')}}"/></label>
+  </p>
+  <p>
+    <label>{{ messages('contact_form_email_label')}} <input type="email" name="email" placeholder="{{ messages('contact_form_email_placeholder')}}" required /></label>
+  </p>
+  <p>
+    <label>{{ messages('contact_form_message_label')}} <textarea name="message" placeholder="{{ messages('contact_form_message_placeholder')}}" required></textarea></label>
+  </p>
+  <p>
+    <button type="submit">{{ messages('contact_form_button_label')}}</button>
+  </p>
+</form>

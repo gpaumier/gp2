@@ -64,5 +64,13 @@ MESSAGES = {
     "menu_instagram_description": "photos de voyages, photos en vrac, et autoportraits occasionnels",
     "menu_linkedin_description": "jsp, « networking »",
     "menu_description_separator": "&nbsp;: ",
-    "menu_section_contact": "Contact"
+    "menu_section_contact": "Contact",
+    "contact_form_action_target": "/fr/message-envoye",
+    "contact_form_name_label": "Nom&nbsp;:",
+    "contact_form_name_placeholder": "(facultatif)",
+    "contact_form_email_label": "E-mail&nbsp;:",
+    "contact_form_email_placeholder": "Votre adresse électronique",
+    "contact_form_message_label": "Message&nbsp;:",
+    "contact_form_message_placeholder": "Écrivez votre message ici",
+    "contact_form_button_label": "Envoyer"
 }
