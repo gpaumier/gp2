@@ -1,29 +1,38 @@
 <footer>
   <nav aria-labelledby="footer-navigation">
-    <h2 id="footer-navigation">Footer navigation</h2>
-    <h3>{{ messages('menu_section_main_links')}}</h3>
-    <ul>
-      {% for page in ['home', 'writing', 'wikimedia', 'play', 'siteinfo'] %}
-          <li>
-              <a href="{{ messages('menu_' + page + '_link')}}" class="item">{{ messages('menu_' + page + '_label')}}</a>
-          </li>
-      {% endfor %}
-    </ul>
-    <h3>{{ messages('menu_section_elsewhere')}}</h3>
-    <ul>
-      {% for elsewhere in ['twitter', 'instagram', 'linkedin'] %}
-          <li>
-              <a href="{{ messages('menu_' + elsewhere + '_link')}}" class="item">{{ messages('menu_' + elsewhere + '_label')}}</a>{{ messages('menu_description_separator')}}{{ messages('menu_' + elsewhere + '_description')}}
-          </li>
-      {% endfor %}
-    </ul>
+    <h2 id="footer-navigation" class="show-for-sr">{{ messages('footer_title')}}</h2>
+
+    <section id="footer-main-links">
+      <h3>{{ messages('menu_section_main_links')}}</h3>
+      <ul>
+        {% for page in ['home', 'writing', 'wikimedia', 'play', 'siteinfo'] %}
+            <li>
+                <a href="{{ messages('menu_' + page + '_link')}}" class="item">{{ messages('menu_' + page + '_label')}}</a>
+            </li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <section id="footer-elsewhere">
+      <h3>{{ messages('menu_section_elsewhere')}}</h3>
+      <ul>
+        {% for elsewhere in ['twitter', 'instagram', 'linkedin'] %}
+            <li>
+                <a href="{{ messages('menu_' + elsewhere + '_link')}}" class="item">{{ messages('menu_' + elsewhere + '_label')}}</a>{{ messages('menu_description_separator')}}{{ messages('menu_' + elsewhere + '_description')}}
+            </li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <section id="footer-contact">
     <h3>{{ messages('menu_section_contact')}}</h3>
     {% block contact_form %}
         {% include "_contact_form.tmpl" %}
     {% endblock %}
+  </section>
+
   </nav>
 </footer>
-
 
 <script src="/assets/libs.js"></script>
 <script src="/assets/phenix.js"></script>
