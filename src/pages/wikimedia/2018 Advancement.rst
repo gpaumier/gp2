@@ -56,6 +56,12 @@ Long-term thinking
 
 Revenue Strategy goes beyond medium-term plans for new revenue streams. A central part of my work is to think about the longer term and the trends, risks, and unknowns that might have an impact on the organization. I do this not just by reading across many fields, but also by using imagination and making connections across disciplines. Human systems are deeply interconnected and taking a wider view avoids tunnel vision, while imagination avoids focusing only on known elements.
 
+
+.. figure:: /images/The_Visit_of_Charles_Fraser,_cover_detail.png
+
+   José Guillermo Hay on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:The_Visit_of_Charles_Fraser,_cover_detail.png>`__ // Public domain.
+
+
 For example, in 2019 I produced three :doc:`Scenarios for 2031 <2031-scenarios>` to imagine possible futures for the world and Wikimedia's place in it. The scenarios all contained both favorable and unfavorable story elements, to ensure the people engaging with them wouldn't be tempted to pick one as the future they favored. I used the scenarios to spark discussions and shift conversations from day-to-day concerns and busywork to longer-term strategic thinking.
 
 In a workshop with Advancement staff, I created cards, representing story elements of the scenarios, to encourage long-term thinking while tapping into the participants' own expertise and imagination. "Black swan" cards introduced halfway through the activity forced the participants to contend with unpredictable, "wild card" events and how their draft strategies would fare in those new circumstances.
