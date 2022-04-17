@@ -156,6 +156,9 @@
     align-self: center;
     z-index: 50;
     color: if($background == "dark", #f3f3f3, #222);
+
+    // Bigger h2 if it's used as hero header
+    @extend %hero-title;
   }
 
   > figure:first-of-type {

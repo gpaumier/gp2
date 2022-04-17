@@ -213,6 +213,11 @@ h2 {
     text-align: center;
 }
 
+%hero-title {
+  font-size: calc(1.5rem + 2vw);
+  line-height: calc(2.5rem + 2vw);
+}
+
 .highlights {
     @extend %fumseck-serif;
     font-style: normal;

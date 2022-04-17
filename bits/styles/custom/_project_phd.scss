@@ -1,10 +1,5 @@
 article.custom-phd {
 
-  h2 {
-    font-size: calc(1.5rem + 2vw);
-    line-height: calc(2.5rem + 2vw);
-  }
-
   /////////////////////////////////////////////////////////////
 
   #technical-abstract,
@@ -53,6 +48,8 @@ article.custom-phd {
       margin: 0;
       z-index: 50;
       color: #f3f3f3;
+
+      @extend %hero-title;
     }
 
     blockquote {
@@ -132,7 +129,7 @@ article.custom-phd {
     );
 
     h2 {
-      // Use italics because it's a quote, and switch to seif because we don't have a bold italic sans font.
+      // Use italics because it's a quote, and switch to serif because we don't have a bold italic sans font.
       @extend %fumseck-serif-bolditalic;
     }
 
