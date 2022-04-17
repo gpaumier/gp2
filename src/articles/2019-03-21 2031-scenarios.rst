@@ -11,11 +11,9 @@
 
 .. highlights::
 
-   In this essay, I imagine scenarios about the world in 2030 and :doc:`Wikimedia's <wikimedia>` place in it. The actual future is likely to be a combination of (favorable and unfavorable) elements from all these scenarios.
+   As part of my work on revenue strategy for Wikimedia, I imagined three scenarios about the world in 2031 and the organization's place in it. I used these stories to spark discussions and shift conversations from day-to-day concerns and busywork to longer-term strategic thinking.
 
-(Additional context is available at the end.)
-
-__________________________
+----
 
 2031: The War of the Words
 ==========================
@@ -24,6 +22,8 @@ __________________________
    :figclass: fig-the-war-of-the-words
 
    Frederick Burr Opper on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:The_fin_de_si%C3%A8cle_newspaper_proprietor_(cropped).jpg>`__.
+
+Misinformation, disinformation, testudo formation.
 
 It is the year 2031, and Wikipedia is celebrating its 30th birthday. In a world of unrest and division, Wikipedia seems strangely united. Environmental disasters due to global warming, compounded by socioeconomic crises and identity politics, have birthed a world where distrust and fear of the other are the new normal. Bad actors have never been more active online, whether they are state-funded or attempting to destabilize nations. The violence in the streets is fueled by institutional censorship, organized disinformation, and trolling campaigns that make the online atmosphere even more polluted and toxic than the actual atmosphere.
 
@@ -39,7 +39,7 @@ Wikipedia's financial sustainability isn't a huge concern at the moment. Althoug
 
 It is unclear how, when, or if the fight will end, but it has taken an undeniable toll on the health of communities: while they were originally energized by the righteousness of their mission to defend Wikipedia against the hordes, more and more of them are retiring from the wikis due to burnout, doxxing, or simply lack of enjoyment in contributing any more.
 
-__________________________
+----
 
 2031: Success into oblivion
 ===========================
@@ -48,6 +48,8 @@ __________________________
    :figclass: fig-success-into-oblivion
 
    `Reinhold Möller <https://commons.wikimedia.org/wiki/User:Ermell>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gro%C3%9Fe_Linde_bei_Teuchatz_P1320563-PS.jpg>`__ // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__
+
+More money than we had hoped, and the cost of success.
 
 It is the year 2031, and Wikipedia is celebrating its 30th birthday. Hundreds of parties are happening around the world and on all continents. The Wikipedia Consortium can be proud of its achievements. We did it; we achieved the ambitious goals dreamed in the 2030 strategic direction. Looking back, our success can be attributed to a series of good decisions and external events that played in our favor, for better or for worse.
 
@@ -67,7 +69,7 @@ The global expansion of the Consortium has been costly and has committed most re
 
 As the celebrations wind down, optimism is widespread but the future is uncertain. The Consortium was a success for a while, but is it still?
 
-__________________________
+----
 
 2031: Human obsolescence
 ========================
@@ -76,6 +78,8 @@ __________________________
    :figclass: fig-human-obsolescence
 
    Pixabay on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Artificial-intelligence-155161_1280.png>`__ // `CC0 1.0 <https://creativecommons.org/publicdomain/zero/1.0/legalcode>`__
+
+The robot revolution will not be advertised.
 
 It is the year 2031, and Wikipedia is celebrating its 30th birthday. Banners and celebratory logos have been chosen through community contests, but they saw little participation. No one is really in the mood for celebrating: last month, Wikipedia was acquired by a large media group. And even though the new owners have promised editorial independence, the few remaining editors expect the giant to kill off the site in the next few years. How did we not see this coming?
 
@@ -93,30 +97,36 @@ The jury is still out on systemic bias. The reliance on technology has in a way 
 
 There might have been a future for Wikimedia if the movement had figured out its unique advantage over the machines and adapted in time, but by the time we realized what was happening, it was too late. Deprived of readers, and therefore of donors and contributors, the options for survival were few. Swallowing our pride, we were the ones who went to the media giant asking for help; they agreed to host us out of pity more than interest. The new owner isn't even planning to serve ads on Wikipedia: the low number of readers (and therefore the meager revenue from ads) isn't worth the trouble.
 
-__________________________
+----
 
 Beyond the scenarios
 ====================
 
-.. figure:: /images/The_Visit_of_Charles_Fraser,_cover_detail.png
-   :figwidth: 30em
+.. figure:: /images/NSG_Vogelfreistätte_Feldheimer_Stausee_-_Trauerschwan_als_Gast.jpg
 
-   José Guillermo Hay on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:The_Visit_of_Charles_Fraser,_cover_detail.png>`__ // Public domain.
+   Black swan *(cygnus atratus)* by `Rikiwiki2 <https://commons.wikimedia.org/wiki/User:Rikiwiki2>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:NSG_Vogelfreist%C3%A4tte_Feldheimer_Stausee_-_Trauerschwan_als_Gast.jpg>`__ // `CC-By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-The point of this exercise is not to choose a scenario over another: we cannot choose what the future will look like, just like we cannot change the past. Our temporal agency is limited to the decisions we make in the present, based on our understanding of the past and the future. The point is to provoke thinking, devise strategies, and guide decisions that help us adapt to the variety of possible futures.
+If all you've ever known is white swans, you think black ones can't exist.
 
-Related to my work on :doc:`revenue strategy <wikimedia-revenue-strategy>`
+The point of this exercise was not to choose a scenario over another: we can't choose what the future will look like, just like we can't change the past. Our temporal agency is limited to the decisions we make in the present, based on our understanding of the past and the future. The goal was to provoke thinking, devise strategies, and guide decisions that would help us adapt to the variety of possible futures.
 
-made into cards for activity :doc:`Advancement <advancement>`
+The scenarios all contained both favorable and unfavorable story elements, to ensure that people engaging with them wouldn’t be tempted to pick one as the future they favored. The actual future that would come to pass was likely to be a combination of elements from all these stories. These stories were the basis of the :doc:`revenue strategy <wikimedia-revenue-strategy>` I devised in 2019.
 
-opportunity to extend the time perspective of participants, and tap into the collective creativity and
+.. figure:: /images/2010-07-03_Qt_duck.jpg
+   :figclass: scenario-cards
 
-not recreate the scenarios, but provide elements of the story and see how the participants weave them together
+   Full-page cards representing story elements from the scenarios.
 
-then open the "Black Swan" envelope halfway through the activity. Picked at random
+.. TODO: replace placeholder image
 
-The scenarios all contain both favorable and unfavorable story elements, to ensure the people engaging with them wouldn’t be tempted to pick one as the future they favored. I used the scenarios to spark discussions and shift conversations from day-to-day concerns and busywork to longer-term strategic thinking.
+During a department retreat, I organized a workshop with :doc:`Advancement <advancement>` staff, using full-page cards representing story elements of the scenarios, to encourage long-term thinking while tapping into the participants’ own expertise and imagination. The cards provided the framework for the discussion, but let the participants weave them together in new ways.
 
-In a workshop with Advancement staff, I created cards, representing story elements of the scenarios, to encourage long-term thinking while tapping into the participants’ own expertise and imagination. “Black swan” cards introduced halfway through the activity forced the participants to contend with unpredictable, “wild card” events and how their draft strategies would fare in those new circumstances.
+I also introduced “black swan” cards halfway through the activity,\ [#blackswan]_ picked at random among a few options. The goal was to prompt the participants to contend with unpredictable, `wild card <https://en.wikipedia.org/wiki/Wild_card_(foresight)>`__ events and consider how their draft strategies would fare in those new circumstances.
 
-Future-oriented thinking helps build resilience by shifting the perspective of the organization’s leaders to the long view, and leading them to imagine the future consequences of current events and choices they make today.
+.. [#blackswan] The `black swan theory <https://en.wikipedia.org/wiki/Black_swan_theory>`__ was developed by Nassim Nicholas Taleb in his 2007 book |blackswanbook|_. Black swan events are low-probability occurrences with a dramatic impact on the history considered. The phrase was used by Europeans for over 1500 years to refer to something that couldn't exist, until they encountered Australia's black swans in the 17th century.
+
+.. |blackswanbook| replace:: *The Black Swan: The Impact of the Highly Improbable*
+
+.. _blackswanbook: https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable
+
+The workshop was a high point of the retreat, and I've held similar workshops for Advancement and Wikimedia staff over the years. Future-oriented thinking helps build resilience by shifting the perspective of the organization’s leaders to the long view, and leading them to imagine the future consequences of current events and choices they make today.
