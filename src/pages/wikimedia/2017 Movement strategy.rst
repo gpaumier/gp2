@@ -26,8 +26,6 @@
     The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now serves as the compass for multi-year strategic planning by Wikimedia organizations, and guides decision-making around roles, responsibilities, and resources in the Wikimedia movement.
 
 
-
-
 "Your mission, should you choose to accept it ..."
 ==================================================
 
@@ -53,29 +51,26 @@ And so it began.
 
 We put together a team. We designed a process, and adjusted it many times. Our aim was to identify a common strategic direction that would unite and inspire people across our movement on our way to 2030, and help us make decisions. I was part of the `small core team <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/People/Core_team>`__ leading this process, along with other employees of the Wikimedia Foundation and in the movement, and the folks at `Williamsworks <http://williamsworks.com/>`__.
 
-.. figure:: /images/Wikimedia_Conference_2017_–_118.jpg
+.. container:: team
 
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_118.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   .. figure:: /images/Wikimedia_Conference_2017_–_118.jpg
+      :figclass: katherine
 
+   .. figure:: /images/Wikimedia_Conference_2017_–_117.jpg
+      :figclass: adele
 
-.. figure:: /images/MYHO8747-edit.jpg
+   .. figure:: /images/MYHO8747-edit.jpg
+      :figclass: williamsworks
 
-   `Myleen Hollero <http://myleenhollero.com/>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
+   .. figure:: /images/Wikimedia_Conference_2018_–_134.jpg
+      :figclass: nicole
 
+   .. figure:: /images/MYHO9171-edit.jpg
+      :figclass: juliet
 
-.. figure:: /images/MYHO9171-edit.jpg
+   .. class:: caption
 
-   `Myleen Hollero <http://myleenhollero.com/>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
-
-
-.. figure:: /images/Wikimedia_Conference_2017_–_117.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_117.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-.. figure:: /images/Wikimedia_Conference_2018_–_134.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_134.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+      Jason Krüger for Wikimedia Deutschland e.V. (`1 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_118.jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_117.jpg>`__, `4 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_134.jpg>`__), `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__. `Myleen Hollero <http://myleenhollero.com/>`__ (3, 5), `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
 
 The 2030 horizon
@@ -93,10 +88,22 @@ From on-wiki discussions, to large conferences, to small meetups, to expert inte
 Citations needed
 ----------------
 
-Thinking about the future is an exercise in imagination, but we're Wikimedians, so it was an exercise in imagination based on facts, trends, and sources. We looked around to figure out what we already knew about the world we would be living in in 2030. We knew that there would be a lot more people in it, particularly in Asia and Africa.\ [#UNpop]_ We knew that technology would evolve dramatically, notably through `mobile devices <https://www.slideshare.net/a16z/mobile-is-eating-the-world-2016/10-10Everyone_gets_a_pocket_supercomputerMobile>`__, `rich media <http://www.kpcb.com/internet-trends>`__, messaging, and `new interfaces <http://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x>`__. We knew that it would be taking `about a hundred years <https://www.brookings.edu/research/why-wait-100-years-bridging-the-gap-in-global-education/>`__ for children in low-income countries to catch up to the education levels achieved in developed countries. And we knew that there was a trend towards a `centralization of the internet <https://www.fastcompany.com/3068627/internet-aws-cloud-centralization>`__  and a consolidation of power in the hands of a `few giant companies <http://www.economist.com/news/special-report/21707048-small-group-giant-companiessome-old-some-neware-once-again-dominating-global>`__, notably `in the tech industry <http://www.thedailybeast.com/articles/2014/02/09/how-a-few-monster-tech-firms-are-taking-over-everything-from-media-to-space-travel-and-what-it-means-for-the-rest-of-us.html>`__ .
+Thinking about the future is an exercise in imagination, but we're Wikimedians, so it was an exercise in imagination based on facts, trends, and sources. We looked around to figure out what we already knew about the world we would be living in in 2030. We knew that there would be a lot more people in it, particularly in Asia and Africa.\ [#UNpop]_ We knew that technology would evolve dramatically, notably through mobile devices,\ [#A16ZMobileEating]_ rich media, messaging, and new interfaces.\ [#KPInternetTrends2017]_ We knew that it would be taking about a hundred years for children in low-income countries to catch up to the education levels achieved in developed countries.\ [#BrookingsEdGap]_ And we knew that there was a trend towards a centralization of the Internet\ [#FastCoBreakingInternet]_ and a consolidation of power in the hands of a few giant companies,\ [#EconomistRiseSuperstars]_ particularly in the tech industry.\ [#DailyBeastMonsterTech]_
 
 
 .. [#UNpop] `World population projected to reach 9.7 billion by 2050 <https://www.un.org/development/desa/en/news/population/2015-report.html>`__. United Nations Department of Economic and Social Affairs (2015-07-29).
+
+.. [#A16ZMobileEating] `Mobile is Eating the World, 2016-2017 <https://a16z.com/2016/12/09/mobile-is-eating-the-world-outlook-2017/>`__. Benedict Evans. Andressen Horowitz. (`slides on slideshare <https://www.slideshare.net/a16z/mobile-is-eating-the-world-20162017>`__).
+
+.. [#KPInternetTrends2017] `Internet trends 2017 <https://www.kleinerperkins.com/perspectives/internet-trends-report-2017/>`__. Kleiner Perkins. `Download report <https://cdn.sanity.io/files/ti7si9cx/production/c17bf47df77781af3ed695c537b404117b89b91a.pdf?dl>`__ (PDF, 14.5Mb).
+
+.. [#BrookingsEdGap] `Why wait 100 years? Bridging the gap in global education <https://www.brookings.edu/research/why-wait-100-years-bridging-the-gap-in-global-education/>`__. Rebecca Winthrop and Eileen McGivney. Brookings, June 10, 2015.
+
+.. [#FastCoBreakingInternet] `Are We Breaking The Internet? <https://www.fastcompany.com/3068627/internet-aws-cloud-centralization>`__. Tristan Louis. Fast Company, May 3, 2017.
+
+.. [#EconomistRiseSuperstars] `The rise of the superstars <http://www.economist.com/news/special-report/21707048-small-group-giant-companiessome-old-some-neware-once-again-dominating-global>`__. The Economist, September 15, 2016.
+
+.. [#DailyBeastMonsterTech] `How a Few Monster Tech Firms are Taking Over Everything from Media to Space Travel and What it Means for the Rest of Us <http://www.thedailybeast.com/articles/2014/02/09/how-a-few-monster-tech-firms-are-taking-over-everything-from-media-to-space-travel-and-what-it-means-for-the-rest-of-us.html>`__. Joel Kotkin. The Daily Beast, February 9, 2014.
 
 .. container:: fears-hopes
 
@@ -116,9 +123,15 @@ Several themes emerged from the mass of information and were further integrated 
 
 After years of tensions between the Wikimedia Foundation and other actors of the Wikimedia movement, groups and individuals started declaring their intent to work together towards this future by `endorsing the direction <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/Direction/Endorsement>`__. In less than a week, over 70 groups and organizations had already endorsed it; they had committed to participating in the next phase in good faith and to come to an agreement on roles, responsibilities, and organizational strategies that would enable the movement to implement that future. In the end nearly 100 groups and organizations signed on, representing an unprecedented alignment in the history of the Wikimedia movement.
 
-Cyndi Suarez from *Nonprofit Quarterly* wrote that "`Wikimedia's Strategic Direction Project is a Model of Democracy <https://nonprofitquarterly.org/2018/03/30/wikimedias-strategic-direction-project-model-democracy/>`__." Over at *Forbes*, Michael Bernick, describing "`The Power Of The Wikimedia Movement Beyond Wikimedia <https://www.forbes.com/sites/michaelbernick/2018/03/28/the-power-of-the-wikimedia-movement-beyond-wikimedia/#42557f8e5a75>`__," concluded that "[Wikimedia] gives us glimpses of what is possible in questioning hierarchies and gatekeepers—the creativity and energy unleashed, the involvement, the common ground possible—even as it continues to question and seek to improve its own structure." Ryan Merkley is fond of saying that "`Nobody does strategy like this <https://twitter.com/ryanmerkley/status/1260214328235622401>`__."
+Cyndi Suarez from *Nonprofit Quarterly* wrote that "Wikimedia's Strategic Direction Project is a Model of Democracy."\ [#NPQ2030]_ Over at *Forbes*, Michael Bernick, describing "The Power Of The Wikimedia Movement Beyond Wikimedia," concluded that "[Wikimedia] gives us glimpses of what is possible in questioning hierarchies and gatekeepers—the creativity and energy unleashed, the involvement, the common ground possible—even as it continues to question and seek to improve its own structure."\ [#ForbesBernick2030]_ Ryan Merkley is fond of saying that "No one does strategy like this."\ [#MerkleyStrategy]_
 
 And yet, it worked.
+
+.. [#NPQ2030] `Wikimedia's Strategic Direction Project is a Model of Democracy <https://nonprofitquarterly.org/2018/03/30/wikimedias-strategic-direction-project-model-democracy/>`__. Cyndi Suarez. Nonprofit Quarterly, March 30, 2018.
+
+.. [#ForbesBernick2030] `The Power Of The Wikimedia Movement Beyond Wikimedia <https://www.forbes.com/sites/michaelbernick/2018/03/28/the-power-of-the-wikimedia-movement-beyond-wikimedia/#42557f8e5a75>`__. Michael Bernick. Forbes, March 28, 2018.
+
+.. [#MerkleyStrategy] "`No one does strategy like this <https://twitter.com/ryanmerkley/status/1260214328235622401>`__." Ryan Merkley (@ryanmerkley). Twitter, May 12, 2020.
 
 
 Engaging a whole movement
@@ -167,7 +180,11 @@ Converging on a strategic direction
 
 Wikimania 2017: first opportunity to discuss the draft strategic direction. Largest event in the Wikimedia movement
 
-Language, metaphors. Some inspiration from Nadia Eghbal's research report for the Ford Foundation: `Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure <https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/>`__
+Language, metaphors. Some inspiration from Nadia Eghbal's research report for the Ford Foundation\ [#EghbalRoadsBridges]_
+
+.. [#EghbalRoadsBridges] `Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure <https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/>`__. Nadia Eghbal. Ford Foundation, 2016.
+
+
 
 Simple language, more universal words to avoid jargon, and easier to translate
 

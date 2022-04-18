@@ -12,10 +12,6 @@ article.custom-wikimedia2030 {
   }
 
 
-
-
-
-
   #we-chose-to-do-this-not-because-it-was-easy {
     @include split-layout-txt-pics(
       $image-side: right,
@@ -23,6 +19,47 @@ article.custom-wikimedia2030 {
       $pics-width: 50ch,
       $text-width: 65ch,
     );
+
+    .team {
+      @include place-split-layout-element(right, "1/8");
+      align-self: center;
+      @include honeycomb(5, 3)
+    }
+
+    .katherine{
+      @include honeycomb-place-image(2, 1);
+      img {
+        object-position: 25% 50%;
+      }
+    }
+
+    .adele {
+      @include honeycomb-place-image(3, 2);
+      img {
+        object-position: 75% 50%;
+      }
+    }
+
+    .williamsworks {
+      @include honeycomb-place-image(2, 3);
+      img {
+        object-position: 65% 50%;
+      }
+    }
+
+    .nicole {
+      @include honeycomb-place-image(4, 3);
+    }
+
+    .juliet {
+      @include honeycomb-place-image(1, 4);
+    }
+
+    .caption {
+      grid-column: 7/11;
+      grid-row: 11/15;
+      align-self: end;
+    }
 
   }
 
