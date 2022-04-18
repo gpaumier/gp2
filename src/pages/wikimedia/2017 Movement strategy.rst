@@ -321,127 +321,74 @@ What I took away, what I learned
 sense of accomplishment;
 
 
+.. container:: people
 
+   .. figure:: /images/Wikimedia_Conference_2018_–_071.jpg
+      :figclass: people1
 
-.. figure:: /images/Wikimedia_Conference_2018_–_071.jpg
+   .. figure:: /images/Wikimedia_Conference_2018_–_058.jpg
+      :figclass: people2
 
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_071.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   .. figure:: /images/Wikimedia_Summit_2019_-_26.jpg
+      :figclass: people3
 
+   .. figure:: /images/Wikimedia_Summit_2019_-_151.jpg
+      :figclass: people4
 
-.. figure:: /images/Wikimedia_Conference_2018_–_058.jpg
+   .. figure:: /images/Wikimedia_Summit_2019_-_153.jpg
+      :figclass: people5
 
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_058.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   .. figure:: /images/Wikimedia_Conference_2017_–_135.jpg
+      :figclass: people6
 
+   .. figure:: /images/Wikimedia_Conference_2017_–_143.jpg
+      :figclass: people7
 
+   .. figure:: /images/Wikimedia_Conference_2017_–_151.jpg
+      :figclass: people8
 
-.. figure:: /images/Wikimedia_Summit_2019_-_26.jpg
+   .. figure:: /images/Wikimedia_Conference_2017_–_104.jpg
+      :figclass: people9
 
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_26.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   .. figure:: /images/Wikimedia_Conference_2017_–_226.jpg
+      :figclass: people10
 
+   .. figure:: /images/Wikimedia_Conference_2017_–_109.jpg
+      :figclass: people11
 
+   .. figure:: /images/Wikimedia_Conference_2017_–_64.jpg
+      :figclass: people12
 
-.. figure:: /images/Wikimedia_Summit_2019_-_151.jpg
+   .. figure:: /images/Wikimedia_Conference_2017_–_248.jpg
+      :figclass: people13
 
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_151.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   .. figure:: /images/Participants_during_WMCON_2017_11.jpg
+      :figclass: people14
 
+   .. figure:: /images/Wikimedia_Conference_2018_–_296.jpg
+      :figclass: people15
 
-.. figure:: /images/Wikimedia_Summit_2019_-_153.jpg
+   .. figure:: /images/Felix_Nartey_at_Wikimedia_Conference_2017.jpg
+      :figclass: people16
 
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_153.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   .. figure:: /images/Wikimedia_Conference_2017_–_115.jpg
+      :figclass: people17
 
-.. figure:: /images/Wikimedia_Conference_2017_–_135.jpg
+   .. figure:: /images/Wikimedia_Conference_2017_–_62.jpg
+      :figclass: people18
 
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_135.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   .. figure:: /images/Wikimedia_Conference_2017_–_68.jpg
+      :figclass: people19
 
+   .. figure:: /images/Wikimedia_Conference_2017_–_74.jpg
+      :figclass: people20
 
+   .. figure:: /images/Wikimedia_Conference_2017_–_75.jpg
+      :figclass: people21
 
+   .. figure:: /images/Wikimedia_Conference_2017_–_85.jpg
+      :figclass: people22
 
-.. figure:: /images/Wikimedia_Conference_2017_–_143.jpg
+   .. class:: caption
 
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_143.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
-.. figure:: /images/Wikimedia_Conference_2017_–_151.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_151.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
-
-
-.. figure:: /images/Wikimedia_Conference_2017_–_226.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_226.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-.. figure:: /images/Wikimedia_Conference_2017_–_109.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_109.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-.. figure:: /images/Wikimedia_Conference_2017_–_64.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_64.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-.. figure:: /images/Wikimedia_Conference_2017_–_104.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_104.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-.. figure:: /images/Wikimedia_Conference_2017_–_248.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_248.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
-.. figure:: /images/Participants_during_WMCON_2017_11.jpg
-
-   `Nabin K. Sapkota <https://commons.wikimedia.org/wiki/User:Nabin_K._Sapkota>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Participants_during_WMCON_2017_11.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-.. figure:: /images/Wikimedia_Conference_2018_–_296.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_296.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
-.. figure:: /images/Felix_Nartey_at_Wikimedia_Conference_2017.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Felix_Nartey_at_Wikimedia_Conference_2017.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
-
-
-.. figure:: /images/Wikimedia_Conference_2017_–_115.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_115.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
-
-.. figure:: /images/Wikimedia_Conference_2017_–_62.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_62.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
-
-.. figure:: /images/Wikimedia_Conference_2017_–_68.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_68.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-.. figure:: /images/Wikimedia_Conference_2017_–_74.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_74.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-.. figure:: /images/Wikimedia_Conference_2017_–_75.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_75.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-.. figure:: /images/Wikimedia_Conference_2017_–_85.jpg
-
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_85.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+       Jason Krüger for Wikimedia Deutschland e.V. on Wikimedia Commons (`1 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_071.jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_058.jpg>`__, `3 <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_26.jpg>`__, `4 <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_151.jpg>`__, `5 <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_153.jpg>`__, `6 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_135.jpg>`__, `7 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_143.jpg>`__, `8 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_151.jpg>`__, `9 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_104.jpg>`__, `10 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_226.jpg>`__, `11 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_109.jpg>`__, `12 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_64.jpg>`__, `13 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_248.jpg>`__, `15 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_296.jpg>`__, `16 <https://commons.wikimedia.org/wiki/File:Felix_Nartey_at_Wikimedia_Conference_2017.jpg>`__, `17 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_115.jpg>`__, `18 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_62.jpg>`__, `19 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_68.jpg>`__, `20 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_74.jpg>`__, `21 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_75.jpg>`__, `22 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_85.jpg>`__). `Nabin K. Sapkota <https://commons.wikimedia.org/wiki/User:Nabin_K._Sapkota>`__ on Wikimedia Commons (`14 <https://commons.wikimedia.org/wiki/File:Participants_during_WMCON_2017_11.jpg>`__) // All under `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.

@@ -175,6 +175,55 @@ article.custom-wikimedia2030 {
       $left-width: 65ch,
       $right-width: 65ch
     );
+
+    @include split-layout-txt-pics(
+      $image-side: right,
+      $image-row-span: 4,
+      $pics-width: 50ch,
+      $text-width: 65ch,
+    );
+
+    .people {
+      @include honeycomb(20, 8)
+    }
+
+    $people-pics:
+      // pic  half-column  row
+      1  1  1,
+      2  5  1,
+      3  9  1,
+      4  2  2,
+      5  4  2,
+      6  6  2,
+      7  8  2,
+      8  3  3,
+      9  7  3,
+      10  2  4,
+      11  4  4,
+      12  6  4,
+      13  7  5,
+      14  9  5,
+      15  4  6,
+      16  6  6,
+      17  8  6,
+      18  3  7,
+      19  5  7,
+      20  9  7,
+      21  4  8,
+      22  10  8;
+
+      @each $pic, $honeycomb-half-column, $honeycomb-row in $people-pics {
+        .people#{$pic} {
+          @include honeycomb-place-image($honeycomb-half-column, $honeycomb-row);
+        }
+      }
+
+      .caption {
+        grid-column: 11/18;
+        grid-row: 23/26;
+        align-self: end;
+      }
+
   }
   /////////////////////////////////////////////////////////////
 
