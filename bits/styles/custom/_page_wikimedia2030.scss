@@ -184,10 +184,12 @@ article.custom-wikimedia2030 {
     );
 
     .people {
-      @include honeycomb(20, 8)
+      @include honeycomb(20, 8, 7rem)
     }
 
-    $people-pics:
+    // Macro to place the pictures on the honeycomb grid
+
+    $people-pics-placement:
       // pic  half-column  row
       1  1  1,
       2  5  1,
@@ -212,11 +214,28 @@ article.custom-wikimedia2030 {
       21  4  8,
       22  10  8;
 
-      @each $pic, $honeycomb-half-column, $honeycomb-row in $people-pics {
+      @each $pic, $honeycomb-half-column, $honeycomb-row in $people-pics-placement {
         .people#{$pic} {
           @include honeycomb-place-image($honeycomb-half-column, $honeycomb-row);
         }
       }
+
+      // Macro to adjust the centering of some honeycomb pics
+
+      $people-pics-position:
+        // pic  x-pos  y-pos
+        1  0% 50%,
+        9  25% 50%,
+        10  100% 50%,
+        11  25% 50%,
+        13  25% 50%,
+        19  100% 50%;
+
+        @each $pic, $x-position, $y-position in $people-pics-position {
+          .people#{$pic} img {
+            object-position: $x-position $y-position;
+          }
+        }
 
       .caption {
         grid-column: 11/18;
