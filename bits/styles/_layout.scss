@@ -495,6 +495,10 @@ svg {
 // Hexagon geometry: "Hexagon vertex grid" from https://anthologen.com/2020/10/23/modelling-armchair-carbon-nanotubes/
 // Hexagon clip-path: https://www.cssportal.com/css-clip-path-generator/
 
+@mixin make-hexagon() {
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
 @mixin honeycomb($honeycomb-half-columns: 6, $honeycomb-rows: 3, $hexagon-unit: 5rem,  $honeycomb-hgutter: 0.15rem, $honeycomb-vgutter: 0.1rem) {
 
   // A utility to create honeycomb grids.
@@ -504,7 +508,7 @@ svg {
   grid-template-rows: repeat($honeycomb-rows, ($hexagon-unit / 2) $hexagon-unit $honeycomb-hgutter) ($hexagon-unit / 2);
 
   img {
-    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    @include make-hexagon();
     height: $hexagon-unit * 2;
     width: $hexagon-unit * math.sqrt(3);
     object-fit: cover;

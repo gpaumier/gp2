@@ -26,6 +26,13 @@
     The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now serves as the compass for multi-year strategic planning by Wikimedia organizations, and guides decision-making around roles, responsibilities, and resources in the Wikimedia movement.
 
 
+
+
+.. figure:: /images/Movement_Strategy_Space_at_Wikimania_2017_01.jpg
+
+   `Nicole Ebber (WMDE) <https://commons.wikimedia.org/wiki/User:Nicole_Ebber_(WMDE)>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Movement_Strategy_Space_at_Wikimania_2017_01.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
 "Your mission, should you choose to accept it ..."
 ==================================================
 
@@ -70,7 +77,7 @@ We put together a team. We designed a process, and adjusted it many times. Our a
 
    .. class:: caption
 
-      Jason Krüger for Wikimedia Deutschland e.V. (`1 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_118.jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_117.jpg>`__, `4 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_134.jpg>`__), `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__. `Myleen Hollero <http://myleenhollero.com/>`__ (3, 5), `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
+      Jason Krüger for Wikimedia Deutschland e.V. (`1 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_118.jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_117.jpg>`__, `4 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_134.jpg>`__), `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__ // `Myleen Hollero <http://myleenhollero.com/>`__ (3, 5), `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
 
 The 2030 horizon
@@ -79,6 +86,7 @@ The 2030 horizon
 We started from a simple question: *What do we want to build or achieve together by 2030?* The strategic direction was not meant to be a strategic plan. Plans are usually for 3–5 years, executable and measurable, specific to organizational capacity and resources. The direction needed to be broad, enduring, ambitious, and clear enough to provide guidance on overarching goals against which a specific plan could be built. Using 2030 as a time horizon enabled us to untangle our aspirations from our more immediate roles and interests, and let our imagination roam more freely.
 
 .. figure:: /images/WMCON_Berlin_2017_60.jpg
+   :figclass: build-or-achieve-by-2030
 
    `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:WMCON_Berlin_2017_60.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -105,14 +113,27 @@ Thinking about the future is an exercise in imagination, but we're Wikimedians, 
 
 .. [#DailyBeastMonsterTech] `How a Few Monster Tech Firms are Taking Over Everything from Media to Space Travel and What it Means for the Rest of Us <http://www.thedailybeast.com/articles/2014/02/09/how-a-few-monster-tech-firms-are-taking-over-everything-from-media-to-space-travel-and-what-it-means-for-the-rest-of-us.html>`__. Joel Kotkin. The Daily Beast, February 9, 2014.
 
-.. container:: fears-hopes
 
-   .. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_268.jpg
+.. container:: world-around-us
 
-   .. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_269.jpg
+   .. figure:: /images/Boys_in_Jibla,_Yemen_(14159835344).jpg
+      :figclass: world-around-us1
 
-      René Zieger for Wikimedia Deutschland e.V. on Wikimedia Commons `(1) <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_268.jpg>`__ `(2) <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_269.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   .. figure:: /images/RamPrasadJoshi_PhoneCloseUp_WikiconferenceIndia_August6.jpg
+      :figclass: world-around-us2
 
+   .. figure:: /images/Earth_Eastern_Hemisphere.jpg
+      :figclass: world-around-us3
+
+   .. figure:: /images/Malagasy_Kids,_Madagascar_(27013871533).jpg
+      :figclass: world-around-us4
+
+   .. figure:: /images/Caméras_de_surveillance_à_Lyon_près_des_Halles_Paul-Bocuse_(mai_2019).jpg
+      :figclass: world-around-us5
+
+   .. class:: caption
+
+      `Rod Waddington <https://www.flickr.com/people/64607715@N05>`__ (`1 <https://commons.wikimedia.org/wiki/File:Boys_in_Jibla,_Yemen_(14159835344).jpg>`__, `4 <https://commons.wikimedia.org/wiki/File:Malagasy_Kids,_Madagascar_(27013871533).jpg>`__), `CC-By-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__ // NASA `(2) <https://commons.wikimedia.org/wiki/File:Earth_Eastern_Hemisphere.jpg>`__, Public domain // `Zack McCune <https://commons.wikimedia.org/wiki/User:ZMcCune_(WMF)>`__ `(3) <https://commons.wikimedia.org/wiki/File:RamPrasadJoshi_PhoneCloseUp_WikiconferenceIndia_August6.jpg>`__, `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__ //  `Benoît Prieur <https://commons.wikimedia.org/wiki/User:Beno%C3%AEt_Prieur>`__ `(5) <https://commons.wikimedia.org/wiki/File:Cam%C3%A9ras_de_surveillance_%C3%A0_Lyon_pr%C3%A8s_des_Halles_Paul-Bocuse_(mai_2019).jpg>`__, `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 Building alignment
 ------------------
@@ -133,6 +154,17 @@ And yet, it worked.
 
 .. [#MerkleyStrategy] "`No one does strategy like this <https://twitter.com/ryanmerkley/status/1260214328235622401>`__." Ryan Merkley (@ryanmerkley). Twitter, May 12, 2020.
 
+.. container:: hopes-fears
+
+   .. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_269.jpg
+      :figclass: hopes
+
+   .. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_268.jpg
+      :figclass: fears
+
+   .. class:: caption
+
+      "Hopes and fears" at the Wikimedia Conference in 2017. René Zieger for Wikimedia Deutschland e.V. on Wikimedia Commons (`1 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_269.jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_268.jpg>`__) //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 Engaging a whole movement
 =========================
@@ -195,42 +227,26 @@ instead, more precise (and complex words), and translate concepts instead of wor
 duality of the movement; socio-technical systems
 
 
+.. container:: wikimania2017
 
-.. figure:: /images/Movement_Strategy_Space_at_Wikimania_2017_01.jpg
+   .. figure:: /images/2017_Movement_Strategy_at_Wikimania_-_participation_in_session_04-03.jpg
+      :figclass: wikimania2017-pic1
 
-   `Nicole Ebber (WMDE) <https://commons.wikimedia.org/wiki/User:Nicole_Ebber_(WMDE)>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Movement_Strategy_Space_at_Wikimania_2017_01.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   .. figure:: /images/eghbal-roads-bridges-cover.png
+      :figclass: wikimania2017-pic2
 
+   .. figure:: /images/Wikimedia_movement_strategy_at_Wikimania_2017_06.jpg
+      :figclass: wikimania2017-pic3
 
+   .. figure:: /images/2017_Wikimedia_Movement_Strategy_at_Wikimania_-_session_04-02_-_photo_4.jpg
+      :figclass: wikimania2017-pic4
 
+   .. figure::  /images/Wikimedia_movement_strategy_at_Wikimania_2017_08.jpg
+      :figclass: wikimania2017-pic5
 
-.. figure:: /images/Wikimedia_movement_strategy_at_Wikimania_2017_01.jpg
+   .. class:: caption
 
-   `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_01.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
-
-.. figure:: /images/Wikimedia_movement_strategy_at_Wikimania_2017_06.jpg
-
-   `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_06.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
-
-.. figure:: /images/Wikimedia_movement_strategy_at_Wikimania_2017_08.jpg
-
-   `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_08.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-.. figure:: /images/2017_Movement_Strategy_at_Wikimania_-_participation_in_session_04-03.jpg
-
-   Abby Walla / Wikimedia Foundation on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:2017_Movement_Strategy_at_Wikimania_-_participation_in_session_04-03.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
-.. figure:: /images/2017_Wikimedia_Movement_Strategy_at_Wikimania_-_session_04-02_-_photo_4.jpg
-
-   Abby Walla / Wikimedia Foundation on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:2017_Wikimedia_Movement_Strategy_at_Wikimania_-_session_04-02_-_photo_4.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+      Abby Walla / Wikimedia Foundation (`1 <https://commons.wikimedia.org/wiki/File:2017_Movement_Strategy_at_Wikimania_-_participation_in_session_04-03.jpg>`__, `4 <https://commons.wikimedia.org/wiki/File:2017_Wikimedia_Movement_Strategy_at_Wikimania_-_session_04-02_-_photo_4.jpg>`__), `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__. // © Nadia Eghbal / Ford Foundation `(2) <https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/>`__ // `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ (`3 <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_06.jpg>`__, `5 <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_08.jpg>`__), `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 Amplifying new voices
@@ -244,6 +260,9 @@ Amplifying new voices
 
 As we're looking at the trends to consider, we also need to go beyond what we know and who we know. Our vision, what we're set to accomplish, requires that we realize that we're not alone. We're part of an ecosystem, and we need others. We need partners. Those voices will help define our future, because they're part of it.
 
+Partners and those who have been left out
+-----------------------------------------
+
 This work involves hundreds of interviews, small-group discussions (“salons”), research, and building relationships for future collaboration. The Foundation is notably partnering with Reboot in Indonesia and Brazil to conduct research that is complementary to what was done with the New Readers program in countries where Wikimedia isn't as well known as what we're used to. They will interview partners, subject matter experts, and conduct contextual inquiries with readers in their own environment using methods of design research. In parallel, online surveys are being conducted in the places where we are the most popular, to understand how people perceive and use Wikimedia.
 
 This work will inform and complement community discussions with new voices that haven't traditionally been included in strategy discussions, or that are not yet part of the movement. They can help us identify the global trends that I mentioned earlier as what we should be considering as we discuss our future. For example, scenario planning is going to help us better understand what the world will look like in 2030, notably in terms of demographics, technology, media consumption habits, access to knowledge, and policy.
@@ -251,30 +270,24 @@ This work will inform and complement community discussions with new voices that 
 Some of that has already happened, and it will continue over the next few months. The information will be posted on Meta as it comes in. If you have recommendations of experts and partners in your circles or geographies that would enrich this discussion, you're welcome to suggest their names on Meta. But more importantly, you can reach out to them yourself. The Foundation can't do this alone; we are a global and distributed movement, and local relationships are much more likely to bear fruit than a centralized approach. The Foundation has also reserved budget for affiliates who want to run small-group discussions with subject matter experts. If this is something that motivates you, you can contact me and I will direct you to the people who can provide some advice on how to proceed.
 
 
-.. figure:: /images/Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Indigenas_-_Cochabamba,_Bolivia.jpg
+.. container:: new-voices
 
-   `Barrioflores <https://commons.wikimedia.org/wiki/User:Barrioflores>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Ind%C3%ADgenas_-_Cochabamba,_Bolivia.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   .. figure:: /images/Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Indigenas_-_Cochabamba,_Bolivia.jpg
+      :figclass: new-voices1
 
+   .. figure:: /images/Photo_de_famille_15.jpg
+      :figclass: new-voices2
 
+   .. figure:: /images/2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_&_Maithili_Wikimedians_1001_22.jpg
+      :figclass: new-voices3
 
+   .. figure:: /images/Salon_strategique_wikimedia_cote_Ivoire_2019_35_retouche.jpg
+      :figclass: new-voices4
 
-.. figure:: /images/2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_&_Maithili_Wikimedians_1001_22.jpg
+   .. class:: caption
 
-   `Nabin K. Sapkota <https://commons.wikimedia.org/wiki/User:Nabin_K._Sapkota>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_%26_Maithili_Wikimedians_1001_22.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+      `Barrioflores <https://commons.wikimedia.org/wiki/User:Barrioflores>`__ `(1) <https://commons.wikimedia.org/wiki/File:Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Ind%C3%ADgenas_-_Cochabamba,_Bolivia.jpg>`__ // `Aman ADO <https://commons.wikimedia.org/wiki/User:Aman_ADO>`__ `(2) <https://commons.wikimedia.org/wiki/File:Photo_de_famille_15.jpg>`__ // `Nabin K. Sapkota <https://commons.wikimedia.org/wiki/User:Nabin_K._Sapkota>`__ `(3) <https://commons.wikimedia.org/wiki/File:2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_%26_Maithili_Wikimedians_1001_22.jpg>`__ // `Modjou <https://commons.wikimedia.org/wiki/User:Modjou>`__ `(4) <https://commons.wikimedia.org/wiki/File:Salon_strat%C3%A9gique_wikimedia_c%C3%B4te_d%27Ivoire_2019_35_(retouche).jpg>`__ // All `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-
-
-
-.. figure:: /images/Photo_de_famille_15.jpg
-
-   `Aman ADO <https://commons.wikimedia.org/wiki/User:Aman_ADO>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Photo_de_famille_15.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
-
-.. figure:: /images/Salon_strategique_wikimedia_cote_Ivoire_2019_35_retouche.jpg
-
-   `Modjou <https://commons.wikimedia.org/wiki/User:Modjou>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Salon_strat%C3%A9gique_wikimedia_c%C3%B4te_d%27Ivoire_2019_35_(retouche).jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 Recommendations and implementation
 ==================================
