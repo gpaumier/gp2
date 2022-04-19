@@ -122,7 +122,7 @@ Miniaturization dramatically increases the surface-to-volume ratio, meaning that
    .. figure:: /images/Ant-Man_drop_of_water.jpg
    .. figure:: /images/antz.jpg
 
-      In the 2015 movie *Ant-Man* (top), the eponymous hero holds a droplet of water to his carpenter ant friend, Ant-thony. At this scale, surface tension and Van der Waals forces hold the droplet together and make it possible to handle it (Marvel Studios). The same effect is shown in the 1998 movie *Antz* (bottom), where Woody Allen's character, Z, gets stuck in a droplet and needs help breaking its cohesion to get out (DreamWorks Pictures).
+      In the 2015 movie *Ant-Man* (top), the eponymous hero holds a droplet of water to his carpenter ant friend, Ant-thony. At this scale, surface tension and Van der Waals forces hold the droplet together and make it possible to handle it (© Marvel Studios). The same effect is shown in the 1998 movie *Antz* (bottom), where Woody Allen's character, Z, gets stuck in a droplet and needs help breaking its cohesion to get out (© DreamWorks Pictures).
 
 .. container:: expert
 
