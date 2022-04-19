@@ -3,6 +3,8 @@
 
 article.custom-wikimedia2030 {
 
+  /////////////////////////////////////////////////////////////
+
   #your-mission-should-you-choose-to-accept-it {
     @include split-layout-hero(
       $background: dark,
@@ -11,6 +13,7 @@ article.custom-wikimedia2030 {
     );
   }
 
+  /////////////////////////////////////////////////////////////
 
   #we-chose-to-do-this-not-because-it-was-easy {
     @include split-layout-txt-pics(
@@ -20,29 +23,30 @@ article.custom-wikimedia2030 {
       $text-width: 65ch,
     );
 
-    .team {
-      @include place-split-layout-element(right, "1/8");
-      align-self: center;
-      @include honeycomb(5, 3, 6rem);
-    }
-
-    $team-pics-placement:
-      // pic  half-column  row  x-position
-      1  2  1  25%,
-      2  3  2  75%,
-      3  2  3  65%,
-      4  4  3,
-      5  1  4;
-
-    @include honeycomb-place-set($team-pics-placement, "team");
-
-    .caption {
+    .team .caption {
       grid-column: 7/11;
       grid-row: 11/14;
       align-self: center;
     }
-
   }
+
+  .team {
+    @include place-split-layout-element(right, "1/8");
+    align-self: center;
+    @include honeycomb(5, 3, 6rem);
+  }
+
+  $team-pics-placement:
+    // pic  half-column  row  x-position
+    1  2  1  25%,
+    2  3  2  75%,
+    3  2  3  65%,
+    4  4  3,
+    5  1  4;
+
+  @include honeycomb-place-set($team-pics-placement, "team");
+
+  /////////////////////////////////////////////////////////////
 
   #the-2030-horizon {
     @include split-layout-txt-pics(
@@ -51,22 +55,21 @@ article.custom-wikimedia2030 {
       $pics-width: 50ch,
       $text-width: 65ch,
     );
-
-    .build-or-achieve-by-2030 {
-
-      aspect-ratio: 1 / 1;
-      align-self: center;
-
-      img {
-        height: 100%;
-        @include make-hexagon();
-        object-fit: cover;
-        object-position: 15% 50%;
-      }
-
-    }
-
   }
+
+  .build-or-achieve-by-2030 {
+    aspect-ratio: 1 / 1;
+    align-self: center;
+
+    img {
+      height: 100%;
+      @include make-hexagon();
+      object-fit: cover;
+      object-position: 15% 50%;
+    }
+  }
+
+  /////////////////////////////////////////////////////////////
 
   #citations-needed {
     @include split-layout-txt-pics(
@@ -76,31 +79,30 @@ article.custom-wikimedia2030 {
       $text-width: 65ch,
     );
 
-    .world-around-us {
-      @include place-split-layout-element(right, "1/11");
-      align-self: center;
-      @include honeycomb(5, 4, 6rem);
-    }
-
-    // Macro to place the pictures on the honeycomb grid
-
-    $world-around-us-pics-placement:
-      // pic  half-column  row
-      1  2  1,
-      2  1  2,
-      3  2  3,
-      4  4  3,
-      5  1  4;
-
-    @include honeycomb-place-set($world-around-us-pics-placement, "world-around-us");
-
-    .caption {
+    .world-around-us .caption {
       grid-column: 6/10;
       grid-row: 11/14;
       align-self: center;
     }
-
   }
+
+  .world-around-us {
+    @include place-split-layout-element(right, "1/11");
+    align-self: center;
+    @include honeycomb(5, 4, 6rem);
+  }
+
+  $world-around-us-pics-placement:
+    // pic  half-column  row
+    1  2  1,
+    2  1  2,
+    3  2  3,
+    4  4  3,
+    5  1  4;
+
+  @include honeycomb-place-set($world-around-us-pics-placement, "world-around-us");
+
+  /////////////////////////////////////////////////////////////
 
   #building-alignment {
     @include split-layout-txt-pics(
@@ -110,36 +112,34 @@ article.custom-wikimedia2030 {
       $text-width: 65ch,
     );
 
-    .hopes-fears {
-      @include place-split-layout-element(left, "1/10");
-      align-self: center;
-      @include honeycomb(4, 2, 7rem);
-    }
-
-    .hopes {
-      @include honeycomb-place-image(1, 1);
-      img {
-        object-position: 0% 50%;
-      }
-    }
-
-    .fears {
-      @include honeycomb-place-image(2, 2);
-      img {
-        object-position: 100% 50%;
-      }
-    }
-
-    .caption {
+    .hopes-fears .caption {
       grid-column: 5/9;
       grid-row: 8/10;
       align-self: end;
     }
+  }
 
+  .hopes-fears {
+    @include place-split-layout-element(left, "1/10");
+    align-self: center;
+    @include honeycomb(4, 2, 7rem);
+  }
+
+  .hopes {
+    @include honeycomb-place-image(1, 1);
+    img {
+      object-position: 0% 50%;
+    }
+  }
+
+  .fears {
+    @include honeycomb-place-image(2, 2);
+    img {
+      object-position: 100% 50%;
+    }
   }
 
   /////////////////////////////////////////////////////////////
-
 
   #engaging-a-whole-movement {
     @include split-layout-hero(
@@ -148,6 +148,8 @@ article.custom-wikimedia2030 {
       $right-width: 65ch
     );
   }
+
+  /////////////////////////////////////////////////////////////
 
   #learning-from-each-other {
     @include split-layout-txt-pics(
@@ -158,6 +160,8 @@ article.custom-wikimedia2030 {
     );
   }
 
+  /////////////////////////////////////////////////////////////
+
   #converging-on-a-strategic-direction {
     @include split-layout-txt-pics(
       $image-side: left,
@@ -166,35 +170,33 @@ article.custom-wikimedia2030 {
       $text-width: 65ch,
     );
 
-    .wikimania2017 {
-      @include place-split-layout-element(left, "1/8");
-      align-self: center;
-      @include honeycomb(4, 4, 7rem);
-    }
-
-    $wikimania2017-pics-placement:
-      // pic  half-column  row
-      1  2  1 35%,
-      2  1  2,
-      3  3  2 70%,
-      4  2  3 60%,
-      5  3  4 5%;
-
-    @include honeycomb-place-set($wikimania2017-pics-placement, "wikimania2017-pic");
-
-    .wikimania2017-pic2 img {
-      // Darken a little bit so it stands out from the page's white background
-      filter: brightness(0.95);
-    }
-
-    .caption {
+    .wikimania2017 .caption {
       grid-column: 1/4;
       grid-row: 11/14;
       align-self: center;
     }
-
   }
 
+  .wikimania2017 {
+    @include place-split-layout-element(left, "1/8");
+    align-self: center;
+    @include honeycomb(4, 4, 7rem);
+  }
+
+  $wikimania2017-pics-placement:
+    // pic  half-column  row
+    1  2  1 35%,
+    2  1  2,
+    3  3  2 70%,
+    4  2  3 60%,
+    5  3  4 5%;
+
+  @include honeycomb-place-set($wikimania2017-pics-placement, "wikimania2017-pic");
+
+  .wikimania2017-pic2 img {
+    // Darken a little bit so it stands out from the page's white background
+    filter: brightness(0.95);
+  }
 
   /////////////////////////////////////////////////////////////
 
@@ -204,8 +206,9 @@ article.custom-wikimedia2030 {
       $left-width: 65ch,
       $right-width: 65ch
     );
-
   }
+
+  /////////////////////////////////////////////////////////////
 
   #partners-and-those-who-have-been-left-out {
     @include split-layout-txt-pics(
@@ -215,32 +218,31 @@ article.custom-wikimedia2030 {
       $text-width: 68ch,
     );
 
-    .new-voices {
-      @include place-split-layout-element(right, "1/8");
-      align-self: center;
-      @include honeycomb(4, 4, 7rem);
-    }
-
-    $new-voices-pics-placement:
-      // pic  half-column  row
-      1  2  1 100%,
-      2  3  2,
-      3  2  3 40%,
-      4  1  4;
-
-    @include honeycomb-place-set($new-voices-pics-placement, "new-voices");
-
-    .new-voices2 img {
-      // Darken a little bit so it stands out from the page's white background
-      filter: brightness(0.95);
-    }
-
-    .caption {
+    .new-voices .caption {
       grid-column: 5/8;
       grid-row: 11/14;
       align-self: center;
     }
+  }
 
+  .new-voices {
+    @include place-split-layout-element(right, "1/8");
+    align-self: center;
+    @include honeycomb(4, 4, 7rem);
+  }
+
+  $new-voices-pics-placement:
+    // pic  half-column  row
+    1  2  1 100%,
+    2  3  2,
+    3  2  3 40%,
+    4  1  4;
+
+  @include honeycomb-place-set($new-voices-pics-placement, "new-voices");
+
+  .new-voices2 img {
+    // Darken a little bit so it stands out from the page's white background
+    filter: brightness(0.95);
   }
 
   /////////////////////////////////////////////////////////////
@@ -253,6 +255,8 @@ article.custom-wikimedia2030 {
     );
   }
 
+  /////////////////////////////////////////////////////////////
+
   #phase-2-working-groups-and-recommendations {
     @include split-layout-txt-pics(
       $image-side: right,
@@ -261,6 +265,8 @@ article.custom-wikimedia2030 {
       $text-width: 65ch,
     );
   }
+
+  /////////////////////////////////////////////////////////////
 
   #towards-implementation {
     @include split-layout-txt-pics(
@@ -280,53 +286,45 @@ article.custom-wikimedia2030 {
       $right-width: 65ch
     );
 
-    @include split-layout-txt-pics(
-      $image-side: right,
-      $image-row-span: 4,
-      $pics-width: 50ch,
-      $text-width: 65ch,
-    );
-
-    .people {
-      @include honeycomb(11, 8, 7rem)
-    }
-
-    $people-pics-placement:
-      // pic  half-column  row
-      1  1  1 0%,
-      2  5  1,
-      3  9  1,
-      4  2  2,
-      5  4  2,
-      6  6  2,
-      7  8  2,
-      8  3  3,
-      9  7  3 25%,
-      10  2  4 100%,
-      11  4  4 25%,
-      12  6  4,
-      13  7  5 25%,
-      14  9  5,
-      15  4  6,
-      16  6  6,
-      17  8  6,
-      18  3  7,
-      19  5  7 100%,
-      20  9  7,
-      21  4  8,
-      22  10  8;
-
-    @include honeycomb-place-set($people-pics-placement, "people");
-
-   .caption {
-      grid-column: 11/18;
-      grid-row: 23/26;
-      align-self: end;
-    }
-
+    .people .caption {
+       grid-column: 11/18;
+       grid-row: 23/26;
+       align-self: end;
+     }
   }
-  /////////////////////////////////////////////////////////////
 
+  .people {
+    @include honeycomb(11, 8, 7rem);
+  }
+
+  $people-pics-placement:
+    // pic  half-column  row
+    1  1  1 0%,
+    2  5  1,
+    3  9  1,
+    4  2  2,
+    5  4  2,
+    6  6  2,
+    7  8  2,
+    8  3  3,
+    9  7  3 25%,
+    10  2  4 100%,
+    11  4  4 25%,
+    12  6  4,
+    13  7  5 25%,
+    14  9  5,
+    15  4  6,
+    16  6  6,
+    17  8  6,
+    18  3  7,
+    19  5  7 100%,
+    20  9  7,
+    21  4  8,
+    22  10  8;
+
+  @include honeycomb-place-set($people-pics-placement, "people");
+
+  /////////////////////////////////////////////////////////////
 
   .embed {
     @include responsive-embed("widescreen");
