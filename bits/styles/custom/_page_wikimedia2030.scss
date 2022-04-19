@@ -26,34 +26,15 @@ article.custom-wikimedia2030 {
       @include honeycomb(5, 3, 6rem);
     }
 
-    .katherine{
-      @include honeycomb-place-image(2, 1);
-      img {
-        object-position: 25% 50%;
-      }
-    }
+    $team-pics-placement:
+      // pic  half-column  row  x-position
+      1  2  1  25%,
+      2  3  2  75%,
+      3  2  3  65%,
+      4  4  3,
+      5  1  4;
 
-    .adele {
-      @include honeycomb-place-image(3, 2);
-      img {
-        object-position: 75% 50%;
-      }
-    }
-
-    .williamsworks {
-      @include honeycomb-place-image(2, 3);
-      img {
-        object-position: 65% 50%;
-      }
-    }
-
-    .nicole {
-      @include honeycomb-place-image(4, 3);
-    }
-
-    .juliet {
-      @include honeycomb-place-image(1, 4);
-    }
+    @include honeycomb-place-set($team-pics-placement, "team");
 
     .caption {
       grid-column: 7/11;
@@ -111,11 +92,7 @@ article.custom-wikimedia2030 {
       4  4  3,
       5  1  4;
 
-    @each $pic, $honeycomb-half-column, $honeycomb-row in $world-around-us-pics-placement {
-      .world-around-us#{$pic} {
-        @include honeycomb-place-image($honeycomb-half-column, $honeycomb-row);
-      }
-    }
+    @include honeycomb-place-set($world-around-us-pics-placement, "world-around-us");
 
     .caption {
       grid-column: 6/10;
@@ -195,36 +172,15 @@ article.custom-wikimedia2030 {
       @include honeycomb(4, 4, 7rem);
     }
 
-    // Macro to place the pictures on the honeycomb grid
-
     $wikimania2017-pics-placement:
       // pic  half-column  row
-      1  2  1,
+      1  2  1 35%,
       2  1  2,
-      3  3  2,
-      4  2  3,
-      5  3  4;
+      3  3  2 70%,
+      4  2  3 60%,
+      5  3  4 5%;
 
-    @each $pic, $honeycomb-half-column, $honeycomb-row in $wikimania2017-pics-placement {
-      .wikimania2017-pic#{$pic} {
-        @include honeycomb-place-image($honeycomb-half-column, $honeycomb-row);
-      }
-    }
-
-    // Macro to adjust the centering of some honeycomb pics
-
-    $wikimania2017-pics-position:
-      // pic  x-pos  y-pos
-      1  35% 50%,
-      3  70% 50%,
-      4  60% 50%,
-      5  5% 50%;
-
-    @each $pic, $x-position, $y-position in $wikimania2017-pics-position {
-      .wikimania2017-pic#{$pic} img {
-        object-position: $x-position $y-position;
-      }
-    }
+    @include honeycomb-place-set($wikimania2017-pics-placement, "wikimania2017-pic");
 
     .wikimania2017-pic2 img {
       // Darken a little bit so it stands out from the page's white background
@@ -241,7 +197,6 @@ article.custom-wikimedia2030 {
 
 
   /////////////////////////////////////////////////////////////
-
 
   #amplifying-new-voices {
     @include split-layout-hero(
@@ -266,35 +221,14 @@ article.custom-wikimedia2030 {
       @include honeycomb(4, 4, 7rem);
     }
 
-    // Macro to place the pictures on the honeycomb grid
-
     $new-voices-pics-placement:
       // pic  half-column  row
-      1  2  1,
+      1  2  1 100%,
       2  3  2,
-      3  2  3,
+      3  2  3 40%,
       4  1  4;
 
-    @each $pic, $honeycomb-half-column, $honeycomb-row in $new-voices-pics-placement {
-      .new-voices#{$pic} {
-        @include honeycomb-place-image($honeycomb-half-column, $honeycomb-row);
-      }
-    }
-
-    // Macro to adjust the centering of some honeycomb pics
-
-    $new-voices-pics-position:
-      // pic  x-pos  y-pos
-      1  100% 50%,
-      2  50% 50%,
-      3  40% 50%,
-      4  50% 50%;
-
-    @each $pic, $x-position, $y-position in $new-voices-pics-position {
-      .new-voices#{$pic} img {
-        object-position: $x-position $y-position;
-      }
-    }
+    @include honeycomb-place-set($new-voices-pics-placement, "new-voices");
 
     .new-voices2 img {
       // Darken a little bit so it stands out from the page's white background
@@ -308,9 +242,6 @@ article.custom-wikimedia2030 {
     }
 
   }
-
-
-
 
   /////////////////////////////////////////////////////////////
 
@@ -360,11 +291,9 @@ article.custom-wikimedia2030 {
       @include honeycomb(11, 8, 7rem)
     }
 
-    // Macro to place the pictures on the honeycomb grid
-
     $people-pics-placement:
       // pic  half-column  row
-      1  1  1,
+      1  1  1 0%,
       2  5  1,
       3  9  1,
       4  2  2,
@@ -372,49 +301,28 @@ article.custom-wikimedia2030 {
       6  6  2,
       7  8  2,
       8  3  3,
-      9  7  3,
-      10  2  4,
-      11  4  4,
+      9  7  3 25%,
+      10  2  4 100%,
+      11  4  4 25%,
       12  6  4,
-      13  7  5,
+      13  7  5 25%,
       14  9  5,
       15  4  6,
       16  6  6,
       17  8  6,
       18  3  7,
-      19  5  7,
+      19  5  7 100%,
       20  9  7,
       21  4  8,
       22  10  8;
 
-      @each $pic, $honeycomb-half-column, $honeycomb-row in $people-pics-placement {
-        .people#{$pic} {
-          @include honeycomb-place-image($honeycomb-half-column, $honeycomb-row);
-        }
-      }
+    @include honeycomb-place-set($people-pics-placement, "people");
 
-      // Macro to adjust the centering of some honeycomb pics
-
-      $people-pics-position:
-        // pic  x-pos  y-pos
-        1  0% 50%,
-        9  25% 50%,
-        10  100% 50%,
-        11  25% 50%,
-        13  25% 50%,
-        19  100% 50%;
-
-        @each $pic, $x-position, $y-position in $people-pics-position {
-          .people#{$pic} img {
-            object-position: $x-position $y-position;
-          }
-        }
-
-      .caption {
-        grid-column: 11/18;
-        grid-row: 23/26;
-        align-self: end;
-      }
+   .caption {
+      grid-column: 11/18;
+      grid-row: 23/26;
+      align-self: end;
+    }
 
   }
   /////////////////////////////////////////////////////////////

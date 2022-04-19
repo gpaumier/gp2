@@ -61,19 +61,19 @@ We put together a team. We designed a process, and adjusted it many times. Our a
 .. container:: team
 
    .. figure:: /images/Wikimedia_Conference_2017_–_118.jpg
-      :figclass: katherine
+      :figclass: team1
 
    .. figure:: /images/Wikimedia_Conference_2017_–_117.jpg
-      :figclass: adele
+      :figclass: team2
 
    .. figure:: /images/MYHO8747-edit.jpg
-      :figclass: williamsworks
+      :figclass: team3
 
    .. figure:: /images/Wikimedia_Conference_2018_–_134.jpg
-      :figclass: nicole
+      :figclass: team4
 
    .. figure:: /images/MYHO9171-edit.jpg
-      :figclass: juliet
+      :figclass: team5
 
    .. class:: caption
 

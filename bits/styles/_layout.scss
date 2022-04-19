@@ -531,3 +531,24 @@ svg {
   grid-column: #{$honeycomb-actual-column-start} / #{$honeycomb-actual-column-start + 3};
   grid-row: #{$honeycomb-actual-row-start} / #{$honeycomb-actual-row-start + 4};
 }
+
+@mixin honeycomb-place-set($placement-data, $class-prefix) {
+
+  // A utility to place a set of images in a honeycomb;
+
+  // $placement-data is a list of lists
+  // pic  half-column  row  x-position
+
+  @each $pic, $honeycomb-half-column, $honeycomb-row, $x-position in $placement-data {
+    .#{$class-prefix}#{$pic} {
+      @include honeycomb-place-image($honeycomb-half-column, $honeycomb-row);
+      @if $x-position {
+        img {
+          // Most images are in landscape format so we only care about adjusting the x position;
+          // we can adjust this later if needed.
+          object-position: $x-position 50%;
+        }
+      }
+    }
+  }
+}
