@@ -28,7 +28,7 @@ module.exports = {
     sass: {
       // https://github.com/brunch/sass-brunch
       options: {
-        //includePaths: ['node_modules/foundation-sites/scss', 'node_modules/font-awesome/scss'],
+        includePaths: ['node_modules/normalize.css'],
         precision: 8,
         allowCache: true,
         sourceMapEmbed: true

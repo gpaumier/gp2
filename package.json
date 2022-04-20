@@ -16,6 +16,7 @@
     "font-awesome": "^4.7.0",
     "foundation-sites": "^6.6.1",
     "jquery": "^3.4.1",
+    "normalize.css": "^8.0.1",
     "postcss-brunch": "^3.0.0",
     "sass-brunch": "^3.0.0",
     "what-input": "^5.0.3"
