@@ -3,342 +3,338 @@
 @use '../modules/media';
 @use '../modules/typography';
 
-article.custom-wikimedia {
 
-  h2 {
-    font-size: calc(1.5rem + 1.5vw);
+h2 {
+  font-size: calc(1.5rem + 1.5vw);
+}
+
+h3 {
+  font-size: calc(1rem + 1vw);
+}
+
+h2,
+.stakes-writeout,
+.identity-intro {
+  margin-bottom: 3rem;
+}
+
+h3 {
+  margin-bottom: 2rem;
+}
+
+header {
+  display: grid;
+  grid-template-columns: 1fr 4fr 5fr;
+  grid-template-rows: 1fr 5fr 6fr min-content;
+  height: 100vh;
+
+  img {
+    grid-column: 1/5;
+    grid-row: 1/4;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 25;
   }
 
-  h3 {
-    font-size: calc(1rem + 1vw);
+  figcaption {
+    grid-column: 2/5;
+    grid-row: 4/5;
+    display:block;
+    text-align: right;
+    align-self: start;
+    margin-bottom: 0;
+    z-index: 50;
   }
 
-  h2,
-  .stakes-writeout,
-  .identity-intro {
-    margin-bottom: 3rem;
+  .post-subtitle {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    z-index: 50;
+    display:block;
+    align-self: center;
+    background-color: rgba(228, 83, 31, 0.78);
+    color: #f3f3f3;
+    padding: .5rem;
+    font-size: calc(2rem + 2vw);
+    line-height: calc(2rem + 2vw);
   }
 
-  h3 {
-    margin-bottom: 2rem;
-  }
+}
 
-  header {
-     display: grid;
-     grid-template-columns: 1fr 4fr 5fr;
-     grid-template-rows: 1fr 5fr 6fr min-content;
-     height: 100vh;
-
-     img {
-       grid-column: 1/5;
-       grid-row: 1/4;
-       width: 100%;
-       height: 100%;
-       object-fit: cover;
-       z-index: 25;
-     }
-
-    figcaption {
-       grid-column: 2/5;
-       grid-row: 4/5;
-       display:block;
-       text-align: right;
-       align-self: start;
-       margin-bottom: 0;
-       z-index: 50;
-     }
-
-     .post-subtitle {
-       grid-column: 2/3;
-       grid-row: 2/3;
-       z-index: 50;
-       display:block;
-       align-self: center;
-       background-color: rgba(228, 83, 31, 0.78);
-       color: #f3f3f3;
-       padding: .5rem;
-       font-size: calc(2rem + 2vw);
-       line-height: calc(2rem + 2vw);
-     }
-
-  }
-
-  .entry-content .lead-figure,
-  h1.entry-title {
-     // The lead figure has been extracted and displayed in the header already.
-     // Also we don't need the page's title.
-     display: none;
- }
+.entry-content .lead-figure,
+h1.entry-title {
+  // The lead figure has been extracted and displayed in the header already.
+  // Also we don't need the page's title.
+  display: none;
+}
 
 /////////////////////////////////////////////////////////////
 
 
-  #the-stakes-of-knowledge h2 {
-    display: none;
-  }
+#the-stakes-of-knowledge h2 {
+  display: none;
+}
 
-  .stakes-header {
+.stakes-header {
 
-    display: grid;
-    grid-template-columns: minmax(.5rem, 2vw) min-content 6fr;
-    grid-template-rows: 6fr min-content minmax(.5rem, 2vh);
-    height: calc(30vh + 10vw);
+  display: grid;
+  grid-template-columns: minmax(.5rem, 2vw) min-content 6fr;
+  grid-template-rows: 6fr min-content minmax(.5rem, 2vh);
+  height: calc(30vh + 10vw);
 
-    figure {
-      grid-column: 1/4;
-      grid-row: 1/4;
+  figure {
+    grid-column: 1/4;
+    grid-row: 1/4;
 
-      img {
-        height: 100%;
-        width: 100%;
-        object-fit: cover;
-        object-position: 0 70%;
-        z-index: 25;
-      }
-
-      figcaption{
-        text-align: right;
-      }
+    img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+      object-position: 0 70%;
+      z-index: 25;
     }
 
-    .stakes-header-text {
-      grid-column: 2/3;
-      grid-row: 2/3;
-      color: #f3f3f3;
-      font-size: calc(2rem + 2vw);
-      line-height: calc(2.5rem + 2vw);
-      @extend %phenix-sans-bold;
-      align-self: center;
-      text-align: left;
-      margin: 0;
-      z-index: 50;
-
-      @media screen and (max-width: 100rem) {
-        background-color: #332d2f99;
-        padding: .5rem;
-      }
+    figcaption{
+      text-align: right;
     }
   }
 
-  /////////////////////////////////////////////////////////////
-  // Tri-columns intros
+  .stakes-header-text {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    color: #f3f3f3;
+    font-size: calc(2rem + 2vw);
+    line-height: calc(2.5rem + 2vw);
+    @extend %phenix-sans-bold;
+    align-self: center;
+    text-align: left;
+    margin: 0;
+    z-index: 50;
 
-  .stakes-writeout,
-  .identity-intro,
-  .product-tech-intro,
-  .community-operations-intro {
-    max-width: 100ch;
-    column-width: 30ch;
-    column-count: 3;
-    column-rule: 1px solid #666;
-    margin-right: auto;
-    margin-left: auto;
-    padding-left: .5rem;
-    padding-right: .5rem;
-    margin-top: 2rem;
-    margin-bottom: 3rem;
+    @media screen and (max-width: 100rem) {
+      background-color: #332d2f99;
+      padding: .5rem;
+    }
+  }
+}
+
+/////////////////////////////////////////////////////////////
+// Tri-columns intros
+
+.stakes-writeout,
+.identity-intro,
+.product-tech-intro,
+.community-operations-intro {
+  max-width: 100ch;
+  column-width: 30ch;
+  column-count: 3;
+  column-rule: 1px solid #666;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: .5rem;
+  padding-right: .5rem;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+
+  p {
+    line-height: 1.35rem;
+    text-indent: 1rem;
+    margin-bottom: 0;
+    padding: 0;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+  }
+
+  p:first-child {
+    text-indent: 0;
+    -webkit-initial-letter: 3.0;
+    initial-letter: 3.0;
+  }
+
+}
+
+/////////////////////////////////////////////////////////////
+
+#recent-work {
+
+  #revenue-strategy-and-long-term-thinking {
+    @include layout.split-cover(
+    $image-side: left,
+    $image-row-span: 4,
+    $image-position: 65%,
+    );
+  }
+
+  #wikimedia-2030 {
+    @include layout.split-cover(right, 5, 35%);
+  }
+
+
+}
+
+/////////////////////////////////////////////////////////////
+
+.wikimedia-vision {
+  height: 80vh;
+  overflow: hidden;
+  background-color: #000099;
+  display: grid;
+  grid-template-columns: minmax(0, 3fr) 4fr 1fr;
+  grid-template-rows: minmax(0, 3fr) 4fr 1fr;
+  margin-bottom: 2rem;
+
+  p:first-child {
+    font-size: calc(.5rem + .5vw);
+    line-height: calc(.7rem + .5vw);
+    color: #b3b3ff;
+    grid-column: 1/4;
+    grid-row: 1/3;
+  }
+
+  p:nth-child(2) {
+    display: block;
+    padding: .7rem;
+    background-color: #00004d99;
+    font-size: calc(1.5rem + 1.5vw);
+    line-height: calc(1.5rem + 1.5vw);
+    color: #f3f3f3;
+    grid-column: 2/3;
+    grid-row: 2/3;
+    align-self: center;
+  }
+}
+
+/////////////////////////////////////////////////////////////
+#a-culture-of-sensemaking {
+  @include layout.split-txt-pics(right, 4, 45ch, 65ch);
+
+  figcaption {
+    // override this because it's so long and looks weird otherwise
+    text-align: left;
+  }
+
+}
+
+#stating-our-values {
+  @include layout.split-txt-pics(left, 4, 50ch, 60ch);
+}
+
+
+#history-and-wikiarchaeology {
+  @include layout.split-txt-pics(right, 3, 45ch, 65ch);
+
+  #wikimedia-history-wikimania-21012-video { //Youtube embedded video
+    grid-column: 1 / 5;
+  }
+
+  figure {
+    margin-bottom: 1rem;
+  }
+
+  @media screen and (min-width: 100ch) {
+    figure:nth-of-type(2) { // 11 years infographic
+      grid-column: -2/-3;
+      grid-row: 6/8;
+    }
+    #wikimedia-history-wikimania-2012-video { // Youtube embedded video
+      grid-column: -2/-3;
+      grid-row: 7/10; // TODO adjust once the text is finalized
+    }
+  }
+}
+
+/////////////////////////////////////////////////////////////
+// Product and tech
+
+#product-technology {
+  blockquote {
 
     p {
-      line-height: 1.35rem;
-      text-indent: 1rem;
-      margin-bottom: 0;
-      padding: 0;
-      overflow-wrap: break-word;
-      word-wrap: break-word;
-      -webkit-hyphens: auto;
-      -ms-hyphens: auto;
-      hyphens: auto;
-    }
-
-    p:first-child {
-      text-indent: 0;
-      -webkit-initial-letter: 3.0;
-      initial-letter: 3.0;
-    }
-
-  }
-
-  /////////////////////////////////////////////////////////////
-
-  #recent-work {
-
-    #revenue-strategy-and-long-term-thinking {
-      @include layout.split-cover(
-        $image-side: left,
-        $image-row-span: 4,
-        $image-position: 65%,
-        );
-    }
-
-    #wikimedia-2030 {
-      @include layout.split-cover(right, 5, 35%);
-    }
-
-
-  }
-
-  /////////////////////////////////////////////////////////////
-
-  .wikimedia-vision {
-    height: 80vh;
-    overflow: hidden;
-    background-color: #000099;
-    display: grid;
-    grid-template-columns: minmax(0, 3fr) 4fr 1fr;
-    grid-template-rows: minmax(0, 3fr) 4fr 1fr;
-    margin-bottom: 2rem;
-
-    p:first-child {
-      font-size: calc(.5rem + .5vw);
-      line-height: calc(.7rem + .5vw);
-      color: #b3b3ff;
-      grid-column: 1/4;
-      grid-row: 1/3;
-    }
-
-    p:nth-child(2) {
-      display: block;
-      padding: .7rem;
-      background-color: #00004d99;
-      font-size: calc(1.5rem + 1.5vw);
+      font-size: calc(1rem + .7vw);
       line-height: calc(1.5rem + 1.5vw);
-      color: #f3f3f3;
-      grid-column: 2/3;
-      grid-row: 2/3;
-      align-self: center;
-    }
-  }
-
-  /////////////////////////////////////////////////////////////
-  #a-culture-of-sensemaking {
-    @include layout.split-txt-pics(right, 4, 45ch, 65ch);
-
-    figcaption {
-      // override this because it's so long and looks weird otherwise
-      text-align: left;
-    }
-
-  }
-
-  #stating-our-values {
-    @include layout.split-txt-pics(left, 4, 50ch, 60ch);
-  }
-
-
-  #history-and-wikiarchaeology {
-    @include layout.split-txt-pics(right, 3, 45ch, 65ch);
-
-    #wikimedia-history-wikimania-21012-video { //Youtube embedded video
-      grid-column: 1 / 5;
-    }
-
-    figure {
       margin-bottom: 1rem;
     }
 
-    @media screen and (min-width: 100ch) {
-      figure:nth-of-type(2) { // 11 years infographic
-        grid-column: -2/-3;
-        grid-row: 6/8;
-      }
-      #wikimedia-history-wikimania-2012-video { // Youtube embedded video
-        grid-column: -2/-3;
-        grid-row: 7/10; // TODO adjust once the text is finalized
-      }
+    .attribution {
+      font-size: calc(1rem + 0.3vw);
+      line-height: calc(1.5rem + 1vw);
+    }
+
+    margin-top: calc(3vh + 3vw);
+    margin-bottom: calc(3vh + 3vw);
+    padding-top: calc(3vh + 3vw);
+    padding-bottom: calc(3vh + 3vw);
+    background-color: transparentize($primary-color, 0.95);;
+
+  }
+}
+
+#product-strategy {
+  @include layout.split-txt-pics(right, 3, 45ch, 65ch);
+
+  figcaption {
+    text-align: left;
+  }
+}
+
+#multimedia-usability-project {
+  @include layout.split-txt-pics(left, 3, 45ch, 65ch);
+}
+
+#technical-writing {
+  @include layout.split-txt-pics(right, 5, 45ch, 65ch);
+
+  figcaption {
+    text-align: left;
+  }
+}
+
+/////////////////////////////////////////////////////////////
+
+#wikimedia-france {
+  @include layout.split-txt-pics(right, 5);
+}
+
+#wikimedia-chapters-conference-2009 {
+  @include layout.split-txt-pics(left, 7);
+}
+
+
+#crosswiki-service-work {
+  @include layout.split-cover(right, 5, 50%);
+}
+
+#volunteer-response-team-otrs {
+  @include layout.split-cover(left, 7, 50%);
+}
+
+/////////////////////////////////////////////////////////////
+// Wikimedia photos slideshow / grid
+
+#wikimedia-photos {
+  display:grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(3, auto);
+
+  img {
+
+    @media screen and (max-width: $breakpoint-medium) {
+      opacity: 0;
+      @include media.slideshow-fade($num:5, $fade:2, $visible:0);
+      grid-column: 1 / span 5;
+      grid-row: 1 / 2;
+    }
+
+    @media screen and (min-width: $breakpoint-medium) {
+      // TODO Do something more interesting with the layout since we have more space
+      opacity: 0;
+      @include media.slideshow-fade($num:5, $fade:2, $visible:0);
+      grid-column: 1 / span 5;
+      grid-row: 1 / 2;
     }
   }
-
-  /////////////////////////////////////////////////////////////
-  // Product and tech
-
-  #product-technology {
-    blockquote {
-
-      p {
-        font-size: calc(1rem + .7vw);
-        line-height: calc(1.5rem + 1.5vw);
-        margin-bottom: 1rem;
-      }
-
-      .attribution {
-        font-size: calc(1rem + 0.3vw);
-        line-height: calc(1.5rem + 1vw);
-      }
-
-      margin-top: calc(3vh + 3vw);
-      margin-bottom: calc(3vh + 3vw);
-      padding-top: calc(3vh + 3vw);
-      padding-bottom: calc(3vh + 3vw);
-      background-color: transparentize($primary-color, 0.95);;
-
-    }
-  }
-
-  #product-strategy {
-    @include layout.split-txt-pics(right, 3, 45ch, 65ch);
-
-    figcaption {
-      text-align: left;
-    }
-  }
-
-  #multimedia-usability-project {
-    @include layout.split-txt-pics(left, 3, 45ch, 65ch);
-  }
-
-  #technical-writing {
-    @include layout.split-txt-pics(right, 5, 45ch, 65ch);
-
-    figcaption {
-      text-align: left;
-    }
-  }
-
-  /////////////////////////////////////////////////////////////
-
-  #wikimedia-france {
-    @include layout.split-txt-pics(right, 5);
-  }
-
-  #wikimedia-chapters-conference-2009 {
-    @include layout.split-txt-pics(left, 7);
-  }
-
-
-  #crosswiki-service-work {
-    @include layout.split-cover(right, 5, 50%);
-  }
-
-  #volunteer-response-team-otrs {
-    @include layout.split-cover(left, 7, 50%);
-  }
-
-  /////////////////////////////////////////////////////////////
-  // Wikimedia photos slideshow / grid
-
-  #wikimedia-photos {
-    display:grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: repeat(3, auto);
-
-    img {
-
-      @media screen and (max-width: $breakpoint-medium) {
-        opacity: 0;
-        @include media.slideshow-fade($num:5, $fade:2, $visible:0);
-        grid-column: 1 / span 5;
-        grid-row: 1 / 2;
-      }
-
-      @media screen and (min-width: $breakpoint-medium) {
-        // TODO Do something more interesting with the layout since we have more space
-        opacity: 0;
-        @include media.slideshow-fade($num:5, $fade:2, $visible:0);
-        grid-column: 1 / span 5;
-        grid-row: 1 / 2;
-      }
-    }
-  }
-
-
 }
