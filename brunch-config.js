@@ -1,12 +1,12 @@
 module.exports = {
   optimize: true,
   files: {
-    javascripts: {
-      joinTo: {
-        'libs.js': /^node_modules/,
-        'phenix.js': /^bits/
-      }
-    },
+    // javascripts: {
+    //   joinTo: {
+    //     'libs.js': /^node_modules/,
+    //     'phenix.js': /^bits/
+    //   }
+    // },
     stylesheets: {
       joinTo: {
         'phenix.css': 'bits/styles/*.scss',
@@ -23,7 +23,7 @@ module.exports = {
     sass: {
       // https://github.com/brunch/sass-brunch
       options: {
-        includePaths: ['node_modules/foundation-sites/scss', 'node_modules/font-awesome/scss'],
+        //includePaths: ['node_modules/foundation-sites/scss', 'node_modules/font-awesome/scss'],
         precision: 8,
         allowCache: true,
         sourceMapEmbed: true
@@ -38,7 +38,7 @@ module.exports = {
       ]
     },
     copycat: {
-      "fonts/fontawesome": ["node_modules/font-awesome/fonts"]
+      //"fonts/fontawesome": ["node_modules/font-awesome/fonts"]
     }
   },
   npm: {
