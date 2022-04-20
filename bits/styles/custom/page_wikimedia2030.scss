@@ -4,11 +4,7 @@
 /////////////////////////////////////////////////////////////
 
 #your-mission-should-you-choose-to-accept-it {
-  @include layout.split-hero(
-  $background: dark,
-  $left-width: 65ch,
-  $right-width: 65ch
-  );
+  @extend %split-hero;
 }
 
 /////////////////////////////////////////////////////////////
@@ -140,11 +136,7 @@ $world-around-us-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #engaging-a-whole-movement {
-  @include layout.split-hero(
-  $background: dark,
-  $left-width: 65ch,
-  $right-width: 65ch
-  );
+  @extend %split-hero;
 }
 
 /////////////////////////////////////////////////////////////
@@ -199,11 +191,7 @@ $wikimania2017-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #amplifying-new-voices {
-  @include layout.split-hero(
-  $background: dark,
-  $left-width: 65ch,
-  $right-width: 65ch
-  );
+  @extend %split-hero;
 }
 
 /////////////////////////////////////////////////////////////
@@ -246,11 +234,7 @@ $new-voices-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #recommendations-and-implementation {
-  @include layout.split-hero(
-  $background: dark,
-  $left-width: 65ch,
-  $right-width: 65ch
-  );
+  @extend %split-hero;
 }
 
 /////////////////////////////////////////////////////////////
@@ -278,11 +262,7 @@ $new-voices-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #the-people {
-  @include layout.split-hero(
-  $background: dark,
-  $left-width: 65ch,
-  $right-width: 65ch
-  );
+  @extend %split-hero;
 
   .people .caption {
     grid-column: 11/18;

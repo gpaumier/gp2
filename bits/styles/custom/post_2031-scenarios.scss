@@ -71,11 +71,8 @@ header {
 #the-war-of-the-words,
 #success-into-oblivion {
 
-  @include layout.split-hero(
-  $background: light,
-  $left-width: 65ch,
-  $right-width: 65ch
-  );
+  @extend %split-hero;
+  @extend %hero-in-split-light;
 
   p {
     max-width: 75ch;
@@ -85,12 +82,7 @@ header {
 }
 
 #human-obsolescence {
-
-  @include layout.split-hero(
-  $background: dark,
-  $left-width: 65ch,
-  $right-width: 65ch
-  );
+  @extend %split-hero;
 
   p {
     max-width: 75ch;

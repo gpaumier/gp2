@@ -35,11 +35,7 @@
 /////////////////////////////////////////////////////////////
 
 #biochips-and-microarrays{
-  @include layout.split-hero(
-  $background: dark,
-  $left-width: 65ch,
-  $right-width: 65ch
-  );
+  @extend %split-hero;
 
   > figure:first-of-type img {
     // make this a little darker to ensure legibility
@@ -138,11 +134,7 @@
 }
 
 #antibody-microarray-on-cea-2-protocol{
-  @include layout.split-hero(
-  $background: dark,
-  $left-width: 65ch,
-  $right-width: 65ch
-  );
+  @extend %split-hero;
 
   > figure:first-of-type img {
     // make this a little darker to ensure legibility
@@ -239,11 +231,7 @@
 /////////////////////////////////////////////////////////////
 
 #alternative-detection-methods {
-  @include layout.split-hero(
-  $background: dark,
-  $left-width: 65ch,
-  $right-width: 65ch
-  );
+  @extend %split-hero;
 
   > figure:first-of-type img {
     // make this a little darker to ensure legibility
@@ -323,11 +311,7 @@
 /////////////////////////////////////////////////////////////
 
 #vapor-phase-silanization-for-proteomics {
-  @include layout.split-hero(
-  $background: dark,
-  $left-width: 65ch,
-  $right-width: 65ch
-  );
+  @extend %split-hero;
 
   #adapting-the-protocol {
     @include layout.split-txt-pics(
@@ -395,11 +379,7 @@
 }
 
 #peptidic-digestion-mass-spectrometry {
-  @include layout.split-hero(
-  $background: dark,
-  $left-width: 65ch,
-  $right-width: 65ch
-  );
+  @extend %split-hero;
 
   #biochiplab {
     @include layout.split-txt-pics(

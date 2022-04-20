@@ -38,7 +38,75 @@
 
 //////////////////////////////////////////////////
 
+%split {
+
+  //  Default split layout
+  $width: 65ch;
+
+  display: grid;
+  grid-template-columns:
+    minmax(.5rem, 1fr)
+    minmax(min-content, $width)
+    1.5rem
+    minmax(min-content, $width)
+    minmax(.5rem, 1fr);
+  margin-bottom: 3rem;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  // Full-width images in small viewports
+
+  > figure,
+  .figures {
+    grid-column: 1 / 6;
+    margin-bottom: 2rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    img {
+      width: 100%;
+    }
+
+    figcaption {
+      // The figure spans all 6 columns so the img can reach the edges of the viewport, but the caption isn't a child element of the grid so we can't confine it to columns 2-5, so we need to re-add the side margins here
+      margin-left: .5rem;
+      margin-right: .5rem;
+      // remove bottom margin here since we added it to the parent element
+      margin-bottom: 0;
+    }
+  }
+
+  h3,
+  h4,
+  p,
+  dl,
+  aside,
+  .expert {
+    grid-column: 2 / 5;
+  }
+
+  .footnote p {
+    // add this here because specificity of p otherwise overrides the footnotes
+    grid-column: 2/3;
+  }
+
+  h3 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+
+}
+
+
+//////////////////////////////////////////////////
+
 @mixin split($left-width: 65ch, $right-width: 65ch) {
+
+  // same as above but with customizable widths
 
   display: grid;
   grid-template-columns:
@@ -139,7 +207,8 @@
 
 }
 
-@mixin hero-in-split($background: dark) {
+%hero-in-split {
+  // this used to be a mixin where creating different styles whether the hero image was // dark or light. Now we assume it's dark (which enables us to simply extend this style verbatim) and simply make tiny adjustments if it's light.
   grid-template-rows:
     minmax(.5rem, 2vh)
     35vh
@@ -153,7 +222,7 @@
     grid-row: 2/4;
     align-self: center;
     z-index: 50;
-    color: if($background == "dark", #f3f3f3, #222);
+    color: #f3f3f3;
 
     // Bigger h2 if it's used as hero header
     font-size: calc(1.5rem + 2vw);
@@ -172,8 +241,8 @@
     img {
       height: 100%;
       object-fit: cover;
-      // If we have a dark background with bright text, make the background darker by reducing brightness; otherwise make it brighter by increasing transparency.
-      filter: if($background == "dark", brightness(60%), opacity(20%));
+      // If we have a dark background with bright text, make the background darker by reducing brightness
+      filter: brightness(60%);
     }
 
     figcaption {
@@ -208,9 +277,28 @@
       z-index: 50;
       font-size: calc(1rem + .5vw);
       line-height: calc(1.5rem + 1vw);
-      color: if($background == "dark", #f3f3f3, #222);
+      color: #f3f3f3;
     }
 
+  }
+}
+
+%hero-in-split-light {
+  // adjustments where the hero image is light
+
+  h2 {
+    color: #222;
+  }
+
+  > figure:first-of-type img {
+      // If we have a light background with dark text, make the background brighter by increasing transparency.
+      filter: opacity(20%);
+    }
+
+  @media screen and (min-width: 100ch) {
+    > p:first-of-type {
+      color: #222;
+    }
   }
 }
 
@@ -233,15 +321,15 @@
 //////////////////////////////////////////////////
 
 
-@mixin split-hero($background: dark, $left-width: 65ch, $right-width: 65ch) {
+%split-hero {
 
   // Like split-layout but with a graphic spread first for h2 title and one-liner <p>.
 
-  @include split($left-width, $right-width);
-  @include hero-in-split($background);
+  @extend %split;
+  @extend %hero-in-split;
 
   > * {
-    @include spread-in-split();
+    @extend %spread-in-split;
   }
 }
 
@@ -258,7 +346,7 @@
     @include split($text-width, $pics-width)
   };
 
-  @include hero-in-split($background);
+  @extend %split-hero;
   @include txt-pics-columns-in-split($image-side, $image-row-span, $image-row-start: 6);
 
 }
@@ -323,11 +411,18 @@
 
 }
 
+%spread-in-split {
+  // A utility to spread split-layout figures across both columns of a split layout.
+  grid-column: 1/6;
+
+  @media screen and (min-width: 100ch) {
+    grid-column: 2/5;
+    grid-row: auto;
+  }
+}
 
 @mixin spread-in-split($grid-row: auto) {
-
-  // A utility to spread split-layout figures across both columns of a split layout.
-
+  // Same as above but configurable
   grid-column: 1/6;
 
   @media screen and (min-width: 100ch) {

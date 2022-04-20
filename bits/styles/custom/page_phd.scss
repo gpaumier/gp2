@@ -241,10 +241,7 @@ dl {
 /////////////////////////////////////////////////////////////
 
 #surface-functionalization {
-
-  @include layout.split-hero(
-  $background: dark,
-  );
+  @extend %split-hero;
 
   // This section has subsections
 
@@ -341,10 +338,8 @@ dl {
 
 
 #electro-osmotic-flow {
-
-  @include layout.split-hero(
-  $background: light,
-  );
+  @extend %split-hero;
+  @extend %hero-in-split-light;
 
   > figure:first-of-type img {
     // Increase opacity and saturation a bit since contrast of the image is low.
@@ -496,8 +491,7 @@ dl {
 
 
 #beyond-the-research {
-
-  @include layout.split-hero(light, 42ch, 68ch);
+  @extend %split-hero;
 
   > figure:first-of-type img {
     // Increase opacity and saturation a bit since contrast of the image is low.
