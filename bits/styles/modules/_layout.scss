@@ -1,5 +1,4 @@
 @use '../settings' as *;
-@use '../modules/typography';
 
 // Mixins
 
@@ -157,7 +156,9 @@
     color: if($background == "dark", #f3f3f3, #222);
 
     // Bigger h2 if it's used as hero header
-    @extend %hero-title;
+    font-size: calc(1.5rem + 2vw);
+    line-height: calc(2.5rem + 2vw);
+
   }
 
   > figure:first-of-type {
