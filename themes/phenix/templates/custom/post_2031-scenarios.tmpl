@@ -3,6 +3,12 @@
 {% import 'post_header.tmpl' as pheader with context %}
 {% extends 'base.tmpl' %}
 
+{% block head %}
+    <head>
+        {% include "_head_post.tmpl" %}
+    </head>
+{% endblock %}
+
 {% block header %}
     {% include "_header.tmpl" %}
 {% endblock %}

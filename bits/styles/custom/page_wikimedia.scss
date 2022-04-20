@@ -1,3 +1,7 @@
+@use '../settings' as *;
+@use '../modules/layout';
+@use '../modules/media';
+@use '../modules/typography';
 
 article.custom-wikimedia {
 
@@ -103,7 +107,7 @@ article.custom-wikimedia {
       color: #f3f3f3;
       font-size: calc(2rem + 2vw);
       line-height: calc(2.5rem + 2vw);
-      @extend %fumseck-sans-bold;
+      @extend %phenix-sans-bold;
       align-self: center;
       text-align: left;
       margin: 0;
@@ -159,7 +163,7 @@ article.custom-wikimedia {
   #recent-work {
 
     #revenue-strategy-and-long-term-thinking {
-      @include split-layout-cover(
+      @include layout.split-cover(
         $image-side: left,
         $image-row-span: 4,
         $image-position: 65%,
@@ -167,7 +171,7 @@ article.custom-wikimedia {
     }
 
     #wikimedia-2030 {
-      @include split-layout-cover(right, 5, 35%);
+      @include layout.split-cover(right, 5, 35%);
     }
 
 
@@ -207,7 +211,7 @@ article.custom-wikimedia {
 
   /////////////////////////////////////////////////////////////
   #a-culture-of-sensemaking {
-    @include split-layout-txt-pics(right, 4, 45ch, 65ch);
+    @include layout.split-txt-pics(right, 4, 45ch, 65ch);
 
     figcaption {
       // override this because it's so long and looks weird otherwise
@@ -217,18 +221,15 @@ article.custom-wikimedia {
   }
 
   #stating-our-values {
-    @include split-layout-txt-pics(left, 4, 50ch, 60ch);
+    @include layout.split-txt-pics(left, 4, 50ch, 60ch);
   }
 
 
   #history-and-wikiarchaeology {
-    @include split-layout-txt-pics(right, 3, 45ch, 65ch);
+    @include layout.split-txt-pics(right, 3, 45ch, 65ch);
 
     #wikimedia-history-wikimania-21012-video { //Youtube embedded video
       grid-column: 1 / 5;
-    }
-    .embed {
-        @include responsive-embed(widescreen);
     }
 
     figure {
@@ -268,15 +269,13 @@ article.custom-wikimedia {
       margin-bottom: calc(3vh + 3vw);
       padding-top: calc(3vh + 3vw);
       padding-bottom: calc(3vh + 3vw);
-      //border-top: 1px solid map-get($foundation-palette, "primary");
-      //border-bottom: 1px solid map-get($foundation-palette, "primary");
-      background-color: transparentize(map-get($foundation-palette, "primary"), 0.95);;
+      background-color: transparentize($primary-color, 0.95);;
 
     }
   }
 
   #product-strategy {
-    @include split-layout-txt-pics(right, 3, 45ch, 65ch);
+    @include layout.split-txt-pics(right, 3, 45ch, 65ch);
 
     figcaption {
       text-align: left;
@@ -284,11 +283,11 @@ article.custom-wikimedia {
   }
 
   #multimedia-usability-project {
-    @include split-layout-txt-pics(left, 3, 45ch, 65ch);
+    @include layout.split-txt-pics(left, 3, 45ch, 65ch);
   }
 
   #technical-writing {
-    @include split-layout-txt-pics(right, 5, 45ch, 65ch);
+    @include layout.split-txt-pics(right, 5, 45ch, 65ch);
 
     figcaption {
       text-align: left;
@@ -298,20 +297,20 @@ article.custom-wikimedia {
   /////////////////////////////////////////////////////////////
 
   #wikimedia-france {
-    @include split-layout-txt-pics(right, 5);
+    @include layout.split-txt-pics(right, 5);
   }
 
   #wikimedia-chapters-conference-2009 {
-    @include split-layout-txt-pics(left, 7);
+    @include layout.split-txt-pics(left, 7);
   }
 
 
   #crosswiki-service-work {
-    @include split-layout-cover(right, 5, 50%);
+    @include layout.split-cover(right, 5, 50%);
   }
 
   #volunteer-response-team-otrs {
-    @include split-layout-cover(left, 7, 50%);
+    @include layout.split-cover(left, 7, 50%);
   }
 
   /////////////////////////////////////////////////////////////
@@ -324,17 +323,17 @@ article.custom-wikimedia {
 
     img {
 
-      @include breakpoint(small only) {
+      @media screen and (max-width: $breakpoint-medium) {
         opacity: 0;
-        @include slideshow-fade($num:5, $fade:2, $visible:0);
+        @include media.slideshow-fade($num:5, $fade:2, $visible:0);
         grid-column: 1 / span 5;
         grid-row: 1 / 2;
       }
 
-      @include breakpoint(medium) {
+      @media screen and (min-width: $breakpoint-medium) {
         // TODO Do something more interesting with the layout since we have more space
         opacity: 0;
-        @include slideshow-fade($num:5, $fade:2, $visible:0);
+        @include media.slideshow-fade($num:5, $fade:2, $visible:0);
         grid-column: 1 / span 5;
         grid-row: 1 / 2;
       }

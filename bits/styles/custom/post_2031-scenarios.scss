@@ -1,3 +1,6 @@
+@use '../modules/layout';
+
+
 article.custom-2031-scenarios {
 
   header {
@@ -71,7 +74,7 @@ article.custom-2031-scenarios {
   #the-war-of-the-words,
   #success-into-oblivion {
 
-    @include split-layout-hero(
+    @include layout.split-hero(
     $background: light,
     $left-width: 65ch,
     $right-width: 65ch
@@ -86,7 +89,7 @@ article.custom-2031-scenarios {
 
   #human-obsolescence {
 
-    @include split-layout-hero(
+    @include layout.split-hero(
     $background: dark,
     $left-width: 65ch,
     $right-width: 65ch
@@ -100,7 +103,7 @@ article.custom-2031-scenarios {
   }
 
   #beyond-the-scenarios {
-    @include split-layout-txt-pics-hero(
+    @include layout.split-txt-pics-hero(
       $image-side: right,
       $background: dark,
       $text-width: 68ch,
@@ -108,12 +111,12 @@ article.custom-2031-scenarios {
     );
 
     .scenario-cards {
-      @include place-split-layout-element(right, "6/9");
+      @include layout.place-in-split(right, "6/9");
       align-self: center;
     }
 
     #blackswan {
-      @include place-split-layout-element(right, "9/11");
+      @include layout.place-in-split(right, "9/11");
       align-self: center;
     }
   }
