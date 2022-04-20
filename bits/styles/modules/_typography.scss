@@ -95,7 +95,7 @@ h1 {
     @extend %phenix-serif-bold;
 }
 
-h2, h3, h4 {
+h2, h3, h4, .stakes-header-text {
     @extend %phenix-sans-bold;
 
     em {

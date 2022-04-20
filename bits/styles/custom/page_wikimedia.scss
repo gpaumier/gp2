@@ -1,7 +1,6 @@
 @use '../settings' as *;
 @use '../modules/layout';
 @use '../modules/media';
-@use '../modules/typography';
 
 
 h2 {
@@ -106,7 +105,6 @@ h1.entry-title {
     color: #f3f3f3;
     font-size: calc(2rem + 2vw);
     line-height: calc(2.5rem + 2vw);
-    @extend %phenix-sans-bold;
     align-self: center;
     text-align: left;
     margin: 0;
