@@ -137,6 +137,6 @@ Collective lens: Disinformation and solving problems together
 Note
 ====
 
-.. container:: note
+.. note::
 
    This essay is adapted from one I wrote as part of the :doc:`Wikimedia Foundation <advancement>`’s participation in the `100&Change challenge <https://www.100andchange.org/>`__, a program of the `MacArthur Foundation <https://www.macfound.org/programs/100change/>`__ awarding a $100 million grant to "a single proposal that promises real and measurable progress in solving a critical problem of our time." The grant application was a shared effort with other colleagues at the Wikimedia Foundation.

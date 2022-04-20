@@ -107,7 +107,8 @@ strong {
     @extend %phenix-serif-bold;
 }
 
-em {
+em,
+.admonition.note p {
     @extend %phenix-serif-italic;
     }
 
