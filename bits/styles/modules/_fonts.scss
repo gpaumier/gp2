@@ -154,3 +154,84 @@ $phenix-sans: 'Linux Biolinum Regular', 'Futura', 'Verdana', sans-serif;
 );
 
 $phenix-monospace: 'Latin Modern Monospace Regular', 'Courier', monospace;
+
+/**
+ * phenix Serif
+ */
+
+%phenix-serif {
+    font-family: $phenix-serif;
+}
+
+%phenix-serif-bold {
+    font-family: 'Linux Libertine Regular Bold', 'Baskerville', 'Georgia', serif;
+    font-weight: bold;
+}
+
+%phenix-serif-italic {
+    font-family: 'Linux Libertine Regular Italic', 'Baskerville', 'Georgia', serif;
+    font-style: italic;
+}
+
+%phenix-serif-bolditalic {
+    font-family: 'Linux Libertine Regular Bold Italic', 'Baskerville', 'Georgia', serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+%phenix-serif-display {
+    font-family: 'Linux Libertine Display Regular', 'Baskerville', 'Georgia', serif;
+}
+
+%phenix-serif-semibold {
+    font-family: 'Linux Libertine Semibold', 'Baskerville', 'Georgia', serif;
+    //font-weight: 600;
+}
+
+%phenix-serif-semibold-italic {
+    font-family: 'Linux Libertine Semibold Italic', 'Baskerville', 'Georgia', serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+/**
+ * phenix Sans
+ */
+
+%phenix-sans {
+    font-family: $phenix-sans;
+}
+
+%phenix-sans-bold {
+    font-family: 'Linux Biolinum Regular Bold', 'Futura', 'Verdana', sans-serif;
+    font-weight: bold;
+}
+
+%phenix-sans-italic {
+    font-family: 'Linux Biolinum Regular Italic', 'Futura', 'Verdana', sans-serif;
+    font-style: italic;
+}
+
+/**
+ * phenix Monospace
+ */
+
+%phenix-monospace {
+    font-family: $phenix-monospace;
+}
+
+%phenix-monospace-italic {
+    font-family: 'Latin Modern Monospace Italic', 'Courier', monospace;
+    font-style: italic;
+}
+
+%phenix-monospace-bold {
+    font-family: 'Latin Modern Monospace Light Bold', 'Courier', monospace;
+    font-weight: bold;
+}
+
+%phenix-monospace-bolditalic {
+    font-family: 'Latin Modern Monospace Light Bold Oblique', 'Courier', monospace;
+    font-weight: bold;
+    font-style: italic;
+}
