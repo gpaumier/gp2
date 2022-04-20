@@ -16,12 +16,12 @@
   $pics-width: 50ch,
   $text-width: 65ch,
   );
+}
 
-  .team .caption {
-    grid-column: 7/11;
-    grid-row: 11/14;
-    align-self: center;
-  }
+.team .caption {
+  grid-column: 7/11;
+  grid-row: 11/14;
+  align-self: center;
 }
 
 .team {
@@ -72,12 +72,12 @@ $team-pics-placement:
   $pics-width: 50ch,
   $text-width: 65ch,
   );
+}
 
-  .world-around-us .caption {
-    grid-column: 6/10;
-    grid-row: 11/14;
-    align-self: center;
-  }
+.world-around-us .caption {
+  grid-column: 6/10;
+  grid-row: 11/14;
+  align-self: center;
 }
 
 .world-around-us {
@@ -105,18 +105,18 @@ $world-around-us-pics-placement:
   $pics-width: 50ch,
   $text-width: 65ch,
   );
-
-  .hopes-fears .caption {
-    grid-column: 5/9;
-    grid-row: 8/10;
-    align-self: end;
-  }
 }
 
 .hopes-fears {
   @include layout.place-in-split(left, "1/10");
   align-self: center;
   @include honeycomb.create(4, 2, 7rem);
+
+  .caption {
+    grid-column: 5/9;
+    grid-row: 8/10;
+    align-self: end;
+  }
 }
 
 .hopes {
@@ -159,18 +159,18 @@ $world-around-us-pics-placement:
   $pics-width: 50ch,
   $text-width: 65ch,
   );
-
-  .wikimania2017 .caption {
-    grid-column: 1/4;
-    grid-row: 11/14;
-    align-self: center;
-  }
 }
 
 .wikimania2017 {
   @include layout.place-in-split(left, "1/8");
   align-self: center;
   @include honeycomb.create(4, 4, 7rem);
+
+  .caption {
+    grid-column: 1/4;
+    grid-row: 11/14;
+    align-self: center;
+  }
 }
 
 $wikimania2017-pics-placement:
@@ -203,18 +203,18 @@ $wikimania2017-pics-placement:
   $pics-width: 42ch,
   $text-width: 68ch,
   );
-
-  .new-voices .caption {
-    grid-column: 5/8;
-    grid-row: 11/14;
-    align-self: center;
-  }
 }
 
 .new-voices {
   @include layout.place-in-split(right, "1/8");
   align-self: center;
   @include honeycomb.create(4, 4, 7rem);
+
+  .caption {
+    grid-column: 5/8;
+    grid-row: 11/14;
+    align-self: center;
+  }
 }
 
 $new-voices-pics-placement:
@@ -263,16 +263,16 @@ $new-voices-pics-placement:
 
 #the-people {
   @extend %split-hero;
-
-  .people .caption {
-    grid-column: 11/18;
-    grid-row: 23/26;
-    align-self: end;
-  }
 }
 
 .people {
   @include honeycomb.create(11, 8, 7rem);
+
+  .caption {
+    grid-column: 11/18;
+    grid-row: 23/26;
+    align-self: end;
+  }
 }
 
 $people-pics-placement:

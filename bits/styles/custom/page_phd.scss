@@ -135,17 +135,18 @@ dl {
     // Adjust colors but keep the opacity
     filter: opacity(15%) hue-rotate(-60deg) saturate(400%);
   }
-
-  .loc-iss {
-    @include layout.place-in-split(right, "6/8");
-    align-self: center;
-  }
-
-  .loc-nist {
-    @include layout.place-in-split(right, "8/13");
-    align-self: center;
-  }
 }
+
+.loc-iss {
+  @include layout.place-in-split(right, "6/8");
+  align-self: center;
+}
+
+.loc-nist {
+  @include layout.place-in-split(right, "8/13");
+  align-self: center;
+}
+
 
 /////////////////////////////////////////////////////////////
 
@@ -183,58 +184,51 @@ dl {
     filter: opacity(25%) saturate(200%);
   }
 
-  .pnipam-formula {
-    justify-self: center;
-    max-width: 12rem;
-  }
-
-  .pnipam-switch-figures {
-    // Make this a little grid so we can lay out our collage
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
-  }
-
-  .pnipam-switch-figures1,
-  .pnipam-switch-figures2 {
-
-    img {
-      height: 100%;
-      object-fit: cover;
-    }
-  }
-
-  .pnipam-switch-figures3 {
-    // Spread out the diagram to mirror the state of PNIPAM under the two photos
-    grid-column: 1/3;
-    grid-row: 2/3;
-
-    img {
-      width: 100%
-    }
-  }
-
-  .pnipam-formula {
-    @include layout.place-in-split(right, "6/8");
-  }
-
-  .pnipam-switch-figures {
-    @include layout.place-in-split(left, "8/10");
-
-    .caption {
-      text-align: left;
-    }
-  }
-
   .expert {
     @include layout.place-in-split(right, "8/9");
   }
+}
 
-  #pnipam-transition-video {
-    @include layout.place-in-split(right, "9/11");
-    align-self: end;
+.pnipam-formula {
+  @include layout.place-in-split(right, "6/8");
+  justify-self: center;
+  max-width: 12rem;
+}
+
+.pnipam-switch-figures {
+  @include layout.place-in-split(left, "8/10");
+  // Make this a little grid so we can lay out our collage
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+
+  .caption {
+    text-align: left;
   }
+}
 
+.pnipam-switch-figures1,
+.pnipam-switch-figures2 {
+
+  img {
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.pnipam-switch-figures3 {
+  // Spread out the diagram to mirror the state of PNIPAM under the two photos
+  grid-column: 1/3;
+  grid-row: 2/3;
+
+  img {
+    width: 100%
+  }
+}
+
+#pnipam-transition-video {
+  @include layout.place-in-split(right, "9/11");
+  align-self: end;
 }
 
 
@@ -242,78 +236,78 @@ dl {
 
 #surface-functionalization {
   @extend %split-hero;
-
-  // This section has subsections
-
-  #grafting-chemistry {
-    @include layout.split-txt-pics(right, 2, 42ch, 68ch);
-
-    .expert {
-      @include layout.place-in-split(right, "2/4");
-      align-self: center;
-    }
-
-    .silane-afm {
-      @include layout.place-in-split(left, "3/4");
-      @include layout.side-by-side-figures(.5rem);
-    }
-  }
-
-  #contact-angle {
-    @include layout.split-txt-pics(left, 2, 42ch, 68ch);
-
-    .functionalization-hydrophobic-hydrophilic {
-      @include layout.side-by-side-figures();
-    }
-
-    .expert {
-      @include layout.place-in-split(left, "2/5");
-      align-self: center;
-    }
-  }
-
-  #infrared-spectroscopy {
-    @include layout.split-txt-pics(right, 2, 42ch, 68ch);
-
-    .functionalization-ftir {
-      @include layout.place-in-split(right, "2/5");
-    }
-  }
-
-  .hydrophilic,
-  .hydrophobic {
-
-    overflow: hidden; // we're zomming on the images to better see the droplets, but we don't want their footprint to increase
-
-    img {
-      height: 100%;
-      object-fit: cover;
-    }
-  }
-
-  .hydrophilic img {
-    object-position: 70%;
-    transform: scale(1.5);
-  }
-
-  .hydrophobic img {
-    object-position: 25%;
-    transform: scale(1.5);
-  }
-
-  .functionalization-hydrophobic-hydrophilic {
-    @include layout.place-in-split(right, "4/5");
-  }
-
-  // adjust bottom margins
-
-  #grafting-chemistry,
-  #contact-angle,
-  #infrared-spectroscopy {
-    margin-bottom: 1rem;
-  }
-
 }
+
+// This section has subsections
+
+#grafting-chemistry {
+  @include layout.split-txt-pics(right, 2, 42ch, 68ch);
+
+  .expert {
+    @include layout.place-in-split(right, "2/4");
+    align-self: center;
+  }
+}
+
+.silane-afm {
+  @include layout.place-in-split(left, "3/4");
+  @include layout.side-by-side-figures(.5rem);
+}
+
+#contact-angle {
+  @include layout.split-txt-pics(left, 2, 42ch, 68ch);
+  .expert {
+    @include layout.place-in-split(left, "2/5");
+    align-self: center;
+  }
+}
+
+.functionalization-hydrophobic-hydrophilic {
+  @include layout.side-by-side-figures();
+}
+
+#infrared-spectroscopy {
+  @include layout.split-txt-pics(right, 2, 42ch, 68ch);
+}
+
+.functionalization-ftir {
+  @include layout.place-in-split(right, "2/5");
+}
+
+.hydrophilic,
+.hydrophobic {
+
+  overflow: hidden; // we're zomming on the images to better see the droplets, but we don't want their footprint to increase
+
+  img {
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.hydrophilic img {
+  object-position: 70%;
+  transform: scale(1.5);
+}
+
+.hydrophobic img {
+  object-position: 25%;
+  transform: scale(1.5);
+}
+
+.functionalization-hydrophobic-hydrophilic {
+  @include layout.place-in-split(right, "4/5");
+}
+
+// adjust bottom margins
+
+#grafting-chemistry,
+#contact-angle,
+#infrared-spectroscopy {
+  margin-bottom: 1rem;
+}
+
+
 
 /////////////////////////////////////////////////////////////
 
@@ -326,16 +320,14 @@ dl {
   $text-width: 68ch,
   $pics-width: 42ch,
   );
+}
 
-  .mixers-principle {
-    @include layout.place-in-split(right, "8/10");
-    align-self: center;
-  }
-
+.mixers-principle {
+  @include layout.place-in-split(right, "8/10");
+  align-self: center;
 }
 
 /////////////////////////////////////////////////////////////
-
 
 #electro-osmotic-flow {
   @extend %split-hero;
@@ -345,36 +337,35 @@ dl {
     // Increase opacity and saturation a bit since contrast of the image is low.
     filter: opacity(20%) saturate(300%);
   }
+}
 
-  #electro-osmosis {
-    @include layout.split-txt-pics(left, 2, 42ch, 68ch);
+#electro-osmosis {
+  @include layout.split-txt-pics(left, 2, 42ch, 68ch);
+}
 
-    .eof-edl {
-      @include layout.place-in-split(left, "2/5");
-    }
+.eof-edl {
+  @include layout.place-in-split(left, "2/5");
+}
+
+#controlling-the-electro-osmotic-flow-with-pnipam {
+  @include layout.split-txt-pics(right, 2, 42ch, 68ch);
+}
+
+.eof-experiment {
+  @include layout.place-in-split(right, "2/5");
+  //align-self: center;
+
+  figure img {
+    padding: .5rem;
   }
+}
 
-  #controlling-the-electro-osmotic-flow-with-pnipam {
-    @include layout.split-txt-pics(right, 2, 42ch, 68ch);
+.eof-pnipam-results {
+  @include layout.place-in-split(left, "4/5");
 
-    .eof-experiment {
-      @include layout.place-in-split(right, "2/5");
-      //align-self: center;
-
-      figure img {
-        padding: .5rem;
-      }
-    }
-
-    .eof-pnipam-results {
-      @include layout.place-in-split(left, "4/5");
-
-      figure img {
-        padding: .5rem;
-      }
-    }
+  figure img {
+    padding: .5rem;
   }
-
 }
 
 /////////////////////////////////////////////////////////////
@@ -388,24 +379,24 @@ dl {
   $text-width: 75ch,
   $pics-width: 35ch,
   );
+}
 
-  .chip-pillars {
-    @include layout.place-in-split(right, "6/11");
-    align-self: end;
-  }
+.chip-pillars {
+  @include layout.place-in-split(right, "6/11");
+  align-self: end;
+}
 
-  .chip-beads {
-    @include layout.place-in-split(right, "11/13");
-    align-self: center;
-  }
+.chip-beads {
+  @include layout.place-in-split(right, "11/13");
+  align-self: center;
+}
 
-  .chip-blender {
-    @include layout.place-in-split(left, "13/14");
-    @include layout.side-by-side-figures(.3rem);
-
-  }
+.chip-blender {
+  @include layout.place-in-split(left, "13/14");
+  @include layout.side-by-side-figures(.3rem);
 
 }
+
 
 /////////////////////////////////////////////////////////////
 
@@ -423,33 +414,31 @@ dl {
     // make this a little darker to ensure legibility despite the resistor's glow
     filter: brightness(45%);
   }
+}
 
-  .comsol-3d {
-    @include layout.place-in-split(right, "6/8");
-  }
+.comsol-3d {
+  @include layout.place-in-split(right, "6/8");
+}
 
-  .comsol-ligne-maillage {
-    @include layout.place-in-split(right, "8/12");
-    align-self: center;
+.comsol-ligne-maillage {
+  @include layout.place-in-split(right, "8/12");
+  align-self: center;
+}
 
-    .comsol-maillage {
-      max-width: 25rem;
-      margin: auto;
-    }
-  }
+.comsol-maillage {
+  max-width: 25rem;
+  margin: auto;
+}
 
-  .heat-transfer-sim {
-    @include layout.spread-in-split("12/13");
-  }
+.heat-transfer-sim {
+  @include layout.spread-in-split("12/13");
+}
 
-  .ir-camera {
-    @include layout.place-in-split(right, "13/17");
-  }
-
+.ir-camera {
+  @include layout.place-in-split(right, "13/17");
 }
 
 /////////////////////////////////////////////////////////////
-
 
 #catching-proteins {
 
@@ -460,35 +449,33 @@ dl {
   $text-width: 68ch,
   $pics-width: 42ch,
   );
+}
 
-  .catching-proteins-principle {
-    @include layout.place-in-split(right, "6/9");
-    align-self: center;
-  }
+.catching-proteins-principle {
+  @include layout.place-in-split(right, "6/9");
+  align-self: center;
+}
 
-  .catching-proteins-preconcentration {
-    @include layout.spread-in-split("9/10");
-  }
+.catching-proteins-preconcentration {
+  @include layout.spread-in-split("9/10");
+}
 
-  .catching-proteins-capillary {
-    @include layout.place-in-split(right, "10/12");
-    align-self: center;
-  }
+.catching-proteins-capillary {
+  @include layout.place-in-split(right, "10/12");
+  align-self: center;
+}
 
-  .catching-proteins-chip {
-    @include layout.place-in-split(left, "12/13");
-    @include layout.side-by-side-figures();
-  }
+.catching-proteins-chip {
+  @include layout.place-in-split(left, "12/13");
+  @include layout.side-by-side-figures();
+}
 
-  .catching-streptavidin {
-    @include layout.place-in-split(right, "12/14");
-    align-self: center;
-  }
-
+.catching-streptavidin {
+  @include layout.place-in-split(right, "12/14");
+  align-self: center;
 }
 
 /////////////////////////////////////////////////////////////
-
 
 #beyond-the-research {
   @extend %split-hero;
@@ -503,5 +490,4 @@ dl {
       grid-row: 10/13;
     }
   }
-
 }

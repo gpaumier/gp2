@@ -20,9 +20,6 @@
 
 #technical-abstract {
   @extend %graph-paper;
-}
-
-#technical-abstract {
   padding: 1.5rem calc(1.5rem + 2vw);
   border: 2px dotted #0B0;
   margin-bottom: 3rem;
@@ -49,18 +46,19 @@
   $pics-width: 50ch,
   $text-width: 65ch,
   );
-
-  .biochip {
-    @include layout.place-in-split(left, "2/4");
-    align-self: center;
-  }
-
-  .spotter {
-    @include layout.place-in-split(left, "4/7");
-    align-self: center;
-  }
-
 }
+
+.biochip {
+  @include layout.place-in-split(left, "2/4");
+  align-self: center;
+}
+
+.spotter {
+  @include layout.place-in-split(left, "4/7");
+  align-self: center;
+}
+
+/////////////////////////////////////////////////////////////
 
 #fluorescence-in-biochips {
   @include layout.split-txt-pics(
@@ -69,37 +67,39 @@
   $pics-width: 55ch,
   $text-width: 65ch,
   );
+}
 
-  .fluorescence-diagrams {
-    @include layout.place-in-split(right, "2/5");
+.fluorescence-diagrams {
+  @include layout.place-in-split(right, "2/5");
+  img {
+    width: 100%;
+    max-width: 18rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+}
+
+.fluorescence-palette {
+  @include layout.place-in-split(left, "4/5");
+  @include layout.side-by-side-figures(0);
+
+  .palette {
+    grid-column: 1/3;
+    grid-row: 2/3;
     img {
       width: 100%;
-      max-width: 18rem;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
+      max-height: 1.5rem;
     }
-
   }
 
-  .fluorescence-palette {
-    @include layout.place-in-split(left, "4/5");
-    @include layout.side-by-side-figures(0);
-
-    .palette {
-      grid-column: 1/3;
-      grid-row: 2/3;
-      img {
-        width: 100%;
-        max-height: 1.5rem;
-      }
-    }
-
-    p.caption {
-      grid-row: 3/4;
-    }
+  p.caption {
+    grid-row: 3/4;
   }
 }
+
+/////////////////////////////////////////////////////////////
 
 #surface-functionalization {
   @include layout.split-txt-pics(
@@ -108,30 +108,32 @@
   $pics-width: 35ch,
   $text-width: 65ch,
   );
-
-  .silane {
-    @include layout.place-in-split(right, "1/4");
-    align-self: center;
-  }
-
-  .cea2-protocol {
-    //@include layout.place-in-split(left, "4/5");
-    @include layout.spread-in-split("4/5");
-    margin-bottom: 2rem;
-    justify-self: center;
-
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-end;
-
-  }
-
-  .reactor {
-    @include layout.place-in-split(right, "5/8");
-  }
 }
+
+.silane {
+  @include layout.place-in-split(right, "1/4");
+  align-self: center;
+}
+
+.cea2-protocol {
+  //@include layout.place-in-split(left, "4/5");
+  @include layout.spread-in-split("4/5");
+  margin-bottom: 2rem;
+  justify-self: center;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-end;
+
+}
+
+.reactor {
+  @include layout.place-in-split(right, "5/8");
+}
+
+/////////////////////////////////////////////////////////////
 
 #antibody-microarray-on-cea-2-protocol{
   @extend %split-hero;
@@ -246,19 +248,21 @@
   $pics-width: 50ch,
   $text-width: 50ch,
   );
+}
 
-  .reaction-kinetics-diagram {
-    @media screen and (min-width: 100ch) {
-      justify-self: center;
-      max-width: 40ch;
-    }
-  }
-
-  .reaction-kinetics-chart {
-    @include layout.place-in-split(right, "3/5");
-    align-self: center;
+.reaction-kinetics-diagram {
+  @media screen and (min-width: 100ch) {
+    justify-self: center;
+    max-width: 40ch;
   }
 }
+
+.reaction-kinetics-chart {
+  @include layout.place-in-split(right, "3/5");
+  align-self: center;
+}
+
+/////////////////////////////////////////////////////////////
 
 #photothermal-deflection-spectroscopy {
   @include layout.split-txt-pics(
@@ -268,15 +272,17 @@
   $text-width: 60ch,
   );
 
-  .apparatus-jackson {
-    align-self: center;
-  }
-
   .figures {
     @include layout.place-in-split(left, "4/7");
     align-self: center;
   }
 }
+
+.apparatus-jackson {
+  align-self: center;
+}
+
+/////////////////////////////////////////////////////////////
 
 #neutron-reflectometry {
   @include layout.split-txt-pics(
@@ -285,16 +291,6 @@
   $pics-width: 40ch,
   $text-width: 60ch,
   );
-
-  .ill-reactor {
-    @include layout.place-in-split(right, "2/4");
-    align-self: center;
-  }
-
-  .d17-diagram {
-    @include layout.place-in-split(right, "4/7");
-    align-self: center;
-  }
 
   table {
     @include layout.spread-in-split("8/9");
@@ -308,114 +304,130 @@
     }
   }
 }
+
+.ill-reactor {
+  @include layout.place-in-split(right, "2/4");
+  align-self: center;
+}
+
+.d17-diagram {
+  @include layout.place-in-split(right, "4/7");
+  align-self: center;
+}
+
+
 /////////////////////////////////////////////////////////////
 
 #vapor-phase-silanization-for-proteomics {
   @extend %split-hero;
+}
 
-  #adapting-the-protocol {
-    @include layout.split-txt-pics(
-    $image-side: right,
-    $image-row-span: 3,
-    $pics-width: 40ch,
-    $text-width: 65ch,
-    );
+#adapting-the-protocol {
+  @include layout.split-txt-pics(
+  $image-side: right,
+  $image-row-span: 3,
+  $pics-width: 40ch,
+  $text-width: 65ch,
+  );
+}
 
-    .vapor-phase-diagram {
-      img {
-        max-width: 10rem;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-      }
-
-      align-self: center;
-    }
+.vapor-phase-diagram {
+  img {
+    max-width: 10rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
-  #contact-angle-measurement {
-    @include layout.split-txt-pics(
-    $image-side: left,
-    $image-row-span: 3,
-    $pics-width: 40ch,
-    $text-width: 50ch,
-    );
+  align-self: center;
+}
 
-    .contact-angle-principle {
-      align-self: center;
-    }
+/////////////////////////////////////////////////////////////
 
-    .vapor-contact-angle-results {
-      @include layout.place-in-split(left, "4/5");
-      align-self: center;
-    }
+#contact-angle-measurement {
+  @include layout.split-txt-pics(
+  $image-side: left,
+  $image-row-span: 3,
+  $pics-width: 40ch,
+  $text-width: 50ch,
+  );
+}
+
+.contact-angle-principle {
+  align-self: center;
+}
+
+.vapor-contact-angle-results {
+  @include layout.place-in-split(left, "4/5");
+  align-self: center;
+}
+
+/////////////////////////////////////////////////////////////
+
+#atomic-force-microscopy {
+
+  grid-column: 2/5;
+  max-width: 70ch;
+  justify-self: center;
+
+  .figures {
+    @include layout.side-by-side-figures(0, 3);
   }
+}
 
-  #atomic-force-microscopy {
+#antibody-microarray-on-vapor-phase-silane {
+  @include layout.split-txt-pics(
+  $image-side: right,
+  $image-row-span: 3,
+  $pics-width: 32ch,
+  $text-width: 75ch,
+  );
 
-    grid-column: 2/5;
-    max-width: 70ch;
-    justify-self: center;
-
-    .figures {
-      @include layout.side-by-side-figures(0, 3);
-    }
-  }
-
-  #antibody-microarray-on-vapor-phase-silane {
-    @include layout.split-txt-pics(
-    $image-side: right,
-    $image-row-span: 3,
-    $pics-width: 32ch,
-    $text-width: 75ch,
-    );
-
-    .figures {
-      align-self: center;
-    }
-
+  .figures {
+    align-self: center;
   }
 
 }
 
+/////////////////////////////////////////////////////////////
+
 #peptidic-digestion-mass-spectrometry {
   @extend %split-hero;
+}
 
-  #biochiplab {
-    @include layout.split-txt-pics(
-    $image-side: right,
-    $image-row-span: 3,
-    $pics-width: 32ch,
-    $text-width: 68ch,
-    );
+#biochiplab {
+  @include layout.split-txt-pics(
+  $image-side: right,
+  $image-row-span: 3,
+  $pics-width: 32ch,
+  $text-width: 68ch,
+  );
 
-    figure {
-      @include layout.place-in-split(right, "3/5");
-      align-self: center;
-    }
-
+  figure {
+    @include layout.place-in-split(right, "3/5");
+    align-self: center;
   }
 
-  #fluorescence-microscopy {
-    @include layout.split-txt-pics(
-    $image-side: left,
-    $image-row-span: 4,
-    $pics-width: 32ch,
-    $text-width: 68ch,
-    );
+}
+
+#fluorescence-microscopy {
+  @include layout.split-txt-pics(
+  $image-side: left,
+  $image-row-span: 4,
+  $pics-width: 32ch,
+  $text-width: 68ch,
+  );
+}
+
+#mass-spectrometry {
+  @include layout.split-txt-pics(
+  $image-side: right,
+  $image-row-span: 4,
+  $pics-width: 60ch,
+  $text-width: 40ch,
+  );
+
+  figure {
+    align-self: center;
   }
-
-  #mass-spectrometry {
-    @include layout.split-txt-pics(
-    $image-side: right,
-    $image-row-span: 4,
-    $pics-width: 60ch,
-    $text-width: 40ch,
-    );
-
-    figure {
-      align-self: center;
-    }
-  }
-
 }

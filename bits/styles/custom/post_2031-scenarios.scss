@@ -98,17 +98,18 @@ header {
   $text-width: 68ch,
   $pics-width: 42ch,
   );
-
-  .scenario-cards {
-    @include layout.place-in-split(right, "6/9");
-    align-self: center;
-  }
-
-  #blackswan {
-    @include layout.place-in-split(right, "9/11");
-    align-self: center;
-  }
 }
+
+.scenario-cards {
+  @include layout.place-in-split(right, "6/9");
+  align-self: center;
+}
+
+#blackswan {
+  @include layout.place-in-split(right, "9/11");
+  align-self: center;
+}
+
 
 .fig-the-war-of-the-words img {
   object-position: 60% 50%;
