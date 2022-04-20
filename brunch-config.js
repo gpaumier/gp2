@@ -8,7 +8,11 @@ module.exports = {
       }
     },
     stylesheets: {
-      joinTo: 'phenix.css'
+      joinTo: {
+        'phenix.css': 'bits/styles/*.scss',
+        'styles/page_biochips.css': 'bits/styles/custom/page_biochips.scss',
+        'styles/page_wikimedia2030.css': 'bits/styles/custom/page_wikimedia2030.scss'
+      }
     }
   },
   paths: {
