@@ -1,4 +1,7 @@
-@mixin spotting-pattern() {
+@use '../modules/decoration';
+@use '../modules/layout';
+
+%spotting-pattern {
   p,
   ul, {
     font-size: .7rem;
@@ -18,7 +21,7 @@ article.custom-biochips {
   /////////////////////////////////////////////////////////////
 
   #technical-abstract {
-    @include graph-paper;
+    @extend %graph-paper;
   }
 
   #technical-abstract {
@@ -34,7 +37,7 @@ article.custom-biochips {
   /////////////////////////////////////////////////////////////
 
   #biochips-and-microarrays{
-    @include split-layout-hero(
+    @include layout.split-hero(
       $background: dark,
       $left-width: 65ch,
       $right-width: 65ch
@@ -47,26 +50,26 @@ article.custom-biochips {
   }
 
   #mass-parallel-testing {
-    @include split-layout-txt-pics(
+    @include layout.split-txt-pics(
       $image-side: left,
       $pics-width: 50ch,
       $text-width: 65ch,
     );
 
     .biochip {
-      @include place-split-layout-element(left, "2/4");
+      @include layout.place-in-split(left, "2/4");
       align-self: center;
     }
 
     .spotter {
-      @include place-split-layout-element(left, "4/7");
+      @include layout.place-in-split(left, "4/7");
       align-self: center;
     }
 
   }
 
   #fluorescence-in-biochips {
-    @include split-layout-txt-pics(
+    @include layout.split-txt-pics(
       $image-side: right,
       $image-row-span: 2,
       $pics-width: 55ch,
@@ -74,7 +77,7 @@ article.custom-biochips {
     );
 
     .fluorescence-diagrams {
-      @include place-split-layout-element(right, "2/5");
+      @include layout.place-in-split(right, "2/5");
       img {
         width: 100%;
         max-width: 18rem;
@@ -86,8 +89,8 @@ article.custom-biochips {
     }
 
     .fluorescence-palette {
-      @include place-split-layout-element(left, "4/5");
-      @include side-by-side-figures(0);
+      @include layout.place-in-split(left, "4/5");
+      @include layout.side-by-side-figures(0);
 
       .palette {
         grid-column: 1/3;
@@ -105,7 +108,7 @@ article.custom-biochips {
   }
 
   #surface-functionalization {
-    @include split-layout-txt-pics(
+    @include layout.split-txt-pics(
       $image-side: right,
       $image-row-span: 2,
       $pics-width: 35ch,
@@ -113,13 +116,13 @@ article.custom-biochips {
     );
 
     .silane {
-      @include place-split-layout-element(right, "1/4");
+      @include layout.place-in-split(right, "1/4");
       align-self: center;
     }
 
     .cea2-protocol {
-      //@include place-split-layout-element(left, "4/5");
-      @include spread-split-layout-element("4/5");
+      //@include layout.place-in-split(left, "4/5");
+      @include layout.spread-in-split("4/5");
       margin-bottom: 2rem;
       justify-self: center;
 
@@ -132,12 +135,12 @@ article.custom-biochips {
     }
 
     .reactor {
-      @include place-split-layout-element(right, "5/8");
+      @include layout.place-in-split(right, "5/8");
     }
   }
 
   #antibody-microarray-on-cea-2-protocol{
-    @include split-layout-hero(
+    @include layout.split-hero(
       $background: dark,
       $left-width: 65ch,
       $right-width: 65ch
@@ -150,7 +153,7 @@ article.custom-biochips {
   }
 
   #substance-p {
-    @include split-layout-txt-pics(
+    @include layout.split-txt-pics(
       $image-side: right,
       $image-row-span: 2,
       $pics-width: 50ch,
@@ -158,7 +161,7 @@ article.custom-biochips {
     );
 
   .footnote {
-      @include place-split-layout-element(right, "3/4");
+      @include layout.place-in-split(right, "3/4");
       align-self: center;
     }
   }
@@ -226,19 +229,19 @@ article.custom-biochips {
     }
 
     .spotting-pattern {
-      @include spotting-pattern();
+      @extend %spotting-pattern;
     }
 
   }
 
   .spotting-pattern {
-    @include spotting-pattern();
+    @extend %spotting-pattern;
   }
 
   /////////////////////////////////////////////////////////////
 
   #alternative-detection-methods {
-    @include split-layout-hero(
+    @include layout.split-hero(
       $background: dark,
       $left-width: 65ch,
       $right-width: 65ch
@@ -251,7 +254,7 @@ article.custom-biochips {
   }
 
   #reaction-kinetics {
-    @include split-layout-txt-pics(
+    @include layout.split-txt-pics(
       $image-side: right,
       $image-row-span: 2,
       $pics-width: 50ch,
@@ -266,13 +269,13 @@ article.custom-biochips {
     }
 
     .reaction-kinetics-chart {
-      @include place-split-layout-element(right, "3/5");
+      @include layout.place-in-split(right, "3/5");
       align-self: center;
     }
   }
 
   #photothermal-deflection-spectroscopy {
-    @include split-layout-txt-pics(
+    @include layout.split-txt-pics(
       $image-side: left,
       $image-row-span: 3,
       $pics-width: 40ch,
@@ -284,13 +287,13 @@ article.custom-biochips {
     }
 
     .figures {
-      @include place-split-layout-element(left, "4/7");
+      @include layout.place-in-split(left, "4/7");
       align-self: center;
     }
   }
 
   #neutron-reflectometry {
-    @include split-layout-txt-pics(
+    @include layout.split-txt-pics(
       $image-side: right,
       $image-row-span: 3,
       $pics-width: 40ch,
@@ -298,17 +301,17 @@ article.custom-biochips {
     );
 
     .ill-reactor {
-      @include place-split-layout-element(right, "2/4");
+      @include layout.place-in-split(right, "2/4");
       align-self: center;
     }
 
     .d17-diagram {
-      @include place-split-layout-element(right, "4/7");
+      @include layout.place-in-split(right, "4/7");
       align-self: center;
     }
 
     table {
-      @include spread-split-layout-element("8/9");
+      @include layout.spread-in-split("8/9");
 
        th, td {
          text-align: center;
@@ -322,14 +325,14 @@ article.custom-biochips {
   /////////////////////////////////////////////////////////////
 
   #vapor-phase-silanization-for-proteomics {
-    @include split-layout-hero(
+    @include layout.split-hero(
       $background: dark,
       $left-width: 65ch,
       $right-width: 65ch
     );
 
     #adapting-the-protocol {
-      @include split-layout-txt-pics(
+      @include layout.split-txt-pics(
         $image-side: right,
         $image-row-span: 3,
         $pics-width: 40ch,
@@ -349,7 +352,7 @@ article.custom-biochips {
     }
 
     #contact-angle-measurement {
-      @include split-layout-txt-pics(
+      @include layout.split-txt-pics(
         $image-side: left,
         $image-row-span: 3,
         $pics-width: 40ch,
@@ -361,7 +364,7 @@ article.custom-biochips {
       }
 
       .vapor-contact-angle-results {
-        @include place-split-layout-element(left, "4/5");
+        @include layout.place-in-split(left, "4/5");
         align-self: center;
       }
     }
@@ -373,12 +376,12 @@ article.custom-biochips {
       justify-self: center;
 
       .figures {
-        @include side-by-side-figures(0, 3);
+        @include layout.side-by-side-figures(0, 3);
       }
     }
 
     #antibody-microarray-on-vapor-phase-silane {
-      @include split-layout-txt-pics(
+      @include layout.split-txt-pics(
         $image-side: right,
         $image-row-span: 3,
         $pics-width: 32ch,
@@ -394,14 +397,14 @@ article.custom-biochips {
   }
 
   #peptidic-digestion-mass-spectrometry {
-    @include split-layout-hero(
+    @include layout.split-hero(
       $background: dark,
       $left-width: 65ch,
       $right-width: 65ch
     );
 
     #biochiplab {
-      @include split-layout-txt-pics(
+      @include layout.split-txt-pics(
         $image-side: right,
         $image-row-span: 3,
         $pics-width: 32ch,
@@ -409,14 +412,14 @@ article.custom-biochips {
       );
 
       figure {
-        @include place-split-layout-element(right, "3/5");
+        @include layout.place-in-split(right, "3/5");
         align-self: center;
       }
 
     }
 
     #fluorescence-microscopy {
-      @include split-layout-txt-pics(
+      @include layout.split-txt-pics(
         $image-side: left,
         $image-row-span: 4,
         $pics-width: 32ch,
@@ -425,7 +428,7 @@ article.custom-biochips {
     }
 
     #mass-spectrometry {
-      @include split-layout-txt-pics(
+      @include layout.split-txt-pics(
         $image-side: right,
         $image-row-span: 4,
         $pics-width: 60ch,

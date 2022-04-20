@@ -1,14 +1,13 @@
+@use '../settings' as *;
+@use '../modules/typography';
+
 // Mixins
 
-@mixin default-layout($width: 65ch) {
+@mixin default($width: 65ch) {
 
   display: grid;
   grid-template-columns: minmax(.5rem, 1fr) minmax(min-content, $width) minmax(.5rem, 1fr);
   margin-bottom: 3rem;
-
-  // &:last-child {
-  //   margin-bottom: 0;
-  // }
 
   figure {
     grid-column: 1 / 4;
@@ -40,7 +39,7 @@
 
 //////////////////////////////////////////////////
 
-@mixin split-layout($left-width: 65ch, $right-width: 65ch) {
+@mixin split($left-width: 65ch, $right-width: 65ch) {
 
   display: grid;
   grid-template-columns:
@@ -216,14 +215,14 @@
 
 //////////////////////////////////////////////////
 
-@mixin split-layout-txt-pics($image-side: right, $image-row-span: 2, $pics-width: 65ch, $text-width: 65ch) {
+@mixin split-txt-pics($image-side: right, $image-row-span: 2, $pics-width: 65ch, $text-width: 65ch) {
 
   // A split layout with text in one column and images in the other
 
   @if $image-side == "left" {
-    @include split-layout($pics-width, $text-width)
+    @include split($pics-width, $text-width)
   } @else {
-    @include split-layout($text-width, $pics-width)
+    @include split($text-width, $pics-width)
   };
 
   @include txt-pics-columns-in-split($image-side, $image-row-span);
@@ -233,29 +232,29 @@
 //////////////////////////////////////////////////
 
 
-@mixin split-layout-hero($background: dark, $left-width: 65ch, $right-width: 65ch) {
+@mixin split-hero($background: dark, $left-width: 65ch, $right-width: 65ch) {
 
   // Like split-layout but with a graphic spread first for h2 title and one-liner <p>.
 
-  @include split-layout($left-width, $right-width);
+  @include split($left-width, $right-width);
   @include hero-in-split($background);
 
   > * {
-    @include spread-split-layout-element();
+    @include spread-in-split();
   }
 }
 
 //////////////////////////////////////////////////
 
 
-@mixin split-layout-txt-pics-hero($image-side: right, $image-row-span:4, $background: dark, $text-width: 65ch, $pics-width: 65ch) {
+@mixin split-txt-pics-hero($image-side: right, $image-row-span:4, $background: dark, $text-width: 65ch, $pics-width: 65ch) {
 
   // A split-layout with both a hero section-title and text/pics columns
 
   @if $image-side == "left" {
-    @include split-layout($pics-width, $text-width)
+    @include split($pics-width, $text-width)
   } @else {
-    @include split-layout($text-width, $pics-width)
+    @include split($text-width, $pics-width)
   };
 
   @include hero-in-split($background);
@@ -266,11 +265,11 @@
 //////////////////////////////////////////////////
 
 
-@mixin split-layout-cover($image-side, $image-row-span, $image-position) {
+@mixin split-cover($image-side, $image-row-span, $image-position) {
 
   // Like split-layout but here the image has an object-fit: cover
 
-  @include split-layout-txt-pics(
+  @include split-txt-pics(
     $image-side,
     $image-row-span,
     $pics-width: 65ch,
@@ -306,7 +305,7 @@
 // Mixins to place elements in a split layout
 
 
-@mixin place-split-layout-element($side, $grid-row: "auto") {
+@mixin place-in-split($side, $grid-row: "auto") {
 
   // A utility to place split-layout figures in their proper row and columns if the built-in rules aren't enough.
 
@@ -324,7 +323,7 @@
 }
 
 
-@mixin spread-split-layout-element($grid-row: auto) {
+@mixin spread-in-split($grid-row: auto) {
 
   // A utility to spread split-layout figures across both columns of a split layout.
 
@@ -364,7 +363,7 @@
 
     .post-image {
         width: 100%;
-        max-width: map-get($breakpoints, 'large');
+        max-width: $breakpoint-large;
         margin: auto;
         display:block;
     }
@@ -403,11 +402,11 @@
 
     }
 
-    @include breakpoint(small only) {
-        figure, {
-            margin-left: -.5em;
-            margin-right: -.5em;
-        }
+    @media screen and (max-width: $breakpoint-medium) {
+      figure, {
+          margin-left: -.5em;
+          margin-right: -.5em;
+      }
     }
 }
 
@@ -420,30 +419,6 @@ header {
   margin: auto;
   padding-left: .5rem;
   padding-right: .5rem;
-}
-
-.page {
-
-  // .entry-content {
-  //   max-width: 65ch;
-  //   margin: auto;
-  // }
-
-  // .entry-content p {
-  //     max-width: 65ch;
-  //     margin-left: auto;
-  //     margin-right: auto;
-  // }
-  //
-  // .sidebar {
-  //   max-width: 50vw;
-  //   float: right;
-  //   margin: 2rem;
-  // }
-  //
-  // .section {
-  //   clear: both;
-  // }
 }
 
 
@@ -464,17 +439,6 @@ svg {
     // TODO: avoid cropping; https://css-tricks.com/scale-svg/
 }
 
-// Project cards
-
-// Icon toolbar
-// Alternative: https://foundation.zurb.com/building-blocks/blocks/sticky-footer-css.html
-
-// #icon_navbar {
-//      position: fixed;
-//      bottom: 0;
-//      width: 100%;
-// }
-
 // Footnotes
 
 .footnote {
@@ -488,67 +452,5 @@ svg {
 
   > p {
     grid-column: 2/3;
-  }
-}
-
-// Honeycomb grid
-// Hexagon geometry: "Hexagon vertex grid" from https://anthologen.com/2020/10/23/modelling-armchair-carbon-nanotubes/
-// Hexagon clip-path: https://www.cssportal.com/css-clip-path-generator/
-
-@mixin make-hexagon() {
-  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-}
-
-@mixin honeycomb($honeycomb-half-columns: 6, $honeycomb-rows: 3, $hexagon-unit: 5rem,  $honeycomb-hgutter: 0.15rem, $honeycomb-vgutter: 0.1rem) {
-
-  // A utility to create honeycomb grids.
-
-  display: grid;
-  grid-template-columns: repeat($honeycomb-half-columns, ($hexagon-unit * math.sqrt(3) / 2) $honeycomb-vgutter ) ;
-  grid-template-rows: repeat($honeycomb-rows, ($hexagon-unit / 2) $hexagon-unit $honeycomb-hgutter) ($hexagon-unit / 2);
-
-  img {
-    @include make-hexagon();
-    height: $hexagon-unit * 2;
-    width: $hexagon-unit * math.sqrt(3);
-    object-fit: cover;
-  }
-
-}
-
-@mixin honeycomb-place-image($honeycomb-start-at-half-column: 1, $honeycomb-row: 1) {
-
-  // A utility to place images on a honeycomb grid.
-
-  // when we place the images with the mixing, we only count "main" half-columns,
-  // but internally we have to take into account the gutter columns as well:
-
-  $honeycomb-actual-column-start: 2 * $honeycomb-start-at-half-column - 1;
-
-  // same for rows:
-  $honeycomb-actual-row-start: 3 * $honeycomb-row - 2;
-
-  grid-column: #{$honeycomb-actual-column-start} / #{$honeycomb-actual-column-start + 3};
-  grid-row: #{$honeycomb-actual-row-start} / #{$honeycomb-actual-row-start + 4};
-}
-
-@mixin honeycomb-place-set($placement-data, $class-prefix) {
-
-  // A utility to place a set of images in a honeycomb;
-
-  // $placement-data is a list of lists
-  // pic  half-column  row  x-position
-
-  @each $pic, $honeycomb-half-column, $honeycomb-row, $x-position in $placement-data {
-    .#{$class-prefix}#{$pic} {
-      @include honeycomb-place-image($honeycomb-half-column, $honeycomb-row);
-      @if $x-position {
-        img {
-          // Most images are in landscape format so we only care about adjusting the x position;
-          // we can adjust this later if needed.
-          object-position: $x-position 50%;
-        }
-      }
-    }
   }
 }

@@ -1,0 +1,63 @@
+@use 'sass:math';
+
+// Honeycomb grid
+// Hexagon geometry: "Hexagon vertex grid" from https://anthologen.com/2020/10/23/modelling-armchair-carbon-nanotubes/
+// Hexagon clip-path: https://www.cssportal.com/css-clip-path-generator/
+
+%become-hexagon {
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+@mixin create($honeycomb-half-columns: 6, $honeycomb-rows: 3, $hexagon-unit: 5rem,  $honeycomb-hgutter: 0.15rem, $honeycomb-vgutter: 0.1rem) {
+
+  // A utility to create honeycomb grids.
+
+  display: grid;
+  grid-template-columns: repeat($honeycomb-half-columns, ($hexagon-unit * math.sqrt(3) / 2) $honeycomb-vgutter ) ;
+  grid-template-rows: repeat($honeycomb-rows, ($hexagon-unit / 2) $hexagon-unit $honeycomb-hgutter) ($hexagon-unit / 2);
+
+  img {
+    @extend %become-hexagon;
+    height: $hexagon-unit * 2;
+    width: $hexagon-unit * math.sqrt(3);
+    object-fit: cover;
+  }
+
+}
+
+@mixin place-image($honeycomb-start-at-half-column: 1, $honeycomb-row: 1) {
+
+  // A utility to place images on a honeycomb grid.
+
+  // when we place the images with the mixing, we only count "main" half-columns,
+  // but internally we have to take into account the gutter columns as well:
+
+  $honeycomb-actual-column-start: 2 * $honeycomb-start-at-half-column - 1;
+
+  // same for rows:
+  $honeycomb-actual-row-start: 3 * $honeycomb-row - 2;
+
+  grid-column: #{$honeycomb-actual-column-start} / #{$honeycomb-actual-column-start + 3};
+  grid-row: #{$honeycomb-actual-row-start} / #{$honeycomb-actual-row-start + 4};
+}
+
+@mixin place-set($placement-data, $class-prefix) {
+
+  // A utility to place a set of images in a honeycomb;
+
+  // $placement-data is a list of lists
+  // pic  half-column  row  x-position
+
+  @each $pic, $honeycomb-half-column, $honeycomb-row, $x-position in $placement-data {
+    .#{$class-prefix}#{$pic} {
+      @include place-image($honeycomb-half-column, $honeycomb-row);
+      @if $x-position {
+        img {
+          // Most images are in landscape format so we only care about adjusting the x position;
+          // we can adjust this later if needed.
+          object-position: $x-position 50%;
+        }
+      }
+    }
+  }
+}

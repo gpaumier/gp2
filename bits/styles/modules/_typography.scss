@@ -1,79 +1,82 @@
+@use '../settings' as *;
+@use 'fonts';
+
 /**
- * Fumseck Serif
+ * phenix Serif
  */
 
-%fumseck-serif {
-    font-family: $fumseck-serif;
+%phenix-serif {
+    font-family: fonts.$phenix-serif;
 }
 
-%fumseck-serif-bold {
+%phenix-serif-bold {
     font-family: 'Linux Libertine Regular Bold', 'Baskerville', 'Georgia', serif;
     font-weight: bold;
 }
 
-%fumseck-serif-italic {
+%phenix-serif-italic {
     font-family: 'Linux Libertine Regular Italic', 'Baskerville', 'Georgia', serif;
     font-style: italic;
 }
 
-%fumseck-serif-bolditalic {
+%phenix-serif-bolditalic {
     font-family: 'Linux Libertine Regular Bold Italic', 'Baskerville', 'Georgia', serif;
     font-weight: bold;
     font-style: italic;
 }
 
-%fumseck-serif-display {
+%phenix-serif-display {
     font-family: 'Linux Libertine Display Regular', 'Baskerville', 'Georgia', serif;
 }
 
-%fumseck-serif-semibold {
+%phenix-serif-semibold {
     font-family: 'Linux Libertine Semibold', 'Baskerville', 'Georgia', serif;
     //font-weight: 600;
 }
 
-%fumseck-serif-semibold-italic {
+%phenix-serif-semibold-italic {
     font-family: 'Linux Libertine Semibold Italic', 'Baskerville', 'Georgia', serif;
     font-weight: 600;
     font-style: italic;
 }
 
 /**
- * Fumseck Sans
+ * phenix Sans
  */
 
-%fumseck-sans {
-    font-family: $fumseck-sans;
+%phenix-sans {
+    font-family: fonts.$phenix-sans;
 }
 
-%fumseck-sans-bold {
+%phenix-sans-bold {
     font-family: 'Linux Biolinum Regular Bold', 'Futura', 'Verdana', sans-serif;
     font-weight: bold;
 }
 
-%fumseck-sans-italic {
+%phenix-sans-italic {
     font-family: 'Linux Biolinum Regular Italic', 'Futura', 'Verdana', sans-serif;
     font-style: italic;
 }
 
 /**
- * Fumseck Monospace
+ * phenix Monospace
  */
 
-%fumseck-monospace {
-    font-family: $fumseck-monospace;
+%phenix-monospace {
+    font-family: fonts.$phenix-monospace;
 }
 
-%fumseck-monospace-italic {
+%phenix-monospace-italic {
     font-family: 'Latin Modern Monospace Italic', 'Courier', monospace;
     font-style: italic;
 }
 
-%fumseck-monospace-bold {
+%phenix-monospace-bold {
     font-family: 'Latin Modern Monospace Light Bold', 'Courier', monospace;
     font-weight: bold;
 }
 
-%fumseck-monospace-bolditalic {
+%phenix-monospace-bolditalic {
     font-family: 'Latin Modern Monospace Light Bold Oblique', 'Courier', monospace;
     font-weight: bold;
     font-style: italic;
@@ -85,59 +88,59 @@
  */
 
 body {
-    @extend %fumseck-serif;
+    @extend %phenix-serif;
 }
 
 h1 {
-    @extend %fumseck-serif-bold;
+    @extend %phenix-serif-bold;
 }
 
 h2, h3, h4 {
-    @extend %fumseck-sans-bold;
+    @extend %phenix-sans-bold;
 
     em {
-        @extend %fumseck-sans-italic;
+        @extend %phenix-sans-italic;
     }
 }
 
 strong {
-    @extend %fumseck-serif-bold;
+    @extend %phenix-serif-bold;
 }
 
 em {
-    @extend %fumseck-serif-italic;
+    @extend %phenix-serif-italic;
     }
 
 em strong, strong em {
-    @extend %fumseck-serif-bolditalic;
+    @extend %phenix-serif-bolditalic;
 }
 
 pre {
-    @extend %fumseck-monospace;
+    @extend %phenix-monospace;
 
     strong {
-        @extend %fumseck-monospace-bold;
+        @extend %phenix-monospace-bold;
     }
 
     em {
-        @extend %fumseck-monospace-italic;
+        @extend %phenix-monospace-italic;
     }
 
     em strong, strong em {
-        @extend %fumseck-monospace-bolditalic;
+        @extend %phenix-monospace-bolditalic;
     }
 }
 
 .expert {
 
-  @extend %fumseck-sans;
+  @extend %phenix-sans;
 
   strong {
-      @extend %fumseck-sans-bold;
+      @extend %phenix-sans-bold;
   }
 
   em {
-      @extend %fumseck-sans-italic;
+      @extend %phenix-sans-italic;
   }
 
   font-size: .9rem;
@@ -149,27 +152,27 @@ pre {
 }
 
 blockquote {
-    @extend %fumseck-serif-italic;
+    @extend %phenix-serif-italic;
 }
 
 figcaption,
 .caption,
 .legend,
 .sidebar {
-    @extend %fumseck-sans;
-    font-size: $small-font-size;
+    @extend %phenix-sans;
+    font-size: .8rem;
 
     em {
-        @extend %fumseck-sans-italic;
+        @extend %phenix-sans-italic;
     }
 
     strong {
-        @extend %fumseck-sans-bold;
+        @extend %phenix-sans-bold;
     }
 }
 
 .legend, .sidebar {
-    font-size: $small-font-size;
+    font-size: .8rem;
 }
 
 figcaption, .caption {
@@ -180,7 +183,7 @@ figcaption, .caption {
         color: #6a6a6a;
 
       &:hover {
-        color: map-get($foundation-palette, "primary");
+        color: $primary-color;
       }
     }
 }
@@ -189,8 +192,6 @@ figcaption, .caption {
 a {
     text-decoration-line: underline;
     text-decoration-style: solid;
-    //text-decoration-color: map-get($foundation-palette, "primary");
-    //text-decoration-color: transparentize(map-get($foundation-palette, "primary"), 0.7);
     color: $body-font-color;
 
     &.privacy-policy {
@@ -219,20 +220,20 @@ h2 {
 }
 
 .highlights {
-    @extend %fumseck-serif;
+    @extend %phenix-serif;
     font-style: normal;
     font-size: 120%;
     padding: 0;
     border: none;
 
     em {
-        @extend %fumseck-serif-italic;
+        @extend %phenix-serif-italic;
         font-style: italic;
     }
 }
 
 p.continue-reading {
-  @extend %fumseck-sans-bold;
+  @extend %phenix-sans-bold;
   text-align: right;
   margin-top: .5rem;
 
@@ -266,9 +267,9 @@ section:last-child, p:last-child {
 // Footer
 
 body > footer {
-  @extend %fumseck-sans;
+  @extend %phenix-sans;
 
   button {
-      @extend %fumseck-sans-bold;
+      @extend %phenix-sans-bold;
   }
 }

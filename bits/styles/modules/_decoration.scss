@@ -4,13 +4,12 @@
   margin-bottom: .5rem;
 
   &> img {
-      border: 1px solid $dark-gray;
+      border: 1px solid #A9A9A9;
       margin-bottom: 0;
   }
 }
 
-@mixin graph-paper () {
-
+%graph-paper {
   // most for use in .expert below, but also in a few other places (like the technical abstract and the citations on the Ph.D page) so let's make it reusable.
 
   background: url(Graph_paper_inch_green_pattern.svg);
@@ -19,15 +18,11 @@
   color: #050;
   margin-bottom: 1.5rem;
 }
+
 .expert {
-  @include graph-paper;
+  @extend %graph-paper;
 }
 
-@include breakpoint(medium) {
-    img {
-        //border-radius: 4px;
-    }
-}
 
 // Previously for:
 // .article-list-featured hr, .project-list-featured hr

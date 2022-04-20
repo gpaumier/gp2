@@ -1,6 +1,8 @@
+@use '../modules/layout';
+
 article.page-default {
 
-  @include default-layout();
+  @include layout.default();
 
   header, .entry-content {
     grid-column: 2/3;
