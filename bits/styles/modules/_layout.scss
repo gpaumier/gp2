@@ -107,63 +107,14 @@
 @mixin split($left-width: 65ch, $right-width: 65ch) {
 
   // same as above but with customizable widths
+  @extend %split;
 
-  display: grid;
   grid-template-columns:
     minmax(.5rem, 1fr)
     minmax(min-content, $left-width)
     1.5rem
     minmax(min-content, $right-width)
     minmax(.5rem, 1fr);
-  margin-bottom: 3rem;
-
-  &:last-child {
-    margin-bottom: 0;
-  }
-
-  // Full-width images in small viewports
-
-  > figure,
-  .figures {
-    grid-column: 1 / 6;
-    margin-bottom: 2rem;
-
-    &:last-child {
-      margin-bottom: 0;
-    }
-
-    img {
-      width: 100%;
-    }
-
-    figcaption {
-      // The figure spans all 6 columns so the img can reach the edges of the viewport, but the caption isn't a child element of the grid so we can't confine it to columns 2-5, so we need to re-add the side margins here
-      margin-left: .5rem;
-      margin-right: .5rem;
-      // remove bottom margin here since we added it to the parent element
-      margin-bottom: 0;
-    }
-  }
-
-  h3,
-  h4,
-  p,
-  dl,
-  aside,
-  .expert {
-    grid-column: 2 / 5;
-  }
-
-  .footnote p {
-    // add this here because specificity of p otherwise overrides the footnotes
-    grid-column: 2/3;
-  }
-
-  h3 {
-    margin-bottom: 1.5rem;
-    text-align: center;
-  }
-
 }
 
 //////////////////////////////////////////////////
