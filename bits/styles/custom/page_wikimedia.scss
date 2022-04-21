@@ -1,6 +1,6 @@
 @use '../settings' as *;
-@use '../modules/split';
-@use '../modules/media';
+@use '../common/split';
+@use '../common/media';
 
 
 h2 {

@@ -1,3 +1,5 @@
+@use '../settings' as *;
+
 @mixin default($width: 65ch) {
 
   display: grid;

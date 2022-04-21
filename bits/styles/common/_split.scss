@@ -270,7 +270,7 @@
 
   // Like split-layout but here the image has an object-fit: cover
 
-  @include split-txt-pics(
+  @include txt-pics(
     $image-side,
     $image-row-span,
     $pics-width: 65ch,
