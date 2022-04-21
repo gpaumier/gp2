@@ -39,15 +39,20 @@ p {
   font-size: min(calc(1.2rem + .5vw), 2rem);
 }
 
+%smaller-paragraph-font {
+  font-size: min(calc(1rem + .4vw), 1.7rem);
+}
+
 h1 {
-  font-size: min(calc(3rem + 2vw), 5.5rem);
+  font-size: min(calc(2.5rem + 2.5vw), 5.5rem);
 }
 
 h2 {
   font-size: min(calc(2rem + 1.5vw), 4rem);
 }
 
-h3 {
+h3,
+.highlights {
   font-size: min(calc(1.7rem + .6vw), 3rem);
 }
 
@@ -84,6 +89,7 @@ pre {
 .expert {
 
   @extend %phenix-sans;
+  @extend %smaller-paragraph-font;
 
   strong {
     @extend %phenix-sans-bold;
@@ -91,12 +97,6 @@ pre {
 
   em {
     @extend %phenix-sans-italic;
-  }
-
-  font-size: .9rem;
-
-  p {
-    margin-bottom: 1rem;
   }
 
 }
@@ -105,12 +105,12 @@ blockquote {
   @extend %phenix-serif-italic;
 }
 
-figcaption,
+figcaption p,
 .caption,
 .legend,
 .sidebar {
   @extend %phenix-sans;
-  font-size: .8rem;
+  @extend %smaller-paragraph-font;
 
   em {
     @extend %phenix-sans-italic;
@@ -121,12 +121,7 @@ figcaption,
   }
 }
 
-.legend, .sidebar {
-  font-size: .8rem;
-}
-
 figcaption, .caption {
-  font-size: .7rem;
   color: #6a6a6a;
 
   a {
@@ -167,7 +162,6 @@ h2 {
 .highlights {
   @extend %phenix-serif;
   font-style: normal;
-  font-size: 120%;
   padding: 0;
   border: none;
 
@@ -191,19 +185,21 @@ p.continue-reading {
 
 // Footnotes
 
-.footnote-reference, .fn-backref {
-  font-size: 80%;
+.footnote-reference,
+.fn-backref,
+.footnote p {
+  @extend %smaller-paragraph-font;
+  text-decoration: none;
+}
+
+.footnote-reference,
+.fn-backref {
   text-decoration: none;
 }
 
 .fn-backref {
   align-self: start;
 }
-
-.fn-backref, .footnote p {
-  font-size: .8rem;
-}
-
 
 section:last-child, p:last-child {
   margin-bottom: 0;
