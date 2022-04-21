@@ -2,52 +2,83 @@
 @use 'fonts';
 
 /**
- * Define our fonts
- */
+* Define our fonts
+*/
+
+html {
+  font-size: 100%;
+  line-height: 1.5;
+}
 
 body {
-    @extend %phenix-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  @extend %phenix-serif;
+  color: $body-font-color;
 }
 
 h1 {
-    @extend %phenix-serif-bold;
+  @extend %phenix-serif-bold;
 }
 
-h2, h3, h4, .stakes-header-text {
-    @extend %phenix-sans-bold;
+h2,
+h3,
+h4,
+.stakes-header-text {
+  @extend %phenix-sans-bold;
 
-    em {
-        @extend %phenix-sans-italic;
-    }
+  em {
+    @extend %phenix-sans-italic;
+  }
 }
+
+// font sizes
+
+p {
+  font-size: min(calc(1.2rem + .5vw), 2rem);
+}
+
+h1 {
+  font-size: min(calc(3rem + 2vw), 5.5rem);
+}
+
+h2 {
+  font-size: min(calc(2rem + 1.5vw), 4rem);
+}
+
+h3 {
+  font-size: min(calc(1.7rem + .6vw), 3rem);
+}
+
 
 strong {
-    @extend %phenix-serif-bold;
+  @extend %phenix-serif-bold;
 }
 
 em,
 .admonition.note p {
-    @extend %phenix-serif-italic;
-    }
+  @extend %phenix-serif-italic;
+}
 
 em strong, strong em {
-    @extend %phenix-serif-bolditalic;
+  @extend %phenix-serif-bolditalic;
 }
 
 pre {
-    @extend %phenix-monospace;
+  @extend %phenix-monospace;
 
-    strong {
-        @extend %phenix-monospace-bold;
-    }
+  strong {
+    @extend %phenix-monospace-bold;
+  }
 
-    em {
-        @extend %phenix-monospace-italic;
-    }
+  em {
+    @extend %phenix-monospace-italic;
+  }
 
-    em strong, strong em {
-        @extend %phenix-monospace-bolditalic;
-    }
+  em strong, strong em {
+    @extend %phenix-monospace-bolditalic;
+  }
 }
 
 .expert {
@@ -55,11 +86,11 @@ pre {
   @extend %phenix-sans;
 
   strong {
-      @extend %phenix-sans-bold;
+    @extend %phenix-sans-bold;
   }
 
   em {
-      @extend %phenix-sans-italic;
+    @extend %phenix-sans-italic;
   }
 
   font-size: .9rem;
@@ -71,79 +102,79 @@ pre {
 }
 
 blockquote {
-    @extend %phenix-serif-italic;
+  @extend %phenix-serif-italic;
 }
 
 figcaption,
 .caption,
 .legend,
 .sidebar {
-    @extend %phenix-sans;
-    font-size: .8rem;
+  @extend %phenix-sans;
+  font-size: .8rem;
 
-    em {
-        @extend %phenix-sans-italic;
-    }
+  em {
+    @extend %phenix-sans-italic;
+  }
 
-    strong {
-        @extend %phenix-sans-bold;
-    }
+  strong {
+    @extend %phenix-sans-bold;
+  }
 }
 
 .legend, .sidebar {
-    font-size: .8rem;
+  font-size: .8rem;
 }
 
 figcaption, .caption {
-    font-size: .7rem;
+  font-size: .7rem;
+  color: #6a6a6a;
+
+  a {
     color: #6a6a6a;
 
-    a {
-        color: #6a6a6a;
-
-      &:hover {
-        color: $primary-color;
-      }
+    &:hover {
+      color: $primary-color;
     }
+  }
 }
 
 
 a {
-    text-decoration-line: underline;
-    text-decoration-style: solid;
-    color: $body-font-color;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  color: $body-font-color;
 
-    &.privacy-policy {
-      text-decoration-line: none;
-    }
+  &.privacy-policy {
+    text-decoration-line: none;
+  }
 
 }
 
 .footnote-reference {
-    text-decoration: none;
-    font-size: 80%;
-    // https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/
-    vertical-align: baseline;
-    position: relative;
-    top: -0.4em;
+  text-decoration: none;
+  font-size: 80%;
+  // https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
 }
 
 
 h2 {
-    text-align: center;
+  text-align: center;
 }
 
 .highlights {
-    @extend %phenix-serif;
-    font-style: normal;
-    font-size: 120%;
-    padding: 0;
-    border: none;
+  @extend %phenix-serif;
+  font-style: normal;
+  font-size: 120%;
+  padding: 0;
+  border: none;
 
-    em {
-        @extend %phenix-serif-italic;
-        font-style: italic;
-    }
+  em {
+    @extend %phenix-serif-italic;
+    font-style: italic;
+  }
 }
 
 p.continue-reading {
@@ -184,6 +215,6 @@ body > footer {
   @extend %phenix-sans;
 
   button {
-      @extend %phenix-sans-bold;
+    @extend %phenix-sans-bold;
   }
 }
