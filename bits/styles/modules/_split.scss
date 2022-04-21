@@ -250,7 +250,7 @@
 
 //////////////////////////////////////////////////
 
-@mixin split-txt-pics($image-side: right, $image-row-span: 2, $pics-width: 65ch, $text-width: 65ch) {
+@mixin txt-pics($image-side: right, $image-row-span: 2, $pics-width: 65ch, $text-width: 65ch) {
 
   // A split layout with text in one column and images in the other
 
@@ -282,7 +282,7 @@
 //////////////////////////////////////////////////
 
 
-@mixin split-txt-pics-hero($image-side: right, $image-row-span:4, $background: dark, $text-width: 65ch, $pics-width: 65ch) {
+@mixin txt-pics-hero($image-side: right, $image-row-span:4, $background: dark, $text-width: 65ch, $pics-width: 65ch) {
 
   // A split-layout with both a hero section-title and text/pics columns
 
@@ -300,7 +300,7 @@
 //////////////////////////////////////////////////
 
 
-@mixin split-cover($image-side, $image-row-span, $image-position) {
+@mixin cover($image-side, $image-row-span, $image-position) {
 
   // Like split-layout but here the image has an object-fit: cover
 
@@ -340,7 +340,7 @@
 // Mixins to place elements in a split layout
 
 
-@mixin place-in-split($side, $grid-row: "auto") {
+@mixin place($side, $grid-row: "auto") {
 
   // A utility to place split-layout figures in their proper row and columns if the built-in rules aren't enough.
 
@@ -367,7 +367,7 @@
   }
 }
 
-@mixin spread-in-split($grid-row: auto) {
+@mixin spread($grid-row: auto) {
   // Same as above but configurable
   grid-column: 1/6;
 
