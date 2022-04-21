@@ -1,4 +1,4 @@
-@use '../modules/layout';
+@use '../modules/split';
 @use '../modules/honeycomb';
 
 /////////////////////////////////////////////////////////////
@@ -10,7 +10,7 @@
 /////////////////////////////////////////////////////////////
 
 #we-chose-to-do-this-not-because-it-was-easy {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 4,
   $pics-width: 50ch,
@@ -25,7 +25,7 @@
 }
 
 .team {
-  @include layout.place-in-split(right, "1/8");
+  @include split.place(right, "1/8");
   align-self: center;
   @include honeycomb.create(5, 3, 6rem);
 }
@@ -43,7 +43,7 @@ $team-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #the-2030-horizon {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: left,
   $image-row-span: 4,
   $pics-width: 50ch,
@@ -66,7 +66,7 @@ $team-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #citations-needed {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 4,
   $pics-width: 50ch,
@@ -81,7 +81,7 @@ $team-pics-placement:
 }
 
 .world-around-us {
-  @include layout.place-in-split(right, "1/11");
+  @include split.place(right, "1/11");
   align-self: center;
   @include honeycomb.create(5, 4, 6rem);
 }
@@ -99,7 +99,7 @@ $world-around-us-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #building-alignment {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: left,
   $image-row-span: 4,
   $pics-width: 50ch,
@@ -108,7 +108,7 @@ $world-around-us-pics-placement:
 }
 
 .hopes-fears {
-  @include layout.place-in-split(left, "1/10");
+  @include split.place(left, "1/10");
   align-self: center;
   @include honeycomb.create(4, 2, 7rem);
 
@@ -142,7 +142,7 @@ $world-around-us-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #learning-from-each-other {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 4,
   $pics-width: 50ch,
@@ -153,7 +153,7 @@ $world-around-us-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #converging-on-a-strategic-direction {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: left,
   $image-row-span: 4,
   $pics-width: 50ch,
@@ -162,7 +162,7 @@ $world-around-us-pics-placement:
 }
 
 .wikimania2017 {
-  @include layout.place-in-split(left, "1/8");
+  @include split.place(left, "1/8");
   align-self: center;
   @include honeycomb.create(4, 4, 7rem);
 
@@ -197,7 +197,7 @@ $wikimania2017-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #partners-and-those-who-have-been-left-out {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 3,
   $pics-width: 42ch,
@@ -206,7 +206,7 @@ $wikimania2017-pics-placement:
 }
 
 .new-voices {
-  @include layout.place-in-split(right, "1/8");
+  @include split.place(right, "1/8");
   align-self: center;
   @include honeycomb.create(4, 4, 7rem);
 
@@ -240,7 +240,7 @@ $new-voices-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #phase-2-working-groups-and-recommendations {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 4,
   $pics-width: 50ch,
@@ -251,7 +251,7 @@ $new-voices-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #towards-implementation {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: left,
   $image-row-span: 4,
   $pics-width: 50ch,

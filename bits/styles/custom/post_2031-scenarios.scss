@@ -1,4 +1,4 @@
-@use '../modules/layout';
+@use '../modules/split';
 
 header {
   display: grid;
@@ -92,7 +92,7 @@ header {
 }
 
 #beyond-the-scenarios {
-  @include layout.split-txt-pics-hero(
+  @include split.txt-pics-hero(
   $image-side: right,
   $background: dark,
   $text-width: 68ch,
@@ -101,12 +101,12 @@ header {
 }
 
 .scenario-cards {
-  @include layout.place-in-split(right, "6/9");
+  @include split.place(right, "6/9");
   align-self: center;
 }
 
 #blackswan {
-  @include layout.place-in-split(right, "9/11");
+  @include split.place(right, "9/11");
   align-self: center;
 }
 

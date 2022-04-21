@@ -1,5 +1,5 @@
 @use '../modules/decoration';
-@use '../modules/layout';
+@use '../modules/split';
 
 %spotting-pattern {
   p,
@@ -41,7 +41,7 @@
 }
 
 #mass-parallel-testing {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: left,
   $pics-width: 50ch,
   $text-width: 65ch,
@@ -49,19 +49,19 @@
 }
 
 .biochip {
-  @include layout.place-in-split(left, "2/4");
+  @include split.place(left, "2/4");
   align-self: center;
 }
 
 .spotter {
-  @include layout.place-in-split(left, "4/7");
+  @include split.place(left, "4/7");
   align-self: center;
 }
 
 /////////////////////////////////////////////////////////////
 
 #fluorescence-in-biochips {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 2,
   $pics-width: 55ch,
@@ -70,7 +70,7 @@
 }
 
 .fluorescence-diagrams {
-  @include layout.place-in-split(right, "2/5");
+  @include split.place(right, "2/5");
   img {
     width: 100%;
     max-width: 18rem;
@@ -82,7 +82,7 @@
 }
 
 .fluorescence-palette {
-  @include layout.place-in-split(left, "4/5");
+  @include split.place(left, "4/5");
   @include layout.side-by-side-figures(0);
 
   .palette {
@@ -102,7 +102,7 @@
 /////////////////////////////////////////////////////////////
 
 #surface-functionalization {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 2,
   $pics-width: 35ch,
@@ -111,13 +111,13 @@
 }
 
 .silane {
-  @include layout.place-in-split(right, "1/4");
+  @include split.place(right, "1/4");
   align-self: center;
 }
 
 .cea2-protocol {
-  //@include layout.place-in-split(left, "4/5");
-  @include layout.spread-in-split("4/5");
+  //@include split.place(left, "4/5");
+  @include split.spread("4/5");
   margin-bottom: 2rem;
   justify-self: center;
 
@@ -130,7 +130,7 @@
 }
 
 .reactor {
-  @include layout.place-in-split(right, "5/8");
+  @include split.place(right, "5/8");
 }
 
 /////////////////////////////////////////////////////////////
@@ -145,7 +145,7 @@
 }
 
 #substance-p {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 2,
   $pics-width: 50ch,
@@ -153,7 +153,7 @@
   );
 
   .footnote {
-    @include layout.place-in-split(right, "3/4");
+    @include split.place(right, "3/4");
     align-self: center;
   }
 }
@@ -242,7 +242,7 @@
 }
 
 #reaction-kinetics {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 2,
   $pics-width: 50ch,
@@ -258,14 +258,14 @@
 }
 
 .reaction-kinetics-chart {
-  @include layout.place-in-split(right, "3/5");
+  @include split.place(right, "3/5");
   align-self: center;
 }
 
 /////////////////////////////////////////////////////////////
 
 #photothermal-deflection-spectroscopy {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: left,
   $image-row-span: 3,
   $pics-width: 40ch,
@@ -273,7 +273,7 @@
   );
 
   .figures {
-    @include layout.place-in-split(left, "4/7");
+    @include split.place(left, "4/7");
     align-self: center;
   }
 }
@@ -285,7 +285,7 @@
 /////////////////////////////////////////////////////////////
 
 #neutron-reflectometry {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 3,
   $pics-width: 40ch,
@@ -293,7 +293,7 @@
   );
 
   table {
-    @include layout.spread-in-split("8/9");
+    @include split.spread("8/9");
 
     th, td {
       text-align: center;
@@ -306,12 +306,12 @@
 }
 
 .ill-reactor {
-  @include layout.place-in-split(right, "2/4");
+  @include split.place(right, "2/4");
   align-self: center;
 }
 
 .d17-diagram {
-  @include layout.place-in-split(right, "4/7");
+  @include split.place(right, "4/7");
   align-self: center;
 }
 
@@ -323,7 +323,7 @@
 }
 
 #adapting-the-protocol {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 3,
   $pics-width: 40ch,
@@ -345,7 +345,7 @@
 /////////////////////////////////////////////////////////////
 
 #contact-angle-measurement {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: left,
   $image-row-span: 3,
   $pics-width: 40ch,
@@ -358,7 +358,7 @@
 }
 
 .vapor-contact-angle-results {
-  @include layout.place-in-split(left, "4/5");
+  @include split.place(left, "4/5");
   align-self: center;
 }
 
@@ -376,7 +376,7 @@
 }
 
 #antibody-microarray-on-vapor-phase-silane {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 3,
   $pics-width: 32ch,
@@ -396,7 +396,7 @@
 }
 
 #biochiplab {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 3,
   $pics-width: 32ch,
@@ -404,14 +404,14 @@
   );
 
   figure {
-    @include layout.place-in-split(right, "3/5");
+    @include split.place(right, "3/5");
     align-self: center;
   }
 
 }
 
 #fluorescence-microscopy {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: left,
   $image-row-span: 4,
   $pics-width: 32ch,
@@ -420,7 +420,7 @@
 }
 
 #mass-spectrometry {
-  @include layout.split-txt-pics(
+  @include split.txt-pics(
   $image-side: right,
   $image-row-span: 4,
   $pics-width: 60ch,

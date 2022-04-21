@@ -1,5 +1,5 @@
 @use '../settings' as *;
-@use '../modules/layout';
+@use '../modules/split';
 @use '../modules/media';
 
 
@@ -160,7 +160,7 @@ h1.entry-title {
 #recent-work {
 
   #revenue-strategy-and-long-term-thinking {
-    @include layout.split-cover(
+    @include split.cover(
     $image-side: left,
     $image-row-span: 4,
     $image-position: 65%,
@@ -168,7 +168,7 @@ h1.entry-title {
   }
 
   #wikimedia-2030 {
-    @include layout.split-cover(right, 5, 35%);
+    @include split.cover(right, 5, 35%);
   }
 
 
@@ -208,7 +208,7 @@ h1.entry-title {
 
 /////////////////////////////////////////////////////////////
 #a-culture-of-sensemaking {
-  @include layout.split-txt-pics(right, 4, 45ch, 65ch);
+  @include split.txt-pics(right, 4, 45ch, 65ch);
 
   figcaption {
     // override this because it's so long and looks weird otherwise
@@ -218,12 +218,12 @@ h1.entry-title {
 }
 
 #stating-our-values {
-  @include layout.split-txt-pics(left, 4, 50ch, 60ch);
+  @include split.txt-pics(left, 4, 50ch, 60ch);
 }
 
 
 #history-and-wikiarchaeology {
-  @include layout.split-txt-pics(right, 3, 45ch, 65ch);
+  @include split.txt-pics(right, 3, 45ch, 65ch);
 
   #wikimedia-history-wikimania-21012-video { //Youtube embedded video
     grid-column: 1 / 5;
@@ -272,7 +272,7 @@ h1.entry-title {
 }
 
 #product-strategy {
-  @include layout.split-txt-pics(right, 3, 45ch, 65ch);
+  @include split.txt-pics(right, 3, 45ch, 65ch);
 
   figcaption {
     text-align: left;
@@ -280,11 +280,11 @@ h1.entry-title {
 }
 
 #multimedia-usability-project {
-  @include layout.split-txt-pics(left, 3, 45ch, 65ch);
+  @include split.txt-pics(left, 3, 45ch, 65ch);
 }
 
 #technical-writing {
-  @include layout.split-txt-pics(right, 5, 45ch, 65ch);
+  @include split.txt-pics(right, 5, 45ch, 65ch);
 
   figcaption {
     text-align: left;
@@ -294,20 +294,20 @@ h1.entry-title {
 /////////////////////////////////////////////////////////////
 
 #wikimedia-france {
-  @include layout.split-txt-pics(right, 5);
+  @include split.txt-pics(right, 5);
 }
 
 #wikimedia-chapters-conference-2009 {
-  @include layout.split-txt-pics(left, 7);
+  @include split.txt-pics(left, 7);
 }
 
 
 #crosswiki-service-work {
-  @include layout.split-cover(right, 5, 50%);
+  @include split.cover(right, 5, 50%);
 }
 
 #volunteer-response-team-otrs {
-  @include layout.split-cover(left, 7, 50%);
+  @include split.cover(left, 7, 50%);
 }
 
 /////////////////////////////////////////////////////////////
