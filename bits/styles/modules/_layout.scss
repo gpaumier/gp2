@@ -174,11 +174,6 @@
     align-self: center;
     z-index: 50;
     color: #f3f3f3;
-
-    // Bigger h2 if it's used as hero header
-    font-size: calc(1.5rem + 2vw);
-    line-height: calc(2.5rem + 2vw);
-
   }
 
   > figure:first-of-type {
