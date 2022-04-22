@@ -35,11 +35,15 @@ h4,
 
 // font sizes
 
-p {
-  font-size: min(calc(1.2rem + .5vw), 2rem);
+p,
+li,
+ol,
+#skip-to-content {
+  font-size: $base-unit;
+  // = min(calc(1.2rem + .5vw), 2rem)
 }
 
-%smaller-paragraph-font {
+%smaller-font-size {
   font-size: min(calc(1rem + .4vw), 1.7rem);
 }
 
@@ -52,8 +56,14 @@ h2 {
 }
 
 h3,
-.highlights {
-  font-size: min(calc(1.7rem + .6vw), 3rem);
+.highlights,
+%larger-font-size {
+  font-size: min(calc(1.4rem + .6vw), 3rem);
+}
+
+@mixin larger-font-size() {
+  // same as above but for use in media queries where we can't extend
+  font-size: min(calc(1.4rem + .6vw), 3rem);
 }
 
 
@@ -89,7 +99,7 @@ pre {
 .expert {
 
   @extend %phenix-sans;
-  @extend %smaller-paragraph-font;
+  @extend %smaller-font-size;
 
   strong {
     @extend %phenix-sans-bold;
@@ -110,7 +120,7 @@ figcaption p,
 .legend,
 .sidebar {
   @extend %phenix-sans;
-  @extend %smaller-paragraph-font;
+  @extend %smaller-font-size;
 
   em {
     @extend %phenix-sans-italic;
@@ -188,7 +198,7 @@ p.continue-reading {
 .footnote-reference,
 .fn-backref,
 .footnote p {
-  @extend %smaller-paragraph-font;
+  @extend %smaller-font-size;
   text-decoration: none;
 }
 

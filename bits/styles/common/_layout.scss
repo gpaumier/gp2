@@ -1,5 +1,18 @@
 @use '../settings' as *;
 
+// Basics ///////////////////////////////////
+
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+
+
+
+// Mixins ///////////////////////////////////
+
 @mixin default($width: 65ch) {
 
   display: grid;
