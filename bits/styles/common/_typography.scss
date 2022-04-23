@@ -55,15 +55,19 @@ h2 {
   font-size: min(calc(2rem + 1.5vw), 4rem);
 }
 
-h3,
-.highlights,
 %larger-font-size {
+  font-size: min(calc(1.5rem + .65vw), 3.5rem);
+}
+
+h3,
+.highlights p,
+%large-font-size {
   font-size: min(calc(1.4rem + .6vw), 3rem);
 }
 
 @mixin larger-font-size() {
   // same as above but for use in media queries where we can't extend
-  font-size: min(calc(1.4rem + .6vw), 3rem);
+  font-size: min(calc(1.5rem + .65vw), 3.5rem);
 }
 
 
@@ -76,7 +80,8 @@ em,
   @extend %phenix-serif-italic;
 }
 
-em strong, strong em {
+em strong,
+strong em {
   @extend %phenix-serif-bolditalic;
 }
 
@@ -91,12 +96,14 @@ pre {
     @extend %phenix-monospace-italic;
   }
 
-  em strong, strong em {
+  em strong,
+  strong em {
     @extend %phenix-monospace-bolditalic;
   }
 }
 
-.expert {
+.expert,
+.expert p {
 
   @extend %phenix-sans;
   @extend %smaller-font-size;
@@ -165,7 +172,8 @@ a {
 }
 
 
-h2 {
+h2,
+h3 {
   text-align: center;
 }
 
