@@ -71,7 +71,7 @@ header {
 #the-war-of-the-words,
 #success-into-oblivion {
 
-  @extend %split-hero;
+  @extend %new4hero-section;
   @extend %hero-in-split-light;
 
   p {
@@ -82,7 +82,7 @@ header {
 }
 
 #human-obsolescence {
-  @extend %split-hero;
+  @extend %new4hero-section;
 
   p {
     max-width: 75ch;

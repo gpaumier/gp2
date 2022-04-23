@@ -1,9 +1,27 @@
 @use '../settings' as *;
 @use '../common/typography';
 
+$breakpoint: 100ch;
+$column-width: 80ch;
+
 // Mixins
 
 //////////////////////////////////////////////////
+
+%new4split {
+  //  Default split layout
+  display: grid;
+  grid-template-columns: repeat(2, minmax(min-content, 1fr));
+  column-gap: $base-unit;
+  margin: auto;
+  // We're using ch lengths for most of our column width declarations, so let's make sure our font size for those is the base font size, not the body font size
+  font-size: $base-unit;
+
+  // by default we stack everything as if there was no split (mobile default)
+  > * {
+    grid-column: 1/3;
+  }
+}
 
 %split {
 
@@ -12,11 +30,12 @@
 
   display: grid;
   grid-template-columns:
-    minmax(.5rem, 1fr)
-    minmax(min-content, $width)
-    1.5rem
-    minmax(min-content, $width)
-    minmax(.5rem, 1fr);
+  minmax(.5rem, 1fr)
+  minmax(min-content, $width)
+  1.5rem
+  minmax(min-content, $width)
+  minmax(.5rem, 1fr);
+  column-gap: $base-unit;
   margin-bottom: 3rem;
 
   &:last-child {
@@ -68,8 +87,17 @@
 
 }
 
-
 //////////////////////////////////////////////////
+
+@mixin new4columns($left-width: 65ch, $right-width: 65ch) {
+
+  // to be used in conjunction with @extend %split
+  // if we want customizable widths
+
+  grid-template-columns:
+  minmax(min-content, $left-width)
+  minmax(min-content, $right-width)
+}
 
 @mixin split($left-width: 65ch, $right-width: 65ch) {
 
@@ -77,14 +105,37 @@
   @extend %split;
 
   grid-template-columns:
-    minmax(.5rem, 1fr)
-    minmax(min-content, $left-width)
-    1.5rem
-    minmax(min-content, $right-width)
-    minmax(.5rem, 1fr);
+  minmax(.5rem, 1fr)
+  minmax(min-content, $left-width)
+  1.5rem
+  minmax(min-content, $right-width)
+  minmax(.5rem, 1fr);
 }
 
 //////////////////////////////////////////////////
+
+@mixin new4text-pics($image-side: "right") {
+
+  // Rules for splitting content into a text column and a pics column. To be embedded in a split layout, not for direct use. Made as a mixin so it can be included in both regular and with-cover split layouts.
+
+  @media screen and (min-width: $breakpoint) {
+    > figure,
+    .figures {
+      grid-column: if($image-side == "left", #{1/2}, #{-1/-2});
+    }
+
+    h3,
+    h4,
+    p,
+    dl,
+    .footnote p,
+    .expert {
+      grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
+      // .expert is here since by default it's going in the main column.
+      // To override, use the split.place() mixin, but make sure the rule is specific enough to override this one
+    }
+  }
+}
 
 // Mixins for partial layouts in a split context
 // Used to build more specialized split layouts
@@ -93,13 +144,13 @@
 
   // Rules for splitting content into a text column and a pics column. To be embedded in a split layout, not for direct use. Made as a mixin so it can be included in both regular and with-cover split layouts.
 
-  @media screen and (min-width: 100ch) {
+  @media screen and (min-width: $breakpoint) {
     > figure,
     .figures {
       grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
       grid-row: #{$image-row-start} / #{$image-row-span + $image-row-start};
 
-    figcaption, .caption {
+      figcaption, .caption {
         // Remove the margins when we're no longer in full-width picture
         margin-left: 0;
         margin-right: 0;
@@ -128,12 +179,12 @@
 %hero-in-split {
   // this used to be a mixin where creating different styles whether the hero image was // dark or light. Now we assume it's dark (which enables us to simply extend this style verbatim) and simply make tiny adjustments if it's light.
   grid-template-rows:
-    minmax(.5rem, 2vh)
-    35vh
-    35vh
-    minmax(.5rem, 2vh)
-    2rem
-    auto;
+  minmax(.5rem, 2vh)
+  35vh
+  35vh
+  minmax(.5rem, 2vh)
+  2rem
+  auto;
 
   h2 {
     grid-column: 2/5;
@@ -175,7 +226,7 @@
     grid-row: 5/6;
   }
 
-  @media screen and (min-width: 100ch) {
+  @media screen and (min-width: $breakpoint) {
 
     h2 {
       grid-column: 2/5;
@@ -195,24 +246,7 @@
   }
 }
 
-%hero-in-split-light {
-  // adjustments where the hero image is light
 
-  h2 {
-    color: #222;
-  }
-
-  > figure:first-of-type img {
-      // If we have a light background with dark text, make the background brighter by increasing transparency.
-      filter: opacity(20%);
-    }
-
-  @media screen and (min-width: 100ch) {
-    > p:first-of-type {
-      color: #222;
-    }
-  }
-}
 
 //////////////////////////////////////////////////
 
@@ -233,6 +267,110 @@
 //////////////////////////////////////////////////
 
 
+%new4hero-section {
+
+  // A graphic spread for h2 title and one-liner <p>.
+
+  // this used to be a mixin where creating different styles whether the hero image was // dark or light. Now we assume it's dark (which enables us to simply extend this style verbatim) and simply make tiny adjustments if it's light.
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows:
+  35vh
+  35vh
+  3rem
+  auto;
+
+  > * {
+    grid-column: 1/2;
+  }
+
+  // on narrow viewports, only the h2 title is in the graphic spread, so we center it.
+
+  h2 {
+    grid-row: 1/3;
+    align-self: center;
+    z-index: 50;
+    color: #f3f3f3;
+  }
+
+  > figure:first-of-type {
+
+    // This is the first picture in the section, i.e. the one we want to use as graphic spread.
+
+    grid-row: 1/3;
+    z-index: 25;
+    margin: 0;
+
+    img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+      margin: 0;
+      // If we have a dark background with bright text, make the background darker by reducing brightness
+      filter: brightness(60%);
+    }
+  }
+
+  &:after {
+
+    // Reserve the fifth row with an invisible character (immediately underneath the graphic spread) to leave space for the caption and to bump the paragraph text to the next available row.
+
+    content: ' ';
+    grid-column: 1/3;
+    grid-row: 3/4;
+  }
+
+  @media screen and (min-width: $breakpoint) {
+
+    // on larger viewports, we pull up the h2 title to make space for the first paragraph that's also pulled into the graphic spread.
+
+    h2 {
+      grid-row: 1/2;
+      align-self: end;
+    }
+
+    > p:first-of-type {
+      grid-row: 2/3;
+      align-self: center;
+      z-index: 50;
+      @include typography.larger-font-size();
+      color: #f3f3f3;
+      padding-left: $base-unit;
+      padding-right: $base-unit;
+      margin: auto;
+      max-width: $column-width;
+    }
+
+    figcaption {
+      // The figure spans both columns so the img can reach the edges of the viewport, but the caption should have some margins
+      padding-left: $base-unit;
+      padding-right: $base-unit;
+    }
+  }
+}
+
+@mixin hero-darken($brightness: 35%) {
+  // make the hero image a little darker to ensure legibility
+
+  > figure:first-of-type img{
+    filter: brightness($brightness);
+  }
+}
+
+%new4hero-section-with-split-layout {
+
+  // Like %new4hero-section but with a split layout for the rest of the section after the graphic spread. For use when we want a split layout for a section that only has a h2 title and paragraphs with no h3s.
+
+  @extend %new4split;
+  @extend %new4hero-section;
+
+  > * {
+    grid-column: 1/3;
+  }
+}
+
+
 %split-hero {
 
   // Like split-layout but with a graphic spread first for h2 title and one-liner <p>.
@@ -241,7 +379,7 @@
   @extend %hero-in-split;
 
   > * {
-    @extend %spread-in-split;
+    @extend %spread;
   }
 }
 
@@ -271,10 +409,10 @@
   // Like split-layout but here the image has an object-fit: cover
 
   @include txt-pics(
-    $image-side,
-    $image-row-span,
-    $pics-width: 65ch,
-    $text-width: 65ch,
+  $image-side,
+  $image-row-span,
+  $pics-width: 65ch,
+  $text-width: 65ch,
   );
 
   figure {
@@ -288,7 +426,7 @@
     }
   }
 
-  @media screen and (min-width: 100ch) {
+  @media screen and (min-width: $breakpoint) {
     figure {
       height: 100%;
     }
@@ -316,18 +454,18 @@
     width: 100%;
   }
 
-  @media screen and (min-width: 100ch) {
+  @media screen and (min-width: $breakpoint) {
     grid-column: if($side == "left", #{2/3}, #{-2/-3});
     grid-row: #{$grid-row};
   }
 
 }
 
-%spread-in-split {
+%spread {
   // A utility to spread split-layout figures across both columns of a split layout.
   grid-column: 1/6;
 
-  @media screen and (min-width: 100ch) {
+  @media screen and (min-width: $breakpoint) {
     grid-column: 2/5;
     grid-row: auto;
   }
@@ -337,9 +475,33 @@
   // Same as above but configurable
   grid-column: 1/6;
 
-  @media screen and (min-width: 100ch) {
+  @media screen and (min-width: $breakpoint) {
     grid-column: 2/5;
     grid-row: #{$grid-row};
   }
 
+}
+
+/////////////////////////////////////////////////////////////
+
+// Adjustments from defaults:
+// Keep at the end so they override the defaults above when they're extended elsewhere
+
+%hero-in-split-light {
+  // adjustments where the hero image is light
+
+  h2 {
+    color: #222;
+  }
+
+  > figure:first-of-type img {
+    // If we have a light background with dark text, make the background brighter by increasing transparency.
+    filter: opacity(20%);
+  }
+
+  @media screen and (min-width: $breakpoint) {
+    > p:first-of-type {
+      color: #222;
+    }
+  }
 }

@@ -33,20 +33,14 @@
 /////////////////////////////////////////////////////////////
 
 #biochips-and-microarrays{
-  @extend %split-hero;
-
-  > figure:first-of-type img {
-    // make this a little darker to ensure legibility
-    filter: brightness(35%);
-  }
+  @extend %new4hero-section;
+  @include split.hero-darken(35%);
 }
 
 #mass-parallel-testing {
-  @include split.txt-pics(
-  $image-side: left,
-  $pics-width: 50ch,
-  $text-width: 65ch,
-  );
+  @extend %new4split;
+  @include split.new4columns(50ch, 65ch);
+  @include split.new4text-pics($image-side: "left");
 }
 
 .biochip {
@@ -137,12 +131,8 @@
 /////////////////////////////////////////////////////////////
 
 #antibody-microarray-on-cea-2-protocol{
-  @extend %split-hero;
-
-  > figure:first-of-type img {
-    // make this a little darker to ensure legibility
-    filter: brightness(40%);
-  }
+  @extend %new4hero-section;
+  @include split.hero-darken(40%);
 }
 
 #substance-p {
@@ -160,7 +150,6 @@
 }
 
 #immunoassay-protocols {
-  grid-column: 2/5;
   max-width: 75ch;
   justify-self: center;
 
@@ -234,12 +223,8 @@
 /////////////////////////////////////////////////////////////
 
 #alternative-detection-methods {
-  @extend %split-hero;
-
-  > figure:first-of-type img {
-    // make this a little darker to ensure legibility
-    filter: brightness(35%);
-  }
+  @extend %new4hero-section;
+  @include split.hero-darken(35%);
 }
 
 #reaction-kinetics {
@@ -320,7 +305,7 @@
 /////////////////////////////////////////////////////////////
 
 #vapor-phase-silanization-for-proteomics {
-  @extend %split-hero;
+  @extend %new4hero-section;
 }
 
 #adapting-the-protocol {
@@ -367,7 +352,6 @@
 
 #atomic-force-microscopy {
 
-  grid-column: 2/5;
   max-width: 70ch;
   justify-self: center;
 
@@ -393,7 +377,7 @@
 /////////////////////////////////////////////////////////////
 
 #peptidic-digestion-mass-spectrometry {
-  @extend %split-hero;
+  @extend %new4hero-section;
 }
 
 #biochiplab {

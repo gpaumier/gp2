@@ -236,7 +236,7 @@ dl {
 /////////////////////////////////////////////////////////////
 
 #surface-functionalization {
-  @extend %split-hero;
+  @extend %new4hero-section;
 }
 
 // This section has subsections
@@ -331,7 +331,7 @@ dl {
 /////////////////////////////////////////////////////////////
 
 #electro-osmotic-flow {
-  @extend %split-hero;
+  @extend %new4hero-section;
   @extend %hero-in-split-light;
 
   > figure:first-of-type img {
@@ -411,10 +411,7 @@ dl {
   $pics-width: 35ch,
   );
 
-  > figure:first-of-type img {
-    // make this a little darker to ensure legibility despite the resistor's glow
-    filter: brightness(45%);
-  }
+  @include split.hero-darken(45%);
 }
 
 .comsol-3d {
@@ -474,21 +471,4 @@ dl {
 .catching-streptavidin {
   @include split.place(right, "12/14");
   align-self: center;
-}
-
-/////////////////////////////////////////////////////////////
-
-#beyond-the-research {
-  @extend %split-hero;
-
-  > figure:first-of-type img {
-    // Increase opacity and saturation a bit since contrast of the image is low.
-    filter: opacity(25%) saturate(200%);
-  }
-
-  @media screen and (min-width: 80ch) {
-    figure:nth-of-type(3) {
-      grid-row: 10/13;
-    }
-  }
 }

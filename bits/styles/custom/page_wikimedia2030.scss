@@ -4,7 +4,8 @@
 /////////////////////////////////////////////////////////////
 
 #your-mission-should-you-choose-to-accept-it {
-  @extend %split-hero;
+  @extend %new4hero-section;
+  @include split.hero-darken(35%);
 }
 
 /////////////////////////////////////////////////////////////
@@ -136,7 +137,7 @@ $world-around-us-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #engaging-a-whole-movement {
-  @extend %split-hero;
+  @extend %new4hero-section;
 }
 
 /////////////////////////////////////////////////////////////
@@ -191,7 +192,8 @@ $wikimania2017-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #amplifying-new-voices {
-  @extend %split-hero;
+  @extend %new4hero-section;
+  @include split.hero-darken(35%);
 }
 
 /////////////////////////////////////////////////////////////
@@ -234,7 +236,8 @@ $new-voices-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #recommendations-and-implementation {
-  @extend %split-hero;
+  @extend %new4hero-section;
+  @include split.hero-darken(35%);
 }
 
 /////////////////////////////////////////////////////////////
@@ -262,7 +265,8 @@ $new-voices-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #the-people {
-  @extend %split-hero;
+  @extend %new4hero-section;
+  @include split.hero-darken(35%);
 }
 
 .people {
