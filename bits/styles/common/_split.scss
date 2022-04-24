@@ -292,6 +292,7 @@ $column-width: 80ch;
     align-self: center;
     z-index: 50;
     color: #f3f3f3;
+    @extend %hero-h2 !optional;
   }
 
   > figure:first-of-type {

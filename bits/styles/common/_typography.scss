@@ -40,34 +40,38 @@ li,
 ol,
 #skip-to-content {
   font-size: $base-unit;
-  // = min(calc(1.2rem + .5vw), 2rem)
+  // = calc(1.2rem + .5vw)
 }
 
 %smaller-font-size {
-  font-size: min(calc(1rem + .4vw), 1.7rem);
+  font-size: calc(1rem + .4vw);
 }
 
 h1 {
-  font-size: min(calc(2.5rem + 2.5vw), 5.5rem);
+  font-size: calc(2.5rem + 2.5vw);
 }
 
 h2 {
-  font-size: min(calc(2rem + 1.5vw), 4rem);
+  font-size: calc(2rem + 1.2vw);
+}
+
+%hero-h2 {
+  font-size: calc(2rem + 2.5vw);
 }
 
 %larger-font-size {
-  font-size: min(calc(1.5rem + .65vw), 3.5rem);
+  font-size: calc(1.5rem + .65vw);
 }
 
 h3,
 .highlights p,
 %large-font-size {
-  font-size: min(calc(1.4rem + .6vw), 3rem);
+  font-size: calc(1.4rem + .6vw);
 }
 
 @mixin larger-font-size() {
   // same as above but for use in media queries where we can't extend
-  font-size: min(calc(1.5rem + .65vw), 3.5rem);
+  font-size: calc(1.5rem + .65vw);
 }
 
 
