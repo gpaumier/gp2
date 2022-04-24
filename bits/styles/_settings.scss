@@ -1,6 +1,6 @@
 
 // base unit aka font size for <p>
-$base-unit: min(calc(1.2rem + .5vw), 2rem);
+$base-unit: calc(1.2rem + .5vw);
 
 $primary-color: rgb(158, 0, 0);
 $body-font-color: #333;

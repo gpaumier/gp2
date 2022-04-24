@@ -132,6 +132,7 @@ figcaption p,
 .sidebar {
   @extend %phenix-sans;
   @extend %smaller-font-size;
+  line-height: 1.3;
 
   em {
     @extend %phenix-sans-italic;

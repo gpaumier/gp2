@@ -12,7 +12,7 @@ $column-width: 80ch;
   //  Default split layout
   display: grid;
   grid-template-columns: repeat(2, minmax(min-content, 1fr));
-  column-gap: $base-unit;
+  column-gap: calc(1.2rem + 2vw); // slightly larger than $base-unit
   margin: auto;
   // We're using ch lengths for most of our column width declarations, so let's make sure our font size for those is the base font size, not the body font size
   font-size: $base-unit;
