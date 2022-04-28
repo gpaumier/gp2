@@ -40,7 +40,7 @@
 #mass-parallel-testing {
   @extend %new4split;
   @include split.new4columns(45ch, 60ch);
-  @include split.new4text-pics($image-side: "left");
+  @extend %new4pics-text;
 }
 
 .biochip {
@@ -58,12 +58,11 @@
 #fluorescence-in-biochips {
   @extend %new4split;
   @include split.new4columns(60ch, 50ch);
-  @include split.new4text-pics($image-side: "right");
+  @extend %new4text-pics;
 
   .fluorescence-diagrams {
     @include split.new4place(right, "2/5");
     img {
-      width: 100%;
       max-width: 40ch;
       display: block;
       margin-left: auto;
@@ -79,7 +78,6 @@
       grid-column: 1/3;
       grid-row: 2/3;
       img {
-        width: 100%;
         max-height: 1.5rem;
       }
     }
@@ -93,10 +91,9 @@
 /////////////////////////////////////////////////////////////
 
 #surface-functionalization {
-
   @extend %new4split;
   @include split.new4columns(60ch, 30ch);
-  @include split.new4text-pics($image-side: "right");
+  @extend %new4text-pics;
 
   .silane {
     @include split.new4place(right, "1/4");
@@ -109,8 +106,6 @@
 
 }
 
-
-
 .cea2-protocol {
   @include split.new4spread("4/5");
   margin-bottom: 2rem;
@@ -121,10 +116,7 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: flex-end;
-
 }
-
-
 
 /////////////////////////////////////////////////////////////
 
@@ -134,31 +126,26 @@
 }
 
 #substance-p {
-  @include split.txt-pics(
-  $image-side: right,
-  $image-row-span: 2,
-  $pics-width: 50ch,
-  $text-width: 50ch,
-  );
+  @extend %new4split;
+  @include split.new4columns(45ch, 45ch);
+  @extend %new4text-pics;
 
   .footnote {
-    @include split.place(right, "3/4");
+    @include split.new4place(right, "3/4");
     align-self: center;
+  }
+
+  .substance-p {
+    @include split.new4place(right, "1/3");
   }
 }
 
 #immunoassay-protocols {
-  max-width: 75ch;
+  max-width: 70ch;
   justify-self: center;
-
-  img {
-    width: 100%;
-  }
 }
 
 #parameter-study-protocol-optimization {
-
-  //grid-column: 1/6;
 
   column-width: 25ch;
   column-gap: 2rem;
@@ -226,58 +213,50 @@
 }
 
 #reaction-kinetics {
-  @include split.txt-pics(
-  $image-side: right,
-  $image-row-span: 2,
-  $pics-width: 50ch,
-  $text-width: 50ch,
-  );
+  @extend %new4split;
+  @include split.new4columns(45ch, 45ch);
+  @extend %new4text-pics;
 }
 
 .reaction-kinetics-diagram {
-  @media screen and (min-width: 100ch) {
+  @media screen and (min-width: split.$breakpoint) {
     justify-self: center;
     max-width: 40ch;
   }
 }
 
 .reaction-kinetics-chart {
-  @include split.place(right, "3/5");
+  @include split.new4place(right, "3/5");
   align-self: center;
 }
 
 /////////////////////////////////////////////////////////////
 
 #photothermal-deflection-spectroscopy {
-  @include split.txt-pics(
-  $image-side: left,
-  $image-row-span: 3,
-  $pics-width: 40ch,
-  $text-width: 60ch,
-  );
+  @extend %new4split;
+  @include split.new4columns(35ch, 55ch);
+  @extend %new4pics-text;
 
   .figures {
-    @include split.place(left, "4/7");
+    @include split.new4place(left, "4/7");
     align-self: center;
   }
 }
 
 .apparatus-jackson {
+  @include split.new4place(left, "2/4");
   align-self: center;
 }
 
 /////////////////////////////////////////////////////////////
 
 #neutron-reflectometry {
-  @include split.txt-pics(
-  $image-side: right,
-  $image-row-span: 3,
-  $pics-width: 40ch,
-  $text-width: 60ch,
-  );
+  @extend %new4split;
+  @include split.new4columns(55ch, 35ch);
+  @extend %new4text-pics;
 
   table {
-    @include split.spread("8/9");
+    @include split.new4spread("8/9");
 
     th, td {
       text-align: center;
@@ -290,15 +269,14 @@
 }
 
 .ill-reactor {
-  @include split.place(right, "2/4");
+  @include split.new4place(right, "2/4");
   align-self: center;
 }
 
 .d17-diagram {
-  @include split.place(right, "4/7");
+  @include split.new4place(right, "4/7");
   align-self: center;
 }
-
 
 /////////////////////////////////////////////////////////////
 
@@ -307,42 +285,38 @@
 }
 
 #adapting-the-protocol {
-  @include split.txt-pics(
-  $image-side: right,
-  $image-row-span: 3,
-  $pics-width: 40ch,
-  $text-width: 65ch,
-  );
+  @extend %new4split;
+  @include split.new4columns(60ch, 35ch);
+  @extend %new4text-pics;
 }
 
 .vapor-phase-diagram {
+  @include split.new4place(right, "1/4");
+  align-self: center;
+
   img {
-    max-width: 10rem;
+    max-width: 20ch;
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
-
-  align-self: center;
 }
 
 /////////////////////////////////////////////////////////////
 
 #contact-angle-measurement {
-  @include split.txt-pics(
-  $image-side: left,
-  $image-row-span: 3,
-  $pics-width: 40ch,
-  $text-width: 50ch,
-  );
+  @extend %new4split;
+  @include split.new4columns(35ch, 45ch);
+  @extend %new4pics-text;
 }
 
 .contact-angle-principle {
+  @include split.new4place(left, "2/4");
   align-self: center;
 }
 
 .vapor-contact-angle-results {
-  @include split.place(left, "4/5");
+  @include split.new4place(left, "4/6");
   align-self: center;
 }
 
@@ -350,7 +324,7 @@
 
 #atomic-force-microscopy {
 
-  max-width: 70ch;
+  max-width: 65ch;
   justify-self: center;
 
   .figures {
@@ -359,17 +333,14 @@
 }
 
 #antibody-microarray-on-vapor-phase-silane {
-  @include split.txt-pics(
-  $image-side: right,
-  $image-row-span: 3,
-  $pics-width: 32ch,
-  $text-width: 75ch,
-  );
+  @extend %new4split;
+  @include split.new4columns(70ch, 30ch);
+  @extend %new4text-pics;
 
   .figures {
+    @include split.new4place(right, "1/5");
     align-self: center;
   }
-
 }
 
 /////////////////////////////////////////////////////////////
@@ -379,38 +350,34 @@
 }
 
 #biochiplab {
-  @include split.txt-pics(
-  $image-side: right,
-  $image-row-span: 3,
-  $pics-width: 32ch,
-  $text-width: 68ch,
-  );
+  @extend %new4split;
+  @include split.new4columns(65ch, 30ch);
+  @extend %new4text-pics;
 
   figure {
-    @include split.place(right, "3/5");
+    @include split.new4place(right, "3/5");
     align-self: center;
   }
-
 }
 
 #fluorescence-microscopy {
-  @include split.txt-pics(
-  $image-side: left,
-  $image-row-span: 4,
-  $pics-width: 32ch,
-  $text-width: 68ch,
-  );
+  @extend %new4split;
+  @include split.new4columns(25ch, 65ch);
+  @extend %new4pics-text;
+
+  figure {
+    @include split.new4place(left, "1/5");
+    align-self: center;
+  }
 }
 
 #mass-spectrometry {
-  @include split.txt-pics(
-  $image-side: right,
-  $image-row-span: 4,
-  $pics-width: 60ch,
-  $text-width: 40ch,
-  );
+  @extend %new4split;
+  @include split.new4columns(40ch, 55ch);
+  @extend %new4text-pics;
 
   figure {
+    @include split.new4place(right, "1/5");
     align-self: center;
   }
 }

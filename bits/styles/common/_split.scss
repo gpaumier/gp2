@@ -14,8 +14,6 @@ $column-width: 80ch;
   grid-template-columns: repeat(2, minmax(min-content, 1fr));
   column-gap: calc(1.2rem + 2vw); // slightly larger than $base-unit
   margin: auto;
-  // We're using ch lengths for most of our column width declarations, so let's make sure our font size for those is the base font size, not the body font size
-  font-size: $base-unit;
 
   // by default we stack everything as if there was no split (mobile default)
   > * {
@@ -51,10 +49,6 @@ $column-width: 80ch;
 
     &:last-child {
       margin-bottom: 0;
-    }
-
-    img {
-      width: 100%;
     }
 
     figcaption {
@@ -114,14 +108,14 @@ $column-width: 80ch;
 
 //////////////////////////////////////////////////
 
-@mixin new4text-pics($image-side: "right") {
+%new4text-pics { // formerly $image-side: "right"
 
-  // Rules for splitting content into a text column and a pics column. To be embedded in a split layout, not for direct use. Made as a mixin so it can be included in both regular and with-cover split layouts.
+  // Rules for splitting content into a text column and a pics column. To be embedded in a split layout, not for direct use.
 
   @media screen and (min-width: $breakpoint) {
     > figure,
     .figures {
-      grid-column: if($image-side == "left", #{1/2}, #{-1/-2});
+      grid-column: 2/3;
     }
 
     h3,
@@ -130,13 +124,39 @@ $column-width: 80ch;
     dl,
     .footnote,
     .expert {
-      grid-column: if($image-side == "left", #{2/3}, #{-2/-3});
+      grid-column: 1/2;
       // .expert is here since by default it's going in the main column.
       // To override, use the split.new4place() mixin, but make sure the rule is specific enough to override this one
     }
 
     .footnote p {
       // add this here because specificity of p otherwise overrides the footnotes
+      grid-column: 2/3;
+    }
+  }
+}
+
+
+%new4pics-text { // formerly: text-pics(left)
+
+  // Same but flipped
+
+  @media screen and (min-width: $breakpoint) {
+    > figure,
+    .figures {
+      grid-column: 1/2;
+    }
+
+    h3,
+    h4,
+    p,
+    dl,
+    .footnote,
+    .expert {
+      grid-column: 2/3;
+    }
+
+    .footnote p {
       grid-column: 2/3;
     }
   }
@@ -310,7 +330,6 @@ $column-width: 80ch;
 
     img {
       height: 100%;
-      width: 100%;
       object-fit: cover;
       margin: 0;
       // If we have a dark background with bright text, make the background darker by reducing brightness
@@ -456,10 +475,6 @@ $column-width: 80ch;
 
   grid-column: 1/3;
 
-  img {
-    width: 100%;
-  }
-
   @media screen and (min-width: $breakpoint) {
     grid-column: if($side == "left", #{1/2}, #{-1/-2});
     grid-row: #{$grid-row};
@@ -472,10 +487,6 @@ $column-width: 80ch;
   // A utility to place split-layout figures in their proper row and columns if the built-in rules aren't enough.
 
   grid-column: 1/6;
-
-  img {
-    width: 100%;
-  }
 
   @media screen and (min-width: $breakpoint) {
     grid-column: if($side == "left", #{2/3}, #{-2/-3});

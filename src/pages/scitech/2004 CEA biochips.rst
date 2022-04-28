@@ -147,6 +147,7 @@ Substance P was used as a model molecule in the development of a novel approach 
 .. [#neuburger2006] Laure-Marie Neuburger. *Design of fluorescence immunoassays. Perspectives for continuous monitoring of biological warfare agents.* Ph.D dissertation. Chemical Sciences, AgroParisTech, 2006. `pastel-00004770 <https://hal.archives-ouvertes.fr/pastel-00004770>`__.
 
 .. figure:: /images/Biochips_Substance_P.svg
+   :figclass: substance-p
 
    Substance P.
 
