@@ -89,8 +89,11 @@ Senbazuru
 
 
 
+Greenery
+========
+
 Garden in a bottle
-==================
+------------------
 
 .. figure:: /images/2010-07-03_Qt_duck.jpg
    :alt: Placeholder
@@ -99,6 +102,18 @@ Garden in a bottle
    Placeholder caption
 
 Terrariums etc.
+
+Houseplants
+-----------
+
+.. figure:: /images/2010-07-03_Qt_duck.jpg
+   :alt: Placeholder
+   :target: /
+
+   Placeholder caption
+
+Plants, pandemic, move across the country with the truck
+
 
 
 ----
@@ -155,3 +170,23 @@ Performing arts
 
 :doc:`Enfoiros <enfoiros>`
 :doc:`Le Libertin <le-libertin>`
+
+
+
+
+----
+
+
+
+Curiosity & learning
+====================
+
+.. figure:: /images/2010-07-03_Qt_duck.jpg
+   :alt: Placeholder
+   :target: /
+
+   Placeholder caption
+
+`personal library <https://www.librarything.com/catalog/gpaumier>`__, tsundoku (photos), `reading log <https://github.com/gpaumier/reading-log>`__
+
+languages, duolingo
