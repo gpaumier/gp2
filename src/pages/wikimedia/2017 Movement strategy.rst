@@ -10,11 +10,11 @@
 .. tags: Wikimedia, strategy
 
 
-.. figure:: /images/NASA_Earth_CO2-wikimedia2030.jpg
+.. figure:: /images/luca-baggio-eKU3JGNCCMg-unsplash.jpg
    :figclass: lead-figure
-   :alt: Screenshot of a NASA video of a computer model showing how carbon dioxide in the atmosphere travels around the globe.
+   :alt: Photograph of rocks in water under a big sky full of stars and showing the Milky Way.
 
-   NASA's Goddard Space Flight Center on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:A_Year_In_The_Life_Of_Earth%27s_CO2_11719-1920-MASTER.webm>`__ // Public Domain
+   `Luca Baggio <https://unsplash.com/@luca42>`__ on `Unsplash <https://unsplash.com/photos/eKU3JGNCCMg>`__.
 
 
 .. highlights::
@@ -82,8 +82,56 @@ And so it began. We put together a team. We designed a process, and adjusted it 
       Jason Krüger for Wikimedia Deutschland e.V. (`1 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_118.jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_%E2%80%93_117.jpg>`__, `4 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_134.jpg>`__), `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__ // `Myleen Hollero <http://myleenhollero.com/>`__ (3, 5), `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
 
+Building alignment
+------------------
+
+Fast forward a little under a year, and dozens of groups and organizations endorsed the new strategic direction, focused on "Knowledge as a service" and "Knowledge equity."\ [#StrategicDirection]_
+
+Several themes emerged from the mass of information and were further integrated into successive drafts of the direction. A stable version emerged shortly before the Wikimania conference in August, and was discussed extensively online and in Montréal. I rewrote it, revised it, refined it, and it eventually became the final version of the strategic direction.
+
+After years of tensions between the Wikimedia Foundation and other actors of the Wikimedia movement, groups and individuals started declaring their intent to work together towards this future by endorsing the direction. In less than a week, over 70 groups and organizations had already endorsed it; they had committed to participating in the next phase in good faith and to come to an agreement on roles, responsibilities, and organizational strategies that would enable the movement to implement that future. In the end nearly 100 groups and organizations signed on, representing an unprecedented alignment in the history of the Wikimedia movement.\ [#Endorsements]_
+
+.. [#StrategicDirection] `Strategy > Wikimedia movement > 2017 > Direction <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/Direction>`__. Meta-Wiki, 2017.
+
+.. [#Endorsements] `Strategy > Wikimedia movement > 2017 > Direction > Endorsement <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/Direction/Endorsement>`__. Meta-Wiki. 2017.
+
+Cyndi Suarez from *Nonprofit Quarterly* wrote that "Wikimedia's Strategic Direction Project is a Model of Democracy."\ [#NPQ2030]_ Over at *Forbes*, Michael Bernick, describing "The Power Of The Wikimedia Movement Beyond Wikimedia," concluded that "[Wikimedia] gives us glimpses of what is possible in questioning hierarchies and gatekeepers—the creativity and energy unleashed, the involvement, the common ground possible—even as it continues to question and seek to improve its own structure."\ [#ForbesBernick2030]_ Ryan Merkley is fond of saying that "No one does strategy like this."\ [#MerkleyStrategy]_
+
+And yet, it worked.
+
+.. [#NPQ2030] `Wikimedia's Strategic Direction Project is a Model of Democracy <https://nonprofitquarterly.org/2018/03/30/wikimedias-strategic-direction-project-model-democracy/>`__. Cyndi Suarez. Nonprofit Quarterly, March 30, 2018.
+
+.. [#ForbesBernick2030] `The Power Of The Wikimedia Movement Beyond Wikimedia <https://www.forbes.com/sites/michaelbernick/2018/03/28/the-power-of-the-wikimedia-movement-beyond-wikimedia/#42557f8e5a75>`__. Michael Bernick. Forbes, March 28, 2018.
+
+.. [#MerkleyStrategy] "`No one does strategy like this <https://twitter.com/ryanmerkley/status/1260214328235622401>`__." Ryan Merkley (@ryanmerkley). Twitter, May 12, 2020.
+
+.. container:: hopes-fears
+
+   .. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_269.jpg
+      :figclass: hopes
+
+   .. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_268.jpg
+      :figclass: fears
+
+   .. class:: caption
+
+      "Hopes and fears" at the Wikimedia Conference in 2017. René Zieger for Wikimedia Deutschland e.V. on Wikimedia Commons (`1 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_269.jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_268.jpg>`__) //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+
+
 The 2030 horizon
-----------------
+================
+
+.. figure:: /images/NASA_Earth_CO2-wikimedia2030.jpg
+   :alt: Screenshot of a NASA video of a computer model showing how carbon dioxide in the atmosphere travels around the globe.
+
+   NASA's Goddard Space Flight Center on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:A_Year_In_The_Life_Of_Earth%27s_CO2_11719-1920-MASTER.webm>`__ // Public Domain
+
+TODO: Add intro
+
+A broad direction for the movement
+----------------------------------
 
 We started from a simple question: *What do we want to build or achieve together by 2030?* The strategic direction was not meant to be a strategic plan. Plans are usually for 3–5 years, executable and measurable, specific to organizational capacity and resources. The direction needed to be broad, enduring, ambitious, and clear enough to provide guidance on overarching goals against which a specific plan could be built. Using 2030 as a time horizon enabled us to untangle our aspirations from our more immediate roles and interests, and let our imagination roam more freely.
 
@@ -137,52 +185,17 @@ Thinking about the future is an exercise in imagination, but we're Wikimedians, 
 
       `Rod Waddington <https://www.flickr.com/people/64607715@N05>`__ (`1 <https://commons.wikimedia.org/wiki/File:Boys_in_Jibla,_Yemen_(14159835344).jpg>`__, `4 <https://commons.wikimedia.org/wiki/File:Malagasy_Kids,_Madagascar_(27013871533).jpg>`__), `CC-By-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__ // NASA `(2) <https://commons.wikimedia.org/wiki/File:Earth_Eastern_Hemisphere.jpg>`__, Public domain // `Zack McCune <https://commons.wikimedia.org/wiki/User:ZMcCune_(WMF)>`__ `(3) <https://commons.wikimedia.org/wiki/File:RamPrasadJoshi_PhoneCloseUp_WikiconferenceIndia_August6.jpg>`__, `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__ //  `Benoît Prieur <https://commons.wikimedia.org/wiki/User:Beno%C3%AEt_Prieur>`__ `(5) <https://commons.wikimedia.org/wiki/File:Cam%C3%A9ras_de_surveillance_%C3%A0_Lyon_pr%C3%A8s_des_Halles_Paul-Bocuse_(mai_2019).jpg>`__, `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-Building alignment
-------------------
 
-Fast forward a little under a year, and dozens of groups and organizations endorsed the new strategic direction, focused on "Knowledge as a service" and "Knowledge equity."\ [#StrategicDirection]_
 
-Several themes emerged from the mass of information and were further integrated into successive drafts of the direction. A stable version emerged shortly before the Wikimania conference in August, and was discussed extensively online and in Montréal. I rewrote it, revised it, refined it, and it eventually became the final version of the strategic direction.
-
-After years of tensions between the Wikimedia Foundation and other actors of the Wikimedia movement, groups and individuals started declaring their intent to work together towards this future by endorsing the direction. In less than a week, over 70 groups and organizations had already endorsed it; they had committed to participating in the next phase in good faith and to come to an agreement on roles, responsibilities, and organizational strategies that would enable the movement to implement that future. In the end nearly 100 groups and organizations signed on, representing an unprecedented alignment in the history of the Wikimedia movement.\ [#Endorsements]_
-
-.. [#StrategicDirection] `Strategy > Wikimedia movement > 2017 > Direction <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/Direction>`__. Meta-Wiki, 2017.
-
-.. [#Endorsements] `Strategy > Wikimedia movement > 2017 > Direction > Endorsement <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/Direction/Endorsement>`__. Meta-Wiki. 2017.
-
-Cyndi Suarez from *Nonprofit Quarterly* wrote that "Wikimedia's Strategic Direction Project is a Model of Democracy."\ [#NPQ2030]_ Over at *Forbes*, Michael Bernick, describing "The Power Of The Wikimedia Movement Beyond Wikimedia," concluded that "[Wikimedia] gives us glimpses of what is possible in questioning hierarchies and gatekeepers—the creativity and energy unleashed, the involvement, the common ground possible—even as it continues to question and seek to improve its own structure."\ [#ForbesBernick2030]_ Ryan Merkley is fond of saying that "No one does strategy like this."\ [#MerkleyStrategy]_
-
-And yet, it worked.
-
-.. [#NPQ2030] `Wikimedia's Strategic Direction Project is a Model of Democracy <https://nonprofitquarterly.org/2018/03/30/wikimedias-strategic-direction-project-model-democracy/>`__. Cyndi Suarez. Nonprofit Quarterly, March 30, 2018.
-
-.. [#ForbesBernick2030] `The Power Of The Wikimedia Movement Beyond Wikimedia <https://www.forbes.com/sites/michaelbernick/2018/03/28/the-power-of-the-wikimedia-movement-beyond-wikimedia/#42557f8e5a75>`__. Michael Bernick. Forbes, March 28, 2018.
-
-.. [#MerkleyStrategy] "`No one does strategy like this <https://twitter.com/ryanmerkley/status/1260214328235622401>`__." Ryan Merkley (@ryanmerkley). Twitter, May 12, 2020.
-
-.. container:: hopes-fears
-
-   .. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_269.jpg
-      :figclass: hopes
-
-   .. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_268.jpg
-      :figclass: fears
-
-   .. class:: caption
-
-      "Hopes and fears" at the Wikimedia Conference in 2017. René Zieger for Wikimedia Deutschland e.V. on Wikimedia Commons (`1 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_269.jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2017_by_Ren%C3%A9_Zieger_%E2%80%93_268.jpg>`__) //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 Engaging a whole movement
 =========================
-
 
 .. figure:: /images/Wikimedia_Summit_2019_-_172.jpg
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_172.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-
 TODO: add intro
-
 
 Learning from each other
 ------------------------
@@ -215,10 +228,50 @@ All those discussions and research projects produced massive amounts of notes, r
      <figcaption>Video loaded from YouTube <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>. Also available on <a class="reference external" href="https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_metrics_and_activities_meeting_-_April_2017.webm">Wikimedia Commons</a>.</figcaption>
    </figure>
 
+Amplifying new voices
+---------------------
+.. figure:: /images/Meet-up_1_2019_de_la_strategie_2030_14.jpg
+
+   `Aman ADO <https://commons.wikimedia.org/wiki/User:Aman_ADO>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Meet-up_1_2019_de_la_strat%C3%A9gie_2030_14.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+As we were looking at the trends to consider, we also needed to go beyond what we knew, and who we were familiar with. Our vision requires that we realize that we're not alone. We're part of an ecosystem, and we need others. We need partners. Those voices will help define our future, because they're part of it.
+
+This work involved hundreds of interviews, small-group discussions ("salons"), research, and building relationships for future collaboration. The Foundation notably partnered with Reboot in Indonesia and Brazil,\ [#Reboot]_ to conduct research complementary to what was done with the New Readers program in countries where Wikimedia wasn't well known.\ [#NewReaders]_ They interviewed partners, subject matter experts, and conducted contextual inquiries with readers in their own environment using methods of design research. In parallel, they also conducted online surveys in the places where we were the most popular, to understand how people perceive and use Wikimedia.
+
+.. [#Reboot] `Reboot <https://www.reboot.org/>`__ is a small consultancy firm Reboot founded "on the belief that all people, especially those that have been historically oppressed and marginalized, deserve a meaningful say in shaping our world."
+
+.. [#NewReaders] The `New Readers program <https://meta.wikimedia.org/wiki/New_Readers>`__ was an interdisciplinary initiative of the Foundation between 2016 and 2019 whose goal was "understanding and serving potential Wikimedia readers in countries where access to the internet [was] quickly growing."
+
+This work informed and complemented community discussions with new voices that hadn't traditionally been included in strategy discussions, or that were not yet part of the movement. They helped us identify the global trends that we needed to consider as we discussed our future.
+
+The Foundation couldn't do this alone; we are a global and distributed movement, and local relationships are much more likely to bear fruit than a centralized approach. The Foundation also reserved budget for affiliates to run small-group discussions with subject matter experts.
+
+.. container:: new-voices
+
+   .. figure:: /images/Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Indigenas_-_Cochabamba,_Bolivia.jpg
+      :figclass: new-voices1
+
+   .. figure:: /images/Photo_de_famille_15.jpg
+      :figclass: new-voices2
+
+   .. figure:: /images/2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_&_Maithili_Wikimedians_1001_22.jpg
+      :figclass: new-voices3
+
+   .. figure:: /images/Salon_strategique_wikimedia_cote_Ivoire_2019_35_retouche.jpg
+      :figclass: new-voices4
+
+   .. class:: caption
+
+      `Barrioflores <https://commons.wikimedia.org/wiki/User:Barrioflores>`__ `(1) <https://commons.wikimedia.org/wiki/File:Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Ind%C3%ADgenas_-_Cochabamba,_Bolivia.jpg>`__ // `Aman ADO <https://commons.wikimedia.org/wiki/User:Aman_ADO>`__ `(2) <https://commons.wikimedia.org/wiki/File:Photo_de_famille_15.jpg>`__ // `Nabin K. Sapkota <https://commons.wikimedia.org/wiki/User:Nabin_K._Sapkota>`__ `(3) <https://commons.wikimedia.org/wiki/File:2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_%26_Maithili_Wikimedians_1001_22.jpg>`__ // `Modjou <https://commons.wikimedia.org/wiki/User:Modjou>`__ `(4) <https://commons.wikimedia.org/wiki/File:Salon_strat%C3%A9gique_wikimedia_c%C3%B4te_d%27Ivoire_2019_35_(retouche).jpg>`__ // All `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
-Converging on a strategic direction
------------------------------------
+The Strategic Direction
+=======================
+
+.. TODO: Add hero image, add intro
+
+Roads, bridges, and villages
+----------------------------
 
 Wikimania, the annual conference of Wikimedians, was the first opportunity for the Wikimedia movement to discuss the draft strategic direction. The conference in Montréal was a chance to celebrate the concrete artifact borne out of months of intense online discussions, and to continue the conversations in person. Of course, only a small part of the Wikimedia movement ever attends the conference, so we also sought feedback in many other forums as well, including smaller regional meetups.
 
@@ -236,12 +289,18 @@ The "roads and bridges" were a direct reference to Nadia Eghbal's excellent rese
 
 .. [#EghbalRoadsBridges] `Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure <https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/>`__. Nadia Eghbal. Ford Foundation, 2016.
 
+Converging on a shared direction
+--------------------------------
+
 As it turned out, many Wikimedians found the metaphors to be too "flowery" and "poetic," too far removed from the seriousness of their endeavor. Some also took offense at the comparison to villages; they explained that in their culture, small settlements have a negative connotation of backwardness and stagnation, and that real change and advancement happens in cities. When I rewrote the direction to integrate all the feedback, I took this into account and decided to use more precise (and complex) words like "infrastructure" and "ecosystem" instead, and to explain how to translate those concepts instead of translating words.\ [#TranslateExt]_
 
 .. [#TranslateExt] Translation of pages on Wikimedia sites happens through the "Translate extension," a dedicated tool built for the MediaWiki software. When preparing pages for translation, an author may add "message documentation" to provide additional context to translators about a particular sentence or paragraph. I used this feature to describe concepts like "the essential infrastructure" ("idea of a backbone, foundation. Something that allows something to stand up; Something upon which one builds something else") and "ecosystem" ("idea of an organic, dynamic group, network, or environment, with many components that have effects on each other and sometimes depend on each other"). See `Example of message documentation for the first paragraph of the Strategic Direction <https://meta.wikimedia.org/wiki/Translations:Strategy/Wikimedia_movement/2017/Direction/182/qqq>`__, Meta-Wiki, 2017.
 
 Some Wikimedians found the Wikimania draft to focus too much on technical infrastructure and tools. A first attempt at better highlighting the human aspect of the movement left others feeling that the technical aspects were not emphasized enough. We eventually settled on a strategic direction that acknowledged the duality of our movement as a complex socio-technical system, and painted the vision of a future to which everyone could contribute.
 
+.. TODO: Knowledge Equity and Knowledge as a service
+
+.. TODO: add paragraph about endorsements. I worked with Nicole Ebber, who was leading and coordinating our work with "organized groups" across the movement (meaning chapters, user groups, and other affiliates).
 
 .. container:: wikimania2017
 
@@ -263,46 +322,6 @@ Some Wikimedians found the Wikimania draft to focus too much on technical infras
    .. class:: caption
 
       Abby Walla / Wikimedia Foundation (`1 <https://commons.wikimedia.org/wiki/File:2017_Movement_Strategy_at_Wikimania_-_participation_in_session_04-03.jpg>`__, `4 <https://commons.wikimedia.org/wiki/File:2017_Wikimedia_Movement_Strategy_at_Wikimania_-_session_04-02_-_photo_4.jpg>`__), `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__. // © Nadia Eghbal / Ford Foundation `(2) <https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/>`__ // `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ (`3 <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_06.jpg>`__, `5 <https://commons.wikimedia.org/wiki/File:Wikimedia_movement_strategy_at_Wikimania_2017_08.jpg>`__), `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-Amplifying new voices
-=====================
-
-.. figure:: /images/Meet-up_1_2019_de_la_strategie_2030_14.jpg
-
-   `Aman ADO <https://commons.wikimedia.org/wiki/User:Aman_ADO>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Meet-up_1_2019_de_la_strat%C3%A9gie_2030_14.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
-
-As we're looking at the trends to consider, we also need to go beyond what we know and who we know. Our vision, what we're set to accomplish, requires that we realize that we're not alone. We're part of an ecosystem, and we need others. We need partners. Those voices will help define our future, because they're part of it.
-
-Partners and those who have been left out
------------------------------------------
-
-This work involves hundreds of interviews, small-group discussions (“salons”), research, and building relationships for future collaboration. The Foundation is notably partnering with Reboot in Indonesia and Brazil to conduct research that is complementary to what was done with the New Readers program in countries where Wikimedia isn't as well known as what we're used to. They will interview partners, subject matter experts, and conduct contextual inquiries with readers in their own environment using methods of design research. In parallel, online surveys are being conducted in the places where we are the most popular, to understand how people perceive and use Wikimedia.
-
-This work will inform and complement community discussions with new voices that haven't traditionally been included in strategy discussions, or that are not yet part of the movement. They can help us identify the global trends that I mentioned earlier as what we should be considering as we discuss our future. For example, scenario planning is going to help us better understand what the world will look like in 2030, notably in terms of demographics, technology, media consumption habits, access to knowledge, and policy.
-
-Some of that has already happened, and it will continue over the next few months. The information will be posted on Meta as it comes in. If you have recommendations of experts and partners in your circles or geographies that would enrich this discussion, you're welcome to suggest their names on Meta. But more importantly, you can reach out to them yourself. The Foundation can't do this alone; we are a global and distributed movement, and local relationships are much more likely to bear fruit than a centralized approach. The Foundation has also reserved budget for affiliates who want to run small-group discussions with subject matter experts. If this is something that motivates you, you can contact me and I will direct you to the people who can provide some advice on how to proceed.
-
-
-.. container:: new-voices
-
-   .. figure:: /images/Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Indigenas_-_Cochabamba,_Bolivia.jpg
-      :figclass: new-voices1
-
-   .. figure:: /images/Photo_de_famille_15.jpg
-      :figclass: new-voices2
-
-   .. figure:: /images/2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_&_Maithili_Wikimedians_1001_22.jpg
-      :figclass: new-voices3
-
-   .. figure:: /images/Salon_strategique_wikimedia_cote_Ivoire_2019_35_retouche.jpg
-      :figclass: new-voices4
-
-   .. class:: caption
-
-      `Barrioflores <https://commons.wikimedia.org/wiki/User:Barrioflores>`__ `(1) <https://commons.wikimedia.org/wiki/File:Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Ind%C3%ADgenas_-_Cochabamba,_Bolivia.jpg>`__ // `Aman ADO <https://commons.wikimedia.org/wiki/User:Aman_ADO>`__ `(2) <https://commons.wikimedia.org/wiki/File:Photo_de_famille_15.jpg>`__ // `Nabin K. Sapkota <https://commons.wikimedia.org/wiki/User:Nabin_K._Sapkota>`__ `(3) <https://commons.wikimedia.org/wiki/File:2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_%26_Maithili_Wikimedians_1001_22.jpg>`__ // `Modjou <https://commons.wikimedia.org/wiki/User:Modjou>`__ `(4) <https://commons.wikimedia.org/wiki/File:Salon_strat%C3%A9gique_wikimedia_c%C3%B4te_d%27Ivoire_2019_35_(retouche).jpg>`__ // All `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 Recommendations and implementation
@@ -331,10 +350,12 @@ For my part: decided to focus on another endeavor as I joined the Wikimedia Foun
 
 I was not done thinking about the future though. Taking the long view. :doc:`2031 scenarios <2031-scenarios>`
 
-Towards implementation
-----------------------
+Phase 3 and beyond: Towards implementation
+------------------------------------------
 
 https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2018-20/Reports/Movement_Strategy_Playbook
+
+MTP, then Strategic direction as the basis for the annual plan of the Foundation starting in 2022
 
 The People
 ==========
