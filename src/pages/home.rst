@@ -10,59 +10,61 @@
 
     Hi there.
 
-    I'm Guillaume, and I use my superpowers for good.
+    I'm Guillaume, and I use my superpowers for good. I'm an expert at untangling things and reweaving them in ways that make sense.
 
     (pronounced "gui-yom" (:abbr:`IPA (International Phonetic Alphabet)`: [ɡijom])
 
-I'm a science Ph.D, a photographer and a master of organization & optimization. For fun, I travel, I put things into boxes and I play Lego.
 
+In my work, I guide executives and mission-driven organizations through intricate, interdisciplinary challenges using integrative thinking, curiosity, and empathy.
 
-In my work, I guide executives and mission-driven organizations through intricate, interdisciplinary challenges using integrative thinking, ingenuity, and empathy.
+In recent years, I have developed a specialty of serving as a trusted agent, confidant, and thought partner for executives. I have focused on strategic planning, revenue strategy, and generally bringing clarity to complex socio-technical problems.
 
-I like to tackle complex problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process, culminating with a hundred independent organizations worldwide agreeing on a common strategic direction.\ [1]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [2]_ Or designing software that powers the World's largest photography competition.
-
-I currently work at the Wikimedia Foundation, the nonprofit organization that brings free knowledge to hundreds of millions of people every month and supports them as they collectively make sense of our world.
+I currently work at the Wikimedia Foundation, the nonprofit organization that brings free knowledge to hundreds of millions of people every month, and supports them as they collectively make sense of our world.
 
 Read on to learn more about my story, or :ref:`scroll down <footer-contact>` to contact me.
 
-.. [1] :doc:`Wikimedia 2030: participatory strategy for a global movement <wikimedia2030>`
+----
 
-.. [2] :doc:`Ph.D thesis: PNIPAM technologies for labs-on-chips <phd>`
+How I think
+===========
+
+Integrating information
+-----------------------
+
+I have the ability to absorb massive amounts of information on almost any topic, and quickly understand new paradigms.\ [#Pretender]_ Although a physics engineer by training, I have held many different roles over the years, earning from my colleagues nicknames such as the "staff economist," "staff philosopher," and "the soul of the organization."
+
+I like to tackle complex problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process, culminating with a hundred independent organizations worldwide agreeing on a common strategic direction.\ [#Wikimedia2030]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [#PNIPAM]_ Or designing software that powers the World's largest photography competition.
+
+I communicate from a place of curiosity: I ask a lot of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. When faced with equally unsatisfactory choices, I seek to combine them or find new ones.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, and prefer instead to find solutions with others using the Socratic method.
+
+.. [#Pretender] Kinda like Jarod in the 1996 NBC series |The Pretender|_, except not quite as extraordinary, and sans the abduction-escape-and-chase by a nefarious Delaware-based organization.
+
+.. |The Pretender| replace:: *The Pretender*
+
+.. _The Pretender: https://en.wikipedia.org/wiki/The_Pretender_(TV_series)>
+
+.. [#Wikimedia2030] :doc:`Wikimedia 2030: participatory strategy for a global movement <wikimedia2030>`
+
+.. [#PNIPAM] :doc:`Ph.D thesis: PNIPAM technologies for labs-on-chips <phd>`
 
 .. .. [3] :doc:`Wikimedia Commons UploadWizard <uploadwizard>`
 
+.. [#CreatingGreatChoices] Although this process comes naturally to me, Roger Martin and Jennifer Riel refer to it as "integrative thinking" in their 2017 book, *Creating Great Choices: A Leader's Guide to Integrative Thinking* (Harvard Business Review Press. ISBN 978-1633692961). Their work builds on Martin's earlier book, *The Opposable Mind*, which focused on leaders who "can hold two opposing ideas in their minds at once, and then reach a synthesis that actually improves on each." (Harvard Business Review Press, 2007. ISBN 978-1422118924).
 
-----
 
-.. class:: present
-
-How I think/work
-================
-
-Integrating information
-
-I have the ability to absorb massive amounts of information on almost any topic, and extract their essence to produce a.
-I take streams of information and reweave them in ways that integrate
-
-* ability to learn quickly
-* research
-* Deconstruct, arrange in new ways, sensemaking, build up and construct something new, novel
-* weaving in new ways
-* ability to
-* Integrative thinking and pattern recognition are my talents.
-* That is how I connect the dots and find the signals emerging from the noise.
-* document
-* sometimes contradictory
-* find commonalities
+.. https://xkcd.com/356/
 
 Understanding the human element
+-------------------------------
 
-* emotions, cognitive biases, power dynamics, structural inequality
-* variety of subjective human experiences
-* My journey of self-discovery has led me to realize the importance of the human element in
-* We are faillible. importance of acknowledging failures and learning from them
+Very few problems are purely technical; solving problems often means acknowledging, understanding, and taking into account human emotions, cognitive biases, power dynamics, historical context, privilege, and structural inequality. My own journey of self-discovery has helped me understand the importance of the human element, and the need to consider the variety of subjective human experiences. In particular, when solving problems, I believe it is essential to accept our fallibility, acknowledge failures, and learn from them.
 
+I feel compelled to use my skills for the common good, and I have a particular affinity for mission-driven organizations that seek  transformative social change. I find John Rawls's "veil of ignorance" approach to be a useful basis for a theory of justice,\ [#VeilOfIgnorance]_ particularly in the context of the climate crisis. I believe in building a fair, just, pluralistic society, and in dismantling systems of oppression. 
 
+.. [#VeilOfIgnorance] The "`veil of ignorance <https://en.wikipedia.org/wiki/Original_position>`__" approach (also called "original position") formulated by Rawls invites us to make decisions about the basic structure of society from "behind the veil," meaning as if you had no knowledge of the ethnicity, social status, gender, or other characteristics you will find yourself with in that society.
+
+Seeing systems
+--------------
 
 clarity and complexity
 
@@ -85,10 +87,17 @@ I have a talent for bringing clarity to complex problems.
 * As a scientist, my process is to start from diligent discovery, seek out multiple perspectives, and convert research into insights. I love to understand how systems work, experiment, document, and distill knowledge from observational evidence.
 
 
-Bridging people and disciplines
+
+
+Connecting people and ideas
+---------------------------
+
+My interdisciplinary research taught me to connect ideas across disciplines, a skill I have used to help people from different backgrounds understand each other and build trust.
 
 I am able to quickly learn new concepts and become fluent in new disciplines, which makes me a great interface between people working on interdisciplinary projects.
 
+* pattern recognition
+* That is how I connect the dots
 * interdisciplinarity, working across fields with people from different backgrounds
 * I am an interface between people and fields and ideas
 * I like to connect ideas across fields and bridge people across teams
@@ -97,14 +106,6 @@ I am able to quickly learn new concepts and become fluent in new disciplines, wh
 * is what motivates me the most, as it gives me the opportunity to constantly learn, challenge my world view, and build relationships with people from different backgrounds,
 * building community by bringing differences together and finding common ground. It takes more work, but it's more sustainable and rewarding in the long term than excluding others based on arbitrary characteristics to reinforce the sense of in-group.
 
-
-Use those skills towards:
-
-* transformative social change
-* fairness, justice, pluralism, pluralistic society
-* positive impact
-* mission-driven organizations
-* particularly in the context of the climate crisis
 
 
 .. figure:: /images/Jalal_al-Din_Rumi,_Maulana_-_Townspeople_and_elephant.jpg
@@ -125,7 +126,7 @@ Individual decision-making can be impeded by bounded rationality and selective e
 
 It takes a village.
 
-Barn raising is a fundamental concept in online communities like ours. Barn raising "occurs when a community actively decides to come to the same place at the same time to help achieve some specific goal."\ [#BarnRaisingMeatBall]_ The metaphor comes from the collective effort needed to raise an actual barn,\ [#BarnRaisingWP]_ a process that is all but impossible to do on one's own, and demands collaboration and good will from the community. While mostly reminiscent of 18th- and 19th-century rural North America, barn raising is only one example of communal work encountered in many societies around the world.\ [#CommunalWork]_ The Indonesian ethos of *Gotong royong* similarly refers to carrying burdens together, which sometimes translates to literally carrying your neighbor's home to a new location.\ [#GotongRoyong]_
+Barn raising is a fundamental concept in the study of online communities. Barn raising "occurs when a community actively decides to come to the same place at the same time to help achieve some specific goal."\ [#BarnRaisingMeatBall]_ The metaphor comes from the collective effort needed to raise an actual barn,\ [#BarnRaisingWP]_ a process that is all but impossible to do on one's own, and demands collaboration and good will from the community. While mostly reminiscent of 18th- and 19th-century rural North America, barn raising is only one example of communal work encountered in many societies around the world.\ [#CommunalWork]_ The Indonesian ethos of *Gotong royong* similarly refers to carrying burdens together, which sometimes translates to literally carrying your neighbor's home to a new location.\ [#GotongRoyong]_
 
 Wikis are built by people coming together to achieve something that one person couldn't do alone. Most human endeavors are no different. A good strategy with broad alignment can't be built by just the CEO or a few executives. It takes a collective effort to carry this burden together and build it in the wiki spirit of good-faith collaboration. Only then can we raise the barn as a community.
 
