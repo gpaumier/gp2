@@ -37,11 +37,6 @@ Images
 
 
 
-.. figure:: /images/2017_Allhands_MH_20119-edit.jpg
-   :figwidth: 30em
-
-   `Myleen Hollero <http://myleenhollero.com/>`__ // `CC-BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
-
 
 
 
@@ -59,11 +54,6 @@ Images
 
 
 
-
-.. figure:: /images/maxime-bhm-icyZmdkCGZ0-unsplash.jpg
-   :figwidth: 30em
-
-   `Maxime Bhm <https://unsplash.com/@maximebhm>`__ on `Unsplash <https://unsplash.com/photos/icyZmdkCGZ0>`__.
 
 
 .. figure:: /images/katie-moum-7XGtYefMXiQ-unsplash.jpg
@@ -111,11 +101,6 @@ Images
 
    `Lianhao Qu <https://unsplash.com/@lianhao>`__ on `Unsplash <https://unsplash.com/photos/LfaN1gswV5c>`__.
 
-
-.. figure:: /images/alina-grubnyak-ZiQkhI7417A-unsplash.jpg
-   :figwidth: 30em
-
-   `Alina Grubnyak <https://unsplash.com/@alinnnaaaa>`__ on `Unsplash <https://unsplash.com/photos/ZiQkhI7417A>`__.
 
 
 

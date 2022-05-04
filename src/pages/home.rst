@@ -31,13 +31,15 @@ How I think
 Integrating information
 -----------------------
 
+.. figure:: /images/2013-10-08_Presse_Marinoni_8863.jpg
+
 I have the ability to absorb massive amounts of information on almost any topic, and quickly understand new paradigms.\ [#Pretender]_ Although a physics engineer by training, I have held many different roles over the years, earning from my colleagues nicknames such as the "staff economist," "staff philosopher," and "the soul of the organization."
 
 I like to tackle complex problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process, culminating with a hundred independent organizations worldwide agreeing on a common strategic direction.\ [#Wikimedia2030]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [#PNIPAM]_ Or designing software that powers the World's largest photography competition.
 
-I communicate from a place of curiosity: I ask a lot of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. When faced with equally unsatisfactory choices, I seek to combine them or find new ones.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, and prefer instead to find solutions with others using the Socratic method.
+I communicate from a place of curiosity: I ask a lot of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. When two opposite choices are unsatisfactory, I seek to find a third one.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, and prefer instead to find solutions with others using the Socratic method.
 
-.. [#Pretender] Kinda like Jarod in the 1996 NBC series |The Pretender|_, except not quite as extraordinary, and sans the abduction-escape-and-chase by a nefarious Delaware-based organization.
+.. [#Pretender] A bit like Jarod in the 1996 NBC series |The Pretender|_, except not quite as extraordinary, and sans the abduction-escape-and-chase by a nefarious Delaware-based organization.
 
 .. |The Pretender| replace:: *The Pretender*
 
@@ -57,20 +59,35 @@ I communicate from a place of curiosity: I ask a lot of questions to learn more 
 Understanding the human element
 -------------------------------
 
-Very few problems are purely technical; solving problems often means acknowledging, understanding, and taking into account human emotions, cognitive biases, power dynamics, historical context, privilege, and structural inequality. My own journey of self-discovery has helped me understand the importance of the human element, and the need to consider the variety of subjective human experiences. In particular, when solving problems, I believe it is essential to accept our fallibility, acknowledge failures, and learn from them.
+.. figure:: /images/maxime-bhm-icyZmdkCGZ0-unsplash.jpg
 
-I feel compelled to use my skills for the common good, and I have a particular affinity for mission-driven organizations that seek  transformative social change. I find John Rawls's "veil of ignorance" approach to be a useful basis for a theory of justice,\ [#VeilOfIgnorance]_ particularly in the context of the climate crisis. I believe in building a fair, just, pluralistic society, and in dismantling systems of oppression. 
+   `Maxime Bhm <https://unsplash.com/@maximebhm>`__ on `Unsplash <https://unsplash.com/photos/icyZmdkCGZ0>`__.
+
+Very few problems are purely technical; solving problems often means understanding human emotions, cognitive biases, power dynamics, historical context, privilege, and structural inequality. My own journey of self-discovery has taught the importance of the human element, and the need to consider the variety of subjective human experiences. In particular, when solving problems, I believe it is essential to accept our fallibility, acknowledge failures, and learn from them.
+
+
+Justice and belonging
+---------------------
+
+.. figure:: /images/markus-spiske-XcWtrmI6mpg-unsplash.jpg
+
+   `Markus Spiske <https://unsplash.com/@markusspiske>`__ on `Unsplash <https://unsplash.com/photos/XcWtrmI6mpg>`__.
+
+I feel compelled to use my skills for the common good, and I have a particular affinity for mission-driven organizations that seek  transformative social change. I find John Rawls's "veil of ignorance" approach to be a useful basis for a theory of justice,\ [#VeilOfIgnorance]_ particularly in the context of the climate crisis. I believe in building a fair, just, pluralistic society, and in dismantling systems of oppression.
 
 .. [#VeilOfIgnorance] The "`veil of ignorance <https://en.wikipedia.org/wiki/Original_position>`__" approach (also called "original position") formulated by Rawls invites us to make decisions about the basic structure of society from "behind the veil," meaning as if you had no knowledge of the ethnicity, social status, gender, or other characteristics you will find yourself with in that society.
 
 Seeing systems
 --------------
 
+.. figure:: /images/alina-grubnyak-ZiQkhI7417A-unsplash.jpg
+
+   `Alina Grubnyak <https://unsplash.com/@alinnnaaaa>`__ on `Unsplash <https://unsplash.com/photos/ZiQkhI7417A>`__.
+
+
 clarity and complexity
 
 I have a talent for bringing clarity to complex problems.
-
-
 
 * discernment
 * bringing clarity
@@ -88,11 +105,21 @@ I have a talent for bringing clarity to complex problems.
 
 
 
+My favorite problems are those without an obvious solution, because I get to learn new things
+
+
+who navigates complexity expertly, who thinks in systems, who's comfortable with ambiguity
 
 Connecting people and ideas
 ---------------------------
 
+.. figure:: /images/2017_Allhands_MH_20119-edit.jpg
+
+   `Myleen Hollero <http://myleenhollero.com/>`__ // `CC-BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
+
 My interdisciplinary research taught me to connect ideas across disciplines, a skill I have used to help people from different backgrounds understand each other and build trust.
+
+In college, I started studying math and computer science before pivoting to engineering physics and nanotechnology. Then, I sought out interdisciplinary work at the crossroads of microelectronics, chemistry, and biology. Later, I joined Wikipedia and applied my skills to software product management, communications, strategy, and revenue.
 
 I am able to quickly learn new concepts and become fluent in new disciplines, which makes me a great interface between people working on interdisciplinary projects.
 
@@ -109,18 +136,17 @@ I am able to quickly learn new concepts and become fluent in new disciplines, wh
 
 
 .. figure:: /images/Jalal_al-Din_Rumi,_Maulana_-_Townspeople_and_elephant.jpg
-   :figwidth: 30em
 
    Seeking multiple perspectives to `get more hands onto that elephant <https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>`__. `Townspeople, Who have Never Seen an Elephant, Examine its Appearance in the Dark <https://commons.wikimedia.org/wiki/File:Jalal_al-Din_Rumi,_Maulana_-_Townspeople,_Who_have_Never_Seen_an_Elephant,_Examine_its_Appearance_in_the_Dark_-_Walters_W626117B_-_Full_Page.jpg>`__
 
 
+defer judgment until we understand the different perspectives.
 
 Individual decision-making can be impeded by bounded rationality and selective exposure. An additional concern when discussing specialized topics as a large group is the information deficit of its members and the communal reinforcement built in the group over time. In order to mitigate those limitations, I strive to frame the issues I work on by situating the problem in its broader landscape, as a way to increase the quality of information available for decision-making.
 
 ----
 
 .. figure:: /images/Gotong_Royong_Pindah_Rumah.jpg
-   :figwidth: 30em
 
    Herusutimbul on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gotong_Royong_Pindah_Rumah.jpg>`_ // `CC-By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_
 
@@ -181,11 +207,11 @@ We encourage others to do what we can’t, and we help them succeed. When voices
 
 
 .. figure:: /images/2012-03-22_Selfie_on_the_Queen_Mary_2173.jpg
-   :figwidth: 10em
+
 .. figure:: /images/2016-06-06_Libres_conseils_1011.jpg
-   :figwidth: 10em
+
 .. figure:: /images/2007-07-05_Wikimania_group_0302.jpg
-   :figwidth: 10em
+
 
 ----
 
@@ -194,6 +220,7 @@ We encourage others to do what we can’t, and we help them succeed. When voices
 Science & Engineering
 =====================
 
+.. figure:: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
 
 I initially majored in Mathematics and Computer Science before turning to Physics, with a double major in Materials & Semiconductors and in Nanotechnology. I went on to develop :doc:`chemical processes for biochips <biochips>` and then completed my Ph.D on :doc:`polymer microsystems for biological analysis <phd>`.
 
@@ -206,14 +233,6 @@ microsystem
 
 
 .. TODO: Add link to studies page once written: :doc:`engineering physics and nanotechnology <studies>`,
-
-
-.. figure:: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
-   :figwidth: 10em
-
-.. figure:: /images/2013-10-08_Presse_Marinoni_8863.jpg
-   :figwidth: 10em
-
 
 
 ----
@@ -289,4 +308,4 @@ A year later, I enrolled at a *Grande École* to study engineering physics, micr
 
 Not all of those reasons were good reasons. Youth is naïve. It all turned out alright.
 
-.. [#faust] :title-reference:`Le Cycle de F.A.U.S.T.: Les Défenseurs`. Serge Lehman. Fleuve Noir (1996) `ISBN 978-2265060937 <http://www.worldcat.org/search?q=978-2265060937>`_.
+.. [#faust] :title-reference:`Le Cycle de F.A.U.S.T. : Les Défenseurs`. Serge Lehman. Fleuve Noir (1996) `ISBN 978-2265060937 <http://www.worldcat.org/search?q=978-2265060937>`_.
