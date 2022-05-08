@@ -28,6 +28,10 @@ Read on to learn more about my story, or :ref:`scroll down <footer-contact>` to 
 How I think
 ===========
 
+.. figure:: /images/yumi-kim-ofhso5YyN3o-unsplash.jpg
+
+   `Yumi Kim <https://unsplash.com/@jst_yumi>`__ on `Unsplash <https://unsplash.com/photos/ofhso5YyN3o>`__
+
 Integrating information
 -----------------------
 
@@ -66,17 +70,6 @@ Understanding the human element
 Very few problems are purely technical; solving problems often means understanding human emotions, cognitive biases, power dynamics, historical context, privilege, and structural inequality. My own journey of self-discovery has taught the importance of the human element, and the need to consider the variety of subjective human experiences. In particular, when solving problems, I believe it is essential to accept our fallibility, acknowledge failures, and learn from them.
 
 
-Justice and belonging
----------------------
-
-.. figure:: /images/markus-spiske-XcWtrmI6mpg-unsplash.jpg
-
-   `Markus Spiske <https://unsplash.com/@markusspiske>`__ on `Unsplash <https://unsplash.com/photos/XcWtrmI6mpg>`__.
-
-I feel compelled to use my skills for the common good, and I have a particular affinity for mission-driven organizations that seek  transformative social change. I find John Rawls's "veil of ignorance" approach to be a useful basis for a theory of justice,\ [#VeilOfIgnorance]_ particularly in the context of the climate crisis. I believe in building a fair, just, pluralistic society, and in dismantling systems of oppression.
-
-.. [#VeilOfIgnorance] The "`veil of ignorance <https://en.wikipedia.org/wiki/Original_position>`__" approach (also called "original position") formulated by Rawls invites us to make decisions about the basic structure of society from "behind the veil," meaning as if you had no knowledge of the ethnicity, social status, gender, or other characteristics you will find yourself with in that society.
-
 Seeing systems
 --------------
 
@@ -103,10 +96,7 @@ I have a talent for bringing clarity to complex problems.
 * use my ability to recognize patterns and connect the dots to find the signals that emerge from the noise.
 * As a scientist, my process is to start from diligent discovery, seek out multiple perspectives, and convert research into insights. I love to understand how systems work, experiment, document, and distill knowledge from observational evidence.
 
-
-
 My favorite problems are those without an obvious solution, because I get to learn new things
-
 
 who navigates complexity expertly, who thinks in systems, who's comfortable with ambiguity
 
@@ -135,6 +125,9 @@ I am able to quickly learn new concepts and become fluent in new disciplines, wh
 
 
 
+Seeing different perspectives
+-----------------------------
+
 .. figure:: /images/Jalal_al-Din_Rumi,_Maulana_-_Townspeople_and_elephant.jpg
 
    Seeking multiple perspectives to `get more hands onto that elephant <https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>`__. `Townspeople, Who have Never Seen an Elephant, Examine its Appearance in the Dark <https://commons.wikimedia.org/wiki/File:Jalal_al-Din_Rumi,_Maulana_-_Townspeople,_Who_have_Never_Seen_an_Elephant,_Examine_its_Appearance_in_the_Dark_-_Walters_W626117B_-_Full_Page.jpg>`__
@@ -144,7 +137,9 @@ defer judgment until we understand the different perspectives.
 
 Individual decision-making can be impeded by bounded rationality and selective exposure. An additional concern when discussing specialized topics as a large group is the information deficit of its members and the communal reinforcement built in the group over time. In order to mitigate those limitations, I strive to frame the issues I work on by situating the problem in its broader landscape, as a way to increase the quality of information available for decision-making.
 
-----
+
+Working as a community
+----------------------
 
 .. figure:: /images/Gotong_Royong_Pindah_Rumah.jpg
 
@@ -165,6 +160,16 @@ Wikis are built by people coming together to achieve something that one person c
 .. [#GotongRoyong] See `Gotong royong <https://id.wikipedia.org/wiki/Gotong_royong>`_ on the Indonesian-language Wikipedia.
 
 
+Justice and belonging
+---------------------
+
+.. figure:: /images/markus-spiske-XcWtrmI6mpg-unsplash.jpg
+
+   `Markus Spiske <https://unsplash.com/@markusspiske>`__ on `Unsplash <https://unsplash.com/photos/XcWtrmI6mpg>`__.
+
+I feel compelled to use my skills for the common good, and I have a particular affinity for mission-driven organizations that seek  transformative social change. I find John Rawls's "veil of ignorance" approach to be a useful basis for a theory of justice,\ [#VeilOfIgnorance]_ particularly in the context of the climate crisis. I believe in building a fair, just, pluralistic society, and in dismantling systems of oppression.
+
+.. [#VeilOfIgnorance] The "`veil of ignorance <https://en.wikipedia.org/wiki/Original_position>`__" approach (also called "original position") formulated by Rawls invites us to make decisions about the basic structure of society from "behind the veil," meaning as if you had no knowledge of the ethnicity, social status, gender, or other characteristics you will find yourself with in that society.
 
 ----
 
@@ -173,6 +178,10 @@ Wikis are built by people coming together to achieve something that one person c
 Knowledge belongs to all of us
 ==============================
 
+.. figure:: /images/mark-de-jong-N3Bm8VEdLho-unsplash.jpg
+   :target: wikimedia
+
+   `Mark de Jong <https://unsplash.com/@mrmarkdejong>`__ on `Unsplash <https://unsplash.com/photos/N3Bm8VEdLho>`__
 
 .. figure:: /images/Wikipedia-logo-v2.png
    :figclass: wikipedia-logo
@@ -220,7 +229,12 @@ We encourage others to do what we can’t, and we help them succeed. When voices
 Science & Engineering
 =====================
 
+.. figure:: /images/soroush-zargar-zFSUhqGual8-unsplash.jpg
+
+   `Soroush Zargar <https://unsplash.com/@soroushzargar>`__ on `Unsplash <https://unsplash.com/photos/zFSUhqGual8>`__
+
 .. figure:: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
+   :target: phd
 
 I initially majored in Mathematics and Computer Science before turning to Physics, with a double major in Materials & Semiconductors and in Nanotechnology. I went on to develop :doc:`chemical processes for biochips <biochips>` and then completed my Ph.D on :doc:`polymer microsystems for biological analysis <phd>`.
 
@@ -242,6 +256,14 @@ microsystem
 Playfulness & Creativity
 ========================
 
+
+.. figure:: /images/dimitar-belchev-DxMJaH1HFo0-unsplash.jpg
+   :target: play
+
+   `Dimitar Belchev <https://unsplash.com/@belchev>`__ on `Unsplash <https://unsplash.com/photos/DxMJaH1HFo0>`__
+
+
+
 When there isn't a global pandemic going on, I spend a fair amount of time out and about. In the past few years, I have taken up powerlifting, breadmaking, and ballet, and experimented with piano and ballroom dancing. I also like to go on long walks with or without my camera.
 
 I am an avid reader and bibliophile, sometimes to the point of tsundoku. During the 2020 pandemic confinement, I have also spent my free time creating terrariums and bottle gardens, building construction sets, coloring mandalas, exploring new languages, and finishing to fold one thousand origami cranes.
@@ -256,9 +278,6 @@ books for musicals, interclubs
 
 .. Hexagones? https://www.cssscript.com/demo/responsive-hexagon-grid-pure-css/
 
-.. figure:: /images/2016-04-10_Pain_0169.jpg
-   :figwidth: 10em
-
 Playfulness design: Swipe / slideshow, grid if more space
 
 Over the years I've dabbled with archery, ballet, martial arts, stage acting, fencing, ballroom dancing, photography, singing. These days, I enjoy powerlifting, reading, hiking, writing, and learning new languages.
@@ -271,6 +290,10 @@ finding beauty in the ordinary and the extraordinary
 
 A life of learning
 ==================
+
+.. figure:: /images/ospan-ali-V-77FxfGeQU-unsplash.jpg
+
+   `Ospan Ali <https://unsplash.com/@ospanali>`__ on `Unsplash <https://unsplash.com/photos/V-77FxfGeQU>`__
 
 or adaptation
 
