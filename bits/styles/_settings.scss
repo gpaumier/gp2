@@ -7,6 +7,11 @@ $body-font-color: #333;
 $breakpoint-large: 1024px;
 $breakpoint-medium: 640px;
 
+body {
+  background-color: #eee7d9;
+  //background-color: #fdf6e3;
+}
+
 // For reference:
 // $breakpoints: (
 //   small: 0,

@@ -20,9 +20,17 @@ In my work, I guide executives and mission-driven organizations through intricat
 
 In recent years, I have developed a specialty of serving as a trusted agent, confidant, and thought partner for executives. I have focused on strategic planning, revenue strategy, and generally bringing clarity to complex socio-technical problems.
 
+I like to tackle complex problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process, culminating with a hundred independent organizations worldwide agreeing on a common strategic direction.\ [#Wikimedia2030]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [#PNIPAM]_ Or designing software that powers the World's largest photography competition.
+
 I currently work at the Wikimedia Foundation, the nonprofit organization that brings free knowledge to hundreds of millions of people every month, and supports them as they collectively make sense of our world.
 
 Read on to learn more about my story, or :ref:`scroll down <footer-contact>` to contact me.
+
+.. [#Wikimedia2030] :doc:`Wikimedia 2030: participatory strategy for a global movement <wikimedia2030>`
+
+.. [#PNIPAM] :doc:`Ph.D thesis: PNIPAM technologies for labs-on-chips <phd>`
+
+.. .. [3] :doc:`Wikimedia Commons UploadWizard <uploadwizard>`
 
 ----
 
@@ -40,7 +48,7 @@ Integrating information
 
 I have the ability to absorb massive amounts of information on almost any topic, and quickly understand new paradigms.\ [#Pretender]_ Although a physics engineer by training, I have held many different roles over the years, earning from my colleagues nicknames such as the "staff economist," "staff philosopher," and "the soul of the organization."
 
-I like to tackle complex problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process, culminating with a hundred independent organizations worldwide agreeing on a common strategic direction.\ [#Wikimedia2030]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [#PNIPAM]_ Or designing software that powers the World's largest photography competition.
+
 
 I communicate from a place of curiosity: I ask a lot of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. When two opposite choices are unsatisfactory, I seek to find a third one.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, and prefer instead to find solutions with others using the Socratic method.
 
@@ -50,13 +58,7 @@ I communicate from a place of curiosity: I ask a lot of questions to learn more 
 
 .. _The Pretender: https://en.wikipedia.org/wiki/The_Pretender_(TV_series)>
 
-.. [#Wikimedia2030] :doc:`Wikimedia 2030: participatory strategy for a global movement <wikimedia2030>`
-
-.. [#PNIPAM] :doc:`Ph.D thesis: PNIPAM technologies for labs-on-chips <phd>`
-
-.. .. [3] :doc:`Wikimedia Commons UploadWizard <uploadwizard>`
-
-.. [#CreatingGreatChoices] Although this process comes naturally to me, Roger Martin and Jennifer Riel refer to it as "integrative thinking" in their 2017 book, *Creating Great Choices: A Leader's Guide to Integrative Thinking* (Harvard Business Review Press. ISBN 978-1633692961). Their work builds on Martin's earlier book, *The Opposable Mind*, which focused on leaders who "can hold two opposing ideas in their minds at once, and then reach a synthesis that actually improves on each." (Harvard Business Review Press, 2007. ISBN 978-1422118924).
+.. [#CreatingGreatChoices] This process comes naturally to me, but Roger Martin and Jennifer Riel refer to it as "integrative thinking" in their 2017 book, *Creating Great Choices: A Leader's Guide to Integrative Thinking* (Harvard Business Review Press. ISBN 978-1633692961). Their work builds on Martin's earlier book, *The Opposable Mind*, which focused on leaders who "can hold two opposing ideas in their minds at once, and then reach a synthesis that actually improves on each." (Harvard Business Review Press, 2007. ISBN 978-1422118924).
 
 
 .. https://xkcd.com/356/
@@ -146,9 +148,7 @@ Working as a community
 
    Herusutimbul on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gotong_Royong_Pindah_Rumah.jpg>`_ // `CC-By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_
 
-It takes a village.
-
-Barn raising is a fundamental concept in the study of online communities. Barn raising "occurs when a community actively decides to come to the same place at the same time to help achieve some specific goal."\ [#BarnRaisingMeatBall]_ The metaphor comes from the collective effort needed to raise an actual barn,\ [#BarnRaisingWP]_ a process that is all but impossible to do on one's own, and demands collaboration and good will from the community. While mostly reminiscent of 18th- and 19th-century rural North America, barn raising is only one example of communal work encountered in many societies around the world.\ [#CommunalWork]_ The Indonesian ethos of *Gotong royong* similarly refers to carrying burdens together, which sometimes translates to literally carrying your neighbor's home to a new location.\ [#GotongRoyong]_
+It takes a village. // Barn raising is a fundamental concept in the study of online communities. Barn raising "occurs when a community actively decides to come to the same place at the same time to help achieve some specific goal."\ [#BarnRaisingMeatBall]_ The metaphor comes from the collective effort needed to raise an actual barn,\ [#BarnRaisingWP]_ a process that is all but impossible to do on one's own, and demands collaboration and good will from the community. While mostly reminiscent of 18th- and 19th-century rural North America, barn raising is only one example of communal work encountered in many societies around the world.\ [#CommunalWork]_ The Indonesian ethos of *Gotong royong* similarly refers to carrying burdens together, which sometimes translates to literally carrying your neighbor's home to a new location.\ [#GotongRoyong]_
 
 Wikis are built by people coming together to achieve something that one person couldn't do alone. Most human endeavors are no different. A good strategy with broad alignment can't be built by just the CEO or a few executives. It takes a collective effort to carry this burden together and build it in the wiki spirit of good-faith collaboration. Only then can we raise the barn as a community.
 
