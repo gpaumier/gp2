@@ -4,6 +4,7 @@
 .. template: homepage.tmpl
 .. styles: page_homepage
 
+
 .. figure:: /images/2017-08-20_GPaumier_warm.jpg
    :figwidth: 10em
 
@@ -184,6 +185,8 @@ Knowledge belongs to all of us
 
    `Mark de Jong <https://unsplash.com/@mrmarkdejong>`__ on `Unsplash <https://unsplash.com/photos/N3Bm8VEdLho>`__
 
+Placeholder intro
+
 .. figure:: /images/Wikipedia-logo-v2.png
    :figclass: wikipedia-logo
 
@@ -328,7 +331,7 @@ The university curriculum was less standardized, and I had a lot to catch up on,
 
    I started to realize that I needed to be intellectually stimulated, and that I had the capacity to adapt and catch up quickly.
 
-A year later, I enrolled at a *Grande École* to study engineering physics, microelectronics, and nanotechnology. One reason was that I loved how physics helped me understand the world. Another reason was that the idea of getting a Doctorate in Physics sounded cool. Another reason was that I had read a science-fiction book a few years earlier,[#faust]_ in which nanotechnology was used to improve physical performance, and 19-year-old-Guillaume-with-body-image-issues was finding that concept fascinating. Another reason was that the college was in Toulouse, a lovely city in southwestern France with much less rain than Normandy.
+A year later, I enrolled at a *Grande École* to study engineering physics, microelectronics, and nanotechnology. One reason was that I loved how physics helped me understand the world. Another reason was that the idea of getting a Doctorate in Physics sounded cool. Another reason was that I had read a science-fiction book a few years earlier,\ [#faust]_ in which nanotechnology was used to improve physical performance, and 19-year-old-Guillaume-with-body-image-issues was finding that concept fascinating. Another reason was that the college was in Toulouse, a lovely city in southwestern France with much less rain than Normandy.
 
 Not all of those reasons were good reasons. Youth is naïve. It all turned out alright.
 
