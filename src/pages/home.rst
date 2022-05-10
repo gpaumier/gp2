@@ -1,6 +1,5 @@
 .. title: Homepage
 .. slug: index
-.. icon: fa-home
 .. template: homepage.tmpl
 .. styles: page_homepage
 

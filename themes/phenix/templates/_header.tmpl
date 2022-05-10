@@ -12,7 +12,7 @@
                     {% for langname in translations|sort %}
                         {% if langname != lang %}
                             {% if post.is_translation_available(langname) %}
-                                <li><a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}"><i class="fa fa-angle-right"></i>&nbsp;{{ messages("LANGUAGE", langname) }}</a></li>
+                                <li>&nbsp;<a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}"><i class="fa fa-angle-right"></i>{{ messages("LANGUAGE", langname) }}</a></li>
                             {% else %}
                                 <li class="topbar-disabled-item menu-text"><i class="fa fa-ban"></i>&nbsp;{{ messages("LANGUAGE", langname) }}</li>
                             {% endif %}

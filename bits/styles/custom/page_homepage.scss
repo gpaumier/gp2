@@ -1,71 +1,5 @@
-// Inspired by https://foundation.zurb.com/building-blocks/blocks/hero-full-screen.html
-
-$hero-full-screen-bg: url('/images/2017-08-20_GPaumier_warm.jpg') center center no-repeat;
-$hero-full-screen-bg-size: cover;
-$hero-full-screen-text-color: #fff;
-
-.hero-full-screen {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-  background: $hero-full-screen-bg;
-  background-size: $hero-full-screen-bg-size;
-  background-position: 70% 40%;
-
-  .middle-content-section {
-    text-align: center;
-    color: $hero-full-screen-text-color;
-  }
-
-  .top-content-section {
-    width: 100%;
-  }
-
-  .scroll-button {
-    margin:auto;
-
-    padding: 1rem;
-
-    svg {
-      height: rem-calc(60);
-      width: rem-calc(60);
-      fill: $hero-full-screen-text-color;
-    }
-  }
-
-  // optional demo styles
-  .top-bar {
-    background: transparent;
-
-    .menu {
-      background: transparent;
-    }
-
-    .menu-text {
-      color: $hero-full-screen-text-color;
-    }
-
-    .menu li {
-      display: flex;
-      align-items: center;
-    }
-
-    .menu a {
-      color: $hero-full-screen-text-color;
-      font-weight: bold;
-    }
-  }
-}
-
-// Section hero titles
-
-// box-shadow: inset 8px 8px 5px 2px #AAAAAA, inset -8px -8px 5px 2px #AAAAAA;
-// box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
-
-
-
+@use '../common/layout';
+@use '../common/split';
 
 // Styles for sections
 
@@ -81,4 +15,27 @@ $hero-full-screen-text-color: #fff;
   shape-outside: circle(60% at 68% 45%);
   margin: .5rem;
   margin-right: -10vw;
+}
+
+
+#how-i-think,
+#knowledge-belongs-to-all-of-us,
+#science-engineering,
+#playfulness-creativity,
+#a-life-of-learning {
+  @extend %new4hero-section;
+}
+
+#integrating-information,
+#understanding-the-human-element,
+#seeing-systems,
+#connecting-people-and-ideas,
+#seeing-different-perspectives,
+#working-as-a-community,
+#justice-and-belonging {
+  @include split.cover(
+  $image-side: left,
+  $image-row-span: 10,
+  $image-position: 65%,
+  );
 }
