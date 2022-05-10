@@ -318,6 +318,7 @@ $column-width: 80ch;
     z-index: 50;
     color: #f3f3f3;
     @extend %hero-h2 !optional;
+    text-shadow: 0 1rem 1.5rem #000, 0 0 1.5rem #000, 1rem 1.5rem 1.5rem #000;
   }
 
   > figure:first-of-type {
@@ -335,6 +336,14 @@ $column-width: 80ch;
       // If we have a dark background with bright text, make the background darker by reducing brightness
       filter: brightness(60%);
     }
+  }
+
+  &::before {
+    content: '';
+    grid-row: 1/3;
+    grid-column: 1/2;
+    box-shadow: 0 2rem 1.5rem rgba(0,0,0,.7) inset, 0 -2rem 1.5rem rgba(0,0,0,.7) inset;
+    z-index: 75;
   }
 
   &:after {
@@ -361,6 +370,7 @@ $column-width: 80ch;
       z-index: 50;
       @include typography.larger-font-size();
       color: #f3f3f3;
+      text-shadow: 0.1rem 0.1rem 1.5rem black, -0.1rem -0.1rem 1.5rem black;
       padding-left: $base-unit;
       padding-right: $base-unit;
       margin: auto;
@@ -539,6 +549,7 @@ $column-width: 80ch;
 
   h2 {
     color: #222;
+    text-shadow: 0.1rem 0.1rem 1.5rem white, -0.1rem -0.1rem 1.5rem white;
   }
 
   > figure:first-of-type img {
@@ -546,9 +557,14 @@ $column-width: 80ch;
     filter: opacity(20%);
   }
 
+  &::before {
+    box-shadow: 0 1rem 2rem -1rem rgba(0,0,0,.6) inset,0 -1rem 2rem -1rem rgba(0,0,0,.6) inset;
+  }
+
   @media screen and (min-width: $breakpoint) {
     > p:first-of-type {
       color: #222;
+      text-shadow: 0.1rem 0.1rem 1.5rem white, -0.1rem -0.1rem 1.5rem white;
     }
   }
 }
