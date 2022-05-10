@@ -1,0 +1,11 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'post_helper.tmpl' as helper with context %}
+{% import 'post_header.tmpl' as pheader with context %}
+{% import 'base_helper.tmpl' as base with context %}
+{% extends '_head.tmpl' %}
+
+{% block css %}
+  {% if post.meta('styles') %}
+    <link href="/assets/styles/{{ post.meta('styles') }}.css" rel="stylesheet">
+  {% endif %}
+{% endblock %}

@@ -5,6 +5,7 @@
 .. date: 2016-11-01T00:00:00
 .. end: 2017-12-31T00:00:00
 .. template: page_custom.tmpl
+.. styles: page_wikimedia2030
 .. image: /images/NASA_Earth_CO2-wikimedia2030.jpg
 .. roles: architect, writer
 .. tags: Wikimedia, strategy

@@ -1,14 +1,23 @@
 module.exports = {
   optimize: true,
   files: {
-    javascripts: {
-      joinTo: {
-        'libs.js': /^node_modules/,
-        'phenix.js': /^bits/
-      }
-    },
+    // javascripts: {
+    //   joinTo: {
+    //     'libs.js': /^node_modules/,
+    //     'phenix.js': /^bits/
+    //   }
+    // },
     stylesheets: {
-      joinTo: 'phenix.css'
+      joinTo: {
+        'phenix.css': 'bits/styles/*.scss',
+        'styles/page_biochips.css': 'bits/styles/custom/page_biochips.scss',
+        'styles/page_homepage.css': 'bits/styles/custom/page_homepage.scss',
+        'styles/page_phd.css': 'bits/styles/custom/page_phd.scss',
+        'styles/page_wikimedia.css': 'bits/styles/custom/page_wikimedia.scss',
+        'styles/page_wikimedia2030.css': 'bits/styles/custom/page_wikimedia2030.scss',
+        'styles/post_2031-scenarios.css': 'bits/styles/custom/post_2031-scenarios.scss',
+        'styles/post_stakes-of-knowledge.css': 'bits/styles/custom/post_stakes-of-knowledge.scss'
+      }
     }
   },
   paths: {
@@ -19,7 +28,7 @@ module.exports = {
     sass: {
       // https://github.com/brunch/sass-brunch
       options: {
-        includePaths: ['node_modules/foundation-sites/scss', 'node_modules/font-awesome/scss'],
+        includePaths: ['node_modules/normalize.css'],
         precision: 8,
         allowCache: true,
         sourceMapEmbed: true
@@ -34,7 +43,7 @@ module.exports = {
       ]
     },
     copycat: {
-      "fonts/fontawesome": ["node_modules/font-awesome/fonts"]
+      //"fonts/fontawesome": ["node_modules/font-awesome/fonts"]
     }
   },
   npm: {

@@ -2,6 +2,7 @@
 .. slug: index
 .. icon: fa-home
 .. template: homepage.tmpl
+.. styles: page_homepage
 
 .. figure:: /images/2017-08-20_GPaumier_warm.jpg
    :figwidth: 10em

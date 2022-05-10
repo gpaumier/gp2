@@ -1,3 +1,5 @@
+@use 'settings' as *;
+
 body > footer {
 
   display: grid;
@@ -13,6 +15,7 @@ body > footer {
     grid-column: 2/3;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    column-gap: $base-unit;
     padding: 2rem 0;
 
     section {

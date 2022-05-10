@@ -1,0 +1,307 @@
+@use '../common/split';
+@use '../modules/honeycomb';
+
+/////////////////////////////////////////////////////////////
+
+#your-mission-should-you-choose-to-accept-it {
+  @extend %new4hero-section;
+  @include split.hero-darken(35%);
+}
+
+/////////////////////////////////////////////////////////////
+
+#we-chose-to-do-this-not-because-it-was-easy {
+  @include split.txt-pics(
+  $image-side: right,
+  $image-row-span: 4,
+  $pics-width: 50ch,
+  $text-width: 65ch,
+  );
+}
+
+.team .caption {
+  grid-column: 7/11;
+  grid-row: 11/14;
+  align-self: center;
+}
+
+.team {
+  @include split.place(right, "1/8");
+  align-self: center;
+  @include honeycomb.create(5, 3, 6rem);
+}
+
+$team-pics-placement:
+// pic  half-column  row  x-position
+1  2  1  25%,
+2  3  2  75%,
+3  2  3  65%,
+4  4  3,
+5  1  4;
+
+@include honeycomb.place-set($team-pics-placement, "team");
+
+/////////////////////////////////////////////////////////////
+
+#the-2030-horizon {
+  @include split.txt-pics(
+  $image-side: left,
+  $image-row-span: 4,
+  $pics-width: 50ch,
+  $text-width: 65ch,
+  );
+}
+
+.build-or-achieve-by-2030 {
+  aspect-ratio: 1 / 1;
+  align-self: center;
+
+  img {
+    height: 100%;
+    @extend %become-hexagon;
+    object-fit: cover;
+    object-position: 15% 50%;
+  }
+}
+
+/////////////////////////////////////////////////////////////
+
+#citations-needed {
+  @include split.txt-pics(
+  $image-side: right,
+  $image-row-span: 4,
+  $pics-width: 50ch,
+  $text-width: 65ch,
+  );
+}
+
+.world-around-us .caption {
+  grid-column: 6/10;
+  grid-row: 11/14;
+  align-self: center;
+}
+
+.world-around-us {
+  @include split.place(right, "1/11");
+  align-self: center;
+  @include honeycomb.create(5, 4, 6rem);
+}
+
+$world-around-us-pics-placement:
+// pic  half-column  row
+1  2  1,
+2  1  2,
+3  2  3,
+4  4  3,
+5  1  4;
+
+@include honeycomb.place-set($world-around-us-pics-placement, "world-around-us");
+
+/////////////////////////////////////////////////////////////
+
+#building-alignment {
+  @include split.txt-pics(
+  $image-side: left,
+  $image-row-span: 4,
+  $pics-width: 50ch,
+  $text-width: 65ch,
+  );
+}
+
+.hopes-fears {
+  @include split.place(left, "1/10");
+  align-self: center;
+  @include honeycomb.create(4, 2, 7rem);
+
+  .caption {
+    grid-column: 5/9;
+    grid-row: 8/10;
+    align-self: end;
+  }
+}
+
+.hopes {
+  @include honeycomb.place-image(1, 1);
+  img {
+    object-position: 0% 50%;
+  }
+}
+
+.fears {
+  @include honeycomb.place-image(2, 2);
+  img {
+    object-position: 100% 50%;
+  }
+}
+
+/////////////////////////////////////////////////////////////
+
+#engaging-a-whole-movement {
+  @extend %new4hero-section;
+}
+
+/////////////////////////////////////////////////////////////
+
+#learning-from-each-other {
+  @include split.txt-pics(
+  $image-side: right,
+  $image-row-span: 4,
+  $pics-width: 50ch,
+  $text-width: 65ch,
+  );
+}
+
+/////////////////////////////////////////////////////////////
+
+#converging-on-a-strategic-direction {
+  @include split.txt-pics(
+  $image-side: left,
+  $image-row-span: 4,
+  $pics-width: 50ch,
+  $text-width: 65ch,
+  );
+}
+
+.wikimania2017 {
+  @include split.place(left, "1/8");
+  align-self: center;
+  @include honeycomb.create(4, 4, 7rem);
+
+  .caption {
+    grid-column: 1/4;
+    grid-row: 11/14;
+    align-self: center;
+  }
+}
+
+$wikimania2017-pics-placement:
+// pic  half-column  row
+1  2  1 35%,
+2  1  2,
+3  3  2 70%,
+4  2  3 60%,
+5  3  4 5%;
+
+@include honeycomb.place-set($wikimania2017-pics-placement, "wikimania2017-pic");
+
+.wikimania2017-pic2 img {
+  // Darken a little bit so it stands out from the page's white background
+  filter: brightness(0.95);
+}
+
+/////////////////////////////////////////////////////////////
+
+#amplifying-new-voices {
+  @extend %new4hero-section;
+  @include split.hero-darken(35%);
+}
+
+/////////////////////////////////////////////////////////////
+
+#partners-and-those-who-have-been-left-out {
+  @include split.txt-pics(
+  $image-side: right,
+  $image-row-span: 3,
+  $pics-width: 42ch,
+  $text-width: 68ch,
+  );
+}
+
+.new-voices {
+  @include split.place(right, "1/8");
+  align-self: center;
+  @include honeycomb.create(4, 4, 7rem);
+
+  .caption {
+    grid-column: 5/8;
+    grid-row: 11/14;
+    align-self: center;
+  }
+}
+
+$new-voices-pics-placement:
+// pic  half-column  row
+1  2  1 100%,
+2  3  2,
+3  2  3 40%,
+4  1  4;
+
+@include honeycomb.place-set($new-voices-pics-placement, "new-voices");
+
+.new-voices2 img {
+  // Darken a little bit so it stands out from the page's white background
+  filter: brightness(0.95);
+}
+
+/////////////////////////////////////////////////////////////
+
+#recommendations-and-implementation {
+  @extend %new4hero-section;
+  @include split.hero-darken(35%);
+}
+
+/////////////////////////////////////////////////////////////
+
+#phase-2-working-groups-and-recommendations {
+  @include split.txt-pics(
+  $image-side: right,
+  $image-row-span: 4,
+  $pics-width: 50ch,
+  $text-width: 65ch,
+  );
+}
+
+/////////////////////////////////////////////////////////////
+
+#towards-implementation {
+  @include split.txt-pics(
+  $image-side: left,
+  $image-row-span: 4,
+  $pics-width: 50ch,
+  $text-width: 65ch,
+  );
+}
+
+/////////////////////////////////////////////////////////////
+
+#the-people {
+  @extend %new4hero-section;
+  @include split.hero-darken(35%);
+}
+
+.people {
+  @include honeycomb.create(11, 8, 7rem);
+
+  .caption {
+    grid-column: 11/18;
+    grid-row: 23/26;
+    align-self: end;
+  }
+}
+
+$people-pics-placement:
+// pic  half-column  row
+1  1  1 0%,
+2  5  1,
+3  9  1,
+4  2  2,
+5  4  2,
+6  6  2,
+7  8  2,
+8  3  3,
+9  7  3 25%,
+10  2  4 100%,
+11  4  4 25%,
+12  6  4,
+13  7  5 25%,
+14  9  5,
+15  4  6,
+16  6  6,
+17  8  6,
+18  3  7,
+19  5  7 100%,
+20  9  7,
+21  4  8,
+22  10  8;
+
+@include honeycomb.place-set($people-pics-placement, "people");

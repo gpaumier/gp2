@@ -25,10 +25,11 @@
 //////////////////////////////////////
 
 img {
+  width: 100%;
   margin-bottom: .5rem;
 }
 
 figcaption, .caption {
   // we don't want too much space between images and the caption
-  margin-top: -.3rem;
+  margin-top: -1.5rem;
 }
