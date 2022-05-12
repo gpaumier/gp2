@@ -46,3 +46,16 @@ hr {
 .project-list-featured > hr:last-of-type {
     display: none;
 }
+
+//////////////////////////////////////////////////////////
+
+// Experiments with decoration
+
+%double-frame-inset {
+  outline: .4rem double white;
+  outline-offset: -1rem;
+}
+
+%subtle-shadow {
+  box-shadow: rgba(0,0,0,.4) 0 .3rem 1rem;
+}

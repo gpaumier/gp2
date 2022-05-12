@@ -37,23 +37,15 @@
 #working-as-a-community,
 #justice-and-belonging {
   @include split.cover(
-  $image-side: left,
+  $image-side: right,
   $image-row-span: 5,
   $image-position: 65%,
   );
 }
 
 #integrating-information {
-  figure {
-    grid-row: 1/4;
-    margin: 0;
-    outline: .4rem double white;
-    outline-offset: -1rem;
-  }
 }
 
 #understanding-the-human-element {
-  figure {
-    box-shadow: rgba(0,0,0,.4) 0 .3rem 1rem;
-  }
+
 }
