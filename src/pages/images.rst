@@ -14,6 +14,23 @@ Images
 
 
 
+.. figure:: /images/2013-10-08_Presse_Marinoni_8863.jpg
+
+.. figure:: /images/maxime-bhm-icyZmdkCGZ0-unsplash.jpg
+
+   `Maxime Bhm <https://unsplash.com/@maximebhm>`__ on `Unsplash <https://unsplash.com/photos/icyZmdkCGZ0>`__.
+
+.. figure:: /images/alina-grubnyak-ZiQkhI7417A-unsplash.jpg
+
+   `Alina Grubnyak <https://unsplash.com/@alinnnaaaa>`__ on `Unsplash <https://unsplash.com/photos/ZiQkhI7417A>`__.
+
+.. figure:: /images/2017_Allhands_MH_20119-edit.jpg
+
+   `Myleen Hollero <http://myleenhollero.com/>`__ // `CC-BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
+
+.. figure:: /images/markus-spiske-XcWtrmI6mpg-unsplash.jpg
+
+   `Markus Spiske <https://unsplash.com/@markusspiske>`__ on `Unsplash <https://unsplash.com/photos/XcWtrmI6mpg>`__.
 
 .. figure:: /images/Apollo_11_bootprint.jpg
 

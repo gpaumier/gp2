@@ -44,13 +44,9 @@ How I think
 Integrating information
 -----------------------
 
-.. figure:: /images/2013-10-08_Presse_Marinoni_8863.jpg
-
 I have the ability to absorb massive amounts of information on almost any topic, and quickly understand new paradigms.\ [#Pretender]_ Although a physics engineer by training, I have held many different roles over the years, earning from my colleagues nicknames such as the "staff economist," "staff philosopher," and "the soul of the organization."
 
-
-
-I communicate from a place of curiosity: I ask a lot of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. When two opposite choices are unsatisfactory, I seek to find a third one.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, and prefer instead to find solutions with others using the Socratic method.
+I communicate from a place of curiosity: I ask lots of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. I dig into the "why" a lot. When two opposite choices are unsatisfactory, I seek to find a third one.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, and prefer instead to find solutions with others using the Socratic method.
 
 .. [#Pretender] A bit like Jarod in the 1996 NBC series |The Pretender|_, except not quite as extraordinary, and sans the abduction-escape-and-chase by a nefarious Delaware-based organization.
 
@@ -60,55 +56,23 @@ I communicate from a place of curiosity: I ask a lot of questions to learn more 
 
 .. [#CreatingGreatChoices] This process comes naturally to me, but Roger Martin and Jennifer Riel refer to it as "integrative thinking" in their 2017 book, *Creating Great Choices: A Leader's Guide to Integrative Thinking* (Harvard Business Review Press. ISBN 978-1633692961). Their work builds on Martin's earlier book, *The Opposable Mind*, which focused on leaders who "can hold two opposing ideas in their minds at once, and then reach a synthesis that actually improves on each." (Harvard Business Review Press, 2007. ISBN 978-1422118924).
 
-
-.. https://xkcd.com/356/
-
 Understanding the human element
 -------------------------------
 
-.. figure:: /images/maxime-bhm-icyZmdkCGZ0-unsplash.jpg
-
-   `Maxime Bhm <https://unsplash.com/@maximebhm>`__ on `Unsplash <https://unsplash.com/photos/icyZmdkCGZ0>`__.
-
-Very few problems are purely technical; solving problems often means understanding human emotions, cognitive biases, power dynamics, historical context, privilege, and structural inequality. My own journey of self-discovery has taught the importance of the human element, and the need to consider the variety of subjective human experiences. In particular, when solving problems, I believe it is essential to accept our fallibility, acknowledge failures, and learn from them.
+Very few problems are purely technical; solving a problem often means understanding the human emotions in the room, as well as cognitive biases, power dynamics, historical context, privilege, and structural inequality. My own journey of self-discovery has taught the importance of the human element, and the need to consider the variety of subjective human experiences. In particular, when solving problems, I believe it is essential to accept our fallibility, acknowledge failures, and learn from them.
 
 
 Seeing systems
 --------------
 
-.. figure:: /images/alina-grubnyak-ZiQkhI7417A-unsplash.jpg
+I have a talent for bringing clarity to complex problems. I move easily between the system view and the details, between the past that has shaped where we are today and the future we may still shape. I particularly enjoy imagining different futures as a way to manage the unexpected and make difficult choices.
 
-   `Alina Grubnyak <https://unsplash.com/@alinnnaaaa>`__ on `Unsplash <https://unsplash.com/photos/ZiQkhI7417A>`__.
+As a scientist, my process is to start from diligent discovery, seek out multiple perspectives, and convert research into insights. I love to understand how systems work, experiment, document, and distill knowledge from observational evidence.
 
-
-clarity and complexity
-
-I have a talent for bringing clarity to complex problems.
-
-* discernment
-* bringing clarity
-* Complex problems
-* Systems and details
-* A time view that spans past, present, and future.
-* systems thinking, expertise, rigor, intellectual integrity,
-* looking for the Black Swan
-* cracking complexity
-* system levers
-* the moment of insight
-* strategy, foresight
-* use my ability to recognize patterns and connect the dots to find the signals that emerge from the noise.
-* As a scientist, my process is to start from diligent discovery, seek out multiple perspectives, and convert research into insights. I love to understand how systems work, experiment, document, and distill knowledge from observational evidence.
-
-My favorite problems are those without an obvious solution, because I get to learn new things
-
-who navigates complexity expertly, who thinks in systems, who's comfortable with ambiguity
+systems thinking, recognize patterns, comfortable with ambiguity
 
 Connecting people and ideas
 ---------------------------
-
-.. figure:: /images/2017_Allhands_MH_20119-edit.jpg
-
-   `Myleen Hollero <http://myleenhollero.com/>`__ // `CC-BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
 My interdisciplinary research taught me to connect ideas across disciplines, a skill I have used to help people from different backgrounds understand each other and build trust.
 
@@ -116,16 +80,13 @@ In college, I started studying math and computer science before pivoting to engi
 
 I am able to quickly learn new concepts and become fluent in new disciplines, which makes me a great interface between people working on interdisciplinary projects.
 
-* pattern recognition
-* That is how I connect the dots
-* interdisciplinarity, working across fields with people from different backgrounds
-* I am an interface between people and fields and ideas
-* I like to connect ideas across fields and bridge people across teams
-* integrate perspectives and knowledge across disciplines
-* bridging ideas and connecting people
-* is what motivates me the most, as it gives me the opportunity to constantly learn, challenge my world view, and build relationships with people from different backgrounds,
-* building community by bringing differences together and finding common ground. It takes more work, but it's more sustainable and rewarding in the long term than excluding others based on arbitrary characteristics to reinforce the sense of in-group.
+pattern recognition
 
+is what motivates me the most, as it gives me the opportunity to constantly learn, challenge my world view, and build relationships with people from different backgrounds,
+
+building community by bringing differences together and finding common ground. It takes more work, but it's more sustainable and rewarding in the long term than excluding others based on arbitrary characteristics to reinforce the sense of in-group.
+
+My favorite problems are those without an obvious solution, because I get to learn new things
 
 
 Seeing different perspectives
@@ -164,13 +125,12 @@ Wikis are built by people coming together to achieve something that one person c
 Justice and belonging
 ---------------------
 
-.. figure:: /images/markus-spiske-XcWtrmI6mpg-unsplash.jpg
 
-   `Markus Spiske <https://unsplash.com/@markusspiske>`__ on `Unsplash <https://unsplash.com/photos/XcWtrmI6mpg>`__.
+I feel compelled to use my skills for the common good, and I have a particular affinity for mission-driven organizations that seek  transformative social change. I find John Rawls's "veil of ignorance" approach to be a useful basis for a theory of justice, particularly in the context of the climate crisis. I believe in building a fair, just, pluralistic society, and in dismantling systems of oppression.
 
-I feel compelled to use my skills for the common good, and I have a particular affinity for mission-driven organizations that seek  transformative social change. I find John Rawls's "veil of ignorance" approach to be a useful basis for a theory of justice,\ [#VeilOfIgnorance]_ particularly in the context of the climate crisis. I believe in building a fair, just, pluralistic society, and in dismantling systems of oppression.
+.. note::
 
-.. [#VeilOfIgnorance] The "`veil of ignorance <https://en.wikipedia.org/wiki/Original_position>`__" approach (also called "original position") formulated by Rawls invites us to make decisions about the basic structure of society from "behind the veil," meaning as if you had no knowledge of the ethnicity, social status, gender, or other characteristics you will find yourself with in that society.
+   The "`veil of ignorance <https://en.wikipedia.org/wiki/Original_position>`__" approach (also called "original position") formulated by Rawls invites us to make decisions about the basic structure of society from "behind the veil," meaning as if you had no knowledge of the ethnicity, social status, gender, or other characteristics you will find yourself with in that society.
 
 ----
 
