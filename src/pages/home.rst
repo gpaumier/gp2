@@ -46,13 +46,13 @@ Integrating information
 
 I have the ability to absorb massive amounts of information on almost any topic, and quickly understand new paradigms.\ [#Pretender]_ Although a physics engineer by training, I have held many different roles over the years, earning from my colleagues nicknames such as the "staff economist," "staff philosopher," and "the soul of the organization."
 
-I communicate from a place of curiosity: I ask lots of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. I dig into the "why" a lot. When two opposite choices are unsatisfactory, I seek to find a third one.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, and prefer instead to find solutions with others using the Socratic method.
-
 .. [#Pretender] A bit like Jarod in the 1996 NBC series |The Pretender|_, except not quite as extraordinary, and sans the abduction-escape-and-chase by a nefarious Delaware-based organization.
 
 .. |The Pretender| replace:: *The Pretender*
 
 .. _The Pretender: https://en.wikipedia.org/wiki/The_Pretender_(TV_series)>
+
+I communicate from a place of curiosity: I ask lots of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. I dig into the "why" a lot. When two opposite choices are unsatisfactory, I seek to find a third one.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, and prefer instead to find solutions with others using the Socratic method.
 
 .. [#CreatingGreatChoices] This process comes naturally to me, but Roger Martin and Jennifer Riel refer to it as "integrative thinking" in their 2017 book, *Creating Great Choices: A Leader's Guide to Integrative Thinking* (Harvard Business Review Press. ISBN 978-1633692961). Their work builds on Martin's earlier book, *The Opposable Mind*, which focused on leaders who "can hold two opposing ideas in their minds at once, and then reach a synthesis that actually improves on each." (Harvard Business Review Press, 2007. ISBN 978-1422118924).
 
@@ -61,6 +61,7 @@ Understanding the human element
 
 Very few problems are purely technical; solving a problem often means understanding the human emotions in the room, as well as cognitive biases, power dynamics, historical context, privilege, and structural inequality. My own journey of self-discovery has taught the importance of the human element, and the need to consider the variety of subjective human experiences. In particular, when solving problems, I believe it is essential to accept our fallibility, acknowledge failures, and learn from them.
 
+.. figure:: /images/yumi-kim-ofhso5YyN3o-unsplash.jpg
 
 Seeing systems
 --------------
@@ -92,12 +93,11 @@ My favorite problems are those without an obvious solution, because I get to lea
 Seeing different perspectives
 -----------------------------
 
+defer judgment until we understand the different perspectives.
+
 .. figure:: /images/Jalal_al-Din_Rumi,_Maulana_-_Townspeople_and_elephant.jpg
 
    Seeking multiple perspectives to `get more hands onto that elephant <https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>`__. `Townspeople, Who have Never Seen an Elephant, Examine its Appearance in the Dark <https://commons.wikimedia.org/wiki/File:Jalal_al-Din_Rumi,_Maulana_-_Townspeople,_Who_have_Never_Seen_an_Elephant,_Examine_its_Appearance_in_the_Dark_-_Walters_W626117B_-_Full_Page.jpg>`__
-
-
-defer judgment until we understand the different perspectives.
 
 Individual decision-making can be impeded by bounded rationality and selective exposure. An additional concern when discussing specialized topics as a large group is the information deficit of its members and the communal reinforcement built in the group over time. In order to mitigate those limitations, I strive to frame the issues I work on by situating the problem in its broader landscape, as a way to increase the quality of information available for decision-making.
 
@@ -105,11 +105,11 @@ Individual decision-making can be impeded by bounded rationality and selective e
 Working as a community
 ----------------------
 
+It takes a village. // Barn raising is a fundamental concept in the study of online communities. Barn raising "occurs when a community actively decides to come to the same place at the same time to help achieve some specific goal."\ [#BarnRaisingMeatBall]_ The metaphor comes from the collective effort needed to raise an actual barn,\ [#BarnRaisingWP]_ a process that is all but impossible to do on one's own, and demands collaboration and good will from the community. While mostly reminiscent of 18th- and 19th-century rural North America, barn raising is only one example of communal work encountered in many societies around the world.\ [#CommunalWork]_ The Indonesian ethos of *Gotong royong* similarly refers to carrying burdens together, which sometimes translates to literally carrying your neighbor's home to a new location.\ [#GotongRoyong]_
+
 .. figure:: /images/Gotong_Royong_Pindah_Rumah.jpg
 
    Herusutimbul on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gotong_Royong_Pindah_Rumah.jpg>`_ // `CC-By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_
-
-It takes a village. // Barn raising is a fundamental concept in the study of online communities. Barn raising "occurs when a community actively decides to come to the same place at the same time to help achieve some specific goal."\ [#BarnRaisingMeatBall]_ The metaphor comes from the collective effort needed to raise an actual barn,\ [#BarnRaisingWP]_ a process that is all but impossible to do on one's own, and demands collaboration and good will from the community. While mostly reminiscent of 18th- and 19th-century rural North America, barn raising is only one example of communal work encountered in many societies around the world.\ [#CommunalWork]_ The Indonesian ethos of *Gotong royong* similarly refers to carrying burdens together, which sometimes translates to literally carrying your neighbor's home to a new location.\ [#GotongRoyong]_
 
 Wikis are built by people coming together to achieve something that one person couldn't do alone. Most human endeavors are no different. A good strategy with broad alignment can't be built by just the CEO or a few executives. It takes a collective effort to carry this burden together and build it in the wiki spirit of good-faith collaboration. Only then can we raise the barn as a community.
 
@@ -128,7 +128,7 @@ Justice and belonging
 
 I feel compelled to use my skills for the common good, and I have a particular affinity for mission-driven organizations that seek  transformative social change. I find John Rawls's "veil of ignorance" approach to be a useful basis for a theory of justice, particularly in the context of the climate crisis. I believe in building a fair, just, pluralistic society, and in dismantling systems of oppression.
 
-.. note::
+.. sidebar::
 
    The "`veil of ignorance <https://en.wikipedia.org/wiki/Original_position>`__" approach (also called "original position") formulated by Rawls invites us to make decisions about the basic structure of society from "behind the veil," meaning as if you had no knowledge of the ethnicity, social status, gender, or other characteristics you will find yourself with in that society.
 

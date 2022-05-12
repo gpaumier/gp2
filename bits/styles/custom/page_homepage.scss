@@ -1,6 +1,7 @@
 @use '../common/layout';
 @use '../common/split';
 
+
 // Styles for sections
 
 
@@ -27,25 +28,14 @@
 }
 
 
-
-
 #integrating-information,
 #understanding-the-human-element,
 #seeing-systems,
 #connecting-people-and-ideas,
 #seeing-different-perspectives,
 #working-as-a-community,
-#justice-and-belonging {
-  @include split.cover(
-  $image-side: right,
-  $image-row-span: 5,
-  $image-position: 65%,
-  );
-}
-
-#integrating-information {
-}
-
-#understanding-the-human-element {
-
+#justice-and-belonging,
+//section let's fix hero titles and migrate everything before we do this
+ {
+  @extend %golden-grid;
 }
