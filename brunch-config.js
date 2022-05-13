@@ -9,7 +9,7 @@ module.exports = {
     // },
     stylesheets: {
       joinTo: {
-        'phenix.css': 'bits/styles/*.scss',
+        'styles/phenix.css': 'bits/styles/*.scss',
         'styles/page_biochips.css': 'bits/styles/custom/page_biochips.scss',
         'styles/page_homepage.css': 'bits/styles/custom/page_homepage.scss',
         'styles/page_phd.css': 'bits/styles/custom/page_phd.scss',
