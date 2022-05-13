@@ -49,10 +49,12 @@ Whether it is to find a vaccine, discover new drugs, diagnose patients, or study
 
 The principle of biochips is similar to how progress in microelectronics has led to an increase in computing power, by decreasing the size of transistors and integrating more of them into a single chip. In biochips, laboratory functions and samples are miniaturized and thousands of experiments happen in parallel on a single chip. This kind of *high-throughput testing* enables scientists to conduct experiments and test many molecules at the same time, thus increasing efficiency.
 
-.. figure:: /images/Biochip.jpg
-   :figclass: biochip rowstart-2 rowspan-2
+.. class:: rowstart-2 rowspan-2
+.. sidebar::
 
-   DNA microarray on a glass slide. (`Argonne Laboratory <https://www.flickr.com/people/35734278@N05>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Biochip.jpg>`__ // `CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__)
+   .. figure:: /images/Biochip.jpg
+
+      DNA microarray on a glass slide. (`Argonne Laboratory <https://www.flickr.com/people/35734278@N05>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Biochip.jpg>`__ // `CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__)
 
 In particular, *microarrays* involve printing a large number of biological samples using a technology similar to inkjet printing. Small droplets are deposited on a surface in an regular pattern, leading to a high density of biological probes, and small amounts of biological materials used in each.
 
@@ -60,10 +62,12 @@ A variety of biological molecules can be printed into microarrays, like DNA, pro
 
 Biological molecules, and antibodies in particular, are fragile. Droplets are printed very gently in order to maintain their cohesion on the surface. Glycerol is often added to the sample solutions to increase their viscosity, help the droplets keep their shape, and limit evaporation. Once printed, the samples must be cleaned softly and kept in an environment that preserves their integrity until the experiment is complete.
 
-.. figure:: /images/Biochips_spotter.jpg
-   :figclass: spotter rowstart-4 rowspan-3
+.. class:: rowstart-4 rowspan-3
+.. sidebar::
 
-   At the LFCM lab, microarrays are printed in a clean room environment using a Packard BioChip Arrayer. Its four piezoelectric capillary tips deposit samples on the surface without contact, using technology similar to ink jet printing. Droplets have a volume of around 350 pL and leave the piezo tips with a kinetic energy lower than the substrate's surface energy, so that the droplet stays whole when it makes contact. The average diameter of spots printed on our silane layer is 150 µm.
+   .. figure:: /images/Biochips_spotter.jpg
+
+      At the LFCM lab, microarrays are printed in a clean room environment using a Packard BioChip Arrayer. Its four piezoelectric capillary tips deposit samples on the surface without contact, using technology similar to ink jet printing. Droplets have a volume of around 350 pL and leave the piezo tips with a kinetic energy lower than the substrate's surface energy, so that the droplet stays whole when it makes contact. The average diameter of spots printed on our silane layer is 150 µm.
 
 .. Vidéo : /videos/Biochips_spotting.mov
 
@@ -74,7 +78,8 @@ Fluorescence in biochips
 
 Microarrays often rely on fluorescence as a detection mechanism. *Fluorophores* are molecules that absorb light at a certain color and re-emit it at another color. They are combined with biological molecules of interest to detect their presence or their interaction. Because fluorophores emit light at a different color (wavelength) than what they receive, scientists can separate the two colors, and measure only the light emitted in return: it indicates how many biological molecules (DNA strands, antibodies, etc.) are in a specific spot.
 
-.. container:: figures rowstart-2 rowspan-4 align-start
+.. class:: rowstart-2 rowspan-4 align-start
+.. sidebar::
 
    .. figure:: /images/Biochips_Jablonski_diagram.svg
 
@@ -108,10 +113,12 @@ The CEA-2 protocol is an established way to attach biological molecules to surfa
 
 .. [#cea2] Françoise Vinet and Alain Hoang / Commissariat à l'Énergie Atomique. *Method of immobilizing probes, in particular for producing bio chips*. `Patent FR2818662 <https://data.inpi.fr/brevets/FR2818662>`__ (2002).
 
-.. figure:: /images/Biochips_silane.svg
-   :figclass: silane rowstart-2
+.. class:: rowstart-2
+.. sidebar::
 
-   Chemical formula of 5,6-epoxyhexyltriethoxysilane (CAS: 86138-01-4), the basis for CEA-2 surface functionalization. EtO represents ethoxy groups CH\ :subscript:`3`\ CH\ :subscript:`2`\ O–.
+   .. figure:: /images/Biochips_silane.svg
+
+      Chemical formula of 5,6-epoxyhexyltriethoxysilane (CAS: 86138-01-4), the basis for CEA-2 surface functionalization. EtO represents ethoxy groups CH\ :subscript:`3`\ CH\ :subscript:`2`\ O–.
 
 .. container:: cea2-protocol full-content
 
@@ -126,10 +133,12 @@ The CEA-2 protocol is an established way to attach biological molecules to surfa
 
    In technical terms, after a surface activation in a basic environment, the silanization binds 5,6-epoxyhexyltriethoxysilane to the surface and creates Si--O--Si bonds. The silane's epoxide function is then opened into a diol function by acid hydrolysis. The last step, which consists in oxidizing the diol into an aldehyde, is done immediately before grafting biological probes, whose amine functions bind to the silane's aldehyde.
 
-.. figure:: /images/Biochips_reactor.jpg
-   :figclass: reactor rowstart-5 rowspan-2
+.. class:: rowstart-5 rowspan-2
+.. sidebar::
 
-   A large desiccator serves as silanization reactor. Modified to hold up to forty glass slides or twenty-five 100-mm wafers, it improves reproducibility by silanizing  substrates in bulk.
+   .. figure:: /images/Biochips_reactor.jpg
+
+      A large desiccator serves as silanization reactor. Modified to hold up to forty glass slides or twenty-five 100-mm wafers, it improves reproducibility by silanizing  substrates in bulk.
 
 Antibody microarray on CEA-2 protocol
 =====================================
@@ -143,14 +152,16 @@ Substance P
 
 Substance P (SP) is a neurotransmitter from the neurokinin family, synthesized by neurons and able to excite nearby neurons. SP is involved in many physiological systems, including  the transmission of pain information to the central nervous system.
 
+.. class:: rowstart-1 rowspan-2
+.. sidebar::
+
+   .. figure:: /images/Biochips_Substance_P.svg
+
+      Chemical structure of Substance P.
+
 Substance P was used as a model molecule in the development of a novel approach to detect biological warfare agents, led by Laure-Marie Neuburger of the *Laboratoire d'Études et de Recherches en Immunoanalyse* (LERI).\ [#neuburger2006]_ Laure-Marie had been developing the immunoassay in capillaries, and produced the antibodies and antigens, conjugated with fluorophores or other molecules. I adapted Laure-Marie's immunoassay to planar microarrays using the CEA-2 protocol, traditionally used for DNA biochips.
 
 .. [#neuburger2006] Laure-Marie Neuburger. *Design of fluorescence immunoassays. Perspectives for continuous monitoring of biological warfare agents.* Ph.D dissertation. Chemical Sciences, AgroParisTech, 2006. `pastel-00004770 <https://hal.archives-ouvertes.fr/pastel-00004770>`__.
-
-.. figure:: /images/Biochips_Substance_P.svg
-   :figclass: substance-p rowstart-1 rowspan-2
-
-   Substance P.
 
 ----
 
@@ -163,14 +174,15 @@ Once the probes are bound to the chemical layer, the surface is rinsed to remove
 
 A solution containing the target molecules (antigens/peptides) is then deposited on the spotted surface, and left to incubate under a plastic cover slip. If the peptides are marked with a fluorophore, then detection is direct: after rinsing and drying the surface, the results are obtained directly from the fluorescence scanner.
 
+.. class:: rowstart-3 rowspan-2
 .. sidebar::
 
-   .. class:: expert rowstart-4 rowspan2 align-start
+   .. class:: expert
 
       Some peptides are not directly marked with a fluorophore, but rather with a biotin, a small vitamin. Biotin has an extraordinarily high affinity for streptavidin, a larger protein; their bond is one of the strongest known non-covalent interactions. Such *biotinylated* peptides can be indirectly detected using *streptavidinated fluorophores*, meaning fluorophores attached to a streptavidin. The antibodies themselves can also be marked with a biotin, to check their presence on the surface independent of their interaction with peptides.
 
 .. figure:: /images/Biochips_immunotest_paths.svg
-   :figclass: main-content
+   :figclass: main-content framed
 
    Stages of the protocol for three possible antibody microarray tests: (a) Direct verification of the immobilization of biotinylated antibodies on the surface, using streptavidinated fluorophores. (b) Direct reading of the binding of fluorescent peptides on immobilized antibodies. (c) Indirect reading of the binding of biotinylated peptides on immobilized antibodies, using streptavidinated fluorophores.
 
@@ -334,23 +346,20 @@ Reaction kinetics
 
 All the fluorescence-based experiments conducted so far were done after a period of incubation between antibodies and peptides. I worked with Rémi Galland, from the CEA's *Laboratoire d'Imagerie des Systèmes d'Acquisition* (LISA), to study the kinetics of that interaction in real time.\ [#galland2008]_ The principle of the experiment was similar to previous immunoassays, except that fluorescence wass measured continuously as the target peptides, marked with fluorophores, were introduced into the system.
 
+.. [#galland2008] Rémi Galland. *Mise en œuvre de concepts de détecteurs optiques de fluorescence intégrant la source de lumière au composant pour des immunoanalyses adaptées à des applications hors laboratoires.* Ph.D dissertation. Biophysics, Université Joseph-Fourier -- Grenoble I, 2008. `tel-00332307 <https://tel.archives-ouvertes.fr/tel-00332307>`__.
+
 .. figure:: /images/Biochips_reaction_kinetics.svg
-   :figclass: reaction-kinetics-diagram
+   :figclass: reaction-kinetics-diagram framed
 
    Principle of real-time measurement of the interaction between antibodies and peptides.
 
-.. [#galland2008] Rémi Galland. *Mise en œuvre de concepts de détecteurs optiques de fluorescence intégrant la source de lumière au composant pour des immunoanalyses adaptées à des applications hors laboratoires.* Ph.D dissertation. Biophysics, Université Joseph-Fourier -- Grenoble I, 2008. `tel-00332307 <https://tel.archives-ouvertes.fr/tel-00332307>`__.
-
 Our exploratory work showed promising results: we were able to observe a rapid increase in signal during the first few minutes of the experiment, showing a plateau (indicating saturation) after about 30 minutes. The signal then decreased over time due to photobleaching (the gradual fading of fluorophores under the exciting light). These results prompted us to experiment with shorter incubation periods (described above).
 
-.. figure:: /images/Biochips_reaction_kinetics_1nM.svg
-   :figclass: reaction-kinetics-chart main-content
+.. sidebar::
 
-   Reaction kinetics between mAb SP31 antibodies, grafted on CEA-2 chemistry, and fluorescein-marked LMN1 peptides in solution at 1 nM (P = 500 µW, D = 0.5 mL/min, pH = 7.4).
+   .. figure:: /images/Biochips_reaction_kinetics_1nM.svg
 
-
-
-
+      Reaction kinetics between mAb SP31 antibodies, grafted on CEA-2 chemistry, and fluorescein-marked LMN1 peptides in solution at 1 nM (P = 500 µW, D = 0.5 mL/min, pH = 7.4).
 
 ----
 
@@ -359,12 +368,13 @@ Photothermal deflection spectroscopy
 
 Photothermal deflection spectroscopy (PDS) is a technique used to characterize thin layers by measuring the change in refractive index of a sample due to heating by light. In other words, one laser heats a surface to different degrees depending on what's on it; another laser is shone through the same surface, and the way it's deflected by heat provides information on what's there.
 
-.. figure:: /images/Biochips_Photothermal_deflection_spectroscopy_setup.png
-   :figclass: framed apparatus-jackson
+.. class:: rowstart-2 rowspan-2
+.. sidebar::
 
-   Experimental apparatus for transverse PDS from Jackson *et al.*'s 1981 article "`Photothermal deflection spectroscopy and detection <https://digital.library.unt.edu/ark:/67531/metadc827884/>`__." *Applied Optics.* **20** (8): 1333–1344.
+   .. figure:: /images/Biochips_Photothermal_deflection_spectroscopy_setup.png
+      :figclass: framed
 
-The principle of the immunoassay is the same as in fluorescence experiments, except the final detection step to visualize antibodies and antigens is done indirectly using gold nanoparticles rather than a fluorophore. For this experiment, I partnered with Violaine Vizcaino, from the CEA's *Laboratoire d'Ingénierie des Composants Photoniques* (LICP).\ [#mirage]_
+      Experimental apparatus for transverse PDS from Jackson *et al.*'s 1981 article "`Photothermal deflection spectroscopy and detection <https://digital.library.unt.edu/ark:/67531/metadc827884/>`__." *Applied Optics.* **20** (8): 1333–1344.
 
 .. class:: expert
 
@@ -374,21 +384,21 @@ The principle of the immunoassay is the same as in fluorescence experiments, exc
 
       The substrate's surface undergoes the usual CEA-2 process, and mAb SP31 antibodies are grafted onto it. A solution of biotinylated antigens is incubated on the surface, followed by streptavidinated gold nanobeads with a 10 nm diameter. The presence of the gold nanobeads is finally detected by PDS.
 
+The principle of the immunoassay is the same as in fluorescence experiments, except the final detection step to visualize antibodies and antigens is done indirectly using gold nanoparticles rather than a fluorophore. For this experiment, I partnered with Violaine Vizcaino, from the CEA's *Laboratoire d'Ingénierie des Composants Photoniques* (LICP).\ [#mirage]_
+
+.. [#mirage] Violaine's technical report isn't publicly available, but `Wikipedia's article on photothermal spectroscopy <https://en.wikipedia.org/wiki/Photothermal_spectroscopy>`__ provides a general overview of the technique, and details about the LICP's experimental setup are available (in French) in Appendix B of `my own report (PDF, 3.2 MB) </documents/Biochips_report.pdf>`__, pages 69−72.
+
 Although we admittedly used a highly concentrated antigen solution for this exploratory experiment, we were able to detect antigens on their specific antibodies, indicating that the interaction had taken place. No signal was detected on the control antibodies, indicating that the interaction was specific to our probes.
 
-.. container:: figures
+.. figure:: /images/Biochips_billes100.png
 
-   .. figure:: /images/Biochips_billes100.png
-
-      Result of the PDS experiment in false colors for a 100 nM antigen solution. Antigens are detected (via gold nanobeads) on the first two rows containing specific antibodies, but not on the third row containing control antibodies.
+   Result of the PDS experiment in false colors for a 100 nM antigen solution. Antigens are detected (via gold nanobeads) on the first two rows containing specific antibodies, but not on the third row containing control antibodies.
 
    .. container:: spotting-pattern
 
       * Antibody mAb SP31 1 μM, 2% glycerol
       * Antibody mAb SP31 1 μM, 2% glycerol
       * Control antibody Il2-73 1 μM, 2% glycerol
-
-.. [#mirage] Violaine's technical report isn't publicly available, but `Wikipedia's article on photothermal spectroscopy <https://en.wikipedia.org/wiki/Photothermal_spectroscopy>`__ provides a general overview of the technique, and details about the LICP's experimental setup are available (in French) in Appendix B of `my own report (PDF, 3.2 MB) </documents/Biochips_report.pdf>`__, pages 69−72.
 
 ----
 
@@ -397,12 +407,16 @@ Neutron reflectometry
 
 Towards the end of my time at CEA-Léti, I was offered the opportunity to visit the neighboring Institut Laue-Langevin (ILL), and to study my immunoassay layers using neutron reflectometry. I worked in collaboration with Giovanna Fragneto to prepare the samples, and subject them to the ILL's intense neutron source inside its D17 reflectometer.\ [#cubitt2002]_
 
-.. figure:: /images/Institut_Laue_Langevin_inside_reactor_hall.jpg
-   :figclass: ill-reactor
-
-   Inside the hall of the high-flux nuclear reactor at Institut Laue-Langevin in Grenoble, France. (Nerd bzh on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Institut_Laue_Langevin_inside_reactor_hall.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__)
+.. [#cubitt2002] \R. Cubitt and G. Fragneto. D17: The new reflectometer at the ILL. *Appl. Phys. A* **74**, s329--s331 (2002). `doi:10.1007/s003390201611 <https://doi.org/10.1007/s003390201611>`__, `full text (PDF, 140 KB) <https://www.ill.eu/fileadmin/user_upload/ILL/3_Users/Scientific_groups/Large_Scale_Structures/People/Giovanna_FRAGNETO/D17.pdf>`__
 
 Neutron reflectometry is a technique used to study thin films by shining a tight neutron beam from a high flux nuclear reactor onto a very flat surface, and measuring the intensity of the reflected radiation. It is particularly adapted to the study of stratified biological layers, because neutrons are highly penetrating and not as damaging as X-rays to delicate samples like ours.
+
+.. class:: rowspan-2
+.. sidebar::
+
+   .. figure:: /images/Institut_Laue_Langevin_inside_reactor_hall.jpg
+
+      Inside the hall of the high-flux nuclear reactor at Institut Laue-Langevin in Grenoble, France. (Nerd bzh on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Institut_Laue_Langevin_inside_reactor_hall.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__)
 
 .. class:: expert
 
@@ -412,16 +426,21 @@ Neutron reflectometry is a technique used to study thin films by shining a tight
 
       Because antibodies are much larger than antigens, we inverted the immunoassay protocol to attach antigens on the surface first, and then incubate them with antibodies, rather than the other way around. Our hypothesis was that this would make it easier to detect changes in the thickness of the biological layers.
 
-.. figure:: /images/Biochips_D17.png
-   :figclass: d17-diagram framed
+.. class:: rowspan-4
+.. sidebar::
 
-   Two modes of operation of the `D17 reflectometer <https://www.ill.eu/users/instruments/instruments-list/d17/description/instrument-layout>`__ (Cubitt & Fragneto). D17 has a horizontal scattering geometry and offers two modes of operation: a monochromatic mode, and a time-of-flight mode (TOF) for dynamic studies like reaction kinetics.
+   .. figure:: /images/Biochips_D17.png
+      :figclass: framed
+
+      Two modes of operation of the `D17 reflectometer <https://www.ill.eu/users/instruments/instruments-list/d17/description/instrument-layout>`__ (Cubitt & Fragneto). D17 has a horizontal scattering geometry and offers two modes of operation: a monochromatic mode, and a time-of-flight mode (TOF) for dynamic studies like reaction kinetics.
 
 Our results (see table below) were consistent with layers of native silicon oxide, silane, and antigens. The blocking proteins increased the density of the antigen layer, which was consistent with the hypothesis that they saturated active free sites. However, the results for antibody layers were unexpected, showing thinner layers than with just the antigens. One explanation might be that our sensitive biological molecules, usually preserved in chemical buffers, were denatured during the experiment, and couldn't attach specifically.
 
 .. class:: expert
 
    Confirming the presence of the mixed layer of antigens and blocking protein would require deuterating one of those two substances, meaning replacing hydrogen by its heavier isotope, deuterium, to vary their contrast. To avoid the possible denaturation of antibodies, preparing buffers using D\ :subscript:`2`\ O and silicon-matched water would provide contrast while preserving a physiological environment adapted to biological molecules. Although I wasn't able to conduct these follow-up experiments before the end of my contract, I still felt privileged to have been able to glimpse into this entirely different field of physics.
+
+.. class:: full-content
 
 ======================================   ==============   =====   ============
 Layer                                    Thickness (nm)   |SLD|   Rugosity (Å)
@@ -437,7 +456,6 @@ LMN1 peptide + BSA + control antibody    5.7              1.2     1.2
 .. |SLD| replace:: :abbr:`SLD (Scattering Length Density)` (× 10\ :superscript:`−6` Å\ :superscript:`−2`)
 .. |BSA| replace:: :abbr:`BSA (Bovine serum albumin: blocking protein)`
 
-.. [#cubitt2002] \R. Cubitt and G. Fragneto. D17: The new reflectometer at the ILL. *Appl. Phys. A* **74**, s329--s331 (2002). `doi:10.1007/s003390201611 <https://doi.org/10.1007/s003390201611>`__, `full text (PDF, 140 KB) <https://www.ill.eu/fileadmin/user_upload/ILL/3_Users/Scientific_groups/Large_Scale_Structures/People/Giovanna_FRAGNETO/D17.pdf>`__
 
 Vapor-phase silanization for proteomics
 =======================================
@@ -455,10 +473,13 @@ All our experiments so far relied on attaching biological molecules to a chemica
 
 When such polymers are involved, another solution is to conduct the silanization in *vapor phase*: instead of diluting the silane in a solvent, the liquid silane is turned into a gas that attaches to the surface. My goal was therefore to adapt the regular, liquid-phase CEA-2 protocol to a vapor-phase method, by heating the silane in a closed container and depositing it on our surfaces.
 
-.. figure:: /images/Biochips_vapor_phase.svg
-   :figclass: vapor-phase-diagram
+.. class:: rowstart-2 rowspan-2
+.. sidebar::
 
-   Based on the scientific literature describing other silanes, I devised a protocol to silanize glass and silicon substrates in vapor phase, and compared their properties to those prepared with the liquid-phase CEA-2 protocol. I placed the slides in a tight Teflon container with a small quantity of liquid silane, and heated the system to 130°C to establish a liquid-gas equilibrium. I experimented with different periods of silanization and ways to activate the surface (with O\ :subscript:`2` plasma and NaOH Brown).
+   .. figure:: /images/Biochips_vapor_phase.svg
+      :figclass: vapor-phase-diagram
+
+      Based on the scientific literature describing other silanes, I devised a protocol to silanize glass and silicon substrates in vapor phase, and compared their properties to those prepared with the liquid-phase CEA-2 protocol. I placed the slides in a tight Teflon container with a small quantity of liquid silane, and heated the system to 130°C to establish a liquid-gas equilibrium. I experimented with different periods of silanization and ways to activate the surface (with O\ :subscript:`2` plasma and NaOH Brown).
 
 ----
 
@@ -467,19 +488,23 @@ Contact angle measurement
 
 Measuring the contact angle of a droplet of water is a fast and easy way to characterize a surface. On a hydrophilic surface, which attracts water, the droplet spreads out and yields a low contact angle. On a hydrophobic surface, which repels water, the droplet bulges out and gives a higher angle.
 
-.. figure:: /images/Attension_Theta_CA.png
-   :figclass: contact-angle-principle
+.. class:: rowstart-1 rowspan-3
+.. sidebar::
 
-   The sessile drop technique provides information on the properties of a surface by measuring the contact angle of a droplet of liquid dropped on it (Jyrkorpela on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Attension_Theta_CA.png>`__ // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__).
+   .. figure:: /images/Attension_Theta_CA.png
+
+      The sessile drop technique provides information on the properties of a surface by measuring the contact angle of a droplet of liquid dropped on it (Jyrkorpela on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Attension_Theta_CA.png>`__ // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__).
 
 This method only provides limited information, because different materials and layers can lead to the same angle. However, standardized chemical protocol like CEA-2 have well-known contact angles that correspond to the chemical functions present on the surface at each stage.
 
 Therefore, I compared the contact angles of surfaces prepared with the CEA-2 protocol in vapor phase and in liquid phase, at two different stages of the process. The results indicated similar angles between vapor and liquid phase for both stages, which was encouraging, although not definitive.
 
-.. figure:: /images/Biochips-vapor-phase-contact-angle.svg
-   :figclass: vapor-contact-angle-results
+.. class:: rowspan-2
+.. sidebar::
 
-   Comparison of contact angle measurement between liquid phase and vapor phase silanization at two stages of the CEA-2 process (epoxyde and diol).
+   .. figure:: /images/Biochips-vapor-phase-contact-angle.svg
+
+      Comparison of contact angle measurement between liquid phase and vapor phase silanization at two stages of the CEA-2 process (epoxyde and diol).
 
 ----
 
@@ -512,7 +537,8 @@ I developed the vapor-phase protocol primarily for use in microsystems made with
 
 The experiment was a success, with the antigens attaching to their specific antibodies and showing good fluorescence signal, similar to that on liquid-phase silanization. As expected, the antigens didn't attach to the control antibodies, whose spots were barely distinguishable from background signal.
 
-.. container:: figures
+.. class:: rowstart-2 rowspan-2
+.. sidebar::
 
    .. figure:: /images/Biochips_238a-02_532s.png
    .. figure:: /images/Biochips_236-29_532s.jpg
@@ -544,14 +570,16 @@ The field of proteomics is dedicated to the study of proteins in the same way th
 
 One technique used by scientists to study proteins consists in cutting them into smaller fragments (peptides), and using mass spectrometry to identify those fragments by their charge and mass. The final piece of my work at CEA was to use vapor-phase silanization on a closed miniaturized device, in order to attach an enzyme that would cut break down proteins for analysis. For this work, I partnered with Frédérique Mittler, from the LFCM lab.
 
+.. class:: rowspan-2
+.. sidebar::
+
+   .. figure:: /images/Biochips_biochiplab.png
+
+      BioChipLab digestion module with connectors. (F. Mittler / CEA-Léti)
 
 .. class:: expert
 
    In technical terms, the goal of the BioChipLab project was to develop a microsystem coupled to a mass spectrometer for proteomics and pharmacology. It included microreactors, a digestion module, and an electrospray nozzle. My work focused on functionalizing the peptidic digestion module with vapor-phase CEA-2 chemistry in order to graft trypsin, an enzyme that catalyzes the breakdown of proteins into smaller peptides for analysis.
-
-.. figure:: /images/Biochips_biochiplab.png
-
-   BioChipLab digestion module with connectors. (F. Mittler / CEA-Léti)
 
 ----
 
@@ -562,9 +590,12 @@ The full analysis involved many steps: silanization, binding of the enzyme, dige
 
 In order to experiment with the vapor-phase silanization and iterate more quickly, we first used devices with a transparent cover, and attempted to attach a fluorescent molecule on the silane. We were thus able to observe fluorescence in our device's microchannel, confirming that the molecules had attached to a layer of silane.
 
-.. figure:: /images/Biochips_biochiplab_230904_puce5.png
+.. class:: rowstart-1 rowspan-4
+.. sidebar::
 
-   Fluorescence microcopy confirmed the successful vapor-phase silanization of a BioChipLab digestion module, by binding  Cyanine3 phosphoramidite on the diol ending. The channel surface inside the assembled chip was activated using plasma before silanization. (F. Mittler / CEA-Léti)
+   .. figure:: /images/Biochips_biochiplab_230904_puce5.png
+
+      Fluorescence microcopy confirmed the successful vapor-phase silanization of a BioChipLab digestion module, by binding  Cyanine3 phosphoramidite on the diol ending. The channel surface inside the assembled chip was activated using plasma before silanization. (F. Mittler / CEA-Léti)
 
 ----
 
@@ -576,5 +607,6 @@ Finally, we attached trypsin, the enzyme, to the layer of silane in the microcha
 Initial results were promising, with a mass spectrum showing many of the expected peaks. The digestion might not have been complete, but this first result was an encouraging step towards further research.
 
 .. figure:: /images/Biochips_digestion.png
+   :figclass: framed
 
    Mass spectrum of a sample of Cytochrome C (10 pmol/µL) digested by trypsine immobilized on a vapor-phase CEA-2 chemical layer. Green squares indicate peaks corresponding to expected peptides. (F. Mittler / CEA-Léti)

@@ -28,25 +28,33 @@
 
 /////////////////////////////////////////////////////////////
 
-
-
-/////////////////////////////////////////////////////////////
-
 #biochips-and-microarrays{
   @extend %new4hero-section;
   @include split.hero-darken(35%);
 }
 
-#mass-parallel-testing {
+#mass-parallel-testing,
+#fluorescence-in-biochips,
+#surface-functionalization,
+#substance-p,
+#immunoassay-protocols,
+#reaction-kinetics,
+#photothermal-deflection-spectroscopy,
+#neutron-reflectometry,
+#adapting-the-protocol,
+#contact-angle-measurement,
+#atomic-force-microscopy,
+#antibody-microarray-on-vapor-phase-silane,
+#biochiplab,
+#fluorescence-microscopy,
+#mass-spectrometry {
   @extend %golden-grid;
 }
 
+
 /////////////////////////////////////////////////////////////
 
-#fluorescence-in-biochips {
-  @extend %golden-grid;
-
-  .fluorescence-palette {
+.fluorescence-palette {
     @include layout.side-by-side-figures(0);
 
     .palette {
@@ -61,13 +69,8 @@
       grid-row: 3/4;
     }
   }
-}
 
 /////////////////////////////////////////////////////////////
-
-#surface-functionalization {
-  @extend %golden-grid;
-}
 
 .cea2-protocol {
   justify-self: center;
@@ -83,11 +86,6 @@
 #antibody-microarray-on-cea-2-protocol{
   @extend %new4hero-section;
   @include split.hero-darken(40%);
-}
-
-#substance-p,
-#immunoassay-protocols {
-  @extend %golden-grid;
 }
 
 #parameter-study-protocol-optimization {
@@ -157,37 +155,15 @@
   @include split.hero-darken(35%);
 }
 
-#reaction-kinetics {
-  @extend %golden-grid;
-}
-
-/////////////////////////////////////////////////////////////
-
-#photothermal-deflection-spectroscopy {
-  @extend %new4split;
-  @include split.new4columns(35ch, 55ch);
-  @extend %new4pics-text;
-
-  .figures {
-    @include split.new4place(left, "4/7");
-    align-self: center;
-  }
-}
-
-.apparatus-jackson {
-  @include split.new4place(left, "2/4");
-  align-self: center;
+.reaction-kinetics-diagram img {
+  max-width: 45ch;
+  justify-self: center;
 }
 
 /////////////////////////////////////////////////////////////
 
 #neutron-reflectometry {
-  @extend %new4split;
-  @include split.new4columns(55ch, 35ch);
-  @extend %new4text-pics;
-
   table {
-    @include split.new4spread("8/9");
 
     th, td {
       text-align: center;
@@ -199,116 +175,25 @@
   }
 }
 
-.ill-reactor {
-  @include split.new4place(right, "2/4");
-  align-self: center;
-}
-
-.d17-diagram {
-  @include split.new4place(right, "4/7");
-  align-self: center;
-}
-
 /////////////////////////////////////////////////////////////
 
-#vapor-phase-silanization-for-proteomics {
+#vapor-phase-silanization-for-proteomics,
+#peptidic-digestion-mass-spectrometry {
   @extend %new4hero-section;
 }
 
-#adapting-the-protocol {
-  @extend %new4split;
-  @include split.new4columns(60ch, 35ch);
-  @extend %new4text-pics;
-}
-
-.vapor-phase-diagram {
-  @include split.new4place(right, "1/4");
-  align-self: center;
-
-  img {
-    max-width: 20ch;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
-
-/////////////////////////////////////////////////////////////
-
-#contact-angle-measurement {
-  @extend %new4split;
-  @include split.new4columns(35ch, 45ch);
-  @extend %new4pics-text;
-}
-
-.contact-angle-principle {
-  @include split.new4place(left, "2/4");
-  align-self: center;
-}
-
-.vapor-contact-angle-results {
-  @include split.new4place(left, "4/6");
-  align-self: center;
+.vapor-phase-diagram img {
+  max-width: 20ch;
+  display: block;
+  margin: auto;
 }
 
 /////////////////////////////////////////////////////////////
 
 #atomic-force-microscopy {
-
-  max-width: 65ch;
-  justify-self: center;
-
   .figures {
     @include layout.side-by-side-figures(0, 3);
   }
 }
 
-#antibody-microarray-on-vapor-phase-silane {
-  @extend %new4split;
-  @include split.new4columns(70ch, 30ch);
-  @extend %new4text-pics;
-
-  .figures {
-    @include split.new4place(right, "1/5");
-    align-self: center;
-  }
-}
-
 /////////////////////////////////////////////////////////////
-
-#peptidic-digestion-mass-spectrometry {
-  @extend %new4hero-section;
-}
-
-#biochiplab {
-  @extend %new4split;
-  @include split.new4columns(65ch, 30ch);
-  @extend %new4text-pics;
-
-  figure {
-    @include split.new4place(right, "3/5");
-    align-self: center;
-  }
-}
-
-#fluorescence-microscopy {
-  @extend %new4split;
-  @include split.new4columns(25ch, 65ch);
-  @extend %new4pics-text;
-
-  figure {
-    @include split.new4place(left, "1/5");
-    align-self: center;
-  }
-}
-
-#mass-spectrometry {
-  @extend %new4split;
-  @include split.new4columns(40ch, 55ch);
-  @extend %new4text-pics;
-
-  figure {
-    @include split.new4place(right, "1/5");
-    align-self: center;
-  }
-}
