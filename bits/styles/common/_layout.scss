@@ -235,6 +235,8 @@ $main-content-max-width: 65ch;
       p,
       // Let's put figures in the main-content unless explicitly in a sidebar. We keep <figure> and .figures elements flattened so we can arrange images and captions à la Tufte:
       img,
+      // but sometimes we have special .figures that we still want to be in the main-content:
+      .figures,
       //.expert content tends to be wordy and among figures so let's keep it in the main-content zone by default:
       .expert,
       // Override class to place elements that are traditionally in side-content in the main-content. We put it inside the golden-grid definition for specificity reasons.
