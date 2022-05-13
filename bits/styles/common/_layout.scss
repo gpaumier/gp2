@@ -225,6 +225,8 @@ $main-content-max-width: 65ch;
   @media screen and (min-width: $breakpoint-medium) {
     h3,
     p,
+    // Let's put figures in the main-content unless explicitly in a sidebar. We keep <figure> and .figures elements flattened so we can arrange images and captions à la Tufte:
+    img,
     //.expert content tends to be wordy and among figures so let's keep it in the main-content zone by default:
     .expert,
     // Override class to place elements that are traditionally in side-content in the main-content. We put it inside the golden-grid definition for specificity reasons.
@@ -233,30 +235,37 @@ $main-content-max-width: 65ch;
       grid-column: main-content;
     }
 
-    figure,
-    .figures {
-      // Reset to normal display:
-      display: unset;
+    // Unless we have a full-content element:
+    .full-content {
+      grid-column: full-content;
     }
 
-    figure,
-    .figures,
+    // Place side elements in the sidebar:
+    .footnote,
+    .sidebar,
+    figcaption,
+    .caption {
+      grid-column: side-content;
+    }
+
+    // Align <figcaption> and .caption elements at the start for a Tufter look:
+    figcaption,
+    .caption {
+      align-self: start;
+    }
+
+    // Align other elements in the sidebar vertically for a more dynamic / organic flow:
     .footnote,
     .sidebar {
-      // Place in the sidebar:
-      grid-column: side-content;
-
-      // Unless we have a full-content element:
-      &.full-content {
-        grid-column: full-content;
-      }
-
-      // Align vertically for a more dynamic / organic flow:
       align-self: center;
 
       // Unless we specifically don't want to
       &.align-start {
         align-self: start;
+      }
+
+      &.align-end {
+        align-self: end;
       }
     }
   }
