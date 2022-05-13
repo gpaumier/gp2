@@ -191,10 +191,10 @@ $main-content-max-width: 65ch;
     grid-template-columns:
 
       // The left margin (larger) is in a golden relationship with the right margin (smaller) to visually balance the opposite golden relationship of the content zones:
-      [full-start] minmax(1rem, #{$golden1}fr)
+      [full-start left-margin-start] minmax(1rem, #{$golden1}fr)
 
       // The main content is limited by its max width, and we split that zone into 4 columns for flexibility:
-      [full-content-start main-content-start] repeat(4, minmax(min-content, #{$main-content-max-width / 4}))
+      [left-margin-end full-content-start main-content-start] repeat(4, minmax(min-content, #{$main-content-max-width / 4}))
 
       // We don't have a column-gap in order to stay as close as possible to the golden proportions, so we add a gutter here to separate the two content sections a bit:
       [main-content-end] calc(1.2rem + 2vw) // slightly larger than $base-unit
@@ -203,8 +203,9 @@ $main-content-max-width: 65ch;
       [side-content-start] repeat(3, minmax(min-content, #{$golden1 * $main-content-max-width / 3}))
 
       // The right margin (smaller) is in a golden relationship with the left margin (larger):
-      [side-content-end full-content-end] minmax(1rem, #{$golden2}fr)
-      [full-end];
+      [side-content-end full-content-end right-margin-start] minmax(1rem, #{$golden2}fr)
+
+      [right-margin-end full-end];
 
     // On small viewports, everything is stacked vertically:
 
