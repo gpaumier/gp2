@@ -61,6 +61,12 @@ figure {
   column-gap: $column-gap;
   grid-template-rows: repeat($rows, min-content);
 
+  // Override default img behavior in the golden grid:
+
+  img {
+    grid-column: auto;
+  }
+
   p.caption {
     grid-column: 1/3;
     grid-row: -2/-1;
@@ -178,118 +184,123 @@ $golden2: 1 / ( math.pow($phi, 2) );
 // $golden4: 1 / ( math.pow($phi, 4) );
 $main-content-max-width: 65ch;
 
-%golden-grid {
-  display: grid;
-  grid-template-columns:
+@layer layout {
 
-    // The left margin (larger) is in a golden relationship with the right margin (smaller) to visually balance the opposite golden relationship of the content zones:
-    [full-start] minmax(1rem, #{$golden1}fr)
+  %golden-grid {
+    display: grid;
+    grid-template-columns:
 
-    // The main content is limited by its max width, and we split that zone into 4 columns for flexibility:
-    [full-content-start main-content-start] repeat(4, minmax(min-content, #{$main-content-max-width / 4}))
+      // The left margin (larger) is in a golden relationship with the right margin (smaller) to visually balance the opposite golden relationship of the content zones:
+      [full-start] minmax(1rem, #{$golden1}fr)
 
-    // We don't have a column-gap in order to stay as close as possible to the golden proportions, so we add a gutter here to separate the two content sections a bit:
-    [main-content-end] calc(1.2rem + 2vw) // slightly larger than $base-unit
+      // The main content is limited by its max width, and we split that zone into 4 columns for flexibility:
+      [full-content-start main-content-start] repeat(4, minmax(min-content, #{$main-content-max-width / 4}))
 
-    // The side content is defined by its golden relationship to the main content, and we split that zone into 3 columns for flexibility:
-    [side-content-start] repeat(3, minmax(min-content, #{$golden1 * $main-content-max-width / 3}))
+      // We don't have a column-gap in order to stay as close as possible to the golden proportions, so we add a gutter here to separate the two content sections a bit:
+      [main-content-end] calc(1.2rem + 2vw) // slightly larger than $base-unit
 
-    // The right margin (smaller) is in a golden relationship with the left margin (larger):
-    [side-content-end full-content-end] minmax(1rem, #{$golden2}fr)
-    [full-end];
+      // The side content is defined by its golden relationship to the main content, and we split that zone into 3 columns for flexibility:
+      [side-content-start] repeat(3, minmax(min-content, #{$golden1 * $main-content-max-width / 3}))
 
-  // On small viewports, everything is stacked vertically:
+      // The right margin (smaller) is in a golden relationship with the left margin (larger):
+      [side-content-end full-content-end] minmax(1rem, #{$golden2}fr)
+      [full-end];
 
-  > * {
-    grid-column: full-content;
-  }
+    // On small viewports, everything is stacked vertically:
 
-  // On small viewports, images in figures are stretched to the full viewport, but for that we need to flatten them so we can align its child elements on the grid. The figcaption keeps its margins though.
-
-  figure,
-  .figures {
-    display: contents;
-  }
-
-  img {
-    grid-column: full;
-  }
-
-  figcaption,
-  .caption {
-    grid-column: full-content;
-  }
-
-  // On larger viewports, we switch to our golden grid:
-
-  @media screen and (min-width: $breakpoint-medium) {
-    h3,
-    p,
-    // Let's put figures in the main-content unless explicitly in a sidebar. We keep <figure> and .figures elements flattened so we can arrange images and captions à la Tufte:
-    img,
-    //.expert content tends to be wordy and among figures so let's keep it in the main-content zone by default:
-    .expert,
-    // Override class to place elements that are traditionally in side-content in the main-content. We put it inside the golden-grid definition for specificity reasons.
-    // (We don't need the reverse class because we can use the sidebar directive for that.)
-    .main-content {
-      grid-column: main-content;
-    }
-
-    // Unless we have a full-content element:
-    .full-content {
+    > * {
       grid-column: full-content;
     }
 
-    // Place side elements in the sidebar:
-    .footnote,
-    .sidebar,
-    figcaption,
-    .caption {
-      grid-column: side-content;
+    // On small viewports, images in figures are stretched to the full viewport, but for that we need to flatten them so we can align its child elements on the grid. The figcaption keeps its margins though.
+
+    figure,
+    .figures {
+      display: contents;
     }
 
-    // Align <figcaption> and .caption elements at the start for a Tufter look:
-    figcaption,
-    .caption {
-      align-self: start;
+    img {
+      grid-column: full;
     }
 
-    // Align other elements in the sidebar vertically for a more dynamic / organic flow:
-    .footnote,
-    .sidebar {
-      align-self: center;
+    figcaption,
+    .caption {
+      grid-column: full-content;
+    }
 
-      // Unless we specifically don't want to
-      &.align-start {
+    // On larger viewports, we switch to our golden grid:
+
+    @media screen and (min-width: $breakpoint-medium) {
+      h3,
+      p,
+      // Let's put figures in the main-content unless explicitly in a sidebar. We keep <figure> and .figures elements flattened so we can arrange images and captions à la Tufte:
+      img,
+      //.expert content tends to be wordy and among figures so let's keep it in the main-content zone by default:
+      .expert,
+      // Override class to place elements that are traditionally in side-content in the main-content. We put it inside the golden-grid definition for specificity reasons.
+      // (We don't need the reverse class because we can use the sidebar directive for that.)
+      .main-content {
+        grid-column: main-content;
+      }
+
+      // Unless we have a full-content element:
+      .full-content {
+        grid-column: full-content;
+      }
+
+      // Place side elements in the sidebar:
+      .footnote,
+      .sidebar,
+      figcaption,
+      .caption {
+        grid-column: side-content;
+      }
+
+      // Have the option to unset those styles if they're giving us trouble
+      .unset-grid {
+        grid-column: unset;
+      }
+
+      // Align <figcaption> and .caption elements at the start for a Tufter look:
+      figcaption,
+      .caption {
         align-self: start;
       }
 
-      &.align-end {
-        align-self: end;
+      // Align other elements in the sidebar vertically for a more dynamic / organic flow:
+      .footnote,
+      .sidebar {
+        align-self: center;
+
+        // Unless we specifically don't want to
+        &.align-start {
+          align-self: start;
+        }
+
+        &.align-end {
+          align-self: end;
+        }
       }
     }
   }
-}
 
+  // Create classes for indicating on which row images should start in the golden grid
 
-
-
-// Create classes for indicating on which row images should start in the golden grid
-
-@for $i from 1 through 10 {
-  .rowstart-#{$i} {
-    @media screen and (min-width: $breakpoint-medium) {
-      grid-row-start: #{$i};
+  @for $i from 1 through 10 {
+    .rowstart-#{$i} {
+      @media screen and (min-width: $breakpoint-medium) {
+        grid-row-start: #{$i};
+      }
     }
   }
-}
 
-// Create classes for spanning images across several rows in the golden grid
+  // Create classes for spanning images across several rows in the golden grid
 
-@for $i from 1 through 10 {
-  .rowspan-#{$i} {
-    @media screen and (min-width: $breakpoint-medium) {
-      grid-row-end: span #{$i};
+  @for $i from 1 through 10 {
+    .rowspan-#{$i} {
+      @media screen and (min-width: $breakpoint-medium) {
+        grid-row-end: span #{$i};
+      }
     }
   }
 }
