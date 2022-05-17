@@ -19,7 +19,11 @@
 }
 
 
-#how-i-think,
+#how-i-think {
+  @extend %golden-hero;
+}
+
+
 #knowledge-belongs-to-all-of-us,
 #science-engineering,
 #playfulness-creativity,
@@ -28,14 +32,13 @@
 }
 
 
+//section let's fix hero titles and migrate everything before we do this
 #integrating-information,
 #understanding-the-human-element,
 #seeing-systems,
 #connecting-people-and-ideas,
 #seeing-different-perspectives,
 #working-as-a-community,
-#justice-and-belonging,
-//section let's fix hero titles and migrate everything before we do this
- {
+#justice-and-belonging {
   @extend %golden-grid;
 }

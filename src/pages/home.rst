@@ -41,6 +41,8 @@ How I think
 
    `Yumi Kim <https://unsplash.com/@jst_yumi>`__ on `Unsplash <https://unsplash.com/photos/ofhso5YyN3o>`__
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
+
 Integrating information
 -----------------------
 
@@ -93,25 +95,21 @@ My favorite problems are those without an obvious solution, because I get to lea
 Seeing different perspectives
 -----------------------------
 
-defer judgment until we understand the different perspectives.
+defer judgment until we understand the different perspectives. // Individual decision-making can be impeded by bounded rationality and selective exposure. An additional concern when discussing specialized topics as a large group is the information deficit of its members and the communal reinforcement built in the group over time. In order to mitigate those limitations, I strive to frame the issues I work on by situating the problem in its broader landscape, as a way to increase the quality of information available for decision-making.
 
-.. figure:: /images/Jalal_al-Din_Rumi,_Maulana_-_Townspeople_and_elephant.jpg
+.. sidebar::
 
-   Seeking multiple perspectives to `get more hands onto that elephant <https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>`__. `Townspeople, Who have Never Seen an Elephant, Examine its Appearance in the Dark <https://commons.wikimedia.org/wiki/File:Jalal_al-Din_Rumi,_Maulana_-_Townspeople,_Who_have_Never_Seen_an_Elephant,_Examine_its_Appearance_in_the_Dark_-_Walters_W626117B_-_Full_Page.jpg>`__
+   .. figure:: /images/Jalal_al-Din_Rumi,_Maulana_-_Townspeople_and_elephant.jpg
 
-Individual decision-making can be impeded by bounded rationality and selective exposure. An additional concern when discussing specialized topics as a large group is the information deficit of its members and the communal reinforcement built in the group over time. In order to mitigate those limitations, I strive to frame the issues I work on by situating the problem in its broader landscape, as a way to increase the quality of information available for decision-making.
+      Seeking multiple perspectives to `get more hands onto that elephant <https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>`__. `Townspeople, Who have Never Seen an Elephant, Examine its Appearance in the Dark <https://commons.wikimedia.org/wiki/File:Jalal_al-Din_Rumi,_Maulana_-_Townspeople,_Who_have_Never_Seen_an_Elephant,_Examine_its_Appearance_in_the_Dark_-_Walters_W626117B_-_Full_Page.jpg>`__
 
 
 Working as a community
 ----------------------
 
+.. class:: rowspan-4
+
 It takes a village. // Barn raising is a fundamental concept in the study of online communities. Barn raising "occurs when a community actively decides to come to the same place at the same time to help achieve some specific goal."\ [#BarnRaisingMeatBall]_ The metaphor comes from the collective effort needed to raise an actual barn,\ [#BarnRaisingWP]_ a process that is all but impossible to do on one's own, and demands collaboration and good will from the community. While mostly reminiscent of 18th- and 19th-century rural North America, barn raising is only one example of communal work encountered in many societies around the world.\ [#CommunalWork]_ The Indonesian ethos of *Gotong royong* similarly refers to carrying burdens together, which sometimes translates to literally carrying your neighbor's home to a new location.\ [#GotongRoyong]_
-
-.. figure:: /images/Gotong_Royong_Pindah_Rumah.jpg
-
-   Herusutimbul on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gotong_Royong_Pindah_Rumah.jpg>`_ // `CC-By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_
-
-Wikis are built by people coming together to achieve something that one person couldn't do alone. Most human endeavors are no different. A good strategy with broad alignment can't be built by just the CEO or a few executives. It takes a collective effort to carry this burden together and build it in the wiki spirit of good-faith collaboration. Only then can we raise the barn as a community.
 
 .. [#BarnRaisingMeatBall] See `BarnRaising <http://meatballwiki.org/wiki/BarnRaising>`_ on MeatballWiki, the community reference on online communities. Barnraising is also where `Barnstars <http://meatballwiki.org/wiki/BarnStar>`_ come from, as tokens of appreciation for individual efforts.
 
@@ -120,6 +118,14 @@ Wikis are built by people coming together to achieve something that one person c
 .. [#CommunalWork] See `Communal work <https://en.wikipedia.org/wiki/Communal_work>`_ on the English-language Wikipedia.
 
 .. [#GotongRoyong] See `Gotong royong <https://id.wikipedia.org/wiki/Gotong_royong>`_ on the Indonesian-language Wikipedia.
+
+.. figure:: /images/Gotong_Royong_Pindah_Rumah.jpg
+
+   Herusutimbul on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gotong_Royong_Pindah_Rumah.jpg>`_ // `CC-By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_
+
+Wikis are built by people coming together to achieve something that one person couldn't do alone. Most human endeavors are no different. A good strategy with broad alignment can't be built by just the CEO or a few executives. It takes a collective effort to carry this burden together and build it in the wiki spirit of good-faith collaboration. Only then can we raise the barn as a community.
+
+
 
 
 Justice and belonging
