@@ -1,13 +1,8 @@
 @charset 'utf-8';
+@use 'normalize';
 @use 'sass:meta';
 @use 'common';
 
 // Define our layers
 
-@layer normalize, base, layout, utilities;
-
-// We use lead-css instead of "@use 'normalize';" so we can add it do a dedicated layer
-
-@layer normalize {
-  @include meta.load-css('normalize');
-}
+//@layer normalize, base, layout, utilities;
