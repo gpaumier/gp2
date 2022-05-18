@@ -43,12 +43,32 @@ How I think
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
 
+
+How I think
+===========
+
+.. figure:: /images/yumi-kim-ofhso5YyN3o-unsplash.jpg
+
+   `Yumi Kim <https://unsplash.com/@jst_yumi>`__ on `Unsplash <https://unsplash.com/photos/ofhso5YyN3o>`__
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
+
+
+How I think
+===========
+
+.. figure:: /images/yumi-kim-ofhso5YyN3o-unsplash.jpg
+
+   `Yumi Kim <https://unsplash.com/@jst_yumi>`__ on `Unsplash <https://unsplash.com/photos/ofhso5YyN3o>`__
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
+
 Integrating information
 -----------------------
 
 I have the ability to absorb massive amounts of information on almost any topic, and quickly understand new paradigms.\ [#Pretender]_ Although a physics engineer by training, I have held many different roles over the years, earning from my colleagues nicknames such as the "staff economist," "staff philosopher," and "the soul of the organization."
 
-.. [#Pretender] A bit like Jarod in the 1996 NBC series |The Pretender|_, except not quite as extraordinary, and sans the abduction-escape-and-chase by a nefarious Delaware-based organization.
+.. [#Pretender] Not unlike Jarod in the 1996 NBC series |The Pretender|_, except not quite as extraordinary, and sans the abduction-escape-and-chase by a nefarious Delaware-based organization.
 
 .. |The Pretender| replace:: *The Pretender*
 
@@ -150,7 +170,19 @@ Knowledge belongs to all of us
 
    `Mark de Jong <https://unsplash.com/@mrmarkdejong>`__ on `Unsplash <https://unsplash.com/photos/N3Bm8VEdLho>`__
 
-Placeholder intro
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
+
+
+Knowledge belongs to all of us
+==============================
+
+.. figure:: /images/Wikimedia_Summit_2019_-_Group_photo_4.jpg
+   :alt: Group photo of Wikimedians at the 2019 Wikimedia Summit in Berlin
+
+   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_Group_photo_4.jpg>`__ // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
+
 
 .. figure:: /images/Wikipedia-logo-v2.png
    :figclass: wikipedia-logo
@@ -202,10 +234,19 @@ Science & Engineering
 
    `Soroush Zargar <https://unsplash.com/@soroushzargar>`__ on `Unsplash <https://unsplash.com/photos/zFSUhqGual8>`__
 
+Way back when, I initially studied Mathematics and Computer Science before turning to Physics, with a double major in Materials & Semiconductors and in Nanotechnology. I went on to develop :doc:`chemical processes for biochips <biochips>` and then completed my Ph.D on :doc:`polymer microsystems for biological analysis <phd>`. Since then, I have also written software in a number of coding languages.
+
+Science & Engineering
+=====================
+
+.. figure:: /images/soroush-zargar-zFSUhqGual8-unsplash.jpg
+
+   `Soroush Zargar <https://unsplash.com/@soroushzargar>`__ on `Unsplash <https://unsplash.com/photos/zFSUhqGual8>`__
+
 .. figure:: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
    :target: phd
 
-I initially majored in Mathematics and Computer Science before turning to Physics, with a double major in Materials & Semiconductors and in Nanotechnology. I went on to develop :doc:`chemical processes for biochips <biochips>` and then completed my Ph.D on :doc:`polymer microsystems for biological analysis <phd>`.
+Way back when, I initially studied Mathematics and Computer Science before turning to Physics, with a double major in Materials & Semiconductors and in Nanotechnology. I went on to develop :doc:`chemical processes for biochips <biochips>` and then completed my Ph.D on :doc:`polymer microsystems for biological analysis <phd>`. Since then, I have also written software in a number of coding languages.
 
 I adapted a capillary-based immunoassay to a planar microarray, and developed a vapor-phase silanization protocol for use in peptide digestion microsystems.
 
@@ -224,7 +265,6 @@ microsystem
 
 Playfulness & Creativity
 ========================
-
 
 .. figure:: /images/dimitar-belchev-DxMJaH1HFo0-unsplash.jpg
    :target: play
@@ -263,6 +303,9 @@ A life of learning
 .. figure:: /images/ospan-ali-V-77FxfGeQU-unsplash.jpg
 
    `Ospan Ali <https://unsplash.com/@ospanali>`__ on `Unsplash <https://unsplash.com/photos/V-77FxfGeQU>`__
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
+
 
 or adaptation
 
