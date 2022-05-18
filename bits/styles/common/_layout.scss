@@ -533,7 +533,7 @@ $main-content-max-width: 65ch;
 
       &::after {
         content: "";
-        border-bottom: 1px solid darkblue;
+        border-bottom: 1px solid $primary-color;
         display: block;
         //we want the width of this border to be in a golden relationship with the whitespace on either side of it
         width: #{$golden2 * 100%};
