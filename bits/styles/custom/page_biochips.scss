@@ -29,8 +29,7 @@
 /////////////////////////////////////////////////////////////
 
 #biochips-and-microarrays{
-  @extend %new4hero-section;
-  @include split.hero-darken(35%);
+  @extend %golden-section-hero-golden;
 }
 
 #mass-parallel-testing,
@@ -88,8 +87,7 @@
 /////////////////////////////////////////////////////////////
 
 #antibody-microarray-on-cea-2-protocol{
-  @extend %new4hero-section;
-  @include split.hero-darken(40%);
+  @extend %golden-section-hero-golden;
 }
 
 #parameter-study-protocol-optimization {
@@ -155,8 +153,7 @@
 /////////////////////////////////////////////////////////////
 
 #alternative-detection-methods {
-  @extend %new4hero-section;
-  @include split.hero-darken(35%);
+  @extend %golden-section-hero-golden;
 }
 
 .reaction-kinetics-diagram img {
@@ -183,7 +180,7 @@
 
 #vapor-phase-silanization-for-proteomics,
 #peptidic-digestion-mass-spectrometry {
-  @extend %new4hero-section;
+  @extend %golden-section-hero-golden;
 }
 
 .vapor-phase-diagram img {

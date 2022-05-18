@@ -20,7 +20,17 @@
 
 
 #how-i-think {
-  @extend %golden-hero;
+  @extend %golden-section-hero-full;
+}
+
+#how-i-think-1,
+#knowledge-belongs-to-all-of-us-1,
+#science-engineering-1 {
+  @extend %golden-section-hero-golden;
+}
+
+#how-i-think-2 {
+  @extend %golden-section-hero-golden;
 }
 
 
