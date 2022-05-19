@@ -67,7 +67,7 @@ In the end, we managed to squeeze in our van during the workers' lunch break. We
 A few months in the Normandy countryside
 ========================================
 
-We arrived in Normandy the next day and proceeded to set up our living quarters at my father's. It took a little skill to essentially merge two homes into one, so some of the boxes lasted a bit longer than expected, but we managed to find set up own space without disrupting the house's equilibrium too much.
+We arrived in Normandy the next day and proceeded to set up our living quarters at my father's. It took a little skill to essentially merge two homes into one, so some of the boxes lasted a bit longer than expected, but we managed to set up our own space without disrupting the house's equilibrium too much.
 
 .. figure:: /images/2014-07-19-Hallway-office.jpg
     :alt: A work station set up on an desk in front of a window, next to a stack of plastic boxes.
