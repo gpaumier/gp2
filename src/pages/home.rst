@@ -44,25 +44,6 @@ How I think
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
 
 
-How I think
-===========
-
-.. figure:: /images/yumi-kim-ofhso5YyN3o-unsplash.jpg
-
-   `Yumi Kim <https://unsplash.com/@jst_yumi>`__ on `Unsplash <https://unsplash.com/photos/ofhso5YyN3o>`__
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
-
-
-How I think
-===========
-
-.. figure:: /images/yumi-kim-ofhso5YyN3o-unsplash.jpg
-
-   `Yumi Kim <https://unsplash.com/@jst_yumi>`__ on `Unsplash <https://unsplash.com/photos/ofhso5YyN3o>`__
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
-
 Integrating information
 -----------------------
 
@@ -82,8 +63,6 @@ Understanding the human element
 -------------------------------
 
 Very few problems are purely technical; solving a problem often means understanding the human emotions in the room, as well as cognitive biases, power dynamics, historical context, privilege, and structural inequality. My own journey of self-discovery has taught the importance of the human element, and the need to consider the variety of subjective human experiences. In particular, when solving problems, I believe it is essential to accept our fallibility, acknowledge failures, and learn from them.
-
-.. figure:: /images/yumi-kim-ofhso5YyN3o-unsplash.jpg
 
 Seeing systems
 --------------
@@ -146,8 +125,6 @@ It takes a village. // Barn raising is a fundamental concept in the study of onl
 Wikis are built by people coming together to achieve something that one person couldn't do alone. Most human endeavors are no different. A good strategy with broad alignment can't be built by just the CEO or a few executives. It takes a collective effort to carry this burden together and build it in the wiki spirit of good-faith collaboration. Only then can we raise the barn as a community.
 
 
-
-
 Justice and belonging
 ---------------------
 
@@ -160,19 +137,6 @@ I feel compelled to use my skills for the common good, and I have a particular a
 
 ----
 
-.. class:: wikipedia-years
-
-Knowledge belongs to all of us
-==============================
-
-.. figure:: /images/mark-de-jong-N3Bm8VEdLho-unsplash.jpg
-   :target: wikimedia
-
-   `Mark de Jong <https://unsplash.com/@mrmarkdejong>`__ on `Unsplash <https://unsplash.com/photos/N3Bm8VEdLho>`__
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
-
-
 Knowledge belongs to all of us
 ==============================
 
@@ -182,15 +146,6 @@ Knowledge belongs to all of us
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_Group_photo_4.jpg>`__ // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
-
-
-.. figure:: /images/Wikipedia-logo-v2.png
-   :figclass: wikipedia-logo
-
-
-.. class:: caption
-
-   Wikipedia logo by `Nohat <https://meta.wikimedia.org/wiki/User:Nohat>`__, `Paullusmagnus <https://meta.wikimedia.org/wiki/User:Paullusmagnus>`__, Wikimedia on Wikimedia Commons // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__ // ™ Wikimedia Foundation, Inc.
 
 .. Inspired by https://en.wikipedia.org/wiki/Template:Main
 .. class:: main-article
@@ -225,8 +180,6 @@ We encourage others to do what we can’t, and we help them succeed. When voices
 
 ----
 
-.. class:: college-years
-
 Science & Engineering
 =====================
 
@@ -235,18 +188,8 @@ Science & Engineering
    `Soroush Zargar <https://unsplash.com/@soroushzargar>`__ on `Unsplash <https://unsplash.com/photos/zFSUhqGual8>`__
 
 Way back when, I initially studied Mathematics and Computer Science before turning to Physics, with a double major in Materials & Semiconductors and in Nanotechnology. I went on to develop :doc:`chemical processes for biochips <biochips>` and then completed my Ph.D on :doc:`polymer microsystems for biological analysis <phd>`. Since then, I have also written software in a number of coding languages.
-
-Science & Engineering
-=====================
-
-.. figure:: /images/soroush-zargar-zFSUhqGual8-unsplash.jpg
-
-   `Soroush Zargar <https://unsplash.com/@soroushzargar>`__ on `Unsplash <https://unsplash.com/photos/zFSUhqGual8>`__
 
 .. figure:: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
-   :target: phd
-
-Way back when, I initially studied Mathematics and Computer Science before turning to Physics, with a double major in Materials & Semiconductors and in Nanotechnology. I went on to develop :doc:`chemical processes for biochips <biochips>` and then completed my Ph.D on :doc:`polymer microsystems for biological analysis <phd>`. Since then, I have also written software in a number of coding languages.
 
 I adapted a capillary-based immunoassay to a planar microarray, and developed a vapor-phase silanization protocol for use in peptide digestion microsystems.
 
@@ -261,17 +204,10 @@ microsystem
 
 ----
 
-.. class:: play
-
 Playfulness & Creativity
 ========================
 
-.. figure:: /images/dimitar-belchev-DxMJaH1HFo0-unsplash.jpg
-   :target: play
-
-   `Dimitar Belchev <https://unsplash.com/@belchev>`__ on `Unsplash <https://unsplash.com/photos/DxMJaH1HFo0>`__
-
-
+.. figure:: /images/plants_3808.jpg
 
 When there isn't a global pandemic going on, I spend a fair amount of time out and about. In the past few years, I have taken up powerlifting, breadmaking, and ballet, and experimented with piano and ballroom dancing. I also like to go on long walks with or without my camera.
 
@@ -294,8 +230,6 @@ Over the years I've dabbled with archery, ballet, martial arts, stage acting, fe
 finding beauty in the ordinary and the extraordinary
 
 ----
-
-.. class:: early-years
 
 A life of learning
 ==================

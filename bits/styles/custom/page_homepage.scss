@@ -18,27 +18,12 @@
   margin-right: -10vw;
 }
 
-
-#how-i-think {
-  @extend %golden-section-hero-full;
-}
-
-#how-i-think-1,
-#knowledge-belongs-to-all-of-us-1,
-#science-engineering-1 {
-  @extend %golden-section-hero-golden;
-}
-
-#how-i-think-2 {
-  @extend %golden-section-hero-golden;
-}
-
-
+#how-i-think,
 #knowledge-belongs-to-all-of-us,
 #science-engineering,
 #playfulness-creativity,
 #a-life-of-learning {
-  @extend %new4hero-section;
+  @extend %golden-section-hero-golden;
 }
 
 

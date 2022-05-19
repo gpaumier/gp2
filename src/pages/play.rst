@@ -3,7 +3,7 @@
 .. slug: play
 .. icon: fa-palette
 .. template: page_custom.tmpl
-.. image: /images/2010-07-03_Qt_duck.jpg
+.. image: /images/plants_3808.jpg
 .. image-alt: placeholder
 
 
