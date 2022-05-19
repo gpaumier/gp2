@@ -253,7 +253,16 @@ $main-content-max-width: 65ch;
 
     // Unless we have a full-content element:
     .full-content {
-      grid-column: full-content;
+      img {
+        grid-column: full-content;
+      }
+
+      // When the image takes up the full-content width, let's put the caption in the side-content. We span two rows to avoid shifting content down in the main-content area. And we align the caption at the start so it's right underneath the image.
+      figcaption {
+        grid-row: span 2;
+        align-self: start;
+
+      }
     }
 
     // Place side elements in the sidebar:
@@ -272,7 +281,7 @@ $main-content-max-width: 65ch;
     // Align <figcaption> and .caption elements at the start for a Tufter look:
     figcaption,
     .caption {
-      align-self: start;
+      align-self: end;
     }
 
     // Align other elements in the sidebar vertically for a more dynamic / organic flow:
@@ -357,7 +366,7 @@ $main-content-max-width: 65ch;
     content: '';
     grid-row: 1/3;
     grid-column: full;
-    box-shadow: 0 2rem 1.5rem -1rem rgba(0,0,0,.7) inset, 0 -2rem 1.5rem -1rem rgba(0,0,0,.7) inset;
+    box-shadow: 0 0 2rem 0 #44000077;
     z-index: 4;
   }
 
@@ -373,11 +382,12 @@ $main-content-max-width: 65ch;
     }
 
     > figure:first-of-type figcaption {
+    justify-self: end;
       // Since we have more space, we align this flushed right, but no longer than beyond the golden divide:
-      grid-column: full-golden-small;
-      justify-self: end;
+      // TODO: uncomment that once we find a way to reserve the full-golden-large part of this rnow so text paragraphs don't go in there
+      //grid-column: full-golden-small;
       // And we can get rid of the left-margin
-      margin-left: 0;
+      //margin-left: 0;
     }
   }
 }
@@ -453,8 +463,9 @@ $main-content-max-width: 65ch;
   @extend %golden-section;
 
   grid-template-rows:
-  minmax(min-content, #{$golden1 * 100}vh)  // top half
-  minmax(min-content, #{$golden2 * 100}vh)  // bottom half
+  // total height of the graphic spread is 85% of the viewport's height
+  minmax(min-content, #{$golden1 * 85}vh)  // top half
+  minmax(min-content, #{$golden2 * 85}vh)  // bottom half
   min-content                         // figcaption
   auto;                               // remaining content
 
@@ -493,9 +504,10 @@ $main-content-max-width: 65ch;
   @media screen and (min-width: $breakpoint-medium) {
 
     // On wider viewports we want to pull the first paragraph of text in, but it takes more space than the h2 title, so we need to reverse the golden relationship between the hero area's two zones:
+    // We can also reduce the overall height a bit
     grid-template-rows:
-    minmax(min-content, #{$golden2 * 100}vh)  // top half
-    minmax(min-content, #{$golden1 * 100}vh)  // bottom half
+    minmax(min-content, #{$golden2 * 70}vh)  // top half
+    minmax(min-content, #{$golden1 * 70}vh)  // bottom half
     min-content                         // figcaption
     auto;
 
@@ -508,11 +520,6 @@ $main-content-max-width: 65ch;
         height: 100%;
         object-fit: cover;
       }
-
-    // restrict the depth-shadows to the left side:
-    &::before {
-      grid-column: full-golden-large;
-    }
 
     // Right side:
 
