@@ -124,80 +124,27 @@ dl {
 
 
 #honey-i-shrunk-the-lab {
-
-  @include split.txt-pics-hero(
-  $image-side: right,
-  $background: light,
-  $text-width: 68ch,
-  $pics-width: 42ch,
-  );
-
-  > figure:first-of-type img {
-    // Adjust colors but keep the opacity
-    filter: opacity(15%) hue-rotate(-60deg) saturate(400%);
-  }
+  @extend %golden-section-hero-golden;
 }
-
-.loc-iss {
-  @include split.place(right, "6/8");
-  align-self: center;
-}
-
-.loc-nist {
-  @include split.place(right, "8/13");
-  align-self: center;
-}
-
 
 /////////////////////////////////////////////////////////////
 
 #microfluidics {
-
-  // There are only 5 paragraphs of text in the main column in split layout, but the side column is long, so we extend it to 6 rows in case there's overflow (otherwise the main column stretches vertically to match).
-
-  @include split.txt-pics-hero(
-  $image-side: left,
-  $image-row-span: 3,
-  $background: dark,
-  $text-width: 68ch,
-  $pics-width: 42ch,
-  );
-
-  .expert {
-    @include split.place(left, "9/12");
-    align-self: center;
-  }
+  @extend %golden-section-hero-golden;
 }
 
 /////////////////////////////////////////////////////////////
 
 #pnipam {
-
-  @include split.txt-pics-hero(
-  $image-side: right,
-  $image-row-span: 4,
-  $background: light,
-  $text-width: 68ch,
-  $pics-width: 42ch,
-  );
-
-  > figure:first-of-type img {
-    filter: opacity(25%) saturate(200%);
-  }
-
-  .expert {
-    @include split.place(right, "8/9");
-  }
+  @extend %golden-section-hero-golden;
 }
 
-.pnipam-formula {
-  @include split.place(right, "6/8");
-  justify-self: center;
-  max-width: 12rem;
+.pnipam-formula img {
+  max-width: 20rem;
+  margin: auto;
 }
 
 .pnipam-switch-figures {
-  @include split.place(left, "8/10");
   // Make this a little grid so we can lay out our collage
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -227,27 +174,17 @@ dl {
   }
 }
 
-#pnipam-transition-video {
-  @include split.place(right, "9/11");
-  align-self: end;
-}
-
 
 /////////////////////////////////////////////////////////////
 
 #surface-functionalization {
-  @extend %new4hero-section;
+  @extend %golden-section-hero-golden;
 }
 
 // This section has subsections
 
 #grafting-chemistry {
-  @include split.txt-pics(right, 2, 42ch, 68ch);
-
-  .expert {
-    @include split.place(right, "2/4");
-    align-self: center;
-  }
+  @extend %golden-grid;
 }
 
 .silane-afm {
@@ -256,11 +193,7 @@ dl {
 }
 
 #contact-angle {
-  @include split.txt-pics(left, 2, 42ch, 68ch);
-  .expert {
-    @include split.place(left, "2/5");
-    align-self: center;
-  }
+  @extend %golden-grid;
 }
 
 .functionalization-hydrophobic-hydrophilic {
@@ -268,12 +201,9 @@ dl {
 }
 
 #infrared-spectroscopy {
-  @include split.txt-pics(right, 2, 42ch, 68ch);
+  @extend %golden-grid;
 }
 
-.functionalization-ftir {
-  @include split.place(right, "2/5");
-}
 
 .hydrophilic,
 .hydrophobic {
@@ -296,131 +226,35 @@ dl {
   transform: scale(1.5);
 }
 
-.functionalization-hydrophobic-hydrophilic {
-  @include split.place(right, "4/5");
-}
-
-// adjust bottom margins
-
-#grafting-chemistry,
-#contact-angle,
-#infrared-spectroscopy {
-  margin-bottom: 1rem;
-}
-
 
 
 /////////////////////////////////////////////////////////////
 
-#electrokinetic-mixing {
-
-  @include split.txt-pics-hero(
-  $image-side: right,
-  $image-row-span: 4,
-  $background: dark,
-  $text-width: 68ch,
-  $pics-width: 42ch,
-  );
+#controlling-surface-properties-with-pnipam {
+  @extend %golden-section-hero-golden;
 }
 
-.mixers-principle {
-  @include split.place(right, "8/10");
-  align-self: center;
-}
-
-/////////////////////////////////////////////////////////////
-
-#electro-osmotic-flow {
-  @extend %new4hero-section;
-  @extend %hero-in-split-light;
-
-  > figure:first-of-type img {
-    // Increase opacity and saturation a bit since contrast of the image is low.
-    filter: opacity(20%) saturate(300%);
-  }
-}
-
-#electro-osmosis {
-  @include split.txt-pics(left, 2, 42ch, 68ch);
-}
-
-.eof-edl {
-  @include split.place(left, "2/5");
-}
-
+#electrokinetic-mixing,
+#electro-osmotic-flow,
 #controlling-the-electro-osmotic-flow-with-pnipam {
-  @include split.txt-pics(right, 2, 42ch, 68ch);
-}
-
-.eof-experiment {
-  @include split.place(right, "2/5");
-  //align-self: center;
-
-  figure img {
-    padding: .5rem;
-  }
-}
-
-.eof-pnipam-results {
-  @include split.place(left, "4/5");
-
-  figure img {
-    padding: .5rem;
-  }
+  @extend %golden-grid;
 }
 
 /////////////////////////////////////////////////////////////
 
 #microfluidic-chip {
-
-  @include split.txt-pics-hero(
-  $image-side: right,
-  $image-row-span: 4,
-  $background: dark,
-  $text-width: 75ch,
-  $pics-width: 35ch,
-  );
-}
-
-.chip-pillars {
-  @include split.place(right, "6/11");
-  align-self: end;
-}
-
-.chip-beads {
-  @include split.place(right, "11/13");
-  align-self: center;
+  @extend %golden-section-hero-golden;
 }
 
 .chip-blender {
-  @include split.place(left, "13/14");
   @include layout.side-by-side-figures(.3rem);
-
 }
 
 
 /////////////////////////////////////////////////////////////
 
 #heating-elements {
-
-  @include split.txt-pics-hero(
-  $image-side: right,
-  $image-row-span: 1,
-  $background: dark,
-  $text-width: 75ch,
-  $pics-width: 35ch,
-  );
-
-  @include split.hero-darken(45%);
-}
-
-.comsol-3d {
-  @include split.place(right, "6/8");
-}
-
-.comsol-ligne-maillage {
-  @include split.place(right, "8/12");
-  align-self: center;
+  @extend %golden-section-hero-golden;
 }
 
 .comsol-maillage {
@@ -428,47 +262,12 @@ dl {
   margin: auto;
 }
 
-.heat-transfer-sim {
-  @include split.spread("12/13");
-}
-
-.ir-camera {
-  @include split.place(right, "13/17");
-}
-
 /////////////////////////////////////////////////////////////
 
 #catching-proteins {
-
-  @include split.txt-pics-hero(
-  $image-side: right,
-  $image-row-span: 4,
-  $background: dark,
-  $text-width: 68ch,
-  $pics-width: 42ch,
-  );
-}
-
-.catching-proteins-principle {
-  @include split.place(right, "6/9");
-  align-self: center;
-}
-
-.catching-proteins-preconcentration {
-  @include split.spread("9/10");
-}
-
-.catching-proteins-capillary {
-  @include split.place(right, "10/12");
-  align-self: center;
+  @extend %golden-section-hero-golden;
 }
 
 .catching-proteins-chip {
-  @include split.place(left, "12/13");
   @include layout.side-by-side-figures();
-}
-
-.catching-streptavidin {
-  @include split.place(right, "12/14");
-  align-self: center;
 }

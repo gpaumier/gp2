@@ -51,15 +51,13 @@ Kudos
 
     --- Dr. F. Sedat Tardu, Laboratoire des Écoulements Géophysiques et Industriels, 2008.
 
-----
 
 Honey, I shrunk the lab.
 ========================
 
-.. figure:: /images/LabDisk_for_SAXS.jpg
+.. figure:: /images/Lab_on_a_Chip_(7788250170).jpg
 
-   Frank Schwemmer et al. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:LabDisk_for_SAXS.gif>`__ // `CC BY 3.0 <https://creativecommons.org/licenses/by/3.0/legalcode>`__.
-
+   G.\ Cooksey, NIST on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Lab_on_a_Chip_(7788250170).jpg>`__ // Public domain.
 
 Using techniques developed for microelectronics, researchers are able to miniaturize entire lab functions to the size of a microchip, paving the way for cheap, reliable testing kits and biomedical devices that fit in your pocket.
 
@@ -73,10 +71,12 @@ All these tests are relatively inexpensive and widely available; they provide a 
 
 Advanced labs-on-a-chips integrate several lab functions into a miniaturized device. They combine the advances made in consumer electronics through the very large scale integration of transistors, with applications in biology and medicine. As such, they build on the expertise, tools, and processes in semiconductor manufacturing, to design and mass-produce reliable testing units at low cost.
 
-.. figure:: /images/Suni_Williams_aboard_the_ISS.jpg
-   :figclass: loc-iss
+.. class:: rowstart-4 rowspan-2
+.. sidebar::
 
-   Lab-on-a-chip devices enable rapid testing with small amounts of samples and reagents. In this picture, Astronaut Sunita L. Williams, works with `LOCAD-PTS <https://en.wikipedia.org/wiki/LOCAD>`__, a lab-on-a-chip for rapid detection of biological and chemical substances onboard the International Space Station. (NASA on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Suni_Williams_aboard_the_ISS.jpg>`__ // Public domain)
+   .. figure:: /images/Suni_Williams_aboard_the_ISS.jpg
+
+      Lab-on-a-chip devices enable rapid testing with small amounts of samples and reagents. In this picture, Astronaut Sunita L. Williams, works with `LOCAD-PTS <https://en.wikipedia.org/wiki/LOCAD>`__, a lab-on-a-chip for rapid detection of biological and chemical substances onboard the International Space Station. (NASA on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Suni_Williams_aboard_the_ISS.jpg>`__ // Public domain)
 
 Miniaturization has advantages inherent to biological analysis as well. By integrating multiple lab functions close together on a single chip, labs-on-a-chip require much smaller volumes of samples and chemical substances. Connections are simplified and sample waste is reduced. Disposable, single-use chips also limit cross-contamination.
 
@@ -86,18 +86,17 @@ Miniaturization has advantages inherent to biological analysis as well. By integ
 
 Test kits integrated on a chip are often portable and usable by people with limited expertise. Large batches of units may be shipped during a large-scale health crisis, and support clinical diagnosis as close to the patient as possible, in particular in geographies and contexts that lack full-fledged bioanalysis labs. Other applications of labs-on-a-chip include environmental monitoring (e.g. testing for contaminants in food and water), pharmaceutical research (high-throughput screening for drug discovery) and defense against bioterrorism.
 
-.. container:: loc-nist
+.. class:: rowstart-6 rowspan-5
+.. sidebar::
 
    .. figure:: /images/Microfluidic_palette_(5880463875).jpg
 
    .. figure:: /images/Microfluidic_Device_(6842746147).jpg
 
-   .. figure:: /images/Lab_on_a_Chip_(7788250170).jpg
+   .. figure:: /images/LabDisk_for_SAXS.jpg
 
-      Microfluidic devices developed at NIST. G. Cooksey, NIST: `1 <https://commons.wikimedia.org/wiki/File:Microfluidic_palette_(5880463875).jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:Microfluidic_Device_(6842746147).jpg>`__, `3 <https://commons.wikimedia.org/wiki/File:Lab_on_a_Chip_(7788250170).jpg>`__ // Public domain.
+      Microfluidic devices developed at NIST. G. Cooksey, NIST: `1 <https://commons.wikimedia.org/wiki/File:Microfluidic_palette_(5880463875).jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:Microfluidic_Device_(6842746147).jpg>`__, Public domain // Frank Schwemmer et al. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:LabDisk_for_SAXS.gif>`__ (3), `CC BY 3.0 <https://creativecommons.org/licenses/by/3.0/legalcode>`__.
 
-
-----
 
 Microfluidics
 =============
@@ -117,39 +116,41 @@ Physical phenomena don't decrease linearly (or *homothetically*) as dimensions s
 
 Miniaturization dramatically increases the surface-to-volume ratio, meaning that surfaces take a stronger role: for example, molecules stick to walls, and liquids evaporate, especially droplets. Building microfluidic systems calls for precise control of physical and chemical phenomena happening on surfaces, which can be done through *surface functionalization*.
 
-
-.. container:: figures
+.. class:: rowstart-4 rowspan-3
+.. container:: sidebar
 
    .. figure:: /images/Ant-Man_drop_of_water.jpg
    .. figure:: /images/antz.jpg
 
       In the 2015 movie *Ant-Man* (top), the eponymous hero holds a droplet of water to his carpenter ant friend, Ant-thony. At this scale, surface tension and Van der Waals forces hold the droplet together and make it possible to handle it (© Marvel Studios). The same effect is shown in the 1998 movie *Antz* (bottom), where Woody Allen's character, Z, gets stuck in a droplet and needs help breaking its cohesion to get out (© DreamWorks Pictures).
 
-.. container:: expert
-
-   In technical terms, microfluidics is the science and technology of systems that handle fluids and have at least one of their defining dimensions at the micrometer scale. Microfluidic systems typically have a low Reynolds number, defined as:
-
-   .. math::
-
-      \mathrm{Re} =\frac{u L}{\nu} = \frac{\rho u L}{\mu}
-
-   where:
-
-   * :math:`ρ` is the density of the fluid (kg/m³)
-
-   * :math:`u` is the flow speed (m/s)
-
-   * :math:`L` is a characteristic linear dimension (m)
-
-   * :math:`μ` is the dynamic viscosity of the fluid (Pa·s or N·s/m² or kg/(m·s))
-
-   * :math:`ν` is the kinematic viscosity of the fluid (m²/s).
-
 Developing miniature labs therefore requires a whole microplumber's toolbox to move liquids around, like microchannels, pumps, valves, and mixers. The interface with the human world involves connecting two systems of very different scales, akin to picking up a single strand of hair off the floor using your fingers.
 
 More complex microfluidic functions include magnetic or optical elements coming from the field of micro-electromechanical systems (MEMS). Technological bricks developed to assemble labs-on-a-chip include sample preparation and preconcentration, microreactors, chemical separation by chromatography and electrophoresis, and detection through fluorescence and mass spectrometry.
 
-----
+.. class:: rowstart-7 rowspan-3
+.. sidebar::
+
+   .. container:: expert
+
+      In technical terms, microfluidics is the science and technology of systems that handle fluids and have at least one of their defining dimensions at the micrometer scale. Microfluidic systems typically have a low Reynolds number, defined as:
+
+      .. math::
+
+         \mathrm{Re} =\frac{u L}{\nu} = \frac{\rho u L}{\mu}
+
+      where:
+
+      * :math:`ρ` is the density of the fluid (kg/m³)
+
+      * :math:`u` is the flow speed (m/s)
+
+      * :math:`L` is a characteristic linear dimension (m)
+
+      * :math:`μ` is the dynamic viscosity of the fluid (Pa·s or N·s/m² or kg/(m·s))
+
+      * :math:`ν` is the kinematic viscosity of the fluid (m²/s).
+
 
 PNIPAM
 ======
@@ -160,10 +161,13 @@ There are many ways to control the behavior of surfaces in microfluidic systems.
 
 Polymers are macromolecules (very large molecules) composed of a bunch of smaller identical molecules called monomers. Imagine overcooking spaghetti to the point where all the individual strands start to stick together and form a larger (unappetizing) blob, and you'll get a pretty good idea of how polymers are formed. The physical properties of some polymers change when something in their environment varies (pH, temperature, ionic strength, electric field, light, etc.); PNIPAM is such a *stimuli-responsive polymer*.
 
-.. figure:: /images/PhD_nipam.svg
-   :figclass: pnipam-formula
+.. class:: rowstart-3 rowspan-2
+.. sidebar::
 
-   Chemical formula of a monomer of NIPAM. The fragment between square brackets repeats and forms the backbone of the PNIPAM polymer.
+   .. figure:: /images/PhD_nipam.svg
+      :figclass: pnipam-formula
+
+      Chemical formula of a monomer of NIPAM. The fragment between square brackets repeats and forms the backbone of the PNIPAM polymer.
 
 The easiest way to describe PNIPAM is as a goey substance that changes when it gets hot. At room temperature, it likes to spread in water: it's *hydrophilic*. But if you heat it to around 32°C (90°F), it doesn't like water any more: it becomes *hydrophobic*. It shrinks onto itself so it can be the least wet possible. If you lower the temperature again, it reverts to being hydrophilic, unfolds, and spreads its arms in water.
 
@@ -184,13 +188,14 @@ The easiest way to describe PNIPAM is as a goey substance that changes when it g
 
    In technical terms, poly(*N*-isopropylacrylamide) (CAS: 25189-55-3) is a thermosensitive polymer that undergoes a reversible coil-to-globule conformational transition from a hydrophilic, swollen state to a hydrophobic, collapsed state around 32°C. Above its lower critical solution temperature (LCST), it becomes insoluble in water, turning opaque and sterically hindered.
 
-.. raw:: html
-
-   <figure id="pnipam-transition-video">
-     <div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/iBZAwhxwHX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-     <figcaption>Video showing the transition of PNIPAM from a cold environment (right beaker) to a hot one (left beaker), in which it enters its collapsed state and clouds the solution. (遠藤恭平 on YouTube <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>)</figcaption>
-   </figure>
+.. TODO: uncomment this
+.. .. raw:: html
+..
+..    <figure id="pnipam-transition-video">
+..      <div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/iBZAwhxwHX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+..
+..      <figcaption>Video showing the transition of PNIPAM from a cold environment (right beaker) to a hot one (left beaker), in which it enters its collapsed state and clouds the solution. (遠藤恭平 on YouTube <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>)</figcaption>
+..    </figure>
 
 While there are some uses for PNIPAM in liquid solutions, it often needs to be grafted to a surface. Attaching chemical molecules to a surface is a broad field of chemistry known as *surface functionalization*.
 
@@ -228,6 +233,8 @@ To attach PNIPAM on surfaces, chemists use a primer layer of *silane*. Silanes a
 
       .. ajouter plus d'informations comme la rugosité ; cf. mémoire de master
 
+----
+
 Contact angle
 ~~~~~~~~~~~~~
 
@@ -257,6 +264,8 @@ Many plants, in contrast, have hydrophobic leaves: they repel water; droplets st
 
       .. https://www.sciencedirect.com/science/article/abs/pii/S0301010407002807
 
+----
+
 Infrared spectroscopy
 ~~~~~~~~~~~~~~~~~~~~~
 
@@ -264,26 +273,32 @@ Measuring the angle of a droplet of water is limited in the amount of informatio
 
 Using Attenuated total reflectance infrared spectroscopy (ATR-IR) and Fourier-transform infrared spectroscopy (FTIR), our colleagues were able to confirm the presence of chemisorbed PNIPAM and its grafting silane layer.
 
-.. figure:: /images/PhD_FTIR_Rutgers_PNIPAM.png
-   :figclass: functionalization-ftir
+.. class:: rowspan-3
+.. sidebar::
 
-----
+   .. figure:: /images/PhD_FTIR_Rutgers_PNIPAM.png
 
-Electrokinetic mixing
-=====================
+
+Controlling surface properties with PNIPAM
+==========================================
 
 .. figure:: /images/samuel-ferrara-uOi3lg8fGl4-unsplash.jpg
 
    `Samuel Ferrara <https://unsplash.com/@samferrara>`__ on `Unsplash <https://unsplash.com/photos/uOi3lg8fGl4>`__
 
-In microscopic channels, liquids move in a very smooth, parallel fashion, like the Aletsch glacier in the Alps. One way to create turbulence to mix liquids is to change the electrical properties of the surface.
+In microscopic channels, liquids move in a very smooth, parallel fashion, like the Aletsch glacier in the Alps. One way to create turbulence to mix liquids is to change the electrical properties of the surface. I conducted experiments to measure the flow of liquids in microchannels coated with PNIPAM, and activated it with temperature to control the flow.
+
+Electrokinetic mixing
+~~~~~~~~~~~~~~~~~~~~~
 
 When liquids have enough room to move around, mixing them is relatively easy; but when they're trapped in a small tube, they're much more constrained, and can't mix as freely: not much mixing happens in a straw, for example.
 
-.. figure:: /images/PhD_Laminar_and_turbulent_flows.svg
-   :figclass: mixers-flows
+.. class:: rowstart-2 rowspan-2
+.. sidebar::
 
-   In tiny channels (a) of small diameter *d*, liquids exhibit a smooth, laminar flow. Turbulence can appear in larger channels (b) where the liquid has more opportunities to move around. In the Aletsch glacier, the laminar flow is a result of its slow flow speed and very high viscosity.
+   .. figure:: /images/PhD_Laminar_and_turbulent_flows.svg
+
+      In tiny channels (a) of small diameter *d*, liquids exhibit a smooth, laminar flow. Turbulence can appear in larger channels (b) where the liquid has more opportunities to move around. In the Aletsch glacier, the laminar flow is a result of its slow flow speed and very high viscosity.
 
 In microfluidics, this behavior is referred to as *laminar flows*. In order to miniaturize lab tools and create labs-on-a-chip, new ways to mix liquids are needed. Active micromixers rely on an external power source to generate turbulence, for example through electrokinetic, magnetic, or acoustic effects. Passive mixers require no external energy and instead solely rely on the geometry or microstructures of the channel.
 
@@ -298,16 +313,10 @@ It is possible to design an active electrokinetic micromixer based on PNIPAM by 
 
    In a PNIPAM-based electrokinetic mixer, miniaturized, addressable heating elements enable microscopic control of the state of PNIPAM, which creates patterns of surface charges leading to convective rolls and recirculation.
 
+----
 
 Electro-osmotic flow
-====================
-
-.. figure:: /images/Electrical_double_layer.svg
-
-To create electrokinetic mixers, I needed to prove that PNIPAM could respond to temperature and change the electrical charges inside tiny channels. I therefore measured the impact of PNIPAM on the motion of a liquid under an electrical potential.
-
-Electro-osmosis
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 *Electro-osmosis* happens when a liquid that contains electrical charges is in a conduit like a capillary or a membrane. When you apply an electrical potential across that conduit, the liquid moves. The resulting *electro-osmotic flow* depends on the electrical charges on the surface, for example on the interior wall of a capillary tube.
 
@@ -317,38 +326,39 @@ Electro-osmosis
 
 A common way to reduce electro-osmosis is to attach a polymer on the surface, thus hiding the electrical charges, and locally modifying the liquid's surface viscosity. In its swollen state, PNIPAM can serve this purpose, while in its collapsed state it exposes the electrical charges once again and the electro-osmotic flow resumes. In other words, PNIPAM enables us to hide and show surfaces charges on command by changing its temperature.
 
-.. container:: eof-edl
+.. class:: rowstart-2 rowspan-4
+.. sidebar::
 
    .. figure:: /images/PhD_doublelayer2.svg
    .. figure:: /images/PhD_doublelayer3.svg
 
       In an uncoated capillary (top), surface charges on the interior wall of the tube cause mirror charges in the liquid, creating an electrical double layer (1 and 2). The application of an electrical potential across the capillary causes the liquid inside it to move in bulk, leading to electro-osmotic flow. When a polymer is attached to that wall (bottom), for example polyacrylamide or PNIPAM at room temperature, it suppresses the electro-osmotic flow.
 
+----
+
 Controlling the electro-osmotic flow with PNIPAM
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. container:: eof-experiment
+To create electrokinetic mixers, I needed to prove that PNIPAM could respond to temperature and change the electrical charges inside tiny channels. I therefore measured the impact of PNIPAM on the motion of a liquid under an electrical potential.
 
-   .. figure:: /images/PhD_huang.svg
+.. figure:: /images/PhD_huang.svg
 
-      I measured the electro-osmotic flow in a capillary C whose interior wall was coated with PNIPAM. Two reservoirs 1 and 2 contain slightly different concentrations of a Tris/Borate/EDTA buffer (TBE). As the liquid inside the capillary is replaced due to the electro-osmotic flow, the resistivity of the electrical circuit changes, and so does the electrical current. The temperature was controlled by placing the setup in a laboratory oven.
-
-   .. figure:: /images/PhD_typique.svg
-
-      This chart shows the typical, fast electro-osmotic flow measured in an uncoated capillary; after 40 seconds, the liquid inside the capillary was completely replaced and the current reached a plateau (6 experiments overlaid for reproducibility). The electro-osmotic mobility *µ* is derived from this data.
+   I measured the electro-osmotic flow in a capillary C whose interior wall was coated with PNIPAM. Two reservoirs 1 and 2 contain slightly different concentrations of a Tris/Borate/EDTA buffer (TBE). As the liquid inside the capillary is replaced due to the electro-osmotic flow, the resistivity of the electrical circuit changes, and so does the electrical current. The temperature was controlled by placing the setup in a laboratory oven.
 
 The electro-osmotic mobility *µ* can be measured by observing  the electro-osmotic flow using current monitoring between two buffer solutions of slightly different concentrations, joined by a capillary. After repeating the experiment dozens of times through a range of temperatures, the electro-osmotic mobility can be plotted as a temperature study (below). The results show that the electro-osmotic mobility follows the transition of PNIPAM around 32°C and varies by an order of magnitude between the two states.
 
-.. figure:: /images/PhD_eo_nipam_temp2.svg
-   :figclass: eof-pnipam-results
+.. figure:: /images/PhD_typique.svg
 
-   A temperature study of the electro-osmotic mobility in a capillary coated with PNIPAM shows a the effect of PNIPAM around 32°C (146 experiments, electrical field 400 V/cm, TBE buffers 0,5× and 0,45×).
+   This chart shows the typical, fast electro-osmotic flow measured in an uncoated capillary; after 40 seconds, the liquid inside the capillary was completely replaced and the current reached a plateau (6 experiments overlaid for reproducibility). The electro-osmotic mobility *µ* is derived from this data.
 
 The temperature study of the electro-osmotic flow in microchannels coated with PNIPAM validated the principle of electrokinetic mixers based on the thermosensitive polymer. One of my colleagues then led the development of miniature heating elements to create addressable patterns of charges on the surface.
 
+.. figure:: /images/PhD_eo_nipam_temp2.svg
+
+   A temperature study of the electro-osmotic mobility in a capillary coated with PNIPAM shows a the effect of PNIPAM around 32°C (146 experiments, electrical field 400 V/cm, TBE buffers 0,5× and 0,45×).
+
 .. Thèse Bertrand Marty: http://thesesups.ups-tlse.fr/696/
 
-----
 
 Microfluidic chip
 =================
@@ -367,7 +377,8 @@ PNIPAM needs to be attached to the largest possible surface in order to increase
 
 Pillars and beads are two common ways to increase the specific surface, giving PNIPAM more surface to stick to within the same limited volume of the chip. Pillars can be produced on a silicon wafer using microfabrication technologies like deep reactive-ion etching (DRIE), but the process is costly and lengthy. It leads to structures that are precise and regular, but fragile.
 
-.. container:: chip-pillars
+.. class:: rowstart-5 rowspan-4
+.. sidebar::
 
    .. figure:: /images/PhD_M7_20x.jpg
    .. figure:: /images/PhD_piliers-silicium.jpg
@@ -435,8 +446,8 @@ While it's possible to create one simulation for both phenomena (heat generation
 
 The final simulation shows that a simple Joule heating line provides a stable temperature high enough to trigger PNIPAM's transition in the channel in about 100 ms.
 
+.. class:: full-content
 .. figure:: /images/PhD_resultats-transfert2D-chrono.png
-   :figclass: heat-transfer-sim
 
    A model of the heat transfer from the Joule resistor into the microfluidic assembly shows that the temperature inside the channel is enough to change the state of PNIPAM within 100 ms (temperature scale in Kelvin).
 
@@ -458,8 +469,6 @@ After building the heating element, I measured the temperature using an infrared
 Other materials could be investigated to improve the heating element, e.g. polysilicum that would generate heat at lower volage. Gold and polysilicium are both opaque, but there are different ways to maintain transparency for biological applications. For example, indium tin oxide (ITO) is a transparent material that conducts electricity. Another solution is a more elaborate design, based on parallel opaque resistors on each side of the channel.
 
 
-----
-
 Catching proteins
 =================
 
@@ -478,8 +487,8 @@ Labs-on-a-chip aim to provide a remplacement for entire chains of analysis. In p
 
 PNIPAM can attach proteins in its hydrophobic (warm) state, and release them in its hydrophilic (cold) state; it can offer a soft chemical layer with a gentler release method, acting as a medium for *microextraction*.
 
+.. class:: full-content
 .. figure:: /images/PhD_preconcentration_porous_material_sorting.svg
-   :figclass: catching-proteins-preconcentration
 
    Proteins and other biological molecules are sometimes present in concentrations too low to be detected: they don't stand out from background noise (left). Preconcentration consists in trapping molecules and accumulating them (for example on hydrophobic PNIPAM) and then releasing them all together, leading to a cleaner sample and a more visible spike (right).
 
