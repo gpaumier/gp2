@@ -1,4 +1,4 @@
-@use '../common/split';
+@use '../common/layout';
 
 header {
   display: grid;
@@ -69,47 +69,11 @@ header {
 }
 
 #the-war-of-the-words,
-#success-into-oblivion {
-
-  @extend %new4hero-section;
-  @extend %hero-in-split-light;
-
-  p {
-    max-width: 75ch;
-    justify-self: center;
-  }
-
-}
-
-#human-obsolescence {
-  @extend %new4hero-section;
-
-  p {
-    max-width: 75ch;
-    justify-self: center;
-  }
-
-}
-
+#success-into-oblivion,
+#human-obsolescence,
 #beyond-the-scenarios {
-  @include split.txt-pics-hero(
-  $image-side: right,
-  $background: dark,
-  $text-width: 68ch,
-  $pics-width: 42ch,
-  );
+  @extend %golden-section-hero-golden;
 }
-
-.scenario-cards {
-  @include split.place(right, "6/9");
-  align-self: center;
-}
-
-#blackswan {
-  @include split.place(right, "9/11");
-  align-self: center;
-}
-
 
 .fig-the-war-of-the-words img {
   object-position: 60% 50%;
@@ -117,4 +81,8 @@ header {
 
 .fig-success-into-oblivion img {
   object-position: 50% 75%;
+}
+
+.fig-success-into-oblivion img {
+  object-position: 75% 50%;
 }

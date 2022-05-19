@@ -105,6 +105,7 @@ Beyond the scenarios
 ====================
 
 .. figure:: /images/NSG_Vogelfreistätte_Feldheimer_Stausee_-_Trauerschwan_als_Gast.jpg
+   :figclass: black-swan
 
    Black swan *(cygnus atratus)* by `Rikiwiki2 <https://commons.wikimedia.org/wiki/User:Rikiwiki2>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:NSG_Vogelfreist%C3%A4tte_Feldheimer_Stausee_-_Trauerschwan_als_Gast.jpg>`__ // `CC-By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -123,6 +124,7 @@ During a department retreat, I organized a workshop with :doc:`Advancement <adva
 
 I also introduced “black swan” cards halfway through the activity,\ [#blackswan]_ picked at random among a few options. The goal was to prompt the participants to contend with unpredictable, `wild card <https://en.wikipedia.org/wiki/Wild_card_(foresight)>`__ events and consider how their draft strategies would fare in those new circumstances.
 
+.. class:: rowspan-2
 .. [#blackswan] The `black swan theory <https://en.wikipedia.org/wiki/Black_swan_theory>`__ was developed by Nassim Nicholas Taleb in his 2007 book |blackswanbook|_. Black swan events are low-probability occurrences with a dramatic impact on the history considered. The phrase was used by Europeans for over 1500 years to refer to something that couldn't exist, until they encountered Australia's black swans in the 17th century.
 
 .. |blackswanbook| replace:: *The Black Swan: The Impact of the Highly Improbable*
