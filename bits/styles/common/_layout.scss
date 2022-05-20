@@ -239,6 +239,7 @@ $main-content-max-width: 65ch;
   @media screen and (min-width: $breakpoint-medium) {
     h3,
     p,
+    blockquote,
     // Let's put figures in the main-content unless explicitly in a sidebar. We keep <figure> and .figures elements flattened so we can arrange images and captions à la Tufte:
     img,
     // but sometimes we have special .figures that we still want to be in the main-content:
@@ -278,14 +279,14 @@ $main-content-max-width: 65ch;
       grid-column: unset;
     }
 
-    // Align <figcaption> and .caption elements at the start for a Tufter look:
+    // Align <figcaption>, .caption, and .footnote elements at the start for a Tufter look:
     figcaption,
-    .caption {
+    .caption,
+    .footnote, {
       align-self: end;
     }
 
     // Align other elements in the sidebar vertically for a more dynamic / organic flow:
-    .footnote,
     .sidebar {
       align-self: center;
 
