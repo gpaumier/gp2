@@ -6,6 +6,7 @@
 .. end: 2008-11-06T00:00:00
 .. image: /images/PNIPAM_microsystems_at_LAAS_CNRS_022_June_2008.jpg
 .. styles: page_phd
+.. class: hero-h2-golden
 .. tags: labs-on-a-chip, microfluidics, PNIPAM, polymers
 .. template: page_custom.tmpl
 .. has_math: true

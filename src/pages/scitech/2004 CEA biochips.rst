@@ -5,6 +5,7 @@
 .. end: 2004-09-01T00:00:00
 .. image: /images/DNA_microarray_23.svg
 .. styles: page_biochips
+.. class: hero-h2-golden
 .. tags: biochips, surface functionalization, silane
 .. template: page_custom.tmpl
 

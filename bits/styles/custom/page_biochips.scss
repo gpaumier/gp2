@@ -47,7 +47,6 @@
 #biochiplab,
 #fluorescence-microscopy,
 #mass-spectrometry {
-  @extend %golden-grid;
 }
 
 
@@ -87,7 +86,6 @@
 /////////////////////////////////////////////////////////////
 
 #antibody-microarray-on-cea-2-protocol{
-  @extend %golden-section-hero-golden;
 }
 
 #parameter-study-protocol-optimization {
@@ -153,7 +151,6 @@
 /////////////////////////////////////////////////////////////
 
 #alternative-detection-methods {
-  @extend %golden-section-hero-golden;
 }
 
 .reaction-kinetics-diagram img {
@@ -180,7 +177,6 @@
 
 #vapor-phase-silanization-for-proteomics,
 #peptidic-digestion-mass-spectrometry {
-  @extend %golden-section-hero-golden;
 }
 
 .vapor-phase-diagram img {
