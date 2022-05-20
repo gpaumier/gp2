@@ -142,22 +142,6 @@ Homemaking
 Greenery
 ========
 
-.. figure:: /images/plants_3593.jpg
-.. figure:: /images/plants_3598.jpg
-.. figure:: /images/plants_3604.jpg
-.. figure:: /images/plants_3611.jpg
-.. figure:: /images/plants_3614.jpg
-.. figure:: /images/plants_3615.jpg
-.. figure:: /images/plants_3616.jpg
-.. figure:: /images/plants_3619.jpg
-.. figure:: /images/plants_3641.jpg
-.. figure:: /images/plants_3651.jpg
-.. figure:: /images/plants_3653.jpg
-
-
-
-
-
 Houseplants
 -----------
 
@@ -186,10 +170,17 @@ Plants, pandemic, move across the country with the truck
 Garden in a bottle
 ------------------
 
-.. figure:: /images/2010-07-03_Qt_duck.jpg
-   :alt: Placeholder
-
-   Placeholder caption
+.. figure:: /images/plants_3593.jpg
+.. figure:: /images/plants_3598.jpg
+.. figure:: /images/plants_3604.jpg
+.. figure:: /images/plants_3611.jpg
+.. figure:: /images/plants_3614.jpg
+.. figure:: /images/plants_3615.jpg
+.. figure:: /images/plants_3616.jpg
+.. figure:: /images/plants_3619.jpg
+.. figure:: /images/plants_3641.jpg
+.. figure:: /images/plants_3651.jpg
+.. figure:: /images/plants_3653.jpg
 
 Terrariums etc.
 
@@ -260,7 +251,7 @@ Baking
 
 After I moved (back) to the US, I was having trouble finding good bread. Having grown up and lived in France for most of my life, I was unhappy with the limited options available in the small California town where I was living.
 
-In 2017, I took a ffew days off work to participate in a breadmaking workshop at the San Francisco Baking Institute.\ [#sfbi]_ For five days, I learned the theory and practice of flour types, yeast, preferments, gluten, shaping, scoring, steaming, and baking loaves. At the end of the day, I would bring all the bread I had made that day to the Wikimedia office, to the delight of my food-loving colleagues.
+In 2017, I took a few days off work to participate in a breadmaking workshop at the San Francisco Baking Institute.\ [#sfbi]_ For five days, I learned the theory and practice of flour types, yeast, preferments, gluten, shaping, scoring, steaming, and baking loaves. At the end of the day, I would bring all the bread I had made that day to the Wikimedia office, to the delight of my food-loving colleagues.
 
 For a while after that, I made different kinds of bread at home, with a preference for ciabatta (for its simplicity) and brioche (for its festiveness). Later, I moved to the city and found a great bakery that made excellent bread, so convenience won. I ventured back into my breadmaking ways during the 2020 pandemic.
 
