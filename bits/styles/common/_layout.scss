@@ -9,47 +9,6 @@ figure {
   margin-right: 0;
 }
 
-
-
-
-
-// Mixins ///////////////////////////////////
-
-@mixin default($width: 65ch) {
-
-  display: grid;
-  grid-template-columns: minmax(.5rem, 1fr) minmax(min-content, $width) minmax(.5rem, 1fr);
-  margin-bottom: 3rem;
-
-  figure {
-    grid-column: 1 / 4;
-    margin-bottom: 2rem;
-
-    &:last-child {
-      margin-bottom: 0;
-    }
-
-    img {
-      width: 100%;
-    }
-  }
-
-  h3, p {
-    grid-column: 2 / 3;
-  }
-
-  h3 {
-    margin-bottom: 1.5rem;
-    text-align: center;
-  }
-
-  figcaption {
-    padding-left: 0;
-    padding-right: 0;
-  }
-}
-
-
 //////////////////////////////////////////////////
 
 @mixin side-by-side-figures($column-gap: 0, $rows: 2) {
@@ -77,58 +36,6 @@ figure {
 }
 
 //////////////////////////////////////////////////
-
-.post-default-text, .post-default-project {
-  padding: .5em;
-
-  .post-image {
-    width: 100%;
-    max-width: $breakpoint-large;
-    margin: auto;
-    display:block;
-  }
-
-  header {
-    text-align: center;
-  }
-
-  .entry-content > div {
-    display: grid;
-    grid-template-columns: minmax(1em, 1fr)
-    minmax(0, 65ch) minmax(1em, 1fr);
-
-    & > * {
-      grid-column: 2 / 3;
-    }
-
-    .full-width, section {
-      grid-column: 1 / 4;
-    }
-
-    & > section {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr)
-      minmax(0, 65ch) minmax(0, 1fr);
-
-      & > * {
-        grid-column: 2 / 3;
-      }
-
-      .full-width {
-        grid-column: 1 / 4;
-        margin: auto;
-      }
-    }
-
-  }
-
-  @media screen and (max-width: $breakpoint-medium) {
-    figure, {
-      margin-left: -.5em;
-      margin-right: -.5em;
-    }
-  }
-}
 
 header {
   margin-bottom: 3rem;
@@ -237,6 +144,7 @@ $main-content-max-width: 65ch;
   // On larger viewports, we switch to our golden grid:
 
   @media screen and (min-width: $breakpoint-medium) {
+    h2,
     h3,
     p,
     blockquote,
@@ -564,5 +472,15 @@ $main-content-max-width: 65ch;
       padding-right: $base-unit;
       max-width: 80ch;
     }
+  }
+}
+
+// Site-wide layouts ///////////////////////////////////////////////////////////
+
+section {
+  @extend %golden-grid;
+
+  .hero-h2-golden > .entry-content > & {
+    @extend %golden-section-hero-golden;
   }
 }
