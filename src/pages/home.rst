@@ -2,6 +2,7 @@
 .. slug: index
 .. template: homepage.tmpl
 .. styles: page_homepage
+.. class: hero-h2-golden
 
 
 .. figure:: /images/2017-08-20_GPaumier_warm.jpg

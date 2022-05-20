@@ -14,8 +14,6 @@
     <div>{{ post.text() | get_lead_text }}</div>
   </div>
 
-  <div id="main-content-section">
-
     {% if post.meta('image') %}
         <img src="{{ post.meta('image') }}" class="post-image"/>
     {% endif %}
@@ -27,10 +25,6 @@
     <div class="e-content entry-content" itemprop="articleBody text">
     {{ post.text() }}
     </div>
-  </div>
-
-  </div>
-
 
 
 </article>
