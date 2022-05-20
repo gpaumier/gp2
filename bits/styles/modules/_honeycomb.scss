@@ -49,7 +49,7 @@
   // pic  half-column  row  x-position
 
   @each $pic, $honeycomb-half-column, $honeycomb-row, $x-position in $placement-data {
-    .#{$class-prefix}#{$pic} {
+    .#{$class-prefix}#{$pic} img {
       @include place-image($honeycomb-half-column, $honeycomb-row);
       @if $x-position {
         img {
