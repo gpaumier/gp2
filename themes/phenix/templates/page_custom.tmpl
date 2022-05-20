@@ -14,7 +14,7 @@
 {% endblock %}
 
 {% block content %}
-<article class="page h-entry hentry postpage custom-{{ post.meta('slug') }}" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<article class="page h-entry hentry postpage {% if post.meta('class') %}{{ post.meta('class') }}{% endif %} custom-{{ post.meta('slug') }}" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 
     <header>
 
