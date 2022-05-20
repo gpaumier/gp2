@@ -36,6 +36,9 @@ Revenue Strategy
 
    `Martin Kraft <http://photo.martinkraft.com/>`__ for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:MJK_339487_RRRR_Working_Group_meeting_2019_Berlin.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
+.. figure:: /images/Wikimedia_2018-20_Recommendation_13.svg
+
+   `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_2018-20_Recommendation_13.svg>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 The importance of Revenue Strategy for the Wikimedia Foundation lies in two main factors: the uncertain future facing us, which might endanger existing revenue sources, and the impetus to grow, mandated by the ambitions of the Wikimedia movement.
 

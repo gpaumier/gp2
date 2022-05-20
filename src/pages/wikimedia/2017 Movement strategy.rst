@@ -5,6 +5,8 @@
 .. date: 2016-11-01T00:00:00
 .. end: 2017-12-31T00:00:00
 .. template: page_custom.tmpl
+.. styles: page_wikimedia2030
+.. class: hero-h2-golden
 .. image: /images/NASA_Earth_CO2-wikimedia2030.jpg
 .. roles: architect, writer
 .. tags: Wikimedia, strategy
@@ -26,12 +28,25 @@
     The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now serves as the compass for multi-year strategic planning by Wikimedia organizations, and guides decision-making around roles, responsibilities, and resources in the Wikimedia movement.
 
 
+Test section
+============
 
+.. container:: team
 
-.. figure:: /images/Movement_Strategy_Space_at_Wikimania_2017_01.jpg
+   .. figure:: /images/Wikimedia_Conference_2017_–_118.jpg
+      :figclass: team1
 
-   `Nicole Ebber (WMDE) <https://commons.wikimedia.org/wiki/User:Nicole_Ebber_(WMDE)>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Movement_Strategy_Space_at_Wikimania_2017_01.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   .. figure:: /images/Wikimedia_Conference_2017_–_117.jpg
+      :figclass: team2
 
+   .. figure:: /images/MYHO8747-edit.jpg
+      :figclass: team3
+
+   .. figure:: /images/Wikimedia_Conference_2018_–_134.jpg
+      :figclass: team4
+
+   .. figure:: /images/MYHO9171-edit.jpg
+      :figclass: team5
 
 "Your mission, should you choose to accept it ..."
 ==================================================
@@ -135,10 +150,12 @@ A broad direction for the movement
 
 We started from a simple question: *What do we want to build or achieve together by 2030?* The strategic direction was not meant to be a strategic plan. Plans are usually for 3–5 years, executable and measurable, specific to organizational capacity and resources. The direction needed to be broad, enduring, ambitious, and clear enough to provide guidance on overarching goals against which a specific plan could be built. Using 2030 as a time horizon enabled us to untangle our aspirations from our more immediate roles and interests, and let our imagination roam more freely.
 
-.. figure:: /images/WMCON_Berlin_2017_60.jpg
-   :figclass: build-or-achieve-by-2030
+.. sidebar::
 
-   `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:WMCON_Berlin_2017_60.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   .. figure:: /images/WMCON_Berlin_2017_60.jpg
+      :figclass: build-or-achieve-by-2030
+
+      `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:WMCON_Berlin_2017_60.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 From on-wiki discussions, to large conferences, to small meetups, to expert interviews, to desk and field research, the process was exhaustive, messy, and fascinating. It did not take long to confirm that the greatest strength of the Wikimedia movement is the talent, dedication, and integrity of its members. We are all part of this movement because we share a belief that :doc:`free knowledge makes the world a better place <stakes-of-knowledge>`.
 
@@ -200,13 +217,21 @@ TODO: add intro
 Learning from each other
 ------------------------
 
-.. raw:: html
+.. class:: rowstart-1 rowspan-3
+.. sidebar::
 
-   <figure id="victors-video">
-     <div style="padding:56.25% 0 0 0;position:relative;" class="embed"><iframe src="https://player.vimeo.com/video/228230229?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+   .. figure:: /images/Wikimedia_2018-20_Recommendation_06.svg
 
-     <figcaption>Victor Grigas, Wikimedia Foundation // <a class="reference external" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> // Video loaded from Vimeo <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>. Also available on <a class="reference external" href="https://commons.wikimedia.org/wiki/File:Knowledge_belongs_to_all_of_us_-_2030.wikimedia.org.webm">Wikimedia Commons</a> and <a class="reference external" href="https://www.youtube.com/watch?v=RpPnuSvCJLY">YouTube</a>.</figcaption>
-   </figure>
+      `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_2018-20_Recommendation_06.svg>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+
+.. .. raw:: html
+..
+..    <figure id="victors-video">
+..      <div style="padding:56.25% 0 0 0;position:relative;" class="embed"><iframe src="https://player.vimeo.com/video/228230229?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+..
+..      <figcaption>Victor Grigas, Wikimedia Foundation // <a class="reference external" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> // Video loaded from Vimeo <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>. Also available on <a class="reference external" href="https://commons.wikimedia.org/wiki/File:Knowledge_belongs_to_all_of_us_-_2030.wikimedia.org.webm">Wikimedia Commons</a> and <a class="reference external" href="https://www.youtube.com/watch?v=RpPnuSvCJLY">YouTube</a>.</figcaption>
+..    </figure>
 
 .. RST for caption: Victor Grigas, Wikimedia Foundation on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Knowledge_belongs_to_all_of_us_-_2030.wikimedia.org.webm>`__ // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__ // Also on `YouTube <https://www.youtube.com/watch?v=RpPnuSvCJLY>`__.
 
@@ -220,13 +245,13 @@ All those discussions and research projects produced massive amounts of notes, r
 
 .. [#2030Reports] `Strategy > Wikimedia movement > 2017 > Reports <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/Reports>`__. Meta-Wiki, 2017.
 
-.. raw:: html
-
-   <figure id="metrics-video">
-     <div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/Rb8CL1pVemg?start=2350" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-     <figcaption>Video loaded from YouTube <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>. Also available on <a class="reference external" href="https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_metrics_and_activities_meeting_-_April_2017.webm">Wikimedia Commons</a>.</figcaption>
-   </figure>
+.. .. raw:: html
+..
+..    <figure id="metrics-video">
+..      <div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/Rb8CL1pVemg?start=2350" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+..
+..      <figcaption>Video loaded from YouTube <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>. Also available on <a class="reference external" href="https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_metrics_and_activities_meeting_-_April_2017.webm">Wikimedia Commons</a>.</figcaption>
+..    </figure>
 
 Amplifying new voices
 ---------------------
@@ -268,7 +293,11 @@ The Foundation couldn't do this alone; we are a global and distributed movement,
 The Strategic Direction
 =======================
 
-.. TODO: Add hero image, add intro
+.. figure:: /images/Greetings_from_the_year_2030-ar.png
+
+   `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__, and `NANöR <https://commons.wikimedia.org/wiki/User:NAN%C3%B6R>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Greetings_from_the_year_2030-ar.png>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+TODO: add intro
 
 Roads, bridges, and villages
 ----------------------------
@@ -277,13 +306,13 @@ Wikimania, the annual conference of Wikimedians, was the first opportunity for t
 
 When drafting this first version of the strategic direction, I chose intentionally simple language for several reasons. One was that volunteers and affiliates often find the language used by the Foundation too jargony and full of corporate buzzwords.\ [#WritingClearly]_ I wanted the language of the direction to resonate with people regardless of their affiliation in the movement, and I wanted people to feel like they could have written those words themselves.
 
+.. [#WritingClearly] "The tolerance people might have for jargon and buzzwords in their everyday life won't be there online. People want to understand what the Foundation are doing and how it'll change what they do as an editor or improve the experience for readers, not whether it satisfies a key performance indicator." `Writing clearly <https://meta.wikimedia.org/wiki/Writing_clearly>`__. Meta-Wiki essay.
+
 I had another goal for using simple language and relying on metaphors: I wanted the strategic direction to be easily translatable to other languages and cultural contexts. It was reasonable to assume that all languages had ways to convey universal meanings like "roads," "bridges," "villages," "journey," "tools," "shapes," and "colors:"
 
   The strategic direction of the Wikimedia movement for 2030 is to become the roads, bridges, and villages that support the world’s journey towards free knowledge. We, the Wikimedia movement, will forge the tools and build the foundations for creating and accessing trusted knowledge in many shapes and colors. ...\ [#DirectionWikimania]_
 
 The "roads and bridges" were a direct reference to Nadia Eghbal's excellent research report for the Ford Foundation, in which she described the importance of the free and open-source code infrastructure "on which all of digital society relies."\ [#EghbalRoadsBridges]_ I used the same metaphor to describe the knowledge infrastructure that Wikimedia was aspiring to, and added the "villages" to highlight the central role of communities in the movement.
-
-.. [#WritingClearly] "The tolerance people might have for jargon and buzzwords in their everyday life won't be there online. People want to understand what the Foundation are doing and how it'll change what they do as an editor or improve the experience for readers, not whether it satisfies a key performance indicator." `Writing clearly <https://meta.wikimedia.org/wiki/Writing_clearly>`__. Meta-Wiki essay.
 
 .. [#DirectionWikimania] `Wikimedia 2030: A draft strategic direction for our movement <https://blog.wikimedia.org/2017/08/10/wikimedia-2030-draft-strategic-direction/>`__. Katherine Maher. Diff, the Wikimedia Blog. August 10, 2017.
 
@@ -294,6 +323,7 @@ Converging on a shared direction
 
 As it turned out, many Wikimedians found the metaphors to be too "flowery" and "poetic," too far removed from the seriousness of their endeavor. Some also took offense at the comparison to villages; they explained that in their culture, small settlements have a negative connotation of backwardness and stagnation, and that real change and advancement happens in cities. When I rewrote the direction to integrate all the feedback, I took this into account and decided to use more precise (and complex) words like "infrastructure" and "ecosystem" instead, and to explain how to translate those concepts instead of translating words.\ [#TranslateExt]_
 
+.. class:: rowspan-2
 .. [#TranslateExt] Translation of pages on Wikimedia sites happens through the "Translate extension," a dedicated tool built for the MediaWiki software. When preparing pages for translation, an author may add "message documentation" to provide additional context to translators about a particular sentence or paragraph. I used this feature to describe concepts like "the essential infrastructure" ("idea of a backbone, foundation. Something that allows something to stand up; Something upon which one builds something else") and "ecosystem" ("idea of an organic, dynamic group, network, or environment, with many components that have effects on each other and sometimes depend on each other"). See `Example of message documentation for the first paragraph of the Strategic Direction <https://meta.wikimedia.org/wiki/Translations:Strategy/Wikimedia_movement/2017/Direction/182/qqq>`__, Meta-Wiki, 2017.
 
 Some Wikimedians found the Wikimania draft to focus too much on technical infrastructure and tools. A first attempt at better highlighting the human aspect of the movement left others feeling that the technical aspects were not emphasized enough. We eventually settled on a strategic direction that acknowledged the duality of our movement as a complex socio-technical system, and painted the vision of a future to which everyone could contribute.
@@ -331,8 +361,6 @@ Recommendations and implementation
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2018_%E2%80%93_299.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-
-
 Phase 2: Working groups and recommendations
 -------------------------------------------
 
@@ -340,7 +368,39 @@ Phase 2: Working groups and recommendations
 
 Movement discussions
 
-Wikimedia Foundation internal planning
+Wikimedia Foundation internal planning, MTP
+
+.. figure:: /images/Movement_Strategy_Process_-_Synthesizing_89_recommendations_into_one_set._Oct_2019_to_Jan_2020.png
+   :figclass: full-content
+
+   `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Movement_Strategy_Process_-_Synthesizing_89_recommendations_into_one_set._Oct_2019_to_Jan_2020.png>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+.. sidebar::
+
+   .. figure:: /images/Working_groups_established.png
+
+      `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Working_groups_established.png>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+   .. figure:: /images/Movement_Strategy_events_and_meetings.png
+
+      `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Movement_Strategy_events_and_meetings.png>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+   .. figure:: /images/Drafting_Movement_Strategy_recommendations.png
+
+      `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Drafting_Movement_Strategy_recommendations.png>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+   .. figure:: /images/Finalizing_the_Movement_Strategy_recommendations.png
+
+      `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Finalizing_the_Movement_Strategy_recommendations.png>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+   .. figure:: /images/Movement_Strategy_recommendations_synthesis.png
+
+      `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Movement_Strategy_recommendations_synthesis.png>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
+   .. figure:: /images/Movement_Strategy_recommendations_published_no_titles.png
+
+      `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Movement_Strategy_recommendations_published_no_titles.png>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+
 
 
 
@@ -352,6 +412,11 @@ I was not done thinking about the future though. Taking the long view. :doc:`203
 
 Phase 3 and beyond: Towards implementation
 ------------------------------------------
+
+.. figure:: /images/Timeline_for_Phase_I,_II,_and_III_of_the_Movement_Strategy.png
+   :figclass: full-content
+
+   `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Timeline_for_Phase_I,_II,_and_III_of_the_Movement_Strategy.png>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2018-20/Reports/Movement_Strategy_Playbook
 
@@ -369,6 +434,10 @@ The People
 What I took away, what I learned
 
 sense of accomplishment;
+
+.. figure:: /images/Kathering_Maher_-_All_Hands_2020_Talk.png
+
+   `Jess Klein <https://commons.wikimedia.org/wiki/User:Iamjessklein>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Kathering_Maher_-_All_Hands_2020_Talk.png>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
 .. container:: people
