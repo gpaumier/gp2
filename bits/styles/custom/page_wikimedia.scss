@@ -160,15 +160,9 @@ h1.entry-title {
 #recent-work {
 
   #revenue-strategy-and-long-term-thinking {
-    @include split.cover(
-    $image-side: left,
-    $image-row-span: 4,
-    $image-position: 65%,
-    );
   }
 
   #wikimedia-2030 {
-    @include split.cover(right, 5, 35%);
   }
 
 
@@ -208,41 +202,13 @@ h1.entry-title {
 
 /////////////////////////////////////////////////////////////
 #a-culture-of-sensemaking {
-  @include split.txt-pics(right, 4, 45ch, 65ch);
-
-  figcaption {
-    // override this because it's so long and looks weird otherwise
-    text-align: left;
-  }
-
 }
 
 #stating-our-values {
-  @include split.txt-pics(left, 4, 50ch, 60ch);
 }
 
 
 #history-and-wikiarchaeology {
-  @include split.txt-pics(right, 3, 45ch, 65ch);
-
-  #wikimedia-history-wikimania-21012-video { //Youtube embedded video
-    grid-column: 1 / 5;
-  }
-
-  figure {
-    margin-bottom: 1rem;
-  }
-
-  @media screen and (min-width: 100ch) {
-    figure:nth-of-type(2) { // 11 years infographic
-      grid-column: -2/-3;
-      grid-row: 6/8;
-    }
-    #wikimedia-history-wikimania-2012-video { // Youtube embedded video
-      grid-column: -2/-3;
-      grid-row: 7/10; // TODO adjust once the text is finalized
-    }
-  }
 }
 
 /////////////////////////////////////////////////////////////
@@ -272,42 +238,27 @@ h1.entry-title {
 }
 
 #product-strategy {
-  @include split.txt-pics(right, 3, 45ch, 65ch);
-
-  figcaption {
-    text-align: left;
-  }
 }
 
 #multimedia-usability-project {
-  @include split.txt-pics(left, 3, 45ch, 65ch);
 }
 
 #technical-writing {
-  @include split.txt-pics(right, 5, 45ch, 65ch);
-
-  figcaption {
-    text-align: left;
-  }
 }
 
 /////////////////////////////////////////////////////////////
 
 #wikimedia-france {
-  @include split.txt-pics(right, 5);
 }
 
 #wikimedia-chapters-conference-2009 {
-  @include split.txt-pics(left, 7);
 }
 
 
 #crosswiki-service-work {
-  @include split.cover(right, 5, 50%);
 }
 
 #volunteer-response-team-otrs {
-  @include split.cover(left, 7, 50%);
 }
 
 /////////////////////////////////////////////////////////////

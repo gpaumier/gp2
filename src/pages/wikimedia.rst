@@ -380,11 +380,11 @@ I made my first edit to the French-language Wikipedia in August 2005 to fix a sp
 
 Since then, I have made over 50,000 edits across hundreds of Wikimedia wikis, and I have spent most of my professional career supporting the Wikimedia movement in various roles. I still occasionally made the odd edit when I come across something I can fix on a Wikipedia page.
 
-.. container:: references
+.. [#firstedit] |firsteditlink|_. French-language Wikipedia.
 
-   .. [#firstedit] |firsteditlink|_. French-language Wikipedia.
-   .. [#secondedit] |secondeditlink|_. French-language Wikipedia.
-   .. [#thirdedit] |thirdeditlink|_. French-language Wikipedia.
+.. [#secondedit] |secondeditlink|_. French-language Wikipedia.
+
+.. [#thirdedit] |thirdeditlink|_. French-language Wikipedia.
 
 .. |firsteditlink| replace:: First edit to *Sable bitumineux* on August 18, 2005
 .. _firsteditlink: https://fr.wikipedia.org/w/index.php?title=Sable_bitumineux&diff=next&oldid=2983498
@@ -406,11 +406,11 @@ administration, technique
 , operating m:User:Seven-League Bot
 https://meta.wikimedia.org/wiki/User:Seven-League_Bot
 
+.. sidebar::
 
-.. figure:: /images/Gustave_Dore_le_chat_botte.jpg
-   :figwidth: 10em
+   .. figure:: /images/Gustave_Dore_le_chat_botte.jpg
 
-   The avatar of the Seven-League Bot: Gustave Doré's 19th century engraving of *Le chat botté* (Puss in Boots). `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gustave_Dore_le_chat_botte.jpg>`__ // Public domain.
+      The avatar of the Seven-League Bot: Gustave Doré's 19th century engraving of *Le chat botté* (Puss in Boots). `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gustave_Dore_le_chat_botte.jpg>`__ // Public domain.
 
 
 Photography and Wikimedia Commons
