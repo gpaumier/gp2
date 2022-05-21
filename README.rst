@@ -43,23 +43,31 @@ Install Nikola and extras:
     $ pip install --upgrade pip setuptools wheel
     $ pip install --upgrade "Nikola[extras]"
 
-Install Nikola plugins as needed:
-
-::
-
-    $ nikola plugin -i sphinx_roles
-
 Clone the site's repository:
 
 ::
 
     $ git clone git@github.com:gpaumier/gp2.git
 
+Once in the site's directory: Install Nikola plugins as needed:
+
+::
+
+    $ nikola plugin -i sphinx_roles
+
+
+
 Build the site :
 
 ::
 
     $ nikola build
+
+and launch the built-in webserver:
+
+::
+
+    $ nikola serve
 
 Or launch in watcher+server mode:
 
@@ -80,7 +88,7 @@ Install Brunch globally:
     # npm install -g brunch
 
 
-Install the theme's dependencies:
+From the site's directory, install the theme's dependencies:
 
 ::
 
@@ -91,6 +99,12 @@ Launch Brunch in watcher mode:
 ::
 
     $ brunch watch
+
+Or build assets with a one-off command:
+
+::
+
+    $ brunch build
 
 Bits (JS and CSS) compiled by Brunch will be picked up by brunch and compiled, then Nikola will update its build folder, if it's simultaneously running in ``auto`` mode; otherwise, ``build`` manually.
 
