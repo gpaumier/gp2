@@ -16,9 +16,10 @@
 {% block content %}
 <article class="post-default-{{ post.meta('type') }} h-entry hentry postpage {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" itemscope="itemscope" itemtype="http://schema.org/Article">
 
-    {% if post.meta('image') %}
+    <!--{% if post.meta('image') %}
         <img src="{{ post.meta('image') }}" class="post-image"/>
     {% endif %}
+  -->
 
     <header>
         <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>

@@ -41,14 +41,6 @@ header {
   margin-bottom: 3rem;
 }
 
-.highlights {
-  max-width: 65ch;
-  margin: auto;
-  padding-left: .5rem;
-  padding-right: .5rem;
-}
-
-
 // Attribution lines in blockquotes should be flushed right
 
 .attribution {
@@ -120,8 +112,11 @@ $main-content-max-width: 65ch;
     grid-column: full-content;
   }
 
-  // Except sections, which need the full width because they use the same golden grid:
-  > section {
+  // Except sections and other containers that need the full width because they use the same golden grid:
+  > section,
+  .entry-content,
+  //or just look silly if not centered:
+  hr {
     grid-column: full;
   }
 
@@ -148,6 +143,8 @@ $main-content-max-width: 65ch;
     h3,
     p,
     blockquote,
+    ul,
+    ol,
     // Let's put figures in the main-content unless explicitly in a sidebar. We keep <figure> and .figures elements flattened so we can arrange images and captions à la Tufte:
     img,
     // but sometimes we have special .figures that we still want to be in the main-content:
@@ -178,7 +175,8 @@ $main-content-max-width: 65ch;
     .footnote,
     .sidebar,
     figcaption,
-    .caption {
+    .caption,
+    .admonition {
       grid-column: side-content;
     }
 
@@ -190,7 +188,8 @@ $main-content-max-width: 65ch;
     // Align <figcaption>, .caption, and .footnote elements at the start for a Tufter look:
     figcaption,
     .caption,
-    .footnote, {
+    .footnote,
+    .admonition {
       align-self: end;
     }
 
@@ -477,9 +476,13 @@ $main-content-max-width: 65ch;
 
 // Site-wide layouts ///////////////////////////////////////////////////////////
 
-section {
+article,
+section,
+.entry-content {
   @extend %golden-grid;
+}
 
+section {
   .hero-h2-golden > .entry-content > & {
     @extend %golden-section-hero-golden;
   }
