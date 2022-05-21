@@ -20,7 +20,7 @@ In Fall of 2013, I decided it was time, and got to work. I did some research and
 
 “Fumseck” is the name of Professor Dumbledore's phoenix Fawkes in the French version of the *Harry Potter* book series. Choosing this name was a tongue-in-cheek reference to the fact that this site had been moribund for a while and that I wanted it to "rise from its ashes".
 
-Fumseck is used in conjunction with "Batbelt", a plugin for WordPress that I've written to bundle together customizations I've made to this site that aren't directly related to its appearance. For example, it's the plugin that implements the `Project <//guillaumepaumier.com/projects/>`__ custom content type (used on this page) and custom taxonomies such as `Locations <//guillaumepaumier.com/locations/usa/california/san-francisco/>`__. The Fumseck theme is then in charge of defining the appearance of those customizations, in addition to the rest of the site.
+Fumseck is used in conjunction with "Batbelt", a plugin for WordPress that I've written to bundle together customizations I've made to this site that aren't directly related to its appearance. For example, it's the plugin that implements the Project custom content type (used on this page) and custom taxonomies such as Locations. The Fumseck theme is then in charge of defining the appearance of those customizations, in addition to the rest of the site.
 
 
 An identity in colors and typefaces

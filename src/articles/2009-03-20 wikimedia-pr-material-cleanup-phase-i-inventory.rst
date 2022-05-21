@@ -28,5 +28,3 @@ This message aims at:
 -  if you have some time, asking you to help us with the ruthless job of finding, describing, labeling and assessing all PR materials :) We're also counting on the ComProj members for that.
 
 Thanks for helping out!
-
-**Update**: Read the announcement of the `Wikimedia documents initiative <http://guillaumepaumier.com/2009/05/20/introducing-the-wikimedia-documents-initiative/>`__.

@@ -6,8 +6,7 @@
 
     Une frise chronologique interactive qui retrace les temps forts de Wikipédia et du mouvement Wikimedia en 2013.
 
-`Voir la frise » <http://guillaumepaumier.com/fr/frises/wikipedia-en-2013/>`__
-==============================================================================
+`Voir la frise » </fr/frises/wikipedia-en-2013/>`__
 
 J'aime beaucoup les frises chronologiques. Elles permettent de présenter les faits de façon logique et naturelle, et je trouve qu'elles sont très utiles pour comprendre comment les évènements passés ont mené au présent.
 
@@ -53,9 +52,9 @@ Intégrer la frise au site
 
 À l'origine, j'ai fait tout ce travail de préparation dans une simple page HTML indépendante, dans laquelle la frise était affichée en remplissant toute la fenêtre. Dans l'idéal, je voulais l'intégrer ensuite dans l'arborescence du site, avec une apparence cohérente, les menus, etc.
 
-TimelineJS utilise `LESS <http://lesscss.org/>`__ pour écrire et compiler les styles CSS. J'ai appris à écrire du LESS quelques semaines plus tôt, quand j'ai construit `Fumseck <//guillaumepaumier.com/project/fumseck/>`__, le thème WordPress utilisé sur ce site. J'ai donc pu modifier les fichiers pour remplacer les couleurs de la frise par la palette `Solarized <http://ethanschoonover.com/solarized>`__, et les polices de caractère par la famille `Latin Modern <http://www.gust.org.pl/projects/e-foundry/latin-modern>`__. Dans la mesure du possible, j'ai conservé les fichiers originaux et compilé le CSS à partir des fichiers sources s'ils n'avaient pas été modifiés. Mon objectif était de réduire les conflits potentiels lors des futures mises à jour de TimelineJS.
+TimelineJS utilise `LESS <http://lesscss.org/>`__ pour écrire et compiler les styles CSS. J'ai appris à écrire du LESS quelques semaines plus tôt, quand j'ai construit le thème WordPress utilisé sur ce site. J'ai donc pu modifier les fichiers pour remplacer les couleurs de la frise par la palette `Solarized <http://ethanschoonover.com/solarized>`__, et les polices de caractère par la famille `Latin Modern <http://www.gust.org.pl/projects/e-foundry/latin-modern>`__. Dans la mesure du possible, j'ai conservé les fichiers originaux et compilé le CSS à partir des fichiers sources s'ils n'avaient pas été modifiés. Mon objectif était de réduire les conflits potentiels lors des futures mises à jour de TimelineJS.
 
-Pour finir, j'ai créé un modèle de page dans le thème WordPress pour y intégrer la frise en pleine largeur. Une fois la frise `terminée en anglais <//guillaumepaumier.com/timelines/wikipedia-in-2013/>`__, je suis passé à la traduction en français. Je me suis dit que les francophones apprécieraient de pouvoir consulter la frise chronologique dans leur propre langue, même si les articles du blog Wikimedia étaient en anglais. J'ai donc traduit les titres, les textes, les légendes, les crédits, et créé `la version française de la frise <//guillaumepaumier.com/fr/frises/wikipedia-en-2013/>`__ dans WordPress.
+Pour finir, j'ai créé un modèle de page dans le thème WordPress pour y intégrer la frise en pleine largeur. Une fois la frise `terminée en anglais </timelines/wikipedia-in-2013/>`__, je suis passé à la traduction en français. Je me suis dit que les francophones apprécieraient de pouvoir consulter la frise chronologique dans leur propre langue, même si les articles du blog Wikimedia étaient en anglais. J'ai donc traduit les titres, les textes, les légendes, les crédits, et créé `la version française de la frise </fr/frises/wikipedia-en-2013/>`__ dans WordPress.
 
 Je suis très content du résultat, et les réactions ont été très positives.
 

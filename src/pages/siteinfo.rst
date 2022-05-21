@@ -15,7 +15,7 @@ Colophon
 
 This site is built using the `Nikola <https://getnikola.com/>`__ static site generator with a homemade theme named `Phenix <https://github.com/gpaumier/gp2/tree/main/themes/phenix>`__. The source code of the site is available `on Github <https://github.com/gpaumier/gp2>`__, where you can suggest improvements.
 
-Previous versions of this website are available in the Internet Archive's `WayBack Machine <https://web.archive.org/web/*/https://guillaumepaumier.com/>`__. I keep old posts up for historical purposes but my mind may have changed since their publication. The opinions expressed on this site are mine alone, and shouldn't be attributed to any of the organizations I am or was affiliated with.
+Previous versions of this website are available in the Internet Archive's `WayBack Machine <https://web.archive.org/web/*/https://guillaumepaumier.com/>`__. I keep most old posts up for historical purposes but my mind may have changed since their publication. The opinions expressed on this site are mine alone, and shouldn't be attributed to any of the organizations I am or was affiliated with.
 
 
 Impressum

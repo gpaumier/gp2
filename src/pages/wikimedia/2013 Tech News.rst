@@ -13,9 +13,19 @@
     Every week, tech ambassadors assemble, simplify and translate “Tech News”, a curated newsletter then delivered to hundreds of subscribers across wikis. But how exactly did this start, how does it work behind the scenes, and how does it fit within our efforts to bring developers and users closer together?
 
 
-Wikimedians, the tens of thousands of volunteers [#]_ who write and improve articles on Wikipedia and its sister sites, do not like to encounter software bugs and other changes that prevent them from curating the sum of all human knowledge. Quite understandably, they regularly complain that they were not notified of a specific change or new feature that `broke their workflow <http://www.xkcd.com/1172/>`__. It's a perennial topic, and it's generally brought up independently every few months; the latest occurrence happened in December [#]_.
+Wikimedians, the tens of thousands of volunteers\ [#]_ who write and improve articles on Wikipedia and its sister sites, do not like to encounter software bugs and other changes that prevent them from curating the sum of all human knowledge. Quite understandably, they regularly complain that they were not notified of a specific change or new feature that `broke their workflow <http://www.xkcd.com/1172/>`__. It's a perennial topic, and it's generally brought up independently every few months; the latest occurrence happened in December.\ [#]_
 
-And yet, in a movement as transparent as Wikimedia, where almost every document, code change and mailing list is public, the problem is rarely the lack of information. Anyone can look at the more than 5,000 `code changes <https://gerrit.wikimedia.org>`__ made on average by developers every month [#]_; anyone can also contribute to the more than 1,200 `issues <https://bugzilla.wikimedia.org>`__ opened every month [#]_, or read (and reply to) the more than 1,500 mailing list messages that they exchange [#]_. I'm not even mentioning `code reviews <https://www.mediawiki.org/wiki/Git/Tutorial#How_we_review_code>`__, real-time `IRC chat <https://meta.wikimedia.org/wiki/IRC/Channels#MediaWiki_and_technical>`__ or edits to the documentation on `mediawiki.org <https://www.mediawiki.org/wiki/>`__, all of which are also public.
+.. [#] `Active Wikimedia Editors <http://reportcard.wmflabs.org/graphs/active_editors>`__ for All Wikimedia Projects (5+ edits per month). Wikimedia Report Card. Retrieved November 11, 2013.
+
+.. [#] Alex Brollo. `Please use sitenotice when a new    version of software is deployed <http://thread.gmane.org/gmane.science.linguistics.wikipedia.technical/74186/>`__. wikitech-l. December 5, 2013.
+
+And yet, in a movement as transparent as Wikimedia, where almost every document, code change and mailing list is public, the problem is rarely the lack of information. Anyone can look at the more than 5,000 `code changes <https://gerrit.wikimedia.org>`__ made on average by developers every month;\ [#]_ anyone can also contribute to the more than 1,200 `issues <https://bugzilla.wikimedia.org>`__ opened every month,\ [#]_ or read (and reply to) the more than 1,500 mailing list messages that they exchange.\ [#]_ I'm not even mentioning `code reviews <https://www.mediawiki.org/wiki/Git/Tutorial#How_we_review_code>`__, real-time `IRC chat <https://meta.wikimedia.org/wiki/IRC/Channels#MediaWiki_and_technical>`__ or edits to the documentation on `mediawiki.org <https://www.mediawiki.org/wiki/>`__, all of which are also public.
+
+.. [#] `Source code <http://korma.wmflabs.org/browser/scm.html>`__. Wikimedia Community Metrics. Retrieved November 11, 2013.
+
+.. [#] `Issues <http://korma.wmflabs.org/browser/its.html>`__. Wikimedia    Community Metrics. Retrieved November 11, 2013.
+
+.. [#] `Mailing lists <http://korma.wmflabs.org/browser/mls.html>`__. Wikimedia Community Metrics. Retrieved November 11, 2013.
 
 No, the problem is rarely that information is kept private; in a situation quite representative of our time, Wikimedians who want to follow technical changes are faced with `information overload <https://en.wikipedia.org/wiki/Information_overload>`__. We know the information we're looking for is out there; the problem is how to find it without being overwhelmed, and how to find it before it has consequences for us.
 
@@ -23,7 +33,11 @@ No, the problem is rarely that information is kept private; in a situation quite
 Technical ambassadors: The first attempt at a 2-way communication line between developers and editors
 =====================================================================================================
 
-As I mentioned, the problem isn't new. I'll assume that it's been here all along, since Wikipedia was created in 2001, and continued as the site underwent major rewrites of its software [#]_ and frequent outages that only the most long-term editors still recall. That said, the problem became more apparent when the Wikimedia Foundation really started to have the resources to make major software changes. This was in 2008, when the Foundation was awarded a grant by the Stanton Foundation to finance the "Wikipedia Usability Initiative," with the goal of improving the software to make it easier to contribute to the encyclopedia [#]_.
+As I mentioned, the problem isn't new. I'll assume that it's been here all along, since Wikipedia was created in 2001, and continued as the site underwent major rewrites of its software\ [#]_ and frequent outages that only the most long-term editors still recall. That said, the problem became more apparent when the Wikimedia Foundation really started to have the resources to make major software changes. This was in 2008, when the Foundation was awarded a grant by the Stanton Foundation to finance the "Wikipedia Usability Initiative," with the goal of improving the software to make it easier to contribute to the encyclopedia.\ [#]_
+
+.. [#] Guillaume Paumier, Sumana Harihareswara and MediaWiki developers. `The Architecture of Open Source Applications: MediaWiki <http://aosabook.org/en/mediawiki.html>`__. `ISBN 978-1105571817 <https://meta.wikimedia.org/wiki/Special:BookSources/9781105571817>`__
+
+.. [#] `Wikipedia to become more user-friendly for new volunteer writers <https://wikimediafoundation.org/wiki/Press_releases/Wikipedia_to_become_more_user-friendly_for_new_volunteer_writers>`__. Wikimedia Foundation. December 3, 2008.
 
 The Wikipedia Usability Project is what brought the now familiar `"Vector" look <https://blog.wikimedia.org/2010/05/13/a-new-look-for-wikipedia/>`__ to Wikipedia, as well as the then-new `editing toolbar <https://blog.wikimedia.org/2010/03/25/wikimedia-gets-ready-for-some-big-changes/>`__. These were the biggest changes to Wikipedia's interface in a long time, and the Usability team knew that they needed to find a way to communicate with editors across wikis. Besides direct on-wiki discussions and blog posts, they created a new mailing list in August 2010, called "`wikitech-ambassadors <https://lists.wikimedia.org/mailman/listinfo/wikitech-ambassadors>`__"; its purpose was to enable interested Wikimedians to be notified of major technical changes, act as an ambassador to their home wiki (initially the long-tail wikis), and report back issues and concerns to the list. The ambassadors list was low-traffic: subscribers wouldn't get as many e-mails as on the general technical list, `wikitech-l <https://lists.wikimedia.org/mailman/listinfo/wikitech-l>`__. The list also had an explicit focus on users, meaning it wasn't necessary to have specialized technical knowledge to participate.
 
@@ -34,23 +48,33 @@ Deputizing volunteer ambassadors was a great way to scale two-way communication 
     The wikitech-ambassadors mailing list was used episodically in 2010−2011; its usage started to increase in 2012.
 
 
-The wikitech-ambassadors list continued to be used very episodically throughout 2010 and 2011 for one-off announcements [#]_. Around Summer 2012, I started experimenting with ways to improve the 2-way communication between users and developers. At the time, there wasn't a lot of dialogue on the ambassadors list; it was a low-traffic, mostly-announce list for developers talking to Wikimedia users [#]_. Since then, we've partly managed to turn it into a medium-traffic list for discussion between developers and Wikimedia users, to report issues, share ideas and provide feedback.
+The wikitech-ambassadors list continued to be used very episodically throughout 2010 and 2011 for one-off announcements.\ [#]_ Around Summer 2012, I started experimenting with ways to improve the 2-way communication between users and developers. At the time, there wasn't a lot of dialogue on the ambassadors list; it was a low-traffic, mostly-announce list for developers talking to Wikimedia users.\ [#]_ Since then, we've partly managed to turn it into a medium-traffic list for discussion between developers and Wikimedia users, to report issues, share ideas and provide feedback.
+
+.. [#] `The Wikitech-ambassadors archives <http://lists.wikimedia.org/pipermail/wikitech-ambassadors/>`__. Retrieved December 11, 2013.
+
+.. [#] Guillaume Paumier. `New, lower traffic, announcements only email list for Wikimedia developers <http://lists.wikimedia.org/pipermail/wikitech-l/2012-July/061621.html>`__. wikitech-l. July 10, 2012.
 
 
 Beyond ambassadors: The genesis of the technical newsletter
 ===========================================================
 
-The membership and activity of the ambassadors list started to increase in 2012, and continued in 2013, to reach about 200 members (as of December 11, 2013), among which roughly 15% are Wikimedia Foundation employees [#]_. This is a level that is honorable, but still far from ideal, especially when considering that many subscribers, I reckon, are interested in getting the news, but not necessarily in acting as an ambassador to their wiki. Moreover, it requires extra effort for developers to explicitly advertise a technical change on the list. Even if they remember and are willing to do it, the ambassadors list (unlike wikitech-l) isn't part of their usual workflow.
+The membership and activity of the ambassadors list started to increase in 2012, and continued in 2013, to reach about 200 members (as of December 11, 2013), among which roughly 15% are Wikimedia Foundation employees.\ [#]_ This is a level that is honorable, but still far from ideal, especially when considering that many subscribers, I reckon, are interested in getting the news, but not necessarily in acting as an ambassador to their wiki. Moreover, it requires extra effort for developers to explicitly advertise a technical change on the list. Even if they remember and are willing to do it, the ambassadors list (unlike wikitech-l) isn't part of their usual workflow.
+
+.. [#] `Wikitech-ambassadors subscribers <https://lists.wikimedia.org/mailman/roster/wikitech-ambassadors>`__ (Requires login). Retrieved December 11, 2013.
 
 Then, there is also the "`Not my wiki <https://meta.wikimedia.org/wiki/Not_my_wiki>`__" problem, summarized as: "People prefer to work on their home wiki. Other wikis seem much further than just a single click away." For users, subscribing to the ambassadors mailing list requires a much bigger perceived effort than just getting the information on their wiki. We needed to find a way to reach editors in their own environment.
 
 In Fall 2012, I started a set of `on-wiki consultations <https://www.mediawiki.org/wiki/Technical_communications/Fall_2012_consultation>`__ to ask editors how they thought we could collectively improve the dialogue between users and developers. One of the major proposed solutions was to "communicate more widely, but on less stuff. Only select activities and changes likely to interest the audience. For example, select deployment changes likely to impact editors, and have them translated and delivered across all wikis. Augment with specific notices for particularly important/urgent/attention-worthy messages." [#2012consult]_
 
-There were already some local initiatives doing this on a couple of wikis: the `English Wikipedia Signpost <https://en.wikipedia.org/wiki/en:Wikipedia:Wikipedia_Signpost>`__'s Technology report, and the German Wikipedia's |Projektneuheiten|_ had both been keeping an eye on technical changes, and notifying their readers of what could impact them. However, those community newspapers were specific to their local wiki; there was also a lot of scattered and duplicated effort between their writers. In March 2013, I started a discussion to gauge interest in pooling resources [#]_, which led to the creation of the tech newsletter.
+.. [#2012consult] `Technical communications/Fall 2012 consultation: Summary <https://www.mediawiki.org/w/index.php?title=Technical_communications/Fall_2012_consultation&oldid=845003>`__. mediawiki.org. Retrieved December 18, 2013.
+
+There were already some local initiatives doing this on a couple of wikis: the `English Wikipedia Signpost <https://en.wikipedia.org/wiki/en:Wikipedia:Wikipedia_Signpost>`__'s Technology report, and the German Wikipedia's |Projektneuheiten|_ had both been keeping an eye on technical changes, and notifying their readers of what could impact them. However, those community newspapers were specific to their local wiki; there was also a lot of scattered and duplicated effort between their writers. In March 2013, I started a discussion to gauge interest in pooling resources,\ [#]_ which led to the creation of the tech newsletter.
 
 .. |Projektneuheiten| replace:: *Projektneuheiten*
 
-.. _Projektneuheiten: https://en.wikipedia.org/wiki/de:Wikipedia:Projektneuheiten
+.. _Projektneuheiten: https://de.wikipedia.org/wiki/Wikipedia:Projektneuheiten
+
+.. [#] `Talk:Tech/Ambassadors: Noteworthy changes <https://meta.wikimedia.org/w/index.php?title=Talk:Tech/Ambassadors&oldid=5546521#Noteworthy_changes>`__. Meta-Wiki. Retrieved December 19, 2013.
 
 
 Setting up Tech News
@@ -60,14 +84,16 @@ I created the `Tech/News <https://meta.wikimedia.org/wiki/Tech/News>`__ page in 
 
 
 .. figure:: /images/2014-01-02_Technews_screen.png
-    :class: framed
+   :figclass: framed
 
-    The Tech/News page provides clear calls to action and pointers on how to subscribe and participate.
+   The Tech/News page provides clear calls to action and pointers on how to subscribe and participate.
 
 
 I wasn't alone in this initiative. From the beginning, `Tomasz W. Kozlowski <https://meta.wikimedia.org/wiki/User:Odder>`__ participated in writing the newsletter, and he would go on to become the primary writer until August. He's also the one who originally consolidated our habits and experience into the `Tech news manual <https://meta.wikimedia.org/wiki/Tech/News/Manual>`__, which has served as a checklist for writing and publishing the newsletter every week. In fact, I came to rely so much on his work that, when Tomasz decided to take a well-deserved wikibreak, the newsletter went on a hiatus, then returned to its regular publication schedule.
 
-In June, when we officially announced the tech newsletter, only a few issues had been published, but readers were already showing their appreciation, and its content was already being used by the Signpost writers to put together their own Tech report. [#]_
+In June, when we officially announced the tech newsletter, only a few issues had been published, but readers were already showing their appreciation, and its content was already being used by the Signpost writers to put together their own Tech report.\ [#]_
+
+.. [#] Tomasz W. Kozlowski and Guillaume Paumier. `Subscribe to Tech News to stay informed of upcoming technical changes <https://blog.wikimedia.org/2013/06/12/subscribe-to-tech-news-to-stay-informed-of-upcoming-technical-changes/>`__. Wikimedia Blog. June 12, 2013.
 
 
 .. figure:: /images/2013-12-16_Tech_news_subscribers_2013-W21_to_2013-W51.svg
@@ -114,7 +140,9 @@ Global delivery of a monolingual text using EdwardsBot is relatively straightfor
 
 Ideally, we should be able to give EdwardsBot all available translations of a weekly issue of the newsletter, and trust that it'll deliver the appropriate translation (if available) depending on the language used where it's posting. This would be similar to a European mailman being entrusted with copies of the same letter in different languages, and asking him to deliver the French translation to subscribers living in France, the Finnish translation to subscribers living in Finland, etc. The way we're doing this for the tech newsletter is by telling EdwardsBot to look up the language of the wiki it's posting on, and check if a translation is available in its mail bag. If it is, it posts that one; otherwise, it posts the original version in English. For people familiar with MediaWiki's "parser functions," this is done with a ``#switch`` condition.
 
-Adding that language check isn't actually very complicated once you've done it once. What really takes time is assembling the catalog of multilingual texts that EdwardsBot will be picking from. Originally, we did this by hand, by manually copy/pasting the content of the available translations and assembling them into the ``#switch``. After a few unfortunate copy/paste errors that required us to clean up after the bot, I decided to automate that part as well, both to save time and to remove that potential source of human error. And, to be honest, I also thought this would be a cool project and an opportunity to play with the Lua programming language, which had been introduced on Wikimedia sites a few months earlier [#]_.
+Adding that language check isn't actually very complicated once you've done it once. What really takes time is assembling the catalog of multilingual texts that EdwardsBot will be picking from. Originally, we did this by hand, by manually copy/pasting the content of the available translations and assembling them into the ``#switch``. After a few unfortunate copy/paste errors that required us to clean up after the bot, I decided to automate that part as well, both to save time and to remove that potential source of human error. And, to be honest, I also thought this would be a cool project and an opportunity to play with the Lua programming language, which had been introduced on Wikimedia sites a few months earlier.\ [#]_
+
+.. [#] Sumana Harihareswara. `New Lua templates bring faster, more flexible pages to your wiki <https://blog.wikimedia.org/2013/03/11/lua-templates-faster-more-flexible-pages/>`__. Wikimedia blog. March 11, 2013.
 
 I had never worked with Lua before, but it turned out to be fairly intuitive; I was able to write a `short module <https://meta.wikimedia.org/wiki/Module:Tech_news>`__ that we're now using every week to assemble the available translations into the multilingual newsletter. What previously required manual (and human error-prone) copy/pasting is now handled by simply `calling the module <https://meta.wikimedia.org/wiki/Tech/News/Sandbox>`__'s ``assembleNewsletter`` function, and providing the list of languages. The module then directly outputs the multilingual text, ready for delivery.
 
@@ -140,7 +168,7 @@ Looking to the future with Liaisons and Ambassadors
 
 The Tech newsletter is now on relatively stable tracks: we have the experience, routine and tools to ensure its publication every week, and `you're welcome to join the team <https://meta.wikimedia.org/wiki/Tech/News#contribute>`__. However, the newsletter is still mostly unidirectional; it's a channel designed for broadcast, not dialogue.
 
-Another suggestion that came up during the Fall 2012 consultation was to hire more Community Liaisons for Engineering [#2012consult]_. Being able to predict what feature or technical change will or will not cause issues is dependent on having the institutional knowledge to do so, regardless of whether those issues are related to policy, product or simple resistance to change. At the time, `Oliver Keyes <https://meta.wikimedia.org/wiki/User:Okeyes_(WMF)>`__ was the only Community Liaison on the Product team's staff, and a popular request during the consultation was to "clone Oliver;" since then, several other Product Liaisons have been hired, initially to help with the activation of VisualEditor across Wikimedia wikis. I had the opportunity to work closely with them during that period, and their work has been splendid, earning them the rare common appreciation and respect of both users and engineering staff.
+Another suggestion that came up during the Fall 2012 consultation was to hire more Community Liaisons for Engineering. Being able to predict what feature or technical change will or will not cause issues is dependent on having the institutional knowledge to do so, regardless of whether those issues are related to policy, product or simple resistance to change. At the time, `Oliver Keyes <https://meta.wikimedia.org/wiki/User:Okeyes_(WMF)>`__ was the only Community Liaison on the Product team's staff, and a popular request during the consultation was to "clone Oliver;" since then, several other Product Liaisons have been hired, initially to help with the activation of VisualEditor across Wikimedia wikis. I had the opportunity to work closely with them during that period, and their work has been splendid, earning them the rare common appreciation and respect of both users and engineering staff.
 
 I believe Tech ambassadors and Community Liaisons have similar roles and will work more closely together in the future. They have the same goal of acting as facilitators between users and developers, and in the end it doesn't really matter who's a volunteer and who's an employee. The Tech newsletter is useful to support the work of ambassadors and liaisons, who in return make the interaction more bidirectional.
 
@@ -148,47 +176,3 @@ We've used the tech newsletter successfully in the Wikimedia movement to inform 
 
 
 .. Update: https://meta.wikimedia.org/wiki/Community_Engagement_Insights/2018_Report#Technical_Collaboration_team:_Contributors_prefer_giving_feedback_about_new_software_features_on_the_wikis,_and_Tech_News_is_by_far_the_preferred_way_to_get_technical_news
-
-
-.. [#] `Active Wikimedia Editors <http://reportcard.wmflabs.org/graphs/active_editors>`__ for All Wikimedia Projects (5+ edits per month). Wikimedia Report Card. Retrieved November 11, 2013.
-
-.. [#] Alex Brollo. `Please use sitenotice when a new    version of software is deployed <http://thread.gmane.org/gmane.science.linguistics.wikipedia.technical/74186/>`__. wikitech-l. December 5, 2013.
-
-.. [#] `Source code <http://korma.wmflabs.org/browser/scm.html>`__. Wikimedia Community Metrics. Retrieved November 11, 2013.
-
-.. [#] `Issues <http://korma.wmflabs.org/browser/its.html>`__. Wikimedia    Community Metrics. Retrieved November 11, 2013.
-
-.. [#] `Mailing lists <http://korma.wmflabs.org/browser/mls.html>`__. Wikimedia Community Metrics. Retrieved November 11, 2013.
-
-.. [#] Guillaume Paumier, Sumana Harihareswara and MediaWiki developers. `The Architecture of Open Source Applications: MediaWiki <http://aosabook.org/en/mediawiki.html>`__. `ISBN 978-1105571817 <https://meta.wikimedia.org/wiki/Special:BookSources/9781105571817>`__
-
-.. [#] `Wikipedia to become more user-friendly for new volunteer writers <https://wikimediafoundation.org/wiki/Press_releases/Wikipedia_to_become_more_user-friendly_for_new_volunteer_writers>`__. Wikimedia Foundation. December 3, 2008.
-
-.. [#] `The Wikitech-ambassadors archives <http://lists.wikimedia.org/pipermail/wikitech-ambassadors/>`__. Retrieved December 11, 2013.
-
-.. [#] Guillaume Paumier. `New, lower traffic, announcements only email list for Wikimedia developers <http://lists.wikimedia.org/pipermail/wikitech-l/2012-July/061621.html>`__. wikitech-l. July 10, 2012.
-
-.. [#] `Wikitech-ambassadors subscribers <https://lists.wikimedia.org/mailman/roster/wikitech-ambassadors>`__ (Requires login). Retrieved December 11, 2013.
-
-.. [#2012consult] `Technical communications/Fall 2012 consultation: Summary <https://www.mediawiki.org/w/index.php?title=Technical_communications/Fall_2012_consultation&oldid=845003>`__. mediawiki.org. Retrieved December 18, 2013.
-
-.. [#] `Talk:Tech/Ambassadors: Noteworthy changes <https://meta.wikimedia.org/w/index.php?title=Talk:Tech/Ambassadors&oldid=5546521#Noteworthy_changes>`__. Meta-Wiki. Retrieved December 19, 2013.
-
-.. [#] Tomasz W. Kozlowski and Guillaume Paumier. `Subscribe to Tech News to stay informed of upcoming technical changes <https://blog.wikimedia.org/2013/06/12/subscribe-to-tech-news-to-stay-informed-of-upcoming-technical-changes/>`__. Wikimedia Blog. June 12, 2013.
-
-.. [#] Sumana Harihareswara. `New Lua templates bring faster, more flexible pages to your wiki <https://blog.wikimedia.org/2013/03/11/lua-templates-faster-more-flexible-pages/>`__. Wikimedia blog. March 11, 2013.
-
-.. |The wikitech-ambassadors mailing list was used episodically in 2010−2011; its usage started to increase in 2012.| image:: https://guillaumepaumier.com/wp-content/uploads/2014/01/Wikitech-ambassadors_stats.svg_-760x524.png
-   :target: https://commons.wikimedia.org/wiki/File:Wikitech-ambassadors_stats.svg
-.. |The Tech/News page provides clear calls to action and pointers on how to subscribe and participate.| image:: https://guillaumepaumier.com/wp-content/uploads/2014/01/Technews_screen-760x513.png
-   :target: https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News
-.. |The number of subscribers surged when the newsletter was announced, showing that it was meeting a real need from Wikimedians. It has been steadily increasing since then.| image:: https://guillaumepaumier.com/wp-content/uploads/2014/01/Tech_news_subscribers_2013-W21_to_2013-W51.svg_-760x349.png
-   :target: https://commons.wikimedia.org/wiki/File:Tech_news_subscribers_2013-W21_to_2013-W51.svg
-.. |Tech ambassadors monitor technical activity across many channels, select noteworthy information and simplify it to make it accessible to readers who don’t have specialized technical expertise.| image:: https://guillaumepaumier.com/wp-content/uploads/2014/01/Tech_news_process_1_-_Monitoring_and_writing.svg_-760x427.png
-   :target: https://commons.wikimedia.org/wiki/File:Tech_news_process_1_-_Monitoring_and_writing.svg
-.. |The newsletter is routinely translated by volunteers to about a dozen languages every week-end.| image:: https://guillaumepaumier.com/wp-content/uploads/2014/01/Tech_news_process_2_-_Translation.svg_-760x534.png
-   :target: https://commons.wikimedia.org/wiki/File:Tech_news_process_2_-_Translation.svg
-.. |We use a custom Lua script to pull all translations together to assemble the multilingual newsletter, ready for delivery.| image:: https://guillaumepaumier.com/wp-content/uploads/2014/01/Tech_news_process_3_-_Assembly.svg_-760x529.png
-   :target: https://commons.wikimedia.org/wiki/File:Tech_news_process_3_-_Assembly.svg
-.. |Finally, the multilingual newsletter is delivered to subscribers across wikis by MassMessage, a broadcasting extension for MediaWiki.| image:: https://guillaumepaumier.com/wp-content/uploads/2014/01/Tech_news_process_4_-_Language_selection_and_delivery.svg_-584x760.png
-   :target: https://commons.wikimedia.org/wiki/File:Tech_news_process_4_-_Language_selection_and_delivery.svg

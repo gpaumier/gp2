@@ -12,8 +12,7 @@
     An illustrated interactive timeline that highlights the main and coolest stories about what happened on Wikipedia and across the Wikimedia movement in 2013.
 
 
-`Open the timeline » <http://guillaumepaumier.com/timelines/wikipedia-in-2013/>`__
-==================================================================================
+`Open the timeline » </timelines/wikipedia-in-2013/>`__
 
 I love timelines. They present facts in a logical, natural way and are a great tool for looking at the past and understanding how it has brought us to where we are now.
 
@@ -57,11 +56,11 @@ Integrating the timeline
 
 All this work was initially done in a simple standalone HTML page that displayed the timeline in the full viewport. It was fine, but if possible I wanted to integrate it properly into the structure and appearance of the rest of the site.
 
-TimelineJS uses LESS to write and compile CSS files, so I started looking at the source files. I had learned to write in LESS a couple of weeks before when I had built the `Fumseck theme <//guillaumepaumier.com/project/fumseck/>`__, so it felt familiar. I edited the files to use the Solarized color scheme, Latin Modern typefaces and a larger font size, to be consistent with that theme. I tried to change the original files as little as possible, and refer to the unmodified sources when possible while compiling, in order to lower the maintenance costs if the library needs to be upgraded in the future.
+TimelineJS uses LESS to write and compile CSS files, so I started looking at the source files. I had learned to write in LESS a couple of weeks before when I had built the :doc:`Fumseck theme <fumseck>`, so it felt familiar. I edited the files to use the Solarized color scheme, Latin Modern typefaces and a larger font size, to be consistent with that theme. I tried to change the original files as little as possible, and refer to the unmodified sources when possible while compiling, in order to lower the maintenance costs if the library needs to be upgraded in the future.
 
 Finally, I created a custom page template for the WordPress theme that would enable me to embed the timeline using the full width of the viewport.
 
-The final extra step was the translation and localization of the timeline to French. Even if the links to the full stories were in English, I thought French readers might still appreciate viewing the timeline itself. I translated the headlines, summaries, captions and credit lines, and created `a French copy of the timeline <//guillaumepaumier.com/fr/frises/wikipedia-en-2013/>`__ in WordPress.
+The final extra step was the translation and localization of the timeline to French. Even if the links to the full stories were in English, I thought French readers might still appreciate viewing the timeline itself. I translated the headlines, summaries, captions and credit lines, and created `a French copy of the timeline </fr/frises/wikipedia-en-2013/>`__ in WordPress.
 
 I'm really quite happy with the result, and the feedback has been overwhelmingly positive. I'm glad people have enjoyed navigating the timeline as much as I did building it.
 

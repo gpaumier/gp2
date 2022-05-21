@@ -14,7 +14,7 @@ Colophon
 
 Ce site est construit avec le générateur de site statique `Nikola <https://getnikola.com/>`__ et un thème fait maison, `Phenix <https://github.com/gpaumier/gp2/tree/main/themes/phenix>`__. Le code source du site est disponible `sur Github <https://github.com/gpaumier/gp2>`__, où vous pouvez proposer des améliorations.
 
-Les versions précédentes du site sont disponibles via l'outil `WayBack Machine <https://web.archive.org/web/*/https://guillaumepaumier.com/>`__ de l'*Internet Archive*. Afin de préserver l'historique du site, je conserve les anciens articles, mais gardez à l'esprit que ma position sur certains sujets a probablement évolué depuis leur publication. Les opinions exprimées sur ce site sont uniquement les miennes, et ne sauraient être attribuées à quelconque organisation à laquelle je suis ou ai été affilié.
+Les versions précédentes du site sont disponibles via l'outil `WayBack Machine <https://web.archive.org/web/*/https://guillaumepaumier.com/>`__ de l'*Internet Archive*. Afin de préserver l'historique du site, je conserve la plupart des anciens articles, mais gardez à l'esprit que ma position sur certains sujets a probablement évolué depuis leur publication. Les opinions exprimées sur ce site sont uniquement les miennes, et ne sauraient être attribuées à quelconque organisation à laquelle je suis ou ai été affilié.
 
 
 Mentions légales

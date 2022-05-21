@@ -14,7 +14,7 @@
 In previous episodes
 ====================
 
-I `lived in San Francisco <https://guillaumepaumier.com/2010/01/27/back-in-the-game/>`__ for a year in 2009–2010, when I first started working for the Wikimedia Foundation on the Multimedia Usability Project. Unfortunately, I had to move back to France because my partner couldn't get a visa at the time.
+I lived in San Francisco for a year in 2009–2010, when I first started working for the Wikimedia Foundation on the Multimedia Usability Project. Unfortunately, I had to move back to France because my partner couldn't get a visa at the time.
 
 When I first came to the US, I didn't have a bank account, a social security number, or a credit history. My knowledge and understanding of American culture was limited to what could be gleaned from movies and TV series.
 

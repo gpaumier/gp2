@@ -45,4 +45,4 @@ Pour cela, le formulaire de téléchargement recense de très nombreux cas de fi
 
 En ce sens, Wikimedia Commons a perdu son côté *wiki*, c'est à dire un site où les erreurs ou omissions des uns sont corrigées au fur et à mesure par les autres.
 
-Il est à espérer que les améliorations techniques qui vont être apportées par le `projet Multimedia usability <http://guillaumepaumier.com/fr/2009/11/07/nouveau-job-multimedia-usability-product-manager/>`__ encourageront davantage de participants à s'impliquer dans la vie et la maintenance de Commons, et que cela entraînera également, à plus long terme, un changement de comportement des utilisateurs envers les nouveaux participants.
+Il est à espérer que les améliorations techniques qui vont être apportées par le :doc:`projet Multimedia usability <nouveau-job-multimedia-usability-product-manager>` encourageront davantage de participants à s'impliquer dans la vie et la maintenance de Commons, et que cela entraînera également, à plus long terme, un changement de comportement des utilisateurs envers les nouveaux participants.
