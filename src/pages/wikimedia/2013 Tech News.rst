@@ -1,7 +1,7 @@
 .. title: Tech news
 .. category: projects-en
 .. subtitle: the Wikimedia technical newsletter
-.. slug: wikimedia-tech-news
+.. slug: tech-news
 .. date: 2013-05-16T00:00:00
 .. end: 2015-08-17T00:00:00
 .. image: /images/2013-12-16_Tech_news_process_-_Overview.svg

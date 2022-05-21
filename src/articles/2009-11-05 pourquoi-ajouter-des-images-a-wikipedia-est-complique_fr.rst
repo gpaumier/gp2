@@ -6,13 +6,25 @@
 .. keywords: Ergonomie multimédia, Commons, Ingénierie, Wikimedia
 .. image: /images/2009-11-05_Cahir_Castle_Portcullis_by_Kevin_King.jpg
 
-Vous connaissez probablement `Wikipedia <http://fr.wikipedia.org>`__, le célèbre projet d'encyclopédie sur Internet, dont le contenu est librement accessible et réutilisable par tous, et rédigé par les internautes. Wikipedia est disponible dans plus de 200 langues.
+.. highlights::
 
-Vous connaissez peut-être moins |commons|_ (souvent simplement appelé Commons), qui est le répertoire d'images, vidéos et sons associé à Wikipedia. Commons est un site multilingue qui héberge la plupart du contenu multimedia ensuite utilisé et affiché sur Wikipedia. Comme pour Wikipedia, les photographies, schémas, cartes, vidéos et sons qui constituent le contenu de Commons sont créés et importés par les internautes. Mais le processus d'import de fichier est actuellement extrêmement complexe, ce pour plusieurs raisons.
+   Vous connaissez probablement `Wikipedia <http://fr.wikipedia.org>`__, le célèbre projet d'encyclopédie sur Internet, dont le contenu est librement accessible et réutilisable par tous, et rédigé par les internautes. Wikipedia est disponible dans plus de 200 langues. Vous connaissez peut-être moins |commons|_, le répertoire d'images, vidéos et sons associé à Wikipedia. Commons est un site multilingue qui héberge la plupart du contenu multimedia ensuite utilisé et affiché sur Wikipedia. Comme pour Wikipedia, les photographies, schémas, cartes, vidéos et sons qui constituent le contenu de Commons sont créés et importés par les internautes. Mais le processus d'import de fichier est actuellement extrêmement complexe.
 
 .. |commons| replace:: **Wikimedia Commons**
 
 .. _commons: http://commons.wikimedia.org
+
+.. figure:: /images/2009-11-05_Cahir_Castle_Portcullis_by_Kevin_King.jpg
+
+   |photo|_ par `Kevin King`_ // `CC-By`_.
+
+.. |photo| replace:: *Cahir Castle Portcullis*
+
+.. _photo: https://commons.wikimedia.org/wiki/File:Cahir_Castle_Portcullis_by_Kevin_King.jpg
+
+.. _Kevin King: https://commons.wikimedia.org/wiki/User:Dmgultekin
+
+.. _CC-By: https://creativecommons.org/licenses/by/2.0/legalcode
 
 
 Tout d'abord, la **nature multilingue de Commons** rend difficile les discussions entre participants. La *lingua franca* est naturellement l'anglais, qui est utilisé par défaut à nombre d'emplacements. Le système de classification des fichiers de Commons repose ainsi sur des catégories disponibles uniquement en anglais. Les participants qui ne sont pas à l'aise avec l'anglais sont donc rebutés par son omniprésence sur Commons.
@@ -34,16 +46,3 @@ Pour cela, le formulaire de téléchargement recense de très nombreux cas de fi
 En ce sens, Wikimedia Commons a perdu son côté *wiki*, c'est à dire un site où les erreurs ou omissions des uns sont corrigées au fur et à mesure par les autres.
 
 Il est à espérer que les améliorations techniques qui vont être apportées par le `projet Multimedia usability <http://guillaumepaumier.com/fr/2009/11/07/nouveau-job-multimedia-usability-product-manager/>`__ encourageront davantage de participants à s'impliquer dans la vie et la maintenance de Commons, et que cela entraînera également, à plus long terme, un changement de comportement des utilisateurs envers les nouveaux participants.
-
-
-.. class:: copyright-notes
-
-    |photo|_ by `Kevin King`_, under `CC-By`.
-
-.. |photo| replace:: *Cahir Castle Portcullis*
-
-.. _photo: https://commons.wikimedia.org/wiki/File:Cahir_Castle_Portcullis_by_Kevin_King.jpg
-
-.. _Kevin King: https://commons.wikimedia.org/wiki/User:Dmgultekin
-
-.. _CC-By: https://creativecommons.org/licenses/by/2.0/legalcode

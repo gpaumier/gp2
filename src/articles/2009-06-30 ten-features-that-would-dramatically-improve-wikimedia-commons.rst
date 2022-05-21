@@ -11,8 +11,6 @@
     Where our hero makes an early Christmas wishlist and implores the developer fairies to give Wikimedia Commons some much-needed love.
 
 
-About `two years ago <http://guillaumepaumier.com/2007/09/14/found-on-flickr-reused-from-commons/>`__, I wrote: "Commons may be the next coolest project, as soon as developers find the time to improve its usability to make it more user-friendly". Sadly, Wikimedia Commons hasn't evolved much in terms of usability since then.
-
 MIT's *Technology Review* recently published an article about `improvements to come regarding the management of video content <http://www.technologyreview.com/web/22900/page1/>`__ on Wikipedia and Wikimedia websites. I heard a lot of people say: "Good, but what about pictures?" Some technical improvements described by the *Technology Review* will be useful for both images and videos, such as the `media and upload wizard <http://techblog.wikimedia.org/2009/03/add-media-wizard-and-firefogg-on-testwikipediaorg/>`__ currently developed by Michael Dale. However, Wikimedia Commons still needs many little (or big) features that would dramatically improve its user-friendliness.
 
 Browsing & reusing
@@ -30,14 +28,14 @@ Full metadata support is the cornerstone of many other features. EXIF is probabl
 4. **Store metadata in a database** to make search and attribution easier, especially: description, license, media type (photo, diagram, map, etc.). It should be connected to the MediaWiki API to allow for easy extraction of these data.
 5. **Push metadata to files on download**: In the field of publishing, storing credit information directly into the file's metadata is strongly recommended and is a standard practice to avoid losing track of it.
 
-Related open bugs
------------------
+.. sidebar::
+   Related open bugs:
 
--  `bugzilla:6672 <https://bugzilla.wikimedia.org/show_bug.cgi?id=6672>`__: EXIF orientation not used (rotation from digital cameras)
--  `bugzilla:3361 <https://bugzilla.wikimedia.org/show_bug.cgi?id=3361>`__: Image author, description, and copyright data saved in EXIF fields
--  `bugzilla:16956 <https://bugzilla.wikimedia.org/show_bug.cgi?id=16956>`__: Show IPTC metadata on image description page
--  `bugzilla:657 <https://bugzilla.wikimedia.org/show_bug.cgi?id=657>`__: Pull copyright metadata from files on upload
--  |11484|_: Include ISO rating in abbreviated exif metadata.
+   -  `bugzilla:6672 <https://bugzilla.wikimedia.org/show_bug.cgi?id=6672>`__: EXIF orientation not used (rotation from digital cameras)
+   -  `bugzilla:3361 <https://bugzilla.wikimedia.org/show_bug.cgi?id=3361>`__: Image author, description, and copyright data saved in EXIF fields
+   -  `bugzilla:16956 <https://bugzilla.wikimedia.org/show_bug.cgi?id=16956>`__: Show IPTC metadata on image description page
+   -  `bugzilla:657 <https://bugzilla.wikimedia.org/show_bug.cgi?id=657>`__: Pull copyright metadata from files on upload
+   -  |11484|_: Include ISO rating in abbreviated exif metadata.
 
 .. role:: strike
     :class: strike
@@ -63,7 +61,3 @@ With currently more than 4.6 million files (and counting), it is becoming increa
 8.  **An "advanced search" feature** similar to `flickr's <http://www.flickr.com/search/advanced/?>`__. It should be possible to search by media type, by license, and to add toggles such as "safe mode" (explicit content) or "personality rights".
 9.  **Multilingual search**: Files on Commons are ordered in hierarchical categories, using English as *lingua franca*. If you want to find a file, you have to search in English. I imagine it is possible to use some dictionary (coupled to the language detection) to give good results for a search in any language.
 10. **Google-Images-friendliness**. A lot of people use Google Images to find pictures, but images from Wikimedia Commons rarely appear in these results (unless they are used on a Wikipedia page).
-
-.. note::
-
-    All these ideas are given from a user point of view; their technical feasibility has yet to be assessed by a MediaWiki-literate developer.

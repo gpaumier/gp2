@@ -16,9 +16,10 @@
 
 
 
-You may remember that the Wikimedia Foundation `unveiled a prototype of upload wizard <http://guillaumepaumier.com/2010/08/07/prototype-upload-wizard-unveiled-for-wikimedia-commons/>`__ for Wikimedia Commons (the repository of freely reusable media files used in all of our projects) a few months ago. The `prototype <http://commons.prototype.wikimedia.org/uwd/>`__ was developed as part of the Multimedia usability project, a grant-funded, one-year project aiming to increase multimedia participation on Wikimedia websites.
+You may remember that the Wikimedia Foundation :doc:`unveiled a prototype of upload wizard <prototype-upload-wizard-unveiled-for-wikimedia-commons/>` for Wikimedia Commons (the repository of freely reusable media files used in all of our projects) a few months ago. The prototype was developed as part of the Multimedia usability project, a grant-funded, one-year project aiming to increase multimedia participation on Wikimedia websites.
 
-One of the main issues identified early on is that the current workflow of the upload process attempts to provide an advanced course in worldwide copyright when the user uploads a file. In reality, `our research <http://usability.wikimedia.org/wiki/Multimedia:UX_study,_June_2010>`__ showed (unsurprisingly) that most users either gave up in front of the overwhelming instructions, or simply ignored them.
+One of the main issues identified early on is that the current workflow of the upload process attempts to provide an advanced course in worldwide copyright when the user uploads a file. In reality, :doc:`our research <wikimedia-multimedia-ux-testing-videos>` showed (unsurprisingly) that most users either gave up in front of the overwhelming instructions, or simply ignored them.
+
 
 Our approach was to separate the "educational" part of the upload page from the actual upload form. Copyright has proven to be one of the most unappealing topics to new users, who simply want to share their knowledge and artwork. For that reason, we created an |illustrated tutorial|_ in a comic-strip format.
 
@@ -26,24 +27,26 @@ Our approach was to separate the "educational" part of the upload page from the 
 
 .. _illustrated tutorial: http://commons.wikimedia.org/wiki/File:Licensing_tutorial_en.svg
 
-This licensing tutorial was developed with experienced Wikimedians, who had both the expertise on copyright and licenses, and the experience of guiding new users. They collaboratively improved the wording and suggested many changes to the illustrator.
+.. class:: rowstart-2 rowspan-5
+.. sidebar::
 
+   .. figure:: /images/Licensing_tutorial_en.svg
 
-.. figure:: /images/2010-11-05_Puzzly_sharing_(from_licensing_tutorial).svg
-    :alt: A character with a puzzle-piece head sharing artwork with many people
-    :target: http://commons.wikimedia.org/wiki/File:Licensing_tutorial_en.svg
-    :figclass: aside
+      The licensing tutorial will guide newcomers through the basics of copyright law and free licenses.
 
-    Puzzly is a character specially created for the licensing tutorial.
-
-
-You will see that the tutorial features a new character, who was developed specifically for this project. We experimented with several others, but the puzzle-piece character was the one that worked the best.
+This licensing tutorial was developed with experienced Wikimedians, who had both the expertise on copyright and licenses, and the experience of guiding new users. They collaboratively improved the wording and suggested many changes to the illustrator. You will see that the tutorial features a new character, who was developed specifically for this project. We experimented with several others, but the puzzle-piece character was the one that worked the best.
 
 Although developed primarily for Wikimedia Commons, both the tutorial and the character are under a free license; we hope experienced participants will reuse them for similar tutorials and across help pages.
 
-The tutorial was created by `Michael Bartalos <http://bartalosillustration.com>`__, a freelance illustrator from San Francisco. Michael did an awesome job at illustrating complex topics without sacrificing readability or accuracy.
+The tutorial was created by `Michael Bartalos <http://bartalosillustration.com>`__, a freelance illustrator from San Francisco. Michael did an awesome job at illustrating complex topics without sacrificing readability or accuracy. I would like to thank him for putting up with our hands-on approach; it surely wasn't easy to accommodate our requests and all the little details in wording, typography and graphics that Wikimedians are expert at.
 
-I would like to thank him for putting up with our hands-on approach; it surely wasn't easy to accommodate our requests and all the little details in wording, typography and graphics that Wikimedians are expert at.
+.. class:: rowspan-3
+.. sidebar::
+
+   .. figure:: /images/2010-11-05_Puzzly_sharing_(from_licensing_tutorial).svg
+      :alt: A character with a puzzle-piece head sharing artwork with many people
+
+      Puzzly is a character specially created for the licensing tutorial.
 
 The tutorial is now available on Wikimedia Commons as an `editable vector graphics file <http://commons.wikimedia.org/wiki/File:Licensing_tutorial_en.svg>`__ (SVG) to facilitate localization. It will be included in the Upload wizard's interface when it is released at the end of November.
 
@@ -52,16 +55,3 @@ In the meantime, Wikimedia translators are warmly invited to |help translate|_. 
 .. |help translate| replace:: **help translate and localize the tutorial**
 
 .. _help translate: http://meta.wikimedia.org/wiki/Licensing_tutorial
-
-
-.. class:: copyright-notes
-
-    |tutorial|_ by `Wikimedia Foundation`_, under `CC-By-SA`_, from Wikimedia Commons.
-
-.. |tutorial| replace:: *Licensing tutorial en*
-
-.. _tutorial: http://commons.wikimedia.org/wiki/File:Licensing_tutorial_en.svg
-
-.. _Wikimedia Foundation: http://wikimediafoundation.org/wiki/Home
-
-.. _CC-By-SA: https://creativecommons.org/licenses/by-sa/3.0/legalcode

@@ -28,10 +28,13 @@ A staged process
 
 Any move requires planning. Moving to a new country 9,400 km away (5,800 miles) requires *a lot* of planning.
 
-.. figure:: /images/2014-06-23-Organized-move.jpg
-    :alt: Handwritten paper cards organized in columns on a comforter
+.. class:: rowspan-5
+.. sidebar::
 
-    We essentially managed our move as a project with tasks, deadlines and dependencies.
+   .. figure:: /images/2014-06-23-Organized-move.jpg
+      :alt: Handwritten paper cards organized in columns on a comforter
+
+      We essentially managed our move as a project with tasks, deadlines and dependencies.
 
 A critical issue when moving is usually that, during the same time period, you need to leave your place, and find a new one, and do all that while packing your belongings.
 
@@ -54,12 +57,15 @@ Leaving our old apartment in Toulouse was the easy part. We gave notice to our l
 
 There were few parking spaces in the street of our apartment building, so we needed to park the moving van directly on the street. We contacted the city services in advance and they allowed us to temporarily block traffic in the street while we loaded everything.
 
-.. figure:: /images/2014-07-16-Moving-day.jpg
-    :alt: A city street blocked by several vans and trucks.
-
-    Moving day didn't go exactly as planned when our street became completely blocked due to work on the utility lines.
-
 One thing we didn't expect, though, was that “having permission to park on the street” didn't actually mean “being able to park there”. It turned out that work on the utility lines was happening in our street at the same time, and on moving day the whole street was filled with trucks, vans and other heavy equipment.
+
+.. class:: rowspan-3
+.. sidebar::
+
+   .. figure:: /images/2014-07-16-Moving-day.jpg
+      :alt: A city street blocked by several vans and trucks.
+
+      Moving day didn't go exactly as planned when our street became completely blocked due to work on the utility lines.
 
 In the end, we managed to squeeze in our van during the workers' lunch break. We loaded it in a record one hour, thanks to half a dozen friends of friends who came to give us a hand at the last minute.
 
@@ -85,6 +91,7 @@ We had never stayed in this house more than a few days at a time, mostly for the
 
 .. figure:: /images/2014-08-23-Chateau-dArques.jpg
     :alt: Panoramic view of an old stone castle overseeing a green landscape, under a cloudy blue sky.
+    :figclass: full-content
 
     Living in Normandy for a few months became an opportunity to explore the area during beautiful Summer week-ends.
 

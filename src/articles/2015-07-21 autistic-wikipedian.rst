@@ -47,7 +47,7 @@ As you can imagine, realizing at 31 that you are on the autism spectrum changes 
 
 In this essay, I want to share with you some of what I've learned, and share my current understanding of how my brain works, notably through my experience as a Wikimedian.
 
-One caveat I want to start with is that autism is a spectrum. There's a popular saying among online autistic communities that says: "You've met an autist, you've met *one* autist." Just keep this in mind: What I'm presenting here is based on my personal experience, and isn't going to apply equally to all autistic people.
+One caveat I want to start with is that autism is a spectrum. There's a popular saying among online autistic communities that says: "You've met an autistic, you've met *one* autistic." Just keep this in mind: What I'm presenting here is based on my personal experience, and isn't going to apply equally to all autistic people.
 
 .. figure:: /images/2007-07-31_Taipei_Wm2007_Guillaume.jpg
    :figclass: full-width
@@ -67,10 +67,13 @@ Spock
 
 A good analogy to help understand what it's like to be autistic in a neurotypical society is to look at Mr. Spock, in the Star Trek Original Series. The son of a Vulcan father and a human mother, Spock is technically half-human, but it is his Vulcan side that shows the most in its interactions with the crew of the *Enterprise*.
 
-.. figure:: /images/2015-07-21_Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg
-   :alt: An image of Leonard Nimoy and Willian Shatner standing side by side as Spock and Kirk from the Star Trek series. A model of the star ship Enterprise is in the foreground.
+.. class:: rowspan-4
+.. sidebar::
 
-   Spock and Kirk. "`Leonard Nimoy William Shatner Star Trek 1968 <https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG>`_", by NBC Television, in the public domain, from Wikimedia Commons.
+   .. figure:: /images/2015-07-21_Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg
+      :alt: An image of Leonard Nimoy and Willian Shatner standing side by side as Spock and Kirk from the Star Trek series. A model of the star ship Enterprise is in the foreground.
+
+      Spock and Kirk. "`Leonard Nimoy William Shatner Star Trek 1968 <https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG>`_", by NBC Television, in the public domain, from Wikimedia Commons.
 
 
 Some of the funniest moments of the show are his arguments with the irascible Dr. McCoy, who calls him an "unfeeling automaton" and "the most cold-blooded man [he's] ever known". To which Spock responds: "Why, thank you, Doctor."  [1]_
@@ -87,6 +90,14 @@ In many ways, Spock's traits are similar to autism, and many autistic people ide
 
     --- Temple Grandin [2]_
 
+.. [1] from the |court martial|_ episode in the original Star Trek series.
+
+.. [2] Temple Grandin. *Thinking in Pictures*. p.152
+
+.. |court martial| replace:: *Court Martial*
+
+.. _court martial: https://en.wikipedia.org/wiki/Court_Martial_%28Star_Trek:_The_Original_Series%29
+
 In this example, and in many others, Spock's perception filter prevents him from understanding human decisions mainly driven by emotion. Those actions appear foolish or nonsensical, because Spock interprets them through his own lens of logic. He lacks the cultural background, social norms and unspoken assumptions unconsciously shared by humans.
 
 The reverse is also true: Whenever humans are puzzled or annoyed by Spock, it is because they expect him to behave like a human; they are often confronted with a harsher truth than they would like. Humans interpret Spock's behavior through their own emotional perception filter. They often misunderstand his motives, assume malice and superimpose intents that change the meaning of his original words and actions.
@@ -101,11 +112,9 @@ You're probably familiar with the `conceptual models of communication <https://e
 
    In a basic communication model, the sender formulates the message, and transmits it to the receiver, who interprets it. The receiver also provides some feedback.
 
-
 .. figure:: /images/2015-07-21_communication_model2.svg
 
    An oral discussion involves a lot more signals from nonverbal communication, like tone of voice, facial expressions and body language.
-
 
 If you apply this model to an oral conversation, you quickly see all the opportunities for miscommunication: From what the sender means, to what they actually say, to what the receiver hears, to what they understand, information can change radically, especially when you consider nonverbal communication. It's like a 2-person variation of the telephone game. In the words of psychologist Tony Attwood:
 
@@ -113,15 +122,15 @@ If you apply this model to an oral conversation, you quickly see all the opportu
 
     --- Tony Attwood [3]_
 
+.. [3] Tony Attwood. *The complete guide to Asperger's syndrome*. p.126
 
-If this is the case for neurotypical people, meaning people with a "typical" brain, imagine how challenging it can be for autists like me. A great analogy is given in the movie *The Imitation Game*, inspired by the life of Alan Turing, who is portrayed in the film as being on the autism spectrum.
+If this is the case for neurotypical people, meaning people with a "typical" brain, imagine how challenging it can be for autistics like me. A great analogy is given in the movie *The Imitation Game*, inspired by the life of Alan Turing, who is portrayed in the film as being on the autism spectrum.
 
+.. class:: full-content
 .. figure:: /images/2015-07-21_imitation_game.png
-   :figclass: full-width
    :alt: A screenshot of the movie The Imitation Game, showing a young Alan Turing (played by Alex Lawther) and his friend Christopher Morcom (portrayed by Jack Bannon). They are sitting against a tree, and Christopher is handing Alan a book.
 
-   Still from *The Imitation Game*. © 2014 The Weinstein Company. All rights reserved.
-
+   Screenshot from *The Imitation Game*. © 2014 The Weinstein Company.
 
 Historical accuracy aside, one of my favorite moments in the movie is when a young Alan is talking to his friend Christopher about coded messages. Christopher explains cryptography as "messages that anyone can see, but no one knows what they mean, unless you have the key."
 
@@ -138,6 +147,7 @@ Liane Holliday Willey, an autistic author and speaker, once summarized it this w
 
     --- Liane Holliday Willey [4]_
 
+.. [4] Liane Holliday Willey, in *The complete guide to Asperger's syndrome*. Tony Attwood, p.126
 
 How are you?
 ============
@@ -160,13 +170,13 @@ This is only one of the challenges faced by autistic people, and I would now lik
 
 The most common consequence I've noticed in my experience, and in accounts from other autistic people, is a feeling of profound isolation. The lack of Theory of mind and the constant risk of miscommunication make it difficult to build relationships. It's not anyone's fault in particular; it's due to a general lack of awareness.
 
-.. figure:: /images/Wikimania_2014_welcome_reception_02.jpg
-   :figclass: full-width
-   :alt: A photograph of the Wikimania 2014 welcome reception.
+.. class:: rowspan-2
+.. sidebar::
 
-   "`Wikimania 2014 welcome reception 02 <https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg>`_", by Chris McKenna, under CC-BY-SA 4.0 International, from Wikimedia
-   Commons.
+   .. figure:: /images/Wikimania_2014_welcome_reception_02.jpg
+      :alt: A photograph of the Wikimania 2014 welcome reception.
 
+      "`Wikimania 2014 welcome reception 02 <https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg>`_", by Chris McKenna, under CC-BY-SA 4.0 International, from Wikimedia Commons.
 
 Imagine that you're talking to me face to face. You don't really know me, but I seem nice so you start making small talk. I'm not saying much, and you need to carry the discussion over those awkward silences. When I do speak, it's in a very monotone manner, like I don't really care. You try harder, and ask me questions, but I hesitate, I struggle to maintain eye contact, and I keep looking away, as if I'm making stuff up as I go.
 
@@ -174,7 +184,13 @@ Now this is what's happening from my perspective: I'm talking to someone I don't
 
 This illustrates one of many situations in which each person's perception filter caused a complete disconnect between how the situation was perceived on each side.
 
-There are also many professional hurdles associated with being on the autism spectrum, and autists are more affected by unemployment than neurotypicals [5]_. I'm privileged in that I've been able to find an environment in which I'm able to work, but many autists aren't so lucky. It's been well documented that people in higher-up positions aren't necessarily the best performers, but often people with the best social skills.
+There are also many professional hurdles associated with being on the autism spectrum, and autistics are more affected by unemployment than neurotypicals [5]_. I'm privileged in that I've been able to find an environment in which I'm able to work, but many autistics aren't so lucky. It's been well documented that people in higher-up positions aren't necessarily the best performers, but often people with the best social skills.
+
+.. [5] Maanvi Singh. |unemployed|_. NPR.
+
+.. |unemployed| replace:: *Young Adults With Autism More Likely To Be Unemployed, Isolated*
+
+.. _unemployed: http://www.npr.org/sections/health-shots/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated
 
 With that in mind, imagine what the career opportunities (or lack thereof) can be for someone who is a terrible liar, who has a lot of interest in doing great work, but less interest in taking credit for it, who doesn't understand office politics, who not only makes social missteps and angers their colleagues, but doesn't even know about it, someone who's unable to make small talk around the office. Imagine that person, and what kind of a career they can have even if they're very good at their job.
 
@@ -193,29 +209,32 @@ Let me go back to that conceptual model of face-to-face communication. Now imagi
    In online discussions, most of the nonverbal communication disappears, leaving only words. This can frustrate neurotypicals, but is much closer to the native communication model of autistic people.
 
 
-However, this model of computer-mediated communication is much closer to the communication model of autists like me. There is no nonverbal communication to decrypt; less interaction and social anxiety; and usually, no unfamiliar environment either. There are much fewer signals, and those that remain are just words; their meaning still varies, but it's much more codified and reliable than nonverbal signals.
+However, this model of computer-mediated communication is much closer to the communication model of autistics like me. There is no nonverbal communication to decrypt; less interaction and social anxiety; and usually, no unfamiliar environment either. There are much fewer signals, and those that remain are just words; their meaning still varies, but it's much more codified and reliable than nonverbal signals.
 
 What there is online, instead, is plenty of time, time that we can use to collect our thoughts and formulate a carefully crafted answer. Whereas voice is synchronous and mostly irreversible, text can be edited, crafted, deleted, reworded, or rewritten until it's exactly what we want it to be; *then* we can send it. This is true of asynchronous channels like email and wikis, but it also extends to semi-synchronous tools like instant messaging or IRC.
 
-It's not all rainbows and unicorns, though. For example, autists like me are still very much clueless about politics and reading between the lines. We tend to be radically honest, which doesn't fly very well, whether online or offline. Autists are also more susceptible to trolling, and may not always realize that the way people act online isn't the same as the way they act in the physical world. The Internet medium tends to desensitize people, and autists might emulate behavior that isn't actually acceptable, regardless of the venue.
+It's not all rainbows and unicorns, though. For example, autistics like me are still very much clueless about politics and reading between the lines. We tend to be radically honest, which doesn't fly very well, whether online or offline. autistics are also more susceptible to trolling, and may not always realize that the way people act online isn't the same as the way they act in the physical world. The Internet medium tends to desensitize people, and autistics might emulate behavior that isn't actually acceptable, regardless of the venue.
 
 
 Autism in the Wikimedia community
 =================================
 
-Of course, one major example of wide-scale online communication is the Wikimedia movement. And at first glance, Wikimedia sites, and Wikipedia in particular, offer a platform where one can meticulously compile facts about their favorite obsession, or methodically fix the same grammatical error over and over, all of that with limited human interaction; if this sounds like a great place for autists (and a perfect honey trap) well, it is to some extent.
+Of course, one major example of wide-scale online communication is the Wikimedia movement. And at first glance, Wikimedia sites, and Wikipedia in particular, offer a platform where one can meticulously compile facts about their favorite obsession, or methodically fix the same grammatical error over and over, all of that with limited human interaction; if this sounds like a great place for autistics (and a perfect honey trap) well, it is to some extent.
 
-.. figure:: /images/2015-07-21_wikipedians_with_autism.png
-    :class: framed
+.. class:: rowspan-2
+.. sidebar::
 
-    The "`Wikipedians with autism <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_" category on the English Wikipedia
+   .. figure:: /images/2015-07-21_wikipedians_with_autism.png
+      :figclass: framed
+
+      The "`Wikipedians with autism <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_" category on the English Wikipedia
 
 
 For example, my first edit ten years ago was to fix a spelling error. My second edit was to fix a conjugation error. My third edit was to fix both a spelling and a conjugation error. That's how my journey as a Wikipedian started ten years ago.
 
 Wikipedians are obsessed with citations, references, and verifiability; fact is king, and interpretation is taboo. As long as you stay in the main namespace, that is. As soon as you step out of article pages and venture into talk pages and community spaces like the "Village Pump", those high standards don't apply any more. There are plenty of unsourced, exaggerated and biased statements in Wikipedia *discussions*.
 
-That's in addition to the problems I mentioned earlier. As an autist, it can be hard to let go of arguments about things or people you care about. It's often said that autistic people lack empathy, which basically makes us look like cold-hearted robots. However, there is a distinction between being able to *read the feelings* of other people, and *feeling compassion* for other people.
+That's in addition to the problems I mentioned earlier. As an autistic, it can be hard to let go of arguments about things or people you care about. It's often said that autistic people lack empathy, which basically makes us look like cold-hearted robots. However, there is a distinction between being able to *read the feelings* of other people, and *feeling compassion* for other people.
 
 Neurotypical people have mirror neurons that make you feel what the person in front of you is feeling; autistic people have a lot fewer of those, which means they need to scrutinize your signals and try to understand what you're feeling. But they're still people with feelings.
 
@@ -233,6 +252,11 @@ Steve Silberman, who wrote a book on the history of autism, presented it this wa
 
     --- Steve Silberman [6]_
 
+.. [6] Steve Silberman. |forgotten history|_. TED 2015.
+
+.. |forgotten history| replace:: *The forgotten history of autism*
+
+.. _forgotten history: http://www.ted.com/talks/steve_silberman_the_forgotten_history_of_autism
 
 But still, neurodiversity has a cost. Sometimes, you'll be offended; sometimes, you'll be frustrated; and sometimes, you'll think "Wow, I would never have thought of that in a million years".
 
@@ -249,28 +273,3 @@ Live long and prosper. 🖖
    :figclass: full-width
 
    "`ISS-42 Samantha Cristoforetti Leonard Nimoy tribute <https://commons.wikimedia.org/wiki/File:ISS-42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg>`_", by `NASA <https://www.nasa.gov>`_, in the Public domain, from Wikimedia Commons.
-
-
-.. [1] from the |court martial|_ episode in the original Star Trek series.
-
-.. [2] Temple Grandin. *Thinking in Pictures*. p.152
-
-.. [3] Tony Attwood. *The complete guide to Asperger's syndrome*. p.126
-
-.. [4] Liane Holliday Willey, in *The complete guide to Asperger's syndrome*. Tony Attwood, p.126
-
-.. [5] Maanvi Singh. |unemployed|_. NPR.
-
-.. [6] Steve Silberman. |forgotten history|_. TED 2015.
-
-.. |court martial| replace:: *Court Martial*
-
-.. _court martial: https://en.wikipedia.org/wiki/Court_Martial_%28Star_Trek:_The_Original_Series%29
-
-.. |unemployed| replace:: *Young Adults With Autism More Likely To Be Unemployed, Isolated*
-
-.. _unemployed: http://www.npr.org/sections/health-shots/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated
-
-.. |forgotten history| replace:: *The forgotten history of autism*
-
-.. _forgotten history: http://www.ted.com/talks/steve_silberman_the_forgotten_history_of_autism

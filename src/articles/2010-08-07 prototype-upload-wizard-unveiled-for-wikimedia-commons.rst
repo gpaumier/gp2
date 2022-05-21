@@ -21,12 +21,22 @@ Wikimedia Commons relies on MediaWiki, the same software that powers Wikipedia. 
 
 In July 2009, the Ford Foundation `awarded a $300,000 grant <http://wikimediafoundation.org/wiki/Press_releases/Wikimedia_Ford_Foundation_Grant_July_2009>`__ to the Wikimedia Foundation to improve the tools and workflows related to multimedia participation. The following `Multimedia usability project <http://usability.wikimedia.org/wiki/Multimedia:Hub>`__ started in October with a phase of preliminary research, and we worked with the Wikimedia community to identify the key issues and design solutions.
 
+.. TODO: Add link to Multimedia usability project page once done
+
 Over the past few months, Neil Kandalgaonkar (`NeilK <http://www.mediawiki.org/wiki/User:NeilK>`__) has been implementing the interface we designed. The result is a prototype upload wizard that we're happy to share now with the community.
 
-We recently conducted a User experience study, both to evaluate the current upload interface and to make a first check on our prototype. Our first results look promising and show a clear improvement over the current interface (`watch the videos <http://usability.wikimedia.org/wiki/Multimedia:UX_study,_June_2010>`__); we're hoping to share the full videos in the coming weeks. We've also taken into account the `informal feedback <http://usability.wikimedia.org/wiki/Multimedia_talk:Upload_wizard>`__ already provided by the first community testers.
+.. class:: rowspan-2
+.. sidebar::
+
+   .. figure:: /images/2010-08-07_UploadWizard_screenshot.png
+      :figclass: framed
+
+      Screenshot of the prototype’s interface
+
+We recently conducted a User experience study, both to evaluate the current upload interface and to make a first check on our prototype. Our first results look promising and show a clear improvement over the current interface (:doc:`watch the videos <wikimedia-multimedia-ux-testing-videos>`); we're hoping to share the full videos in the coming weeks. We've also taken into account the `informal feedback <http://usability.wikimedia.org/wiki/Multimedia_talk:Upload_wizard>`__ already provided by the first community testers.
 
 The prototype isn't finished yet, but we feel it's important to continue to include the Wikimedia community in the ongoing development of our tool. We would like to invite you to test the prototype, read the `Questions & Answers page <http://usability.wikimedia.org/wiki/Multimedia:Upload_wizard/Questions_%26_Answers>`__, and share your comments and questions on the `feedback page <http://commons.wikimedia.org/wiki/Commons:Usability_issues_and_ideas>`__.
 
 We thank in advance every user who will help us provide better tools and interfaces for the Wikimedia contributors. The prototype is located at \http://commons.prototype.wikimedia.org.
 
-:Update: 2015-12-27: Disabled the links to the prototype, since disabled. Removed the link to the list of existing bugs, now inaccessible.
+:Update: 2015-12-27: Removed the links to the prototype, since disabled. Removed the link to the list of existing bugs, now inaccessible.

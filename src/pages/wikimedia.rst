@@ -279,7 +279,7 @@ As Technical Communications Manager, I was responsible for assembling, editing, 
 
 During that period, I authored :doc:`a few book chapters <writings>`. One detailed the architecture of MediaWiki, the software that powers Wikipedia, for inclusion in *The Architecture of Open Source Applications, volume 2*. Another one, on the topic of user experience, was included in *Open Advice*, a collection of essays, stories and lessons learned by members of the Free Software community.
 
-In 2013, I started :doc:`Tech News <wikimedia-tech-news>`, a weekly technical newsletter for Wikipedia contributors. Written in intentionally simple language, its goal was to inform Wikipedians without specialized technical knowledge about software changes that might affect them. I worked with volunteers to translate the newsletter in about a dozen languages every week, and wrote a Lua script to distribute multilingual newsletters. The newsletter, now managed by the Community Liaisons team, has been running for seven years and has been instrumental in improving relationships between engineering staff and Wikipedia communities.
+In 2013, I started :doc:`Tech News <tech-news>`, a weekly technical newsletter for Wikipedia contributors. Written in intentionally simple language, its goal was to inform Wikipedians without specialized technical knowledge about software changes that might affect them. I worked with volunteers to translate the newsletter in about a dozen languages every week, and wrote a Lua script to distribute multilingual newsletters. The newsletter, now managed by the Community Liaisons team, has been running for seven years and has been instrumental in improving relationships between engineering staff and Wikipedia communities.
 
 .. visual editor rollout: https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide
 
@@ -464,7 +464,6 @@ Parking lot
 `vediffs.js <https://en.wikipedia.org/wiki/User:Guillaume_(WMF)/vediffs.js>`__
 
 `PM JD <https://foundation.wikimedia.org/w/index.php?title=Job_openings/Product_Manager_-_Multimedia_Usability&oldid=87954>`__
-
 
 .. figure:: /images/2012-03-29_Wikimedia_Foundation_Office.jpg
    :alt: A photo of a plaque of the Wikimedia Foundation logo at their offices

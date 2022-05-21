@@ -11,7 +11,11 @@
 
     Il y a quelques jours, j’ai assisté à la conférence « GLAM-WIKI (FR) » à Paris, dont l’objectif était de bâtir des relations et des partenariats entre le mouvement Wikimedia et le secteur culturel, qui partagent une mission de diffusion de la connaissance.
 
+.. sidebar::
 
+   .. figure:: /images/2010-12-04_Snowy_Paris.jpg
+
+      Les Invalides sous la neige.
 
 Cette conférence, appelée « `Rencontres Wikimedia 2010 <http://rencontres.wikimedia.fr>`__ » en français, était la deuxième édition d'un colloque Wikimedia annuel qui se cherche encore (ce qui est naturel pour un évènement si jeune) ; le `colloque précédent de 2007 <http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Premier_colloque_francophone_sur_Wikip%C3%A9dia>`__ visait davantage le monde universitaire et les « experts ».
 

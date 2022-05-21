@@ -4,11 +4,12 @@
 .. date: 2010-11-19 22:17:35
 .. tags: Wikimedia
 .. keywords: Multimedia usability, Commons, Engineering, Wikimedia
-.. image: /images/2010-11-05_Licensing_tutorial_en.png
-.. todo: convert to project page, find original SVG sources, add highlights
+.. image: /images/Puzzly_puzzled.svg
 
 
-A few days ago, I announced the publication of the English version of an `illustrated licensing tutorial for Wikimedia Commons <http://guillaumepaumier.com/2010/11/05/illustrated-licensing-tutorial-for-wikimedia-commons/>`__. The tutorial was developed as part of the Multimedia usability project I've been working on for the past year. This article invites you on a behind-the-scenes tour of the licensing tutorial project.
+.. highlights::
+
+   A few days ago, I announced the publication of the English version of an :doc:`illustrated licensing tutorial for Wikimedia Commons <illustrated-licensing-tutorial-for-wikimedia-commons>`. The tutorial was developed as part of the Multimedia usability project I've been working on for the past year. This article invites you on a behind-the-scenes tour of the licensing tutorial project.
 
 
 Context
@@ -18,7 +19,7 @@ Because all Wikimedia projects are based on `free licenses <http://en.wikipedia.
 
     You all know more about copyright law than any sane, sensible human being.
 
-We do. And it's hard to remember how little we knew about copyright a few years ago, when we had just started to edit. Back then, most of us had never heard about the GFDL, or about Creative Commons. Back then, we had never heard of |bridgeman|_ or the |terreaux|_ [#]_.
+We do. And it's hard to remember how little we knew about copyright a few years ago, when we had just started to edit. Back then, most of us had never heard about the GFDL, or about Creative Commons. Back then, we had never heard of |bridgeman|_ or the |terreaux|_.\ [#]_
 
 .. |bridgeman| replace:: *Bridgeman Art Library v. Corel Corp.*
 
@@ -28,16 +29,22 @@ We do. And it's hard to remember how little we knew about copyright a few years 
 
 .. _terreaux: http://fr.wikisource.org/wiki/Cour_de_cassation_-_03-14.820>
 
+.. [#] If you know the first one, you earn 50 `Wikipediholism <http://en.wikipedia.org/wiki/Wikipedia:Wikipediholic>`__ points. If you know the second one, you earn 1000. Except if you're French, in which case you earn only 500.
+
 Copyright law is an incredibly complicated topic, especially in an international context. We've grown accustomed to it, but the learning curve is very steep for new users.
 
-.. figure:: /images/2010-11-19_Puzzly_puzzled.png
-    :figclass: aside
+Wikimedians generally like to be thorough, but we can't expect new participants to read dozens of documentation pages before uploading a picture.\ [#]_ We needed to create a high-level introduction that presented the basics without misrepresenting the complexity of copyright. No jargon, no legal precedents, no country-specific idiosyncrasies. There would be no "freedom of panorama" or "threshold of originality" here.
 
-    Copyright and free licenses are a complicated topic, and confuse many new participants.
-
-Wikimedians generally like to be thorough, but we can't expect new participants to read dozens of documentation pages before uploading a picture [#]_. We needed to create a high-level introduction that presented the basics without misrepresenting the complexity of copyright. No jargon, no legal precedents, no country-specific idiosyncrasies. There would be no "freedom of panorama" or "threshold of originality" here.
+.. [#]  Some new users actually do read many documentation and policy pages before their first edit (sometimes in print version). I say they're very likely to become some of our best and most committed Wikimedians.
 
 During the early stages of the licensing tutorial project, we even decided to ban the words "copyright" and "free licenses" altogether: they're misunderstood and misinterpreted so often that we chose to explain these concepts in plain English, using practical examples. It was also consistent with our wish to provide plain-English descriptions of licenses in the upload wizard.
+
+.. class:: rowspan-3
+.. sidebar::
+
+   .. figure:: /images/Puzzly_puzzled.svg
+
+      Copyright and free licenses are a complicated topic, and confuse many new participants.
 
 I started with a purposely short list of `main points`_ that we wanted to cover in the tutorial, and asked experienced participants to review them. The list was effectively a summary based on my own experience and a review of the existing instructions and documentation available on Commons. Then, we met with our illustrator to discuss the general approach and to agree on the rough content.
 
@@ -54,10 +61,12 @@ With the help of Jay Walsh (our Head of Communications), we were able to find a 
 
 .. _Michael Bartalos: http://bartalosillustration.com/
 
-.. figure:: /images/2010-11-19_Puzzly.png
-    :figclass: aside
+.. class:: rowspan-3
+.. sidebar::
 
-    Puzzly is a character developed by Michael Bartalos in collaboration with experienced Wikimedians.
+   .. figure:: /images/Puzzly.svg
+
+      Puzzly is a character developed by Michael Bartalos in collaboration with experienced Wikimedians.
 
 Michael was extremely accommodating with our hands-on, iterative and open process. Wikimedians are used to completely open, very inclusive processes, but it isn't as natural in other fields, particularly in art-related disciplines. In the world of illustration, in particular, you usually try to keep all your preliminary and in-progress artwork secret to prevent other people from stealing your still-rough ideas.
 
@@ -78,11 +87,13 @@ Some comments were similar, while others were in disagreement. The preparation m
 Translation and localization
 ============================
 
-.. figure:: /images/2010-11-05_Licensing_tutorial_ar.png
-    :alt: A small preview of the Arabic version of the licensing tutorial
-    :figclass: aside
+.. class:: rowspan-5
+.. sidebar::
 
-    The tutorial has been translated and localized into many languages, such as Arabic.
+   .. figure:: /images/Licensing_tutorial_fa.svg
+      :alt: The Farsi version of the licensing tutorial
+
+      The tutorial has been translated and localized into many languages, such as Farsi.
 
 Once the English version was ready, the translation process started. `Casey Brown <http://meta.wikimedia.org/wiki/User:Cbrown1023>`__ and I `prepared the translation framework <http://meta.wikimedia.org/wiki/Licensing_tutorial>`__ and provided detailed pieces of advice, in order to inform translators and help them with this particular translation request.
 
@@ -96,7 +107,7 @@ What's next?
 
 The real test, of course, will be when new participants are presented with the tutorial. Will they like it? Will they read it, or jump directly to the next step? Will the tutorial be successful in helping them learn what we want to teach?
 
-So far, we haven't formally tested it. We were hoping to conduct a study on the tutorial and the latest version of our `upload wizard prototype <http://commons.prototype.wikimedia.org/uwd>`__, but we had to postpone it. I do hope we'll be able to measure the impact of the tutorial at a later point. Still, the enthusiasm with which the tutorial has been welcomed is, it seems, a good sign.
+So far, we haven't formally tested it. We were hoping to conduct a study on the tutorial and the latest version of our upload wizard prototype, but we had to postpone it. I do hope we'll be able to measure the impact of the tutorial at a later point. Still, the enthusiasm with which the tutorial has been welcomed is, it seems, a good sign.
 
 I hope this summary will be helpful to people conducting similar projects. I feel the interaction with the rest of the community has been quite smooth during the whole project. It would be presumptuous to think it was only because I've been a long-time community member myself, but it sure helped to speak the same language as the users'.
 
@@ -106,7 +117,3 @@ My own *lessons learned*, in a nutshell:
 
 -  Trust the Power of The Crowd.
 -  Collaboration is worth the effort.
-
-.. [#] If you know the first one, you earn 50 `Wikipediholism <http://en.wikipedia.org/wiki/Wikipedia:Wikipediholic>`__ points. If you know the second one, you earn 1000. Except if you're French, in which case you earn only 500.
-
-.. [#]  Some new users actually do read many documentation and policy pages before their first edit (sometimes in print version). I say they're very likely to become some of our best and most committed Wikimedians.

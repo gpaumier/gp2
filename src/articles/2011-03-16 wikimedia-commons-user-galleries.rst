@@ -16,7 +16,14 @@ As if often happens, such a tool has been `available on the toolserver <http://t
 
 Nonetheless, a "user gallery" feature built in MediaWiki, similar to `the list of one's edits <http://commons.wikimedia.org/wiki/Special:Contributions/Guillom>`__, was still missing. We `touched the subject <http://usability.wikimedia.org/wiki/Multimedia:User_gallery>`__ during the `Multimedia usability project <http://meta.wikimedia.org/wiki/Multimedia_usability_project_report>`__, but we had to focus on the uploader.
 
+.. TODO: add link to multimedia usability project page once written
+
 A `feature request <https://bugzilla.wikimedia.org/show_bug.cgi?id=3341>`__ was opened in our bug tracker back in 2005. This morning, while reading my `bugmail <http://en.wiktionary.org/wiki/bugmail>`__, I saw a notification about this bug, saying the feature had been added in 2010 and deployed recently.
+
+.. figure:: /images/2011-03-16_myuploads.png
+   :figclass: framed
+
+   The new user galleries list recent uploads for any user, including thumbnails and basic information.
 
 It turns out it was added by `Bryan Tong Minh <http://www.mediawiki.org/wiki/User:Bryan>`__, a MediaWiki developer particularly active in multimedia features; he's also the one who wrote the `GlobalUsage extension <http://www.mediawiki.org/wiki/Extension:GlobalUsage>`__ a few years ago, which provides a list of all the pages around Wikimedia sites where a file is included.
 

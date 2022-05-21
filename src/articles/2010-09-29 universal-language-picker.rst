@@ -14,9 +14,9 @@
     Have you ever had a hard time finding your language in a web interface? The Universal language picker aims to solve this problem by accepting any valid input from the user and associating it with the language value stored in the software.
 
 
-.. note::
+.. sidebar::
 
-    This article is a follow-up to my previous article about the `state of the language selection in MediaWiki and Wikipedia <http://guillaumepaumier.com/2010/06/26/state-of-language-selection-mediawiki-wikipedia/>`__.
+    This article is a follow-up to my previous article about the :doc:`state of the language selection in MediaWiki and Wikipedia <state-of-language-selection-mediawiki-wikipedia>`.
 
 The interface of MediaWiki is available in literally hundreds of languages, where many other major websites only care about English, and maybe a handful of other "major" languages.
 
@@ -29,15 +29,18 @@ The main focus of the Multimedia usability project right now is on developing `a
 
 A few months ago, we did some "hallway testing": we asked some of our co-workers (who aren't necessarily wiki-experts) to try out the upload wizard. As they were using it, we watched them and tried to identify what was confusing, in order to improve the interface & interaction with the user.
 
-It was really interesting, as they were all using the upload wizard differently. One was an "explorer", who would expand each and every sub-menu in order to better understand the options offered to her. Another would just try to proceed as fast as possible, get the job done and get it over with. It was a sort of rehearsal for our then-upcoming `User experience (UX) study <http://guillaumepaumier.com/2010/07/23/wikimedia-multimedia-ux-testing-videos/>`__, and we learned a lot.
+It was really interesting, as they were all using the upload wizard differently. One was an "explorer", who would expand each and every sub-menu in order to better understand the options offered to her. Another would just try to proceed as fast as possible, get the job done and get it over with. It was a sort of rehearsal for our then-upcoming :doc:`User experience (UX) study <wikimedia-multimedia-ux-testing-videos>`, and we learned a lot.
 
 Where's my Hindi?
 =================
 
-.. figure:: /images/2010-09-29_language_selector_uploadjs.png
-    :figclass: aside
+.. class:: rowspan-4
+.. sidebar::
 
-    Drop-down language selector currently used in the JavaScript-enhanced upload form on Wikimedia Commons
+   .. figure:: /images/2010-09-29_language_selector_uploadjs.png
+      :figclass: framed
+
+      Drop-down language selector currently used in the JavaScript-enhanced upload form on Wikimedia Commons
 
 During the testing, one of our victims was Aradhana Datta Ravindra, the Project Manager for the `Bookshelf project`_. Aradhana was born and raised in India, and Hindi is her mother tongue.
 
@@ -51,15 +54,19 @@ On Commons, the list is ordered by `ISO 639-1 code`_ (sort of) but displays the 
 
 .. _ISO 639-1 code: http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
+.. class:: rowspan-5
+.. sidebar::
+
+   .. figure:: /images/2010-09-29_non_latin_languages.png
+      :figclass: framed
+
+      Non-latin languages at the bottom of the list in the language picker on Commons Prototype
+
 In our case, the list was ordered slightly differently. It would show the same thing, but ordered as the characters appear in the UTF-8 tables. However, the problem was similar in both cases: the user couldn't know how to find their language in the list.
 
 We're not talking about a 10-item-long list. We're talking hundreds of languages (356 at the time of writing). So, if you don't know where to look, it can take a while to browse the whole list.
 
 When Aradhana started to look for Hindi, she realized the list was very long. She tried to type 'h' to jump to "Hindi" directly. Except Hindi wasn't there. It was at the bottom of the list, with other non-latin scripts.
-
-.. figure:: /images/2010-09-29_non_latin_languages.png
-
-    Non-latin languages at the bottom of the list in the language picker on Commons Prototype
 
 Later, we had a very interesting discussion about how we should show languages in the drop-down language selector.
 
@@ -68,13 +75,15 @@ Language displayed in the same language
 
 One viewpoint is that, if you're looking for a language in the list, you should know the name of this language in this language. For example, if you're English, but you're looking for German, you should know that the German name for "German" is "Deutsch".
 
-This is currently how MediaWiki handles language selection in most cases, because this system is considered to be the most language-neutral (see `my previous article on this topic`_). The language picker in your Wikipedia (or other MediaWik-based wiki) user preferences is an example of this:
+This is currently how MediaWiki handles language selection in most cases, because this system is considered to be the most language-neutral (see :doc:`my previous article on this topic <state-of-language-selection-mediawiki-wikipedia>`). The language picker in your Wikipedia (or other MediaWik-based wiki) user preferences is an example of this.
 
-.. _my previous article on this topic: http://guillaumepaumier.com/2010/06/26/state-of-language-selection-mediawiki-wikipedia/
+.. class:: rowspan-2
+.. sidebar::
 
-.. figure:: /images/2010-06-26_language_selector_prefs.png
+   .. figure:: /images/2010-06-26_language_selector_prefs.png
+      :figclass: framed
 
-    Drop-down menu from MediaWiki's user preferences to select the language of the interface
+      Drop-down menu from MediaWiki's user preferences to select the language of the interface
 
 Also, although languages are usually displayed in their own language, they're sorted by ISO code (as in the example above). On the one hand, it makes it easier to jump to your language (if you happen to know the ISO code for it, and your keyboard can input latin characters). On the other hand, the displayed names and the sorting order are inconsistent.
 
@@ -87,26 +96,30 @@ That would basically require us to know the name of all languages in all languag
 
 .. figure:: /images/2010-09-29_n_by_n_language_table.png
 
-    Illustration of the language table for 3 languages and its extension to an arbitrary number of languages
+   Illustration of the language table for 3 languages and its extension to an arbitrary number of languages
 
 Even then, the table is obviously incomplete, and may stay incomplete forever. Do you know how to say "French" in Cherokee? I don't. Wikipedia doesn't, either (yet).
 
 #include <mindreading>
 ======================
 
-.. figure:: /images/2010-09-29_incomplete_language_table.png
-    :alt: An 8 by 8 table of green and red cells to illustrate an incomplete language table
-    :figclass: aside
-
-    An n × n language table will be missing many translations.
-
 Actually, even if we somehow managed to get a complete table, we'd still have a problem. Let's assume for a second we're able to know the name of every language on the planet in every other language. Some estimate the number of current languages up to ca. 7,000. That means we would have a complete table of 7,000 × 7,000 languages, i.e. ca. 49 million entries.
 
 Now, how do we sort them?
 
+.. class:: rowstart-2 rowspan-3
+.. sidebar::
+
+   .. figure:: /images/2010-09-29_incomplete_language_table.png
+      :alt: An 8 by 8 table of green and red cells to illustrate an incomplete language table
+
+      An n × n language table will be missing many translations.
+
 The fact is, *you can never really know what the user is going to type in*. How do you know if they're entering the ISO code, the name in English, the name in German, etc.? What if the user happens to know and regularly use the ISO 639 code, but doesn't know the name of the language? [#]_ For extremely long lists, we can't expect the user to go through the whole list if they don't even know how it's ordered.
 
 It all boils down to the implementation model vs. the user model. But in this case, there are multiple users models.
+
+.. [#] For example, a Wikipedian who knows ISO 639 codes by heart because they use interlanguage links a lot.
 
 Comes the Universal language picker
 ===================================
@@ -141,6 +154,3 @@ This design has broader applications: the upload wizard is not the only place wh
 Given the multilingual nature of Commons, it would even make sense to add a language selector for the interface on the sign-up page. Right now, the user has to go change the language in their preferences after they've signed up.
 
 I'd be delighted to hear opinions and comments about this proposed design. Do you think it would work? How technically feasible would it be?
-
-
-.. [#] For example, a Wikipedian who knows ISO 639 codes by heart because he uses interlanguage links a lot.

@@ -9,21 +9,31 @@
 
 .. highlights::
 
-    Our human resources are currently focusing on what happens after the code has been written: we review it, we try to ensure quality, we try to automate testing, we file bugs, etc. However, there is little preparation before the development is actually done. This has led to a developer-driven design, resulting in an interface based on the implementation model. We need a more systematic approach to User experience and development management if we want to scale up properly.
+   Our human resources are currently focusing on what happens after the code has been written: we review it, we try to ensure quality, we try to automate testing, we file bugs, etc. However, there is little preparation before the development is actually done. This has led to a developer-driven design, resulting in an interface based on the implementation model. We need a more systematic approach to User experience and development management if we want to scale up properly.
 
+.. class:: rowspan-2
+.. sidebar::
 
+   Over the past few weeks, I have been thinking about a more structured way to manage software and product development within the Wikimedia community. The result is a list of ideas and recommendations I have compiled and submitted to the relevant staff members at the Wikimedia Foundation. I am also publishing them here in order to allow for wider feedback.
 
-.. note::
+   The content of this article reflects only my personal opinion and is not an official plan or communication of the Wikimedia Foundation. Read also in this series:
 
-    Over the past few weeks, I have been thinking about a more structured way to manage software and product development within the Wikimedia community. The result is a list of ideas and recommendations I have compiled and submitted to the relevant staff members at the Wikimedia Foundation. I am also publishing them here in order to allow for a wider feedback. This article is the third of a `series dedicated to this topic <#read-also-in-this-series>`_.
+   -  :doc:`Wikimedia and MediaWiki bugs, issues, and requests <wikimedia-mediawiki-bugs-issues-and-requests>`
+   -  :doc:`Wikimedia User experience programs: a systematic approach <wikimedia-user-experience-programs>`
+   -  :doc:`Scaling up Software development for Wikimedia websites (Part II: Tools) <scaling-up-software-development-for-wikimedia-websites-tools>`
 
+.. class:: rowspan-2
+.. figure:: /images/2010-03-04_Brighton_University_usability_lab_by_Danny_Hope.jpg
 
-.. warning::
+   |usability lab|_ by `Danny Hope`_, under `CC-By`_, from Wikimedia Commons.
 
-    The content of this article reflects only my personal opinion and is not an official plan or communication of the Wikimedia Foundation.
+.. |usability lab| replace:: *Brighton Uni Usability Lab*
 
+.. _usability lab: https://commons.wikimedia.org/wiki/File:Japanese_Tea_pot_by_Denis_Savard.jpg
 
-I am not going to give specific advice about how many developers the Wikimedia Foundation should hire: there are other people more knowledgeable about how many we need, and what they should work on. However, there are other key positions that I think are need to scale up.
+.. _Danny Hope: https://secure.flickr.com/photos/yandle/
+
+.. _CC-By: https://creativecommons.org/licenses/by/2.0/legalcode
 
 
 Product management & Design
@@ -68,24 +78,3 @@ We benefit from a fantastic community of volunteer developers, but we underestim
 Similarly, **we need a Developer community manager to care for our volunteer developers**. We need someone who knows the developer community very well, and knows their strengths and weaknesses in order to find the right person for each job. We need someone who can help orient new volunteers, organize real-life meet-ups and manage projects such as the Google Summer of Code.
 
 **Recommendation: Recruit a Community manager to coordinate the efforts of volunteer developers.**
-
-
-Read also in this series
-========================
-
--  `Wikimedia & MediaWiki bugs, issues and requests <http://guillaumepaumier.com/2010/03/04/wikimedia-mediawiki-bugs-issues-and-requests/>`__
--  `Wikimedia User experience programs: a systematic approach <http://guillaumepaumier.com/2010/03/04/wikimedia-user-experience-programs/>`__
--  `Scaling up Software development for Wikimedia websites (Part II: Tools) <http://guillaumepaumier.com/2010/03/05/scaling-up-software-development-for-wikimedia-websites-tools/>`__
-
-
-.. class:: copyright-notes
-
-    |usability lab|_ by `Danny Hope`_, under `CC-By`_, from Wikimedia Commons.
-
-.. |usability lab| replace:: *Brighton Uni Usability Lab*
-
-.. _usability lab: https://commons.wikimedia.org/wiki/File:Japanese_Tea_pot_by_Denis_Savard.jpg
-
-.. _Danny Hope: https://secure.flickr.com/photos/yandle/
-
-.. _CC-By: https://creativecommons.org/licenses/by/2.0/legalcode

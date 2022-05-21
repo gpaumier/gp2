@@ -16,8 +16,6 @@
 
    As part of my work on revenue strategy for Wikimedia, I imagined three scenarios about the world in 2031 and the organization's place in it. I used these stories to spark discussions and shift conversations from day-to-day concerns and busywork to longer-term strategic thinking.
 
-----
-
 2031: The War of the Words
 ==========================
 
@@ -41,8 +39,6 @@ The reputation system built by tech companies suffers from systemic bias, notabl
 Wikipedia's financial sustainability isn't a huge concern at the moment. Although readership has declined dramatically, and content is now accessed more atomically through a multitude of unbranded interfaces, tech giants have stepped in to partly make up for the decrease in donations from readers. They can't win this fight without Wikipedia's armies of humans, who have proved to be critical in the arms race between bad actors and tech corporations. Most affiliates have disappeared, some due to lack of funding, and most due to changes in local legal landscapes that made any relation to Wikipedia dangerous for the individuals involved.
 
 It is unclear how, when, or if the fight will end, but it has taken an undeniable toll on the health of communities: while they were originally energized by the righteousness of their mission to defend Wikipedia against the hordes, more and more of them are retiring from the wikis due to burnout, doxxing, or simply lack of enjoyment in contributing any more.
-
-----
 
 2031: Success into oblivion
 ===========================
@@ -72,8 +68,6 @@ The global expansion of the Consortium has been costly and has committed most re
 
 As the celebrations wind down, optimism is widespread but the future is uncertain. The Consortium was a success for a while, but is it still?
 
-----
-
 2031: Human obsolescence
 ========================
 
@@ -99,8 +93,6 @@ The machines and their powerful, wealthy human masters only needed to collaborat
 The jury is still out on systemic bias. The reliance on technology has in a way served as a Great Equalizer: knowledge is available to all, regardless of culture, region, or language. And ever since general sensemaking engines started being able to understand and organize local social data, knowledge and news from historically disenfranchised populations have entered the global knowledge corpus. However, long-standing structures of power and privilege can still be discerned by whoever cares enough to look: the machines and algorithms are still Children of Profit, and their creators have little incentive to make them auditable and accountable.
 
 There might have been a future for Wikimedia if the movement had figured out its unique advantage over the machines and adapted in time, but by the time we realized what was happening, it was too late. Deprived of readers, and therefore of donors and contributors, the options for survival were few. Swallowing our pride, we were the ones who went to the media giant asking for help; they agreed to host us out of pity more than interest. The new owner isn't even planning to serve ads on Wikipedia: the low number of readers (and therefore the meager revenue from ads) isn't worth the trouble.
-
-----
 
 Beyond the scenarios
 ====================

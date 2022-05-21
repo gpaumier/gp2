@@ -43,7 +43,6 @@ J'ai présenté à Wikimania 2007 plusieurs travaux et propositions, notamment c
 
 .. [#] |visual identity|_. Guillaume Paumier & Elisabeth Bauer, conférence internationale Wikimania, 2007.
 
-
 .. |visual identity| replace:: *Strengthening and unifying the visual identity of Wikimedia projects: a step towards maturity*
 
 .. _visual identity: http://wikimania2007.wikimedia.org/wiki/Proceedings:GP1

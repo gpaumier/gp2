@@ -23,6 +23,17 @@ Goals & testing conditions
 
 A few weeks ago, the actual testing eventually took place. We tested ten users: five locally in San Francisco, and five remotely within the US. We considered conducting similar testing abroad, in order to identify language-specific issues; but in the end, it turned out that we wouldn't learn a lot by simply replicating the same test script.
 
+.. figure:: /images/2010-06-22_usability_testing_by_neilk.jpg
+
+   The observation room at the testing facility; the testing is happening in the background, behind the semi-transparent glass. (|ustest|_ by `Neil Kandalgaonkar`_, under `CC-By-NC`_, from flickr.)
+
+.. |ustest| replace:: *Usability testing. With Fleischman/gotomedia*
+.. _ustest: https://secure.flickr.com/photos/brevity/4725449074/
+
+.. _Neil Kandalgaonkar: https://secure.flickr.com/photos/brevity/
+
+.. _CC-By-NC: https://creativecommons.org/licenses/by-nc/2.0/legalcode
+
 Multilingualism on Commons (and Wikimedia websites generally) is a huge piece of work that deserves dedicated efforts, and dedicated UX studies. The main reason for which we decided to hold the testing halfway through the project, and not at its very beginning, was that we could test both the current upload interface, and our prototype.
 
 On the one hand, during our preliminary research phase, we identified a large number of issues with the current interface; but we still needed to formally record the user experience and validate our preliminary conclusions. On the other hand, we wanted to do a reality-check with `our prototype <http://commons.prototype.wikimedia.org>`__, to see if the direction we had chosen was appropriate, and to identify areas of improvement.
@@ -90,14 +101,3 @@ Room for improvement highlight video
     </video>
 
 `See the file on Commons <http://commons.wikimedia.org/wiki/File:Multimedia_usability_project_2010_-_Room_for_improvement.ogv>`__ or `download the OGV video <http://upload.wikimedia.org/wikipedia/commons/5/58/Multimedia_usability_project_2010_-_Room_for_improvement.ogv>`__ (3m51s, 23.02 MB)
-
-.. class:: copyright-notes
-
-    |ustest|_ by `Neil Kandalgaonkar`_, under `CC-By-NC`_, from flickr.
-
-.. |ustest| replace:: *Usability testing. With Fleischman/gotomedia*
-.. _ustest: https://secure.flickr.com/photos/brevity/4725449074/
-
-.. _Neil Kandalgaonkar: https://secure.flickr.com/photos/brevity/
-
-.. _CC-By-NC: https://creativecommons.org/licenses/by-nc/2.0/legalcode

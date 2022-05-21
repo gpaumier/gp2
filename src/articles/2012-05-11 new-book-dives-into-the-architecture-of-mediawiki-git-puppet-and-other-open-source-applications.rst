@@ -5,7 +5,7 @@
 .. date: 2012-05-11 09:45:27
 .. tags: Wikimedia
 .. keywords: MediaWiki, Wikimedia blog, Engineering, Wikimedia
-.. image:
+.. image: /images/2012-05-11_aosa-vol2-cover.jpg
 .. source-link: https://blog.wikimedia.org/2012/05/11/book-architecture-mediawiki-open-source-applications/
 .. source-label: Wikimedia Tech blog
 
@@ -13,19 +13,19 @@
 
     The second volume of the *Architecture of Open-Source Applications* book, which includes a chapter on MediaWiki, is now available online and on lulu.com.
 
-
-.. figure:: /images/2012-05-11_aosa-vol2-cover.jpg
-    :alt: The cover of the book, based on the photo of a building from a low-angle shot
-    :figclass: aside
-
-    The Architecture of Open-Source Applications is a collection of technical essays detailing the architecture of twenty-four major open-source applications.
-
 |aosa|_ is a collection of technical essays detailing the architecture of twenty-four major open-source applications. This is the second volume of a series that aims to help developers understand how great and large programs are constructed, and the decisions (or accidents) that led to the way they now work. The series draws inspiration from books used by architects that feature case studies of the great buildings of history.
 
 .. |aosa| replace:: *The Architecture of Open-Source Applications*
 
 .. _aosa: http://www.aosabook.org
 
+.. class:: rowspan-3
+.. sidebar::
+
+   .. figure:: /images/2012-05-11_aosa-vol2-cover.jpg
+      :alt: The cover of the book, based on the photo of a building from a low-angle shot
+
+      The Architecture of Open-Source Applications is a collection of technical essays detailing the architecture of twenty-four major open-source applications.
 
 This volume contains a chapter detailing the inner workings of `MediaWiki <http://www.mediawiki.org/wiki/MediaWiki>`__, the wiki software that powers all Wikimedia sites, including Wikipedia. The writing of the chapter was `coordinated <http://www.mediawiki.org/wiki/MediaWiki_architecture_document>`__ by myself and `Sumana Harihareswara <http://www.mediawiki.org/wiki/User:Sumanah>`__. While I put together the majority of the content, it wouldn't have been possible without the initial knowledge-sharing effort made by many Wikimedia engineers and volunteer MediaWiki developers, who also reviewed and improved the several revisions that the text underwent.
 

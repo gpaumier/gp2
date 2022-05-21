@@ -4,6 +4,7 @@
 .. date: 2019-05-17 18:57:00
 .. template: custom/post_hero.tmpl
 .. styles: post_stakes-of-knowledge
+.. class: hero-h2-golden
 .. tags: Wikimedia
 .. image: /images/fred-kearney-enkfvvZkKv0-unsplash.jpg
 .. image-alt: Photograph of a book burning
@@ -35,107 +36,74 @@ Knowledge has real consequences on human lives, both for individuals and for soc
 Individual lens: Lifelong learning and opportunity
 ==================================================
 
-.. container:: individual1
+.. figure:: /images/martin-sX4lxBWV0-A-unsplash.jpg
 
-   .. figure:: /images/martin-sX4lxBWV0-A-unsplash.jpg
+   `Martin <https://unsplash.com/@mrtnpro>`__ on `Unsplash <https://unsplash.com/photos/sX4lxBWV0-A>`__.
 
-      `Martin <https://unsplash.com/@mrtnpro>`__ on `Unsplash <https://unsplash.com/photos/sX4lxBWV0-A>`__.
+Knowledge is a manifestation of power: withheld, it reinforces control and prevents change; liberated, it erodes structures of oppression and opens up opportunities.
 
-   .. container:: lede
+Today, learning, and therefore, quality of life, are very much a matter of privilege. Your age, geography, gender, and wealth determine your level of access to quality education, if any. Affordable formal education, only available to a few, is neither inclusive nor scalable to all who need it.
 
-      Knowledge is a manifestation of power: withheld, it reinforces control and prevents change; liberated, it erodes structures of oppression and opens up opportunities.
+Elites and other gatekeepers of knowledge in positions of power have a vested interest in preserving the status quo, whether that takes the form of denying education to girls, imprisoning journalists, or censoring the internet.
 
-   Today, learning, and therefore, quality of life, are very much a matter of privilege. Your age, geography, gender, and wealth determine your level of access to quality education, if any. Affordable formal education, only available to a few, is neither inclusive nor scalable to all who need it.
+.. figure:: /images/museums-victoria-FOPuzIKOnA0-unsplash.jpg
 
-   Elites and other gatekeepers of knowledge in positions of power have a vested interest in preserving the status quo, whether that takes the form of denying education to girls, imprisoning journalists, or censoring the internet.
+   `Museums Victoria <https://unsplash.com/@museumsvictoria>`__ on `Unsplash <https://unsplash.com/photos/FOPuzIKOnA0>`__.
 
-.. container:: individual2
+Fencing knowledge in causes a structural hoarding of opportunities: opportunities for self-determination, for better work, for healthier lives, and for toppling the self-reinforcing systems of durable inequality and exploitation.
 
-   .. figure:: /images/museums-victoria-FOPuzIKOnA0-unsplash.jpg
+Tomorrow, the challenges may look different, but the underlying structures of power are poised to perpetuate. The accelerated pace of industrial and technological change is rendering obsolete not just the concept of the decades-long career, but also the paradigm of retraining for career change: the skills acquired by those in the most precarious work situations become outdated before they can lead to individual prosperity.
 
-      `Museums Victoria <https://unsplash.com/@museumsvictoria>`__ on `Unsplash <https://unsplash.com/photos/FOPuzIKOnA0>`__.
+.. figure:: /images/r-martinez-PldaFWvrh1o-unsplash.jpg
 
-   Fencing knowledge in causes a structural hoarding of opportunities: opportunities for self-determination, for better work, for healthier lives, and for toppling the self-reinforcing systems of durable inequality and exploitation.
+   `R. Martinez <https://unsplash.com/@juneym>`__ on `Unsplash <https://unsplash.com/photos/PldaFWvrh1o>`__.
 
-   Tomorrow, the challenges may look different, but the underlying structures of power are poised to perpetuate. The accelerated pace of industrial and technological change is rendering obsolete not just the concept of the decades-long career, but also the paradigm of retraining for career change: the skills acquired by those in the most precarious work situations become outdated before they can lead to individual prosperity.
+Denied lifelong learning opportunities, many are being forced into the modern serfdom of the “gig economy.” Millions will be displaced as they see their jobs being automated and replaced by machines, which will cause mass unemployment and further concentrate wealth and power. Millions more will die as they are deprived of life-saving knowledge, while others will barely survive, deprived of the means and opportunity to lift themselves out of poverty.
 
-.. container:: individual3
+.. figure:: /images/Sinenjongo_graduation_matric_2013-10-12_0403.jpg
 
-   .. figure:: /images/r-martinez-PldaFWvrh1o-unsplash.jpg
+   `Sydelle Willow Smith <https://willowphoto.co.za/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Sinenjongo_graduation_matric_2013-10-12_0403.jpg>`__ // `CC-BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
-      `R. Martinez <https://unsplash.com/@juneym>`__ on `Unsplash <https://unsplash.com/photos/PldaFWvrh1o>`__.
-
-
-   Denied lifelong learning opportunities, many are being forced into the modern serfdom of the “gig economy.” Millions will be displaced as they see their jobs being automated and replaced by machines, which will cause mass unemployment and further concentrate wealth and power. Millions more will die as they are deprived of life-saving knowledge, while others will barely survive, deprived of the means and opportunity to lift themselves out of poverty.
-
-.. container:: individual4
-
-   .. figure:: /images/Sinenjongo_graduation_matric_2013-10-12_0403.jpg
-
-      `Sydelle Willow Smith <https://willowphoto.co.za/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Sinenjongo_graduation_matric_2013-10-12_0403.jpg>`__ // `CC-BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
-
-   .. container:: envoi
-
-      Knowledge can change a life. It can be an instrument of equity, and help the arc of history bend towards justice. It can be an instrument of liberation and self-empowerment for people who have been left out. But knowledge can do none of those things if it stays in the hands of the few.
-
-
--------------------------------
+Knowledge can change a life. It can be an instrument of equity, and help the arc of history bend towards justice. It can be an instrument of liberation and self-empowerment for people who have been left out. But knowledge can do none of those things if it stays in the hands of the few.
 
 
 Collective lens: Disinformation and solving problems together
 =============================================================
 
-.. container:: collective1
+.. figure:: /images/elijah-o-donnell-t8T_yUgCKSM-unsplash.jpg
 
-   .. figure:: /images/elijah-o-donnell-t8T_yUgCKSM-unsplash.jpg
+   `Elijah O'Donnell <https://unsplash.com/@elijahsad>`__ on `Unsplash <https://unsplash.com/photos/t8T_yUgCKSM>`__.
 
-      `Elijah O'Donnell <https://unsplash.com/@elijahsad>`__ on `Unsplash <https://unsplash.com/photos/t8T_yUgCKSM>`__.
+Democracy relies on an informed society; oppressive regimes and fascism thrive on a disinformed one. But it is no less than the survival of humanity that is at stake if we cannot learn to tackle crises together.
 
-   .. container:: lede
+Today, too many lives, particularly of infants and women, are still lost to the lack of access to trustworthy information. Disinformation goes even further: it consists of coordinated and relentless campaigns by bad actors, unscrupulous companies, and oppressive regimes, acting in the pursuit of ideology, profit, and power, against the interest of humankind.
 
-      Democracy relies on an informed society; oppressive regimes and fascism thrive on a disinformed one. But it is no less than the survival of humanity that is at stake if we cannot learn to tackle crises together.
+Every day brings ample evidence of the consequences of disinformation. Doctored videos cause lynchings. Corruption and egregious partisanship cause climate change denial. Fake news cause stolen elections. Vaccines don't cause autism, but ignorance spreads measles.
 
-   Today, too many lives, particularly of infants and women, are still lost to the lack of access to trustworthy information. Disinformation goes even further: it consists of coordinated and relentless campaigns by bad actors, unscrupulous companies, and oppressive regimes, acting in the pursuit of ideology, profit, and power, against the interest of humankind.
+.. figure:: /images/parker-coffman-8EYMcqG5GRU-unsplash.jpg
 
-   Every day brings ample evidence of the consequences of disinformation. Doctored videos cause lynchings. Corruption and egregious partisanship cause climate change denial. Fake news cause stolen elections. Vaccines don't cause autism, but ignorance spreads measles.
+   `Parker Coffman <https://unsplash.com/@fearthelocals>`__ on `Unsplash <https://unsplash.com/photos/8EYMcqG5GRU>`__.
 
-.. container:: collective2
+The issue is not just that of private interests mortgaging the future, spreading disinformation to cover their unsustainable extraction of resources and destruction of the planet. It is also that of the newer actors of surveillance capitalism: algorithms designed for "engagement," short-term profit, and shareholder satisfaction are abused by bad actors to pervert democracy. Unaccountable giants position themselves as helpful assistants in navigating the flood of information deluged onto us, all the while denying their own responsibility in epidemics of viral disinformation.
 
-   .. figure:: /images/parker-coffman-8EYMcqG5GRU-unsplash.jpg
+.. figure:: /images/patrick-hendry-SBYxcDvzLlA-unsplash.jpg
 
-      `Parker Coffman <https://unsplash.com/@fearthelocals>`__ on `Unsplash <https://unsplash.com/photos/8EYMcqG5GRU>`__.
-
-
-   The issue is not just that of private interests mortgaging the future, spreading disinformation to cover their unsustainable extraction of resources and destruction of the planet. It is also that of the newer actors of surveillance capitalism: algorithms designed for "engagement," short-term profit, and shareholder satisfaction are abused by bad actors to pervert democracy. Unaccountable giants position themselves as helpful assistants in navigating the flood of information deluged onto us, all the while denying their own responsibility in epidemics of viral disinformation.
-
-.. container:: collective3
-
-   .. figure:: /images/patrick-hendry-SBYxcDvzLlA-unsplash.jpg
-
-      `Patrick Hendry <https://unsplash.com/@worldsbetweenlines>`__ on `Unsplash <https://unsplash.com/photos/SBYxcDvzLlA>`__.
+   `Patrick Hendry <https://unsplash.com/@worldsbetweenlines>`__ on `Unsplash <https://unsplash.com/photos/SBYxcDvzLlA>`__.
 
 
-   Tomorrow, the challenges facing humankind will be even greater, as will the temptation to fear and blame each other for them. The climate emergency will not just bring extreme weather; it is also the harbinger of famine, plague, conflict, unbreathable air, loss of land, death of oceans, economic collapse, and mass displacement of climate refugees.
+Tomorrow, the challenges facing humankind will be even greater, as will the temptation to fear and blame each other for them. The climate emergency will not just bring extreme weather; it is also the harbinger of famine, plague, conflict, unbreathable air, loss of land, death of oceans, economic collapse, and mass displacement of climate refugees.
 
-   Historically exploited and disenfranchised people will, as always, be the most vulnerable. Not only to disasters and other deadly consequences of status and geography, but also to fear and blame: we fear what we do not know, and we cannot understand those whose stories we have erased.
+Historically exploited and disenfranchised people will, as always, be the most vulnerable. Not only to disasters and other deadly consequences of status and geography, but also to fear and blame: we fear what we do not know, and we cannot understand those whose stories we have erased.
 
-   The inevitability of global heating requires deep adaptation; it will take many ingenious minds to solve those seemingly intractable conundrums. Without mutual understanding and empathy, there can be no trust. Without widespread knowledge of the issues confronting us, there can be no awareness, no agreement, and no collective action.
+The inevitability of global heating requires deep adaptation; it will take many ingenious minds to solve those seemingly intractable conundrums. Without mutual understanding and empathy, there can be no trust. Without widespread knowledge of the issues confronting us, there can be no awareness, no agreement, and no collective action.
 
-.. container:: collective4
+.. figure:: /images/agustin-lautaro-SH_oYiwg224-unsplash.jpg
 
-   .. figure:: /images/agustin-lautaro-SH_oYiwg224-unsplash.jpg
+   `Agustín Lautaro <https://unsplash.com/@agustinl>`__ on `Unsplash <https://unsplash.com/photos/SH_oYiwg224>`__.
 
-      `Agustín Lautaro <https://unsplash.com/@agustinl>`__ on `Unsplash <https://unsplash.com/photos/SH_oYiwg224>`__.
+The world of tomorrow will be forged in the fiery crucible of the climate crisis and its myriad consequences on humankind. Unless we reach a shared understanding of each other and of the challenges facing us, we cannot hope to survive the Anthropocene, let alone to advance as a global civilization.
 
-   .. container:: envoi
-
-      The world of tomorrow will be forged in the fiery crucible of the climate crisis and its myriad consequences on humankind. Unless we reach a shared understanding of each other and of the challenges facing us, we cannot hope to survive the Anthropocene, let alone to advance as a global civilization.
-
-
--------------------------------
-
-Note
-====
+----
 
 .. note::
 

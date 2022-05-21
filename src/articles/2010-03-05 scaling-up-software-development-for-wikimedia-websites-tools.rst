@@ -14,15 +14,29 @@
 
     I have previously explained why the current setup of the Wikimedia bug tracker is not ideal. I have also advocated for a more managed & scientific software development strategy. This article aims to discuss an appropriate tool to support this strategy, and at the same time fix what is broken.
 
+.. class:: rowspan-2
+.. sidebar::
 
-.. note::
+   Over the past few weeks, I have been thinking about a more structured way to manage software and product development within the Wikimedia community. The result is a list of ideas and recommendations I have compiled and submitted to the relevant staff members at the Wikimedia Foundation. I am also publishing them here in order to allow for wider feedback.
 
-    Over the past few weeks, I have been thinking about a more structured way to manage software and product development within the Wikimedia community. The result is a list of ideas and recommendations I have compiled and submitted to the relevant staff members at the Wikimedia Foundation. I am also publishing them here in order to allow for a wider feedback. This article is the fourth and last of a `series dedicated to this topic <#read-also-in-this-series>`_.
+   The content of this article reflects only my personal opinion and is not an official plan or communication of the Wikimedia Foundation. Read also in this series:
 
+   -  :doc:`Wikimedia and MediaWiki bugs, issues, and requests <wikimedia-mediawiki-bugs-issues-and-requests>`
+   -  :doc:`Wikimedia User experience programs: a systematic approach <wikimedia-user-experience-programs>`
+   -  :doc:`Scaling up Software development for Wikimedia websites (Part I: Human resources) <scaling-up-software-development-for-wikimedia-websites-human-resources>`
 
-.. warning::
+.. class:: rowspan-2
+.. figure:: /images/2010-03-05_Tooled_Flatty_by_flattop341.jpg
 
-    The content of this article reflects only my personal opinion and is not an official plan or communication of the Wikimedia Foundation.
+   |tools|_ by `flattop341`_, under `CC-By`_, from Wikimedia Commons.
+
+.. |tools| replace:: *Tooled Flatty*
+
+.. _tools: https://commons.wikimedia.org/wiki/File:Japanese_Tea_pot_by_Denis_Savard.jpg
+
+.. _flattop341: https://secure.flickr.com/people/flattop341/
+
+.. _CC-By: https://creativecommons.org/licenses/by/2.0/legalcode
 
 
 Software lifecycle & Project management
@@ -61,24 +75,3 @@ Priyanka set up a local test instance of Redmine to let us play with it a bit; a
 Because the time I can devote to this change is limited, I haven't reviewed other alternatives than Redmine, and don't plan to unless another major alternative is suggested.
 
 **Recommendation: Move from Bugzilla to Redmine after careful preparation, especially regarding the organization of the platform.**
-
-
-Read also in this series
-========================
-
--  `Wikimedia & MediaWiki bugs, issues and requests <http://guillaumepaumier.com/2010/03/04/wikimedia-mediawiki-bugs-issues-and-requests/>`__
--  `Wikimedia User experience programs: a systematic approach <http://guillaumepaumier.com/2010/03/04/wikimedia-user-experience-programs/>`__
--  `Scaling up Software development for Wikimedia websites (Part I: Human resources) <http://guillaumepaumier.com/2010/03/04/scaling-up-software-development-for-wikimedia-websites-human-resources/>`__
-
-
-.. class:: copyright-notes
-
-    |tools|_ by `flattop341`_, under `CC-By`_, from Wikimedia Commons.
-
-.. |tools| replace:: *Tooled Flatty*
-
-.. _tools: https://commons.wikimedia.org/wiki/File:Japanese_Tea_pot_by_Denis_Savard.jpg
-
-.. _flattop341: https://secure.flickr.com/people/flattop341/
-
-.. _CC-By: https://creativecommons.org/licenses/by/2.0/legalcode

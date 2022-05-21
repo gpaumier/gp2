@@ -15,6 +15,11 @@
 
     If you’ve ever wanted to be kept informed of technical changes likely to impact your Wikimedia experience, you'll want to subscribe to Tech News, a weekly newsletter than can be delivered directly to your talk page.
 
+.. figure:: /images/2013-06-12_tech_news_en.png
+   :figclass: framed
+
+   Tech News is a weekly tech newsletter about Wikimedia sites delivered on your talk page and translated into many languages.
+
 The amount of technical activity happening across the Wikimedia movement as well as the number of different discussion venues make it increasingly more difficult and time–consuming to monitor changes relevant to one's involvement in Wikimedia projects. Understanding technical issues and discussions is especially hard since they contain a lot of jargon terms and are mostly conducted only in English.
 
 `Tech News <https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News>`__ is intended to make it easier to keep track of such noteworthy changes and understand them better. By using jargon–free language, we aim to reach regular Wikimedia contributors who are most likely to be affected by upcoming software and configuration changes.

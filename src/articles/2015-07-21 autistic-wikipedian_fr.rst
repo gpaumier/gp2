@@ -68,11 +68,14 @@ La photo ci-dessus a été prise lors de la conférence Wikimania 2007 à Taipei
 Spock
 =====
 
-.. figure:: /images/2015-07-21_Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg
-
-   Kirk et Spock. "`Leonard Nimoy William Shatner Star Trek 1968 <https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG>`_", by NBC Television, dans le domaine public, depuis Wikimedia Commons.
-
 Une bonne analogie pour aider à comprendre ce que ça fait d'être autiste dans une société neurotypique est de regarder M. Spock, dans la série originale *Star Trek*. Fils d'un père Vulcain et d'une mère humaine, Spock est techniquement à moitié humain, mais c'est son côté Vulcain qui est le plus visible lors de ses interactions avec l'équipage de l'*Enterprise*.
+
+.. class:: rowspan-4
+.. sidebar::
+
+   .. figure:: /images/2015-07-21_Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg
+
+      Kirk et Spock. "`Leonard Nimoy William Shatner Star Trek 1968 <https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG>`_", by NBC Television, dans le domaine public, depuis Wikimedia Commons.
 
 Certains des moments les plus drôles de la série sont ses discussions animées avec l'irascible docteur McCoy, qui qualifie Spock d' « automate insensible » et d'« homme le plus dépourvu de sentiments qu'[il ait] jamais rencontré ». Ce à quoi Spock répond: « Oh, je vous remercie, docteur. »  [1]_
 
@@ -88,6 +91,14 @@ En tant que Vulcain, Spock ne vit que par la logique. Bien qu'il ressente des é
 
     --- Temple Grandin [2]_
 
+.. [1] Dans l'épisode |court martial|_ de la série originale.
+
+.. |court martial| replace:: *Court Martial*
+
+.. _court martial: https://en.wikipedia.org/wiki/Court_Martial_%28Star_Trek:_The_Original_Series%29
+
+.. [2] Temple Grandin. *Penser en images*. p.152
+
 Dans cet exemple, et dans de nombreux autres, le filtre de perception de Spock l'empêche de comprendre les décisions humaines motivées principalement par l'émotion. Ces actions semblent stupides ou absurdes, parce que Spock les interprète à travers son œil logique. Il lui manque le contexte culturel, les normes sociales et les hypothèses tacites inconsciemment partagés par les humains.
 
 L'inverse est également vrai : Chaque fois que les humains sont perplexes ou ennuyés par Spock, c'est parce qu'ils attendent de lui qu'il se comporte comme un humain ; ils sont souvent confrontés à une vérité plus dure qu'ils ne le souhaiteraient. Les humains interprètent le comportement de Spock à travers leur propre filtre de perception, le filtre émotionnel. Ils comprennent souvent mal ses motivations, présument la mauvaise foi, et projettent des intentions qui changent le sens des paroles et des actions du Vulcain.
@@ -102,11 +113,9 @@ Vous avez probablement entendu parler des `modèles conceptuels de communication
 
    Dans un modèle de communication simple, l'émetteur formule un message et le transmet au receveur, qui l'interprète. Le receveur fournit également un retour à l'émetteur.
 
-
 .. figure:: /images/2015-07-21_communication_model2.svg
 
    Si l'on applique ce modèle à une discussion orale entre deux personnes, le modèle devient plus complexe à cause de la communication non verbale. Celle-ci fait intervenir de nombreux autres signaux, tels que l'intonation, les expressions faciales et le langage corporel.
-
 
 Si l'on applique ce modèle à une conversation orale, on voit rapidement toutes les possibilités de mauvaise communication : entre ce que l'émetteur pense, ce qu'il communique, ce que le récepteur entend, et ce qu'il comprend, l'information peut changer drastiquement, surtout quand on prend en compte la communication non verbale. C'est comme si les deux personnes jouaient au téléphone arabe. Le psychologue Tony Attwood l'explique ainsi :
 
@@ -114,19 +123,20 @@ Si l'on applique ce modèle à une conversation orale, on voit rapidement toutes
 
     --- Tony Attwood [3]_
 
+.. [3] Tony Attwood. *Le guide complet pour le syndrome d'Asperger*. p.126
+
 Si cela est le cas pour les personnes neurotypiques (les gens avec un cerveau « typique »), imaginez combien cela peut être difficile pour les autistes comme moi. Une très bonne analogie est donnée dans le film *Imitation Game*, inspiré de la vie d'Alan Turing, qui est présenté dans le film comme appartenant au spectre autistique.
 
+.. class:: full-content
 .. figure:: /images/2015-07-21_imitation_game.png
 
-   Photo extraite du film *Imitation Game*. © 2014 The Weinstein Company. Tous droits réservés.
-
+   Photo extraite du film *Imitation Game*. © 2014 The Weinstein Company.
 
 Si l'on met de côté les critiques liées à la liberté artistique et la dramatisation, l'un de mes moments préférés dans le film est quand le jeune Alan discute avec son ami Christopher de messages codés. Christopher explique la cryptographie comme des « messages que tout le monde peut voir, mais dont personne ne sait ce qu'ils signifient, sauf si l'on a la clé. »
 
 Alan répond, très perplexe :
 
     En quoi est-ce différent d'une discussion ? [...] Quand les gens parlent entre eux, ils ne disent jamais ce qu'ils pensent, ils disent autre chose. Et on est censé comprendre exactement ce qu'ils veulent dire. Seulement, moi, je ne comprends jamais.
-
 
 Les personnes autistes sont caractérisées par de nombreuses spécificités, mais l'une des plus répandues est la cécité sociale : nous avons du mal à lire les émotions des autres. Nous manquons de « `Théorie de l'esprit <https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l%27esprit>`_ », qui sert aux personnes neurotypiques à déterminer les états mentaux (comme les croyances et les intentions) des autres. Nous prenons souvent les choses au premier degré, parce que les sous-entendus nous échappent: il est difficile pour nous de lire entre les lignes.
 
@@ -136,6 +146,7 @@ Liane Holliday Willey, autiste, auteure et conférencière, l'explique ainsi :
 
     --- Liane Holliday Willey [4]_
 
+.. [4] Liane Holliday Willey, dans *Le guide complet pour le syndrome d'Asperger*. Tony Attwood, p.126
 
 Comment ça va ?
 ===============
@@ -158,10 +169,12 @@ Ce problème de premier degré n'est qu'un exemple des nombreux défis rencontr�
 
 La conséquence la plus commune que j'ai remarquée dans mon expérience, et dans les retours d'autres personnes autistes, est un sentiment d'isolement profond. Le manque de théorie de l'esprit et le risque constant de mauvaise communication font qu'il est difficile de construire des relations avec les gens. Ce n'est pas la faute de qui que ce soit en particulier ; c'est un problème plus général de manque de sensibilisation.
 
-.. figure:: /images/Wikimania_2014_welcome_reception_02.jpg
+.. class:: rowspan-2
+.. sidebar::
 
-   Réception de bienvenue à Wikimania 2014. "`Wikimania 2014 welcome reception 02 <https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg>`_", par Chris McKenna, sous licence CC-BY-SA 4.0 International, depuis Wikimedia Commons.
+   .. figure:: /images/Wikimania_2014_welcome_reception_02.jpg
 
+      Réception de bienvenue à Wikimania 2014. "`Wikimania 2014 welcome reception 02 <https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg>`_", par Chris McKenna, sous licence CC-BY-SA 4.0 International, depuis Wikimedia Commons.
 
 Imaginez que nous sommes en train de nous parler en face à face. Vous ne me connaissez pas vraiment, mais j'ai l'air sympathique, donc vous commencez à parler de choses et d'autres. Je ne dis pas grand chose, et vous avez besoin de faire avancer la discussion, notamment lors des silences inconfortables. Quand je me mets à parler, c'est d'une façon très monotone, comme si je n'y accordais pas vraiment d'importance. Vous faites plus d'efforts, par exemple en me posant des questions, mais j'hésite, j'ai du mal à maintenir le contact visuel, et je détourne mon regard sans cesse, comme si j'essayais d'inventer une réponse de toutes pièces.
 
@@ -170,6 +183,12 @@ Maintenant, voici ce qui est en train de se passer de mon point de vue : je suis
 Cet exemple illustre l'une des nombreuses situations dans lesquelles le filtre de perception de chaque personne crée une déconnexion complète entre les façons dont la situation est perçue de chaque côté.
 
 Il y a aussi de nombreux obstacles professionnels associés au fait d'être sur le spectre autistique, et les personnes autistes sont plus touchées par le chômage que les neurotypiques [5]_. J'ai la chance d'avoir pu trouver un environnement dans lequel je suis en mesure de travailler, mais de nombreux autistes ne sont pas aussi chanceux. Il est établi que les personnes occupant des postes élevés ne sont pas nécessairement les employés les plus performants, mais bien souvent ceux ayant les meilleures compétences sociales.
+
+.. [5] Maanvi Singh. |unemployed|_. NPR.
+
+.. |unemployed| replace:: *Young Adults With Autism More Likely To Be Unemployed, Isolated*
+
+.. _unemployed: http://www.npr.org/sections/health-shots/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated
 
 En gardant ça en tête, imaginez quelles sont les opportunités de carrière possibles pour quelqu'un qui ne sait pas mentir, quelqu'un pour qui faire de l'excellent travail compte beaucoup, mais qui ne s'inquiète pas de s'en attribuer le mérite, quelqu'un qui ne comprend pas les intrigues de bureau, qui non seulement fait des faux-pas sociaux et fâche ses collègues, mais en plus ne s'en rend même pas compte, quelqu'un qui est incapable de parler de la pluie et du beau temps. Imaginez cette personne, et quel genre de carrière elle peut avoir, même si elle est très bonne dans son travail.
 
@@ -200,10 +219,13 @@ Autisme dans la communauté Wikimedia
 
 Un exemple majeur de communication en ligne à grande échelle est le mouvement Wikimedia. À première vue, les sites Wikimedia, et Wikipédia en particulier, offrent une plate-forme de choix pour qui souhaite soigneusement compiler des faits sur son obsession favorite, ou corriger méthodiquement la même erreur grammaticale encore et encore, tout en limitant les interactions sociales. Wikipedia semble être un appeau à autistes parfait.
 
-.. figure:: /images/2015-07-21_wikipedians_with_autism.png
-    :class: framed
+.. class:: rowspan-2
+.. sidebar::
 
-    La catégorie « `Wikipédiens autistes <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_ » sur Wikipedia en anglais
+   .. figure:: /images/2015-07-21_wikipedians_with_autism.png
+      :figclass: framed
+
+      La catégorie « `Wikipédiens autistes <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_ » sur Wikipedia en anglais
 
 
 Par exemple, ma première modification, il y a dix ans, a été de corriger une faute d'orthographe. La deuxième, une faute de conjugaison. La troisième, une faute d'orthographe *et* une faute de conjugaison. C'est comme ça que mon voyage de Wikipédien a commencé.
@@ -226,6 +248,12 @@ Steve Silberman, qui a écrit un livre sur l'histoire de l'autisme, explique le 
 
     --- Steve Silberman [6]_
 
+.. [6] Steve Silberman. |forgotten history|_. TED 2015.
+
+.. |forgotten history| replace:: *The forgotten history of autism*
+
+.. _forgotten history: http://www.ted.com/talks/steve_silberman_the_forgotten_history_of_autism
+
 Malgré tout, être autiste a un coût, et parfois, lors de nos interactions, vous vous sentirez vexé. Parfois, vous vous sentirez frustrés. Et parfois, vous vous direz « Waouh, je n'aurais jamais pensé à faire ça comme ça ».
 
 Comme je l'ai mentionné plus tôt, je pense que Spock n'a été en mesure de construire une relation avec ses collègues au fil du temps que parce qu'ils étaient au courant de sa différence, et qu'ils ont appris à la comprendre et à l'adopter. Spock a également beaucoup appris des humains en cours de route.
@@ -236,33 +264,7 @@ Dans cet essai, j'ai laissé de côté de nombreux points que je développerai p
 
 Longue vie et prospérité. 🖖
 
-
 .. figure:: /images/2015-07-21_ISS_42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg
    :figclass: full-width
 
    "`ISS-42 Samantha Cristoforetti Leonard Nimoy tribute <https://commons.wikimedia.org/wiki/File:ISS-42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg>`_", by `NASA <https://www.nasa.gov>`_, in the Public domain, from Wikimedia Commons.
-
-
-.. [1] Dans l'épisode |court martial|_ de la série originale.
-
-.. |court martial| replace:: *Court Martial*
-
-.. _court martial: https://en.wikipedia.org/wiki/Court_Martial_%28Star_Trek:_The_Original_Series%29
-
-.. [2] Temple Grandin. *Penser en images*. p.152
-
-.. [3] Tony Attwood. *Le guide complet pour le syndrome d'Asperger*. p.126
-
-.. [4] Liane Holliday Willey, dans *Le guide complet pour le syndrome d'Asperger*. Tony Attwood, p.126
-
-.. [5] Maanvi Singh. |unemployed|_. NPR.
-
-.. |unemployed| replace:: *Young Adults With Autism More Likely To Be Unemployed, Isolated*
-
-.. _unemployed: http://www.npr.org/sections/health-shots/2015/04/21/401243060/young-adults-with-autism-more-likely-to-be-unemployed-isolated
-
-.. [6] Steve Silberman. |forgotten history|_. TED 2015.
-
-.. |forgotten history| replace:: *The forgotten history of autism*
-
-.. _forgotten history: http://www.ted.com/talks/steve_silberman_the_forgotten_history_of_autism
