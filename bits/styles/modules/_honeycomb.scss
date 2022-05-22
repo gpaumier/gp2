@@ -1,4 +1,6 @@
 @use 'sass:math';
+@use "sass:map";
+@use '../settings' as *;
 
 // Honeycomb grid
 // Hexagon geometry: "Hexagon vertex grid" from https://anthologen.com/2020/10/23/modelling-armchair-carbon-nanotubes/
@@ -11,10 +13,14 @@
 @mixin create($honeycomb-half-columns: 6, $honeycomb-rows: 3, $hexagon-unit: 5rem,  $honeycomb-hgutter: 0.15rem, $honeycomb-vgutter: 0.1rem) {
 
   // A utility to create honeycomb grids.
-
+  @debug $hexagon-unit;
+  @debug math.sqrt(3) / 2;
+  @debug 8.0344418537ch * 0.8660254038;
+  $hexagon-unit: 5rem;
+  @debug $hexagon-unit * math.sqrt(3);
   display: grid;
-  grid-template-columns: repeat($honeycomb-half-columns, ($hexagon-unit * math.sqrt(3) / 2) $honeycomb-vgutter ) ;
-  grid-template-rows: repeat($honeycomb-rows, ($hexagon-unit / 2) $hexagon-unit $honeycomb-hgutter) ($hexagon-unit / 2);
+  grid-template-columns: repeat($honeycomb-half-columns, #{$hexagon-unit * math.sqrt(3) / 2} $honeycomb-vgutter ) ;
+  grid-template-rows: repeat($honeycomb-rows, #{$hexagon-unit / 2} $hexagon-unit $honeycomb-hgutter) ($hexagon-unit / 2);
 
   img {
     @extend %become-hexagon;
@@ -22,7 +28,21 @@
     width: $hexagon-unit * math.sqrt(3);
     object-fit: cover;
   }
+}
 
+@function get-unit($honeycomb-half-columns: 6, $grid-zone: "side-content") {
+  // This would be so much easier with container queries, but in the meantime …
+
+  // Size of our zones:
+  $grid-zone-width: (
+  "main-content": $main-content-max-width,
+  "side-content": $main-content-max-width * $golden1,
+  "full-content": $main-content-max-width * $phi
+  );
+
+  $test: #{map.get($grid-zone-width, $grid-zone) / $honeycomb-half-columns} ;
+  @debug $test;
+  @return $test;
 }
 
 @mixin place-image($honeycomb-start-at-half-column: 1, $honeycomb-row: 1) {
@@ -49,14 +69,12 @@
   // pic  half-column  row  x-position
 
   @each $pic, $honeycomb-half-column, $honeycomb-row, $x-position in $placement-data {
-    .#{$class-prefix}#{$pic} img {
+    ##{$class-prefix}#{$pic} {
       @include place-image($honeycomb-half-column, $honeycomb-row);
       @if $x-position {
-        img {
           // Most images are in landscape format so we only care about adjusting the x position;
           // we can adjust this later if needed.
           object-position: $x-position 50%;
-        }
       }
     }
   }
