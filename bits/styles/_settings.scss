@@ -8,9 +8,9 @@ $body-font-color: #333;
 $breakpoint-large: 1024px;
 $breakpoint-medium: 750px;
 
-$phi: (1 + math.sqrt(5)) / 2;
-$golden1: 1 / $phi;
-$golden2: 1 / ( math.pow($phi, 2) );
+$phi: math.div(1 + math.sqrt(5), 2);
+$golden1: math.div(1, $phi);
+$golden2: math.div(1, math.pow($phi, 2));
 // $golden3: 1 / ( math.pow($phi, 3) );
 // $golden4: 1 / ( math.pow($phi, 4) );
 $main-content-max-width: 65ch;

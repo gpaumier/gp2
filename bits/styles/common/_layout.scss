@@ -1,3 +1,4 @@
+@use 'sass:math';
 @use '../settings' as *;
 @use 'typography';
 
@@ -86,7 +87,7 @@ svg {
   [full-start full-golden-large-start left-margin-start] minmax(1rem, #{$golden1}fr)
 
   // The main content is limited by its max width, and we split that zone into 4 equal columns for flexibility:
-  [left-margin-end full-content-start main-content-start] repeat(4, minmax(min-content, #{$main-content-max-width / 4}))
+  [left-margin-end full-content-start main-content-start] repeat(4, minmax(min-content, math.div($main-content-max-width, 4)))
 
   // We don't have a column-gap in order to stay as close as possible to the golden proportions. We add a gutter here to separate the two content sections a bit, but we split it into two smaller gutters that are themselves in a golden relationship, so we can split the width exactly with full-golden-large and full-golden-small:
   [main-content-end] calc(#{$golden1 * 1.2rem} + #{$golden1 * 2vw}) // slightly larger than $base-unit
@@ -94,7 +95,7 @@ svg {
   [full-golden-large-end full-golden-small-start ] calc(#{$golden2 * 1.2rem} + #{$golden2 * 2vw}) // slightly larger than $base-unit
 
   // The side content is defined by its golden relationship to the main content, and we split that zone into 3 equal columns for flexibility:
-  [side-content-start] repeat(3, minmax(min-content, #{$golden1 * $main-content-max-width / 3}))
+  [side-content-start] repeat(3, minmax(min-content, math.div($golden1 * $main-content-max-width, 3)))
 
   // The right margin (smaller) is in a golden relationship with the left margin (larger). When added to the side-content, they're in a golden relationship with the larger [left-margin + main content] area.
   [side-content-end full-content-end right-margin-start] minmax(1rem, #{$golden2}fr)
@@ -446,7 +447,7 @@ svg {
         display: block;
         //we want the width of this border to be in a golden relationship with the whitespace on either side of it
         width: #{$golden2 * 100%};
-        margin-left: #{$golden1 / 2 * 100%};
+        margin-left: #{math.div($golden1, 2) * 100%};
         //margin-bottom: calc(-2rem - 1.2vw); // = minus h2 font size
         //margin-top: calc(-2rem - 1.2vw);
       }

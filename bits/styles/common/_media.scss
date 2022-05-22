@@ -1,8 +1,10 @@
 // Simplest CSS slideshow by Jonathan Snook
 // https://snook.ca/archives/html_and_css/simplest-css-slideshow
 
+@use 'sass:math';
+
 @mixin slideshow-fade($num:1, $fade:1, $visible:2) {
-   $a: 100 / (($fade + $visible) * $num);
+   $a: math.div(100, (($fade + $visible) * $num));
    @keyframes fade {
     0%   { opacity: 0; }
     #{$a * $fade}%   { opacity: 1; }

@@ -14,13 +14,13 @@
 
   // A utility to create honeycomb grids.
   @debug $hexagon-unit;
-  @debug math.sqrt(3) / 2;
+  @debug math.div(math.sqrt(3), 2);
   @debug 8.0344418537ch * 0.8660254038;
   $hexagon-unit: 5rem;
   @debug $hexagon-unit * math.sqrt(3);
   display: grid;
-  grid-template-columns: repeat($honeycomb-half-columns, #{$hexagon-unit * math.sqrt(3) / 2} $honeycomb-vgutter ) ;
-  grid-template-rows: repeat($honeycomb-rows, #{$hexagon-unit / 2} $hexagon-unit $honeycomb-hgutter) ($hexagon-unit / 2);
+  grid-template-columns: repeat($honeycomb-half-columns, math.div($hexagon-unit * math.sqrt(3), 2) $honeycomb-vgutter ) ;
+  grid-template-rows: repeat($honeycomb-rows, math.div($hexagon-unit, 2) $hexagon-unit $honeycomb-hgutter) math.div($hexagon-unit, 2);
 
   img {
     @extend %become-hexagon;
@@ -40,7 +40,7 @@
   "full-content": $main-content-max-width * $phi
   );
 
-  $test: #{map.get($grid-zone-width, $grid-zone) / $honeycomb-half-columns} ;
+  $test: math.div(map.get($grid-zone-width, $grid-zone), $honeycomb-half-columns) ;
   @debug $test;
   @return $test;
 }
