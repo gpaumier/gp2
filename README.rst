@@ -120,3 +120,5 @@ Building for deployment
 * `Install Docker <https://en.opensuse.org/Docker>`__
 
 * Set up the `local build container <https://github.com/netlify/build-image#available-images>`__
+
+* Make sure the site config in Netlify has the GIT_LFS_ENABLED environment variable set to true (`source <https://answers.netlify.com/t/builds-fail-after-new-commit-to-git-lfs/1362/7>`__)
