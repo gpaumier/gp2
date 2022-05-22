@@ -195,7 +195,8 @@ FEED_TEASERS = False
 # those.
 TEMPLATE_FILTERS = {
     'get_lead_text': jinja_filters.get_lead_text,
-    'get_lead_figure': jinja_filters.get_lead_figure
+    'get_lead_figure': jinja_filters.get_lead_figure,
+    'remove_lead_figure': jinja_filters.remove_lead_figure
 }
 
 # Put in global_context things you want available on all your templates.
