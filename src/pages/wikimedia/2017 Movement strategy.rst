@@ -27,27 +27,6 @@
 
     The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now serves as the compass for multi-year strategic planning by Wikimedia organizations, and guides decision-making around roles, responsibilities, and resources in the Wikimedia movement.
 
-
-Test section
-============
-
-.. container:: team
-
-   .. figure:: /images/Wikimedia_Conference_2017_–_118.jpg
-      :figclass: team1
-
-   .. figure:: /images/Wikimedia_Conference_2017_–_117.jpg
-      :figclass: team2
-
-   .. figure:: /images/MYHO8747-edit.jpg
-      :figclass: team3
-
-   .. figure:: /images/Wikimedia_Conference_2018_–_134.jpg
-      :figclass: team4
-
-   .. figure:: /images/MYHO9171-edit.jpg
-      :figclass: team5
-
 "Your mission, should you choose to accept it ..."
 ==================================================
 
@@ -75,22 +54,23 @@ And so it began. We put together a team. We designed a process, and adjusted it 
 
 .. [#Williamsworks] `williamsworks <http://williamsworks.com/>`__ is a small consultancy firm led by Whitney Williams and based in Montana.
 
-.. container:: team
+.. container:: honeycomb
+   :name: team
 
    .. figure:: /images/Wikimedia_Conference_2017_–_118.jpg
-      :figclass: team1
+      :name: team1
 
    .. figure:: /images/Wikimedia_Conference_2017_–_117.jpg
-      :figclass: team2
+      :name: team2
 
    .. figure:: /images/MYHO8747-edit.jpg
-      :figclass: team3
+      :name: team3
 
    .. figure:: /images/Wikimedia_Conference_2018_–_134.jpg
-      :figclass: team4
+      :name: team4
 
    .. figure:: /images/MYHO9171-edit.jpg
-      :figclass: team5
+      :name: team5
 
    .. class:: caption
 
@@ -120,13 +100,14 @@ And yet, it worked.
 
 .. [#MerkleyStrategy] "`No one does strategy like this <https://twitter.com/ryanmerkley/status/1260214328235622401>`__." Ryan Merkley (@ryanmerkley). Twitter, May 12, 2020.
 
-.. container:: hopes-fears
+.. container:: honeycomb
+   :name: hopes-fears
 
    .. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_269.jpg
-      :figclass: hopes
+      :name: hopes
 
    .. figure:: /images/Wikimedia_Conference_2017_by_René_Zieger_–_268.jpg
-      :figclass: fears
+      :name: fears
 
    .. class:: caption
 
@@ -153,7 +134,7 @@ We started from a simple question: *What do we want to build or achieve together
 .. sidebar::
 
    .. figure:: /images/WMCON_Berlin_2017_60.jpg
-      :figclass: build-or-achieve-by-2030
+      :name: build-or-achieve-by-2030
 
       `Camelia Boban <https://commons.wikimedia.org/wiki/User:Camelia.boban>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:WMCON_Berlin_2017_60.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
@@ -181,22 +162,23 @@ Thinking about the future is an exercise in imagination, but we're Wikimedians, 
 .. [#DailyBeastMonsterTech] `How a Few Monster Tech Firms are Taking Over Everything from Media to Space Travel and What it Means for the Rest of Us <http://www.thedailybeast.com/articles/2014/02/09/how-a-few-monster-tech-firms-are-taking-over-everything-from-media-to-space-travel-and-what-it-means-for-the-rest-of-us.html>`__. Joel Kotkin. The Daily Beast, February 9, 2014.
 
 
-.. container:: world-around-us
+.. container:: honeycomb
+   :name: world-around-us
 
    .. figure:: /images/Boys_in_Jibla,_Yemen_(14159835344).jpg
-      :figclass: world-around-us1
+      :name: world-around-us1
 
    .. figure:: /images/RamPrasadJoshi_PhoneCloseUp_WikiconferenceIndia_August6.jpg
-      :figclass: world-around-us2
+      :name: world-around-us2
 
    .. figure:: /images/Earth_Eastern_Hemisphere.jpg
-      :figclass: world-around-us3
+      :name: world-around-us3
 
    .. figure:: /images/Malagasy_Kids,_Madagascar_(27013871533).jpg
-      :figclass: world-around-us4
+      :name: world-around-us4
 
    .. figure:: /images/Caméras_de_surveillance_à_Lyon_près_des_Halles_Paul-Bocuse_(mai_2019).jpg
-      :figclass: world-around-us5
+      :name: world-around-us5
 
    .. class:: caption
 
@@ -271,19 +253,20 @@ This work informed and complemented community discussions with new voices that h
 
 The Foundation couldn't do this alone; we are a global and distributed movement, and local relationships are much more likely to bear fruit than a centralized approach. The Foundation also reserved budget for affiliates to run small-group discussions with subject matter experts.
 
-.. container:: new-voices
+.. container:: honeycomb
+   :name: new-voices
 
    .. figure:: /images/Conversatorio_de_Estrategia_I_-_Movimiento_Wikimedia_y_Comunidades_Indigenas_-_Cochabamba,_Bolivia.jpg
-      :figclass: new-voices1
+      :name: new-voices1
 
    .. figure:: /images/Photo_de_famille_15.jpg
-      :figclass: new-voices2
+      :name: new-voices2
 
    .. figure:: /images/2017_Wikimedia_movement_strategy_-_Wikimedians_of_Nepal_&_Maithili_Wikimedians_1001_22.jpg
-      :figclass: new-voices3
+      :name: new-voices3
 
    .. figure:: /images/Salon_strategique_wikimedia_cote_Ivoire_2019_35_retouche.jpg
-      :figclass: new-voices4
+      :name: new-voices4
 
    .. class:: caption
 
@@ -332,22 +315,23 @@ Some Wikimedians found the Wikimania draft to focus too much on technical infras
 
 .. TODO: add paragraph about endorsements. I worked with Nicole Ebber, who was leading and coordinating our work with "organized groups" across the movement (meaning chapters, user groups, and other affiliates).
 
-.. container:: wikimania2017
+.. container:: honeycomb
+   :name: wikimania2017
 
    .. figure:: /images/2017_Movement_Strategy_at_Wikimania_-_participation_in_session_04-03.jpg
-      :figclass: wikimania2017-pic1
+      :name: wikimania2017-pic1
 
    .. figure:: /images/eghbal-roads-bridges-cover.png
-      :figclass: wikimania2017-pic2
+      :name: wikimania2017-pic2
 
    .. figure:: /images/Wikimedia_movement_strategy_at_Wikimania_2017_06.jpg
-      :figclass: wikimania2017-pic3
+      :name: wikimania2017-pic3
 
    .. figure:: /images/2017_Wikimedia_Movement_Strategy_at_Wikimania_-_session_04-02_-_photo_4.jpg
-      :figclass: wikimania2017-pic4
+      :name: wikimania2017-pic4
 
    .. figure::  /images/Wikimedia_movement_strategy_at_Wikimania_2017_08.jpg
-      :figclass: wikimania2017-pic5
+      :name: wikimania2017-pic5
 
    .. class:: caption
 
@@ -440,73 +424,74 @@ sense of accomplishment;
    `Jess Klein <https://commons.wikimedia.org/wiki/User:Iamjessklein>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Kathering_Maher_-_All_Hands_2020_Talk.png>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 
-.. container:: people
+.. container:: honeycomb
+   :name: people
 
    .. figure:: /images/Wikimedia_Conference_2018_–_071.jpg
-      :figclass: people1
+      :name: people1
 
    .. figure:: /images/Wikimedia_Conference_2018_–_058.jpg
-      :figclass: people2
+      :name: people2
 
    .. figure:: /images/Wikimedia_Summit_2019_-_26.jpg
-      :figclass: people3
+      :name: people3
 
    .. figure:: /images/Wikimedia_Summit_2019_-_151.jpg
-      :figclass: people4
+      :name: people4
 
    .. figure:: /images/Wikimedia_Summit_2019_-_153.jpg
-      :figclass: people5
+      :name: people5
 
    .. figure:: /images/Wikimedia_Conference_2017_–_135.jpg
-      :figclass: people6
+      :name: people6
 
    .. figure:: /images/Wikimedia_Conference_2017_–_143.jpg
-      :figclass: people7
+      :name: people7
 
    .. figure:: /images/Wikimedia_Conference_2017_–_151.jpg
-      :figclass: people8
+      :name: people8
 
    .. figure:: /images/Wikimedia_Conference_2017_–_104.jpg
-      :figclass: people9
+      :name: people9
 
    .. figure:: /images/Wikimedia_Conference_2017_–_226.jpg
-      :figclass: people10
+      :name: people10
 
    .. figure:: /images/Wikimedia_Conference_2017_–_109.jpg
-      :figclass: people11
+      :name: people11
 
    .. figure:: /images/Wikimedia_Conference_2017_–_64.jpg
-      :figclass: people12
+      :name: people12
 
    .. figure:: /images/Wikimedia_Conference_2017_–_248.jpg
-      :figclass: people13
+      :name: people13
 
    .. figure:: /images/Participants_during_WMCON_2017_11.jpg
-      :figclass: people14
+      :name: people14
 
    .. figure:: /images/Wikimedia_Conference_2018_–_296.jpg
-      :figclass: people15
+      :name: people15
 
    .. figure:: /images/Felix_Nartey_at_Wikimedia_Conference_2017.jpg
-      :figclass: people16
+      :name: people16
 
    .. figure:: /images/Wikimedia_Conference_2017_–_115.jpg
-      :figclass: people17
+      :name: people17
 
    .. figure:: /images/Wikimedia_Conference_2017_–_62.jpg
-      :figclass: people18
+      :name: people18
 
    .. figure:: /images/Wikimedia_Conference_2017_–_68.jpg
-      :figclass: people19
+      :name: people19
 
    .. figure:: /images/Wikimedia_Conference_2017_–_74.jpg
-      :figclass: people20
+      :name: people20
 
    .. figure:: /images/Wikimedia_Conference_2017_–_75.jpg
-      :figclass: people21
+      :name: people21
 
    .. figure:: /images/Wikimedia_Conference_2017_–_85.jpg
-      :figclass: people22
+      :name: people22
 
    .. class:: caption
 
