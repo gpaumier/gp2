@@ -1,6 +1,5 @@
 @use '../common/decoration';
 @use '../common/layout';
-@use '../common/split';
 
 %spotting-pattern {
   p,
@@ -31,24 +30,6 @@
 #biochips-and-microarrays{
   @extend %golden-section-hero-golden;
 }
-
-#mass-parallel-testing,
-#fluorescence-in-biochips,
-#surface-functionalization,
-#substance-p,
-#immunoassay-protocols,
-#reaction-kinetics,
-#photothermal-deflection-spectroscopy,
-#neutron-reflectometry,
-#adapting-the-protocol,
-#contact-angle-measurement,
-#atomic-force-microscopy,
-#antibody-microarray-on-vapor-phase-silane,
-#biochiplab,
-#fluorescence-microscopy,
-#mass-spectrometry {
-}
-
 
 /////////////////////////////////////////////////////////////
 
@@ -84,9 +65,6 @@
 }
 
 /////////////////////////////////////////////////////////////
-
-#antibody-microarray-on-cea-2-protocol{
-}
 
 #parameter-study-protocol-optimization {
 
@@ -150,9 +128,6 @@
 
 /////////////////////////////////////////////////////////////
 
-#alternative-detection-methods {
-}
-
 .reaction-kinetics-diagram img {
   max-width: 45ch;
   justify-self: center;
@@ -174,10 +149,6 @@
 }
 
 /////////////////////////////////////////////////////////////
-
-#vapor-phase-silanization-for-proteomics,
-#peptidic-digestion-mass-spectrometry {
-}
 
 .vapor-phase-diagram img {
   max-width: 20ch;

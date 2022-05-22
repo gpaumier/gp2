@@ -1,6 +1,5 @@
 @use '../common/decoration';
 @use '../common/layout';
-@use '../common/split';
 
 
 /////////////////////////////////////////////////////////////
@@ -122,20 +121,6 @@ dl {
 
 /////////////////////////////////////////////////////////////
 
-
-#honey-i-shrunk-the-lab {
-}
-
-/////////////////////////////////////////////////////////////
-
-#microfluidics {
-}
-
-/////////////////////////////////////////////////////////////
-
-#pnipam {
-}
-
 .pnipam-formula img {
   max-width: 20rem;
   margin: auto;
@@ -174,31 +159,17 @@ dl {
 
 /////////////////////////////////////////////////////////////
 
-#surface-functionalization {
-}
-
-#grafting-chemistry {
-}
 
 .silane-afm {
-  @include split.place(left, "3/4");
   @include layout.side-by-side-figures(.5rem);
 }
-
-#contact-angle {
-}
-
 .functionalization-hydrophobic-hydrophilic {
   @include layout.side-by-side-figures();
-}
-
-#infrared-spectroscopy {
 }
 
 
 .hydrophilic,
 .hydrophobic {
-
   overflow: hidden; // we're zomming on the images to better see the droplets, but we don't want their footprint to increase
 
   img {
@@ -217,22 +188,8 @@ dl {
   transform: scale(1.5);
 }
 
-
-
 /////////////////////////////////////////////////////////////
 
-#controlling-surface-properties-with-pnipam {
-}
-
-#electrokinetic-mixing,
-#electro-osmotic-flow,
-#controlling-the-electro-osmotic-flow-with-pnipam {
-}
-
-/////////////////////////////////////////////////////////////
-
-#microfluidic-chip {
-}
 
 .chip-blender {
   @include layout.side-by-side-figures(.3rem);
@@ -250,9 +207,6 @@ dl {
 }
 
 /////////////////////////////////////////////////////////////
-
-#catching-proteins {
-}
 
 .catching-proteins-chip {
   @include layout.side-by-side-figures();

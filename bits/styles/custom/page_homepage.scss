@@ -1,5 +1,4 @@
 @use '../common/layout';
-@use '../common/split';
 
 
 // Styles for sections
@@ -16,21 +15,4 @@
   shape-outside: circle(60% at 68% 45%);
   margin: .5rem;
   margin-right: -10vw;
-}
-
-#how-i-think,
-#knowledge-belongs-to-all-of-us,
-#science-engineering,
-#playfulness-creativity,
-#a-life-of-learning {
-}
-
-
-#integrating-information,
-#understanding-the-human-element,
-#seeing-systems,
-#connecting-people-and-ideas,
-#seeing-different-perspectives,
-#working-as-a-community,
-#justice-and-belonging {
 }
