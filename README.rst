@@ -79,13 +79,13 @@ Or launch in watcher+server mode:
 Developing the theme
 ====================
 
-I'm currently using `Brunch <http://brunch.io/>`__ to compile JavaScript and CSS assets. This is only needed to modify the site's JS and CSS; when writing and publishing a new post or page, the theme doesn't change so the previous section is enough.
+I'm currently using `Gulp <https://gulpjs.com/>`__ to compile JavaScript and CSS assets. This is only needed to modify the site's JS and CSS; when writing and publishing a new post or page, the theme doesn't change so the previous section is enough.
 
-Install Brunch globally:
+Install Gulp globally:
 
 ::
 
-    # npm install -g brunch
+    # npm install -g gulp
 
 
 From the site's directory, install the theme's dependencies:
@@ -94,19 +94,13 @@ From the site's directory, install the theme's dependencies:
 
     $ npm install -D
 
-Launch Brunch in watcher mode:
+Build assets with a one-off command:
 
 ::
 
-    $ brunch watch
+    $ gulp
 
-Or build assets with a one-off command:
-
-::
-
-    $ brunch build
-
-Bits (JS and CSS) compiled by Brunch will be picked up by brunch and compiled, then Nikola will update its build folder, if it's simultaneously running in ``auto`` mode; otherwise, ``build`` manually.
+Bits (JS and CSS) will be picked up by Gulp and compiled, then Nikola will update its build folder, if it's simultaneously running in ``auto`` mode; otherwise, ``build`` manually.
 
 Maintenance stuff:
 
