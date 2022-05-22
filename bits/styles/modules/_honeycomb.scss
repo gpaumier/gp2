@@ -19,8 +19,8 @@
   "side-content": $main-content-max-width * $golden1,
   "full-content": $main-content-max-width * $phi
   );
-  
-  @return math.div(map.get($grid-zone-width, $grid-zone), $honeycomb-half-columns);
+
+  @return math.div(map.get($grid-zone-width, $grid-zone) * 2, $honeycomb-half-columns * math.sqrt(3));
 }
 
 @mixin create($honeycomb-half-columns: 6, $honeycomb-rows: 3, $grid-zone: "side-content", $honeycomb-hgutter: 0.15rem, $honeycomb-vgutter: 0.1rem) {
