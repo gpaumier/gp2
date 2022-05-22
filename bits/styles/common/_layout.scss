@@ -1,6 +1,5 @@
 @use '../settings' as *;
 @use 'typography';
-@use 'sass:math';
 
 // Basics ///////////////////////////////////
 
@@ -77,12 +76,7 @@ svg {
 
 // Experiments with the golden ratio as basis for all layouts ///////////////////////////////////
 
-$phi: (1 + math.sqrt(5)) / 2;
-$golden1: 1 / $phi;
-$golden2: 1 / ( math.pow($phi, 2) );
-// $golden3: 1 / ( math.pow($phi, 3) );
-// $golden4: 1 / ( math.pow($phi, 4) );
-$main-content-max-width: 65ch;
+
 
 %golden-grid {
   display: grid;
@@ -476,14 +470,20 @@ $main-content-max-width: 65ch;
 
 // Site-wide layouts ///////////////////////////////////////////////////////////
 
-article,
-section,
-.entry-content {
-  @extend %golden-grid;
+main {
+  article,
+  section,
+  .entry-content {
+    @extend %golden-grid;
+  }
+
+  section {
+    .hero-h2-golden > .entry-content > & {
+      @extend %golden-section-hero-golden;
+    }
+  }
 }
 
-section {
-  .hero-h2-golden > .entry-content > & {
-    @extend %golden-section-hero-golden;
-  }
+footer nav {
+  @extend %golden-grid;
 }
