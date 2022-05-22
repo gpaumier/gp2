@@ -2,6 +2,12 @@
 from lxml import html
 import lxml.etree as le
 
+###############################################################################
+"""
+New filters must be added to TEMPLATE_FILTERS in conf.py
+"""
+###############################################################################
+
 def get_lead_text (post_text):
     """ Extract the lead text from a post
 
@@ -19,7 +25,7 @@ def get_lead_text (post_text):
 
     return lead_text
 
-###############################################################################""
+###############################################################################
 
 def get_lead_figure (post_text):
     """ Extract the lead figure from a post
@@ -38,4 +44,23 @@ def get_lead_figure (post_text):
 
     return lead_fig
 
-###############################################################################""
+###############################################################################
+
+def remove_lead_figure (post_text):
+    """ Remove the lead figure from a post
+
+    This is the opposite of get_lead_figure for when we want to handle them separately.
+    The lead figure is identified by a <figure> with the 'lead-figure' class"""
+
+    tree = html.fromstring(post_text)
+
+    try:
+        node = tree.xpath('//figure[@class="lead-figure"]')[0]
+        node.getparent().remove(node)
+
+    except IndexError:
+        return le.tostring(tree, encoding='unicode')
+
+    return le.tostring(tree, encoding='unicode')
+
+###############################################################################
