@@ -3,7 +3,7 @@
 
 body > footer {
 
-  @extend %golden-grid;
+  @extend %golden-grid-skeleton;
   min-height: 0.5vh;
 
   // Layout

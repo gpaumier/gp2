@@ -76,9 +76,8 @@ svg {
 
 // Experiments with the golden ratio as basis for all layouts ///////////////////////////////////
 
-
-
-%golden-grid {
+%golden-grid-skeleton {
+  // Basic golden grid with only template definitions, no placement
   display: grid;
   grid-template-columns:
 
@@ -105,6 +104,11 @@ svg {
   > * {
     grid-column: full-content;
   }
+}
+
+%golden-grid {
+  // golden grid with usual page/post content
+  @extend %golden-grid-skeleton;
 
   // Except sections and other containers that need the full width because they use the same golden grid:
   > section,
