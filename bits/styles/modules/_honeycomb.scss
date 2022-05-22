@@ -10,14 +10,24 @@
   clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 }
 
-@mixin create($honeycomb-half-columns: 6, $honeycomb-rows: 3, $hexagon-unit: 5rem,  $honeycomb-hgutter: 0.15rem, $honeycomb-vgutter: 0.1rem) {
+@function get-unit($honeycomb-half-columns: 6, $grid-zone: "side-content") {
+  // A utility to calculate the base unit of our honeycomb, so it can be responsive.
 
+  // Size of our zones:
+  $grid-zone-width: (
+  "main-content": $main-content-max-width,
+  "side-content": $main-content-max-width * $golden1,
+  "full-content": $main-content-max-width * $phi
+  );
+  
+  @return math.div(map.get($grid-zone-width, $grid-zone), $honeycomb-half-columns);
+}
+
+@mixin create($honeycomb-half-columns: 6, $honeycomb-rows: 3, $grid-zone: "side-content", $honeycomb-hgutter: 0.15rem, $honeycomb-vgutter: 0.1rem) {
   // A utility to create honeycomb grids.
-  @debug $hexagon-unit;
-  @debug math.div(math.sqrt(3), 2);
-  @debug 8.0344418537ch * 0.8660254038;
-  $hexagon-unit: 5rem;
-  @debug $hexagon-unit * math.sqrt(3);
+
+  $hexagon-unit: get-unit($honeycomb-half-columns, $grid-zone);
+
   display: grid;
   grid-template-columns: repeat($honeycomb-half-columns, math.div($hexagon-unit * math.sqrt(3), 2) $honeycomb-vgutter ) ;
   grid-template-rows: repeat($honeycomb-rows, math.div($hexagon-unit, 2) $hexagon-unit $honeycomb-hgutter) math.div($hexagon-unit, 2);
@@ -28,21 +38,6 @@
     width: $hexagon-unit * math.sqrt(3);
     object-fit: cover;
   }
-}
-
-@function get-unit($honeycomb-half-columns: 6, $grid-zone: "side-content") {
-  // This would be so much easier with container queries, but in the meantime …
-
-  // Size of our zones:
-  $grid-zone-width: (
-  "main-content": $main-content-max-width,
-  "side-content": $main-content-max-width * $golden1,
-  "full-content": $main-content-max-width * $phi
-  );
-
-  $test: math.div(map.get($grid-zone-width, $grid-zone), $honeycomb-half-columns) ;
-  @debug $test;
-  @return $test;
 }
 
 @mixin place-image($honeycomb-start-at-half-column: 1, $honeycomb-row: 1) {

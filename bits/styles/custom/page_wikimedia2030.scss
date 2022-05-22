@@ -4,9 +4,7 @@
 /////////////////////////////////////////////////////////////
 
 #team {
-  // Width:
-  $unit: honeycomb.get-unit(5, "side-content");
-  @include honeycomb.create(5, 3, $unit);
+  @include honeycomb.create(5, 3, "side-content");
 }
 
 $team-pics-placement:
@@ -20,7 +18,7 @@ $team-pics-placement:
 @include honeycomb.place-set($team-pics-placement, "team");
 
 #hopes-fears {
-  @include honeycomb.create(4, 2, 7rem);
+  @include honeycomb.create(4, 2, "side-content");
 
   .caption {
     grid-column: 5/9;
@@ -60,7 +58,7 @@ $team-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #world-around-us {
-  @include honeycomb.create(5, 4, 6rem);
+  @include honeycomb.create(5, 4, "side-content");
 
   .caption {
     grid-column: 6/10;
@@ -83,7 +81,7 @@ $world-around-us-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #new-voices {
-  @include honeycomb.create(4, 4, 7rem);
+  @include honeycomb.create(4, 4, "side-content");
 
   .caption {
     grid-column: 5/8;
@@ -110,7 +108,7 @@ $new-voices-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #wikimania2017 {
-  @include honeycomb.create(4, 4, 7rem);
+  @include honeycomb.create(4, 4, "side-content");
 
   .caption {
     grid-column: 1/4;
@@ -138,7 +136,7 @@ $wikimania2017-pics-placement:
 /////////////////////////////////////////////////////////////
 
 #people {
-  @include honeycomb.create(11, 8, 7rem);
+  @include honeycomb.create(11, 8, "full-content");
 
   .caption {
     grid-column: 11/18;
