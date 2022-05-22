@@ -476,13 +476,14 @@ main {
   .entry-content {
     @extend %golden-grid;
   }
+}
 
-  section {
-    .hero-h2-golden > .entry-content > & {
-      @extend %golden-section-hero-golden;
-    }
+section {
+  .hero-h2-golden > .entry-content > & {
+    @extend %golden-section-hero-golden;
   }
 }
+
 
 footer nav {
   @extend %golden-grid;
