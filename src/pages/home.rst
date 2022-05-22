@@ -172,7 +172,6 @@ Our differences are precious; they make us smarter, stronger, more humble. They 
 We encourage others to do what we can’t, and we help them succeed. When voices are absent, ignored, or silenced, we seek them out. We are welcoming hosts, caring neighbors, and equitable allies. We don’t fear difference. We welcome it with curiosity, delight, and hope.
 
 
-.. figure:: /images/2012-03-22_Selfie_on_the_Queen_Mary_2173.jpg
 
 .. figure:: /images/2016-06-06_Libres_conseils_1011.jpg
 

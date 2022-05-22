@@ -73,7 +73,7 @@ In a world of climate catastrophe, rising nationalism, systemic oppression, end-
 Travel & Photography
 ====================
 
-.. figure:: /images/2010-07-03_Qt_duck.jpg
+.. figure:: /images/2012-03-22_Selfie_on_the_Queen_Mary_2173.jpg
    :alt: Placeholder
 
    Placeholder caption
