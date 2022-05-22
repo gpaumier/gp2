@@ -1,25 +1,23 @@
-<nav id="topbar" role="navigation" class="top-bar">
-    <div class="top-bar-left">
-        <ul class="menu">
-            <li class="menu-text"><a href="{{ abs_link(_link("root", None, lang)) }}" title="{{ blog_title|e }}" rel="home">{{ blog_title|e }}</li>
-        </ul>
-    </div>
-    <div class="top-bar-right">
-        <ul class="dropdown menu" data-dropdown-menu>
-            <li class="menu-text">
-                <i class="fa fa-language"></i>&nbsp;{{ messages("LANGUAGE", lang) }}
-                <ul class="menu vertical">
-                    {% for langname in translations|sort %}
-                        {% if langname != lang %}
-                            {% if post.is_translation_available(langname) %}
-                                <li>&nbsp;<a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}"><i class="fa fa-angle-right"></i>{{ messages("LANGUAGE", langname) }}</a></li>
-                            {% else %}
-                                <li class="topbar-disabled-item menu-text"><i class="fa fa-ban"></i>&nbsp;{{ messages("LANGUAGE", langname) }}</li>
-                            {% endif %}
-                        {% endif %}
-                    {% endfor %}
-                </ul>
+<header id="masthead">
+  <p id="site-name">
+    <a href="{{ abs_link(_link("root", None, lang)) }}" title="{{ blog_title|e }}" rel="home">{{ blog_title|e }}</a>
+  </p>
+  <nav id="languages">
+    {{ messages("LANGUAGE", lang) }}
+    <ul class="menu vertical">
+      {% for langname in translations|sort %}
+        {% if langname != lang %}
+          {% if post.is_translation_available(langname) %}
+            <li>
+              &rsaquo;&nbsp;<a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a>
             </li>
-        </ul>
-    </div>
-</nav>
+          {% else %}
+            <li class="topbar-disabled-item menu-text">
+              &#10680;&nbsp;{{ messages("LANGUAGE", langname) }}
+            </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

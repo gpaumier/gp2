@@ -1,0 +1,14 @@
+@use 'settings' as *;
+@use 'layout';
+
+body > header {
+  @extend %golden-grid-skeleton;
+}
+
+#site-name {
+  grid-column: main-content;
+}
+
+nav#languages {
+  grid-column: side-content;
+}
