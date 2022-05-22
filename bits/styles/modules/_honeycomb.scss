@@ -30,7 +30,7 @@
 
   display: grid;
   grid-template-columns: repeat($honeycomb-half-columns, math.div($hexagon-unit * math.sqrt(3), 2) $honeycomb-vgutter ) ;
-  grid-template-rows: repeat($honeycomb-rows, math.div($hexagon-unit, 2) $hexagon-unit $honeycomb-hgutter) math.div($hexagon-unit, 2);
+  grid-template-rows: repeat($honeycomb-rows, math.div($hexagon-unit, 2) $hexagon-unit $honeycomb-hgutter) math.div($hexagon-unit, 2) auto;
 
   img {
     @extend %become-hexagon;
