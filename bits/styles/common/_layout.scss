@@ -100,15 +100,20 @@ svg {
 
   [right-margin-end full-golden-small-end full-end];
 
-  // On small viewports, everything is stacked vertically, with the side margins:
+  // no margins for the skeleton
   > * {
-    grid-column: full-content;
+    grid-column: full;
   }
 }
 
 %golden-grid {
   // golden grid with usual page/post content
   @extend %golden-grid-skeleton;
+
+  // On small viewports, everything is stacked vertically, with the side margins:
+  > * {
+    grid-column: full-content;
+  }
 
   // Except sections and other containers that need the full width because they use the same golden grid:
   > section,
@@ -474,20 +479,41 @@ svg {
 
 // Site-wide layouts ///////////////////////////////////////////////////////////
 
-main {
-  article,
-  section,
-  .entry-content {
-    @extend %golden-grid;
+body
+{
+  @extend %golden-grid-skeleton;
+}
+
+#masthead,
+#content,
+article.page,
+#article-header,
+#article-content {
+  grid-column: full;
+  display: contents;
+}
+
+#article-header {
+  h1,
+  p.subheader,
+  img,
+  figcaption {
+    grid-column: full;
   }
+}
+
+
+#article-content > div {
+    grid-column: full;
 }
 
 section {
-  .hero-h2-golden > .entry-content > & {
-    @extend %golden-section-hero-golden;
-  }
+  @extend %golden-grid;
 }
 
+.hero-h2-golden.entry-content > div > section {
+  @extend %golden-section-hero-golden;
+}
 
 footer nav {
   @extend %golden-grid;

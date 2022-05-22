@@ -4,10 +4,10 @@
 .. slug: wikimedia2030
 .. date: 2016-11-01T00:00:00
 .. end: 2017-12-31T00:00:00
-.. template: page_custom.tmpl
+.. template: page_hero.tmpl
 .. styles: page_wikimedia2030
 .. class: hero-h2-golden
-.. image: /images/NASA_Earth_CO2-wikimedia2030.jpg
+.. image: /images/luca-baggio-eKU3JGNCCMg-unsplash.jpg
 .. roles: architect, writer
 .. tags: Wikimedia, strategy
 
