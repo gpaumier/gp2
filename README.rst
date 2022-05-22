@@ -55,8 +55,6 @@ Once in the site's directory: Install Nikola plugins as needed:
 
     $ nikola plugin -i sphinx_roles
 
-
-
 Build the site :
 
 ::
@@ -99,6 +97,12 @@ Build assets with a one-off command:
 ::
 
     $ gulp
+
+Or start gulp in watcher mode, which will automatically recompile on save:
+
+::
+
+    $ gulp watch
 
 Bits (JS and CSS) will be picked up by Gulp and compiled, then Nikola will update its build folder, if it's simultaneously running in ``auto`` mode; otherwise, ``build`` manually.
 
