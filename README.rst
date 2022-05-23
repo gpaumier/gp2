@@ -77,13 +77,13 @@ Or launch in watcher+server mode:
 Developing the theme
 ====================
 
-I'm currently using `Gulp <https://gulpjs.com/>`__ to compile JavaScript and CSS assets. This is only needed to modify the site's JS and CSS; when writing and publishing a new post or page, the theme doesn't change so the previous section is enough.
+I'm currently using `Gulp <https://gulpjs.com/>`__ to compile JavaScript and CSS assets. This is only needed to modify the site's JS and CSS; when writing and publishing a new post or page, the theme doesn't change so the previous section is enough. See the `Gulp documentation <https://gulpjs.com/docs/en/getting-started/quick-start>`__ for more details.
 
 Install Gulp globally:
 
 ::
 
-    # npm install -g gulp
+    # npm install -g gulp-cli
 
 
 From the site's directory, install the theme's dependencies:
