@@ -2,7 +2,7 @@
 .. subtitle: playfulness & creativity
 .. slug: play
 .. icon: fa-palette
-.. template: page_custom.tmpl
+.. template: page_hero.tmpl
 .. image: /images/plants_3808.jpg
 .. image-alt: placeholder
 

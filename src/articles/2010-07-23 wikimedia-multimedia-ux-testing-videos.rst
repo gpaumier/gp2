@@ -72,6 +72,8 @@ Current interface highlight video
     	<p>Sadly, your browser does not support the video tag.</p>
     </video>
 
+.. class:: caption
+
 `See the file on Commons <http://commons.wikimedia.org/wiki/File:Multimedia_usability_project_2010_-_Current_interface_testing.ogv>`__ or `download the OGV video <http://upload.wikimedia.org/wikipedia/commons/f/fd/Multimedia_usability_project_2010_-_Current_interface_testing.ogv>`__ (4m11s, 29.89 MB).
 
 
@@ -86,6 +88,8 @@ Prototype highlight video
         <p>Sadly, your browser does not support the video tag.</p>
     </video>
 
+.. class:: caption
+
 `See the file on Commons <http://commons.wikimedia.org/wiki/File:Multimedia_usability_project_2010_-_Prototype_testing.ogv>`__ or `download the OGV video <http://upload.wikimedia.org/wikipedia/commons/d/d9/Multimedia_usability_project_2010_-_Prototype_testing.ogv>`__ (5m32s, 35.43 MB)
 
 
@@ -99,5 +103,7 @@ Room for improvement highlight video
         <source src="https://upload.wikimedia.org/wikipedia/commons/5/58/Multimedia_usability_project_2010_-_Room_for_improvement.ogv" type='video/ogg; codecs="theora, vorbis"'>
         <p>Sadly, your browser does not support the video tag.</p>
     </video>
+
+.. class:: caption
 
 `See the file on Commons <http://commons.wikimedia.org/wiki/File:Multimedia_usability_project_2010_-_Room_for_improvement.ogv>`__ or `download the OGV video <http://upload.wikimedia.org/wikipedia/commons/5/58/Multimedia_usability_project_2010_-_Room_for_improvement.ogv>`__ (3m51s, 23.02 MB)

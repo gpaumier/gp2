@@ -87,6 +87,7 @@ Several themes emerged from the mass of information and were further integrated 
 
 After years of tensions between the Wikimedia Foundation and other actors of the Wikimedia movement, groups and individuals started declaring their intent to work together towards this future by endorsing the direction. In less than a week, over 70 groups and organizations had already endorsed it; they had committed to participating in the next phase in good faith and to come to an agreement on roles, responsibilities, and organizational strategies that would enable the movement to implement that future. In the end nearly 100 groups and organizations signed on, representing an unprecedented alignment in the history of the Wikimedia movement.\ [#Endorsements]_
 
+.. class:: rowspan-6
 
 Cyndi Suarez from *Nonprofit Quarterly* wrote that "Wikimedia's Strategic Direction Project is a Model of Democracy."\ [#NPQ2030]_ Over at *Forbes*, Michael Bernick, describing "The Power Of The Wikimedia Movement Beyond Wikimedia," concluded that "[Wikimedia] gives us glimpses of what is possible in questioning hierarchies and gatekeepers—the creativity and energy unleashed, the involvement, the common ground possible—even as it continues to question and seek to improve its own structure."\ [#ForbesBernick2030]_ Ryan Merkley is fond of saying that "No one does strategy like this."\ [#MerkleyStrategy]_ And yet, it worked.
 
@@ -143,6 +144,8 @@ From on-wiki discussions, to large conferences, to small meetups, to expert inte
 
 Citations needed
 ----------------
+
+.. class:: rowspan-7
 
 Thinking about the future is an exercise in imagination, but we're Wikimedians, so it was an exercise in imagination based on facts, trends, and sources. We looked around to figure out what we already knew about the world we would be living in in 2030. We knew that there would be a lot more people in it, particularly in Asia and Africa.\ [#UNpop]_ We knew that technology would evolve dramatically, notably through mobile devices,\ [#A16ZMobileEating]_ rich media, messaging, and new interfaces.\ [#KPInternetTrends2017]_ We knew that it would be taking about a hundred years for children in low-income countries to catch up to the education levels achieved in developed countries.\ [#BrookingsEdGap]_ And we knew that there was a trend towards a centralization of the Internet\ [#FastCoBreakingInternet]_ and a consolidation of power in the hands of a few giant companies,\ [#EconomistRiseSuperstars]_ particularly in the tech industry.\ [#DailyBeastMonsterTech]_
 

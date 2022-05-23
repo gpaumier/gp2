@@ -4,7 +4,7 @@
 .. icon: fa-puzzle-piece
 .. icon-alternative: fa-wikipedia-w
 .. tag: needs-date-update
-.. template: page_custom.tmpl
+.. template: page_hero.tmpl
 .. styles: page_wikimedia
 .. image: /images/Wikimedia_Summit_2019_-_Group_photo_4.jpg
 .. image-alt: Group photo of Wikimedians at the 2019 Wikimedia Summit in Berlin

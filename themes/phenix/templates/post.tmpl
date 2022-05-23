@@ -16,18 +16,13 @@
 {% block content %}
 <article class="post-default-{{ post.meta('type') }} h-entry hentry postpage {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" itemscope="itemscope" itemtype="http://schema.org/Article">
 
-    <!--{% if post.meta('image') %}
-        <img src="{{ post.meta('image') }}" class="post-image"/>
-    {% endif %}
-  -->
-
-    <header>
+    <header id="article-header">
         <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>
 
         <p class="dateline"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date( messages('date_format_long'))|e }}</time></p>
     </header>
 
-    <div class="e-content entry-content" itemprop="articleBody text">
+    <div id="article-content" class="e-content entry-content" itemprop="articleBody text">
     {{ post.text() }}
     </div>
 

@@ -25,9 +25,7 @@ Yet, this statement was only an opinion, and was not based on actual research. M
 Content and community growth
 ============================
 
-There has been much interest in the academic world about "Who writes Wikipedia?'' and whether most of the content is contributed by an elite group of participants or by occasional visitors [#]_ [#]_. Roth *et al.* studied the factors influencing wiki viability and noted a "dynamical intertwinement of population and content growth'' [#]_; they had earlier suggested that a wiki's success was linked to "a virtuous demographic path with content and contributors co-evolving" [#]_.
-
-.. class:: rowspan-2
+There has been much interest in the academic world about "Who writes Wikipedia?'' and whether most of the content is contributed by an elite group of participants or by occasional visitors.\ [#]_\ [#]_ Roth *et al.* studied the factors influencing wiki viability and noted a "dynamical intertwinement of population and content growth;''\ [#]_ they had earlier suggested that a wiki's success was linked to "a virtuous demographic path with content and contributors co-evolving."\ [#]_
 
 .. [#] \E. H. Chi, N. Kittur, B. Pendleton, and B. Suh. `Long tail of user participation in Wikipedia <http://asc-parc.blogspot.com/2007/05/long-tail-and-power-law-graphs-of-user.html>`__.
 
@@ -36,6 +34,8 @@ There has been much interest in the academic world about "Who writes Wikipedia?'
 .. [#] \C. Roth, D. Taraborelli, and N. Gilbert. Measuring wiki viability. An empirical assessment of the social dynamics of a large sample of wikis. In *Proceedings of the 4th International Symposium on Wikis - WikiSym2008*, New York, NY, USA, 2008. ACM. (`PDF <http://epubs.surrey.ac.uk/cgi/viewcontent.cgi?article=1021&context=cress>`__, 311KB)
 
 .. [#] \C. Roth. Viable wikis: Struggle for life in the wikisphere. In *WikiSym’07: Proceedings of the 2007 international symposium on Wikis*, pages 119–124, New York, NY, USA, 2007. ACM. (`PDF <http://www.patres-project.eu/images/4/47/ViableWikis.pdf>`__, 334KB)
+
+.. class:: rowstart-3 rowspan-4
 
 In a media repository like Wikimedia Commons, however, the focus of activity is on contributing new media files, rather than improving the existing ones. Once a file has been uploaded, improvements are mostly limited to metadata and peripheral information (description of the media file, copyright information, general topics, location, etc.); the files themselves are rarely edited. As a consequence, it is particularly interesting to study the dynamics of population & content in this special case. For this purpose, I studied the temporal evolution of the Files-to-active Participants ratio (F:P) and compared it to the Articles-to-active Participants (A:P) ratio on the English Wikipedia (Fig. 1, below). All the data come from `stats.wikimedia.org <http://stats.wikimedia.org>`__.
 

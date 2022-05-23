@@ -8,7 +8,7 @@
 .. styles: page_phd
 .. class: hero-h2-golden
 .. tags: labs-on-a-chip, microfluidics, PNIPAM, polymers
-.. template: page_custom.tmpl
+.. template: page_hero.tmpl
 .. has_math: true
 
 
