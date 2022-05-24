@@ -82,7 +82,7 @@ svg {
   grid-template-columns:
 
   // The left margin (larger) is in a golden relationship with the right margin (smaller). When added to the main-content, they're in a golden relationship with the smaller [side-content + right-margin] area, which enables us to have a full-width golden row as well.
-  [full-start full-golden-large-start left-margin-start] minmax(1rem, #{$golden1}fr)
+  [full-start full-golden-large-start left-margin-start] repeat(2, minmax(1rem, #{math.div($golden1, 2)}fr))
 
   // The main content is limited by its max width, and we split that zone into 4 equal columns for flexibility:
   [left-margin-end full-content-start main-content-start] repeat(4, minmax(min-content, math.div($main-content-max-width, 4)))
@@ -96,7 +96,7 @@ svg {
   [side-content-start] repeat(3, minmax(min-content, math.div($golden1 * $main-content-max-width, 3)))
 
   // The right margin (smaller) is in a golden relationship with the left margin (larger). When added to the side-content, they're in a golden relationship with the larger [left-margin + main content] area.
-  [side-content-end full-content-end right-margin-start] minmax(1rem, #{$golden2}fr)
+  [side-content-end full-content-end right-margin-start] repeat(2, minmax(1rem, #{math.div($golden2, 2)}fr))
 
   [right-margin-end full-golden-small-end full-end];
 
@@ -486,6 +486,7 @@ body
 }
 
 #masthead,
+header,
 #content,
 article.page,
 article.postpage,
@@ -494,16 +495,6 @@ article.postpage,
   grid-column: full;
   display: contents;
 }
-
-#article-header {
-  h1,
-  p.subheader,
-  img,
-  figcaption {
-    grid-column: full;
-  }
-}
-
 
 #article-content-hero-page > div {
     grid-column: full;

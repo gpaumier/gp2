@@ -16,13 +16,13 @@
 {% block content %}
 <article class="page h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 
-  <header id="article-header">
+  <header id="article-header-hero">
     <h1 class="p-name entry-title" itemprop="headline name">
       {{ post.title()|e }}
     </h1>
 
     {% if post.meta('subtitle') %}
-      <p class="subheader post-subtitle">
+      <p id="article-subheader" class="subheader post-subtitle">
         {{ post.meta('subtitle') }}
       </p>
     {% endif %}

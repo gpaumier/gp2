@@ -1,14 +1,106 @@
+@use 'sass:math';
 @use 'settings' as *;
 @use 'layout';
 
-body > header {
-  @extend %golden-grid-skeleton;
+body {
+  // same proportions as %golden-section-hero-golden, but with a few rows in each for flexibility (like adding the masthead)
+  grid-template-rows:
+  // total height of the graphic spread is 100% of the viewport's height
+  [page-start header-golden-full-start header-golden-small-start] minmax(min-content, #{$golden1 * 100}vh)  // top golden zone (smaller)
+  [header-golden-small-end header-golden-large-start] minmax(min-content, #{$golden2 * 100}vh)  // bottom golden zone (larger)
+  [header-golden-large-end header-golden-full-end figcaption-start] min-content                         // figcaption
+  [figcation-end article-start] auto
+  [article-end page-content-end page-end] ;
+
+  @media screen and (min-width: $breakpoint-medium) {
+    grid-template-rows:
+    // total height of the graphic spread is 85% of the viewport's height
+    [page-start header-golden-full-start header-golden-large-start] repeat(4, minmax(min-content, #{math.div($golden1 * 85, 4)}vh))  // top golden zone (smaller)
+    [header-golden-large-end header-golden-small-start] repeat(3, minmax(min-content, #{math.div($golden2 * 85, 3)}vh))  // bottom golden zone (larger)
+    [header-golden-small-end header-golden-full-end figcaption-start] min-content                         // figcaption
+    [figcation-end article-start] auto
+    [article-end page-content-end page-end] ;
+  }
 }
 
+
 #site-name {
-  grid-column: main-content;
+  grid-column: 2/7;
+  align-self: start;
+  grid-row: 1/2;
+  justify-self: start;
+  z-index: 2;
 }
 
 nav#languages {
   grid-column: side-content;
+  align-self: start;
+  grid-row: 1/2;
+  justify-self: end;
+  z-index: 2;
+}
+
+%article-header-common {
+  h1,
+  #article-subheader,
+  img,
+  figcaption {
+    grid-column: full;
+  }
+
+  h1 {
+    grid-column: 2/13;
+    justify-self: start;
+    grid-row: header-golden-large;
+    align-self: end;
+    z-index: 3;
+    margin-bottom: 0;
+  }
+
+  #article-subheader {
+    grid-column: 2/13;
+    justify-self: start;
+    grid-row: header-golden-small;
+    align-self: start;
+    z-index: 3;
+  }
+
+  @media screen and (min-width: $breakpoint-medium) {
+
+  }
+}
+
+
+#article-header {
+  @extend %article-header-common;
+
+  #article-content {
+    grid-row-start: 8;
+  }
+}
+
+#article-header-hero {
+  @extend %article-header-common;
+
+  img {
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+    filter: brightness(60%);
+  }
+
+  h1 {
+    color: #f3f3f3;
+    text-shadow: 0 1rem 1.5rem #000, 0 0 1.5rem #000, 1rem 1.5rem 1.5rem #000;
+  }
+
+  #article-subheader {
+    color: #f3f3f3;
+  }
+
+  @media screen and (min-width: $breakpoint-medium) {
+    img {
+      grid-row: header-golden-full;
+    }
+  }
 }

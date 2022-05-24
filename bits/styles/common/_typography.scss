@@ -55,7 +55,8 @@ h1 {
   font-size: calc(2.5rem + 2.5vw);
 }
 
-h2 {
+h2,
+#article-subheader {
   font-size: calc(2rem + 1.2vw);
 }
 
@@ -84,7 +85,8 @@ strong {
 }
 
 em,
-.admonition.note p {
+.admonition.note p,
+#article-subheader {
   @extend %phenix-serif-italic;
 }
 
