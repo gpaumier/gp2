@@ -18,9 +18,13 @@
 
 .. highlights::
 
-    I developed a miniaturized fluorescence-based immuno-assay on a microarray, and adapted a liquid-phase surface chemistry protocol to a vapor-phase protocol for microsystems.
+   I developed a miniaturized fluorescence-based immuno-assay on a microarray, and adapted a liquid-phase surface chemistry protocol to a vapor-phase protocol for microsystems.
 
-Microarrays contain thousands of spots with biological probes, like DNA or proteins, attached to the surface via a chemical layer. They rely on fluorescence and help scientists test many different samples in parallel. My goal was to adapt an antigen-antibody biological test, which had been developed in capillaries, to a planar format designed for DNA biochips. I brought these two techniques together and partnered with nearby labs to study this biological interaction with real-time fluorescence, lasers, and neutrons. I adapted the protocol to work in fragile microsystems used in the preparation of samples and the analysis of proteins. I conducted this research with Guillaume Delapierre at the Laboratory for Functionalization and Chemistry for Microsystems (LFCM) at CEA-Léti in Grenoble, France.
+   Microarrays contain thousands of spots with biological probes, like DNA or proteins, attached to the surface via a chemical layer. They rely on fluorescence and help scientists test many different samples in parallel.
+
+   My goal was to adapt an antigen-antibody biological test, which had been developed in capillaries, to a planar format designed for DNA biochips. I brought these two techniques together and partnered with nearby labs to study this biological interaction with real-time fluorescence, lasers, and neutrons.
+
+   I adapted the protocol to work in fragile microsystems used in the preparation of samples and the analysis of proteins. I conducted this research with Guillaume Delapierre at the Laboratory for Functionalization and Chemistry for Microsystems (LFCM) at CEA-Léti in Grenoble, France.
 
 
 Technical abstract

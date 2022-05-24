@@ -16,7 +16,7 @@
 {% block content %}
 <article class="page h-entry hentry postpage page-default " itemscope="itemscope" itemtype="http://schema.org/WebPage">
 
-    <header id="article-header">
+    <header id="article-header-default">
       <h1 class="p-name entry-title" itemprop="headline name">
         {{ post.title()|e }}
       </h1>
@@ -28,7 +28,7 @@
       {% endif %}
     </header>
 
-    <div id="article-content" class="e-content entry-content {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" itemprop="articleBody text">
+    <div id="article-content-default" class="e-content entry-content {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" itemprop="articleBody text">
       {{ post.text() }}
     </div>
 

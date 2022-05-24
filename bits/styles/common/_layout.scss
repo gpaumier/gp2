@@ -457,8 +457,6 @@ svg {
         //we want the width of this border to be in a golden relationship with the whitespace on either side of it
         width: #{$golden2 * 100%};
         margin-left: #{math.div($golden1, 2) * 100%};
-        //margin-bottom: calc(-2rem - 1.2vw); // = minus h2 font size
-        //margin-top: calc(-2rem - 1.2vw);
       }
     }
 
@@ -480,29 +478,30 @@ svg {
 
 // Site-wide layouts ///////////////////////////////////////////////////////////
 
-body
+#masthead,
+#article-header-default,
+#article-header-hero,
 {
   @extend %golden-grid-skeleton;
 }
 
-#masthead,
-header,
-#content,
-article.page,
-article.postpage,
-#article-header,
-#article-content-hero-page {
-  grid-column: full;
-  display: contents;
-}
+// article.page,
+// article.postpage,
+// #article-content-hero {
+//   grid-column: full;
+//   display: contents;
+// }
+//
+// #article-content-default,
+// #article-content-hero > div {
+//     grid-column: full;
+//     grid-row: 8/9
+// }
 
-#article-content-hero-page > div {
-    grid-column: full;
-}
-
-#article-content,
-section {
-  grid-column: full;
+#article-content-default,
+section,
+// On hero pages, the golden grid is at the level of sections, so we need to make .highlights a golder grid as well
+#article-content-hero .highlights {
   @extend %golden-grid;
 }
 

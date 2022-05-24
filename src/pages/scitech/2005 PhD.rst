@@ -20,10 +20,11 @@
 
 .. highlights::
 
-    During my research, I worked at the crossroads of physics, microelectronics, biology and chemistry to develop miniaturized laboratories based on a polymer that changes properties with temperature.
+   During my research, I worked at the crossroads of physics, microelectronics, biology and chemistry to develop miniaturized laboratories based on a polymer that changes properties with temperature.
 
+   Using techniques developed for microelectronics, researchers are able to miniaturize entire lab functions to the size of a microchip, paving the way for cheap, reliable testing kits and biomedical devices that fit in your pocket. However, shrinking a whole lab onto a chip changes the balance of physical forces, and how liquids behave at the microscale.
 
-Using techniques developed for microelectronics, researchers are able to miniaturize entire lab functions to the size of a microchip, paving the way for cheap, reliable testing kits and biomedical devices that fit in your pocket. However, shrinking a whole lab onto a chip changes the balance of physical forces, and how liquids behave at the microscale. My research centered around PNIPAM, a polymer whose properties change with temperature. I studied how to use PNIPAM to control the flow of fluids in micro channels, and to trap and release proteins for biological analysis. I conducted this research with Anne-Marie Gué and Jan Sudor at the Laboratory for Analysis and Architecture of Systems (LAAS-CNRS) in Toulouse, France.
+   My research centered around PNIPAM, a polymer whose properties change with temperature. I studied how to use PNIPAM to control the flow of fluids in micro channels, and to trap and release proteins for biological analysis. I conducted this research with Anne-Marie Gué and Jan Sudor at the Laboratory for Analysis and Architecture of Systems (LAAS-CNRS) in Toulouse, France.
 
 
 Technical abstract

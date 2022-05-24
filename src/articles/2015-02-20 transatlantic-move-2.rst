@@ -1,4 +1,5 @@
-.. title: Transatlantic move II: They're back – with a checklist
+.. title: Transatlantic move II
+.. subtitle: They're back – with a checklist
 .. category: articles-en
 .. slug: transatlantic-move-2
 .. date: 2015-02-20 16:25:18

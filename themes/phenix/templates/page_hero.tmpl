@@ -30,7 +30,7 @@
     {{ post.text() | get_lead_figure }}
   </header>
 
-  <div id="article-content-hero-page" class="e-content entry-content {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" itemprop="articleBody text">
+  <div id="article-content-hero" class="e-content entry-content {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" itemprop="articleBody text">
     {{ post.text() | remove_lead_figure }}
   </div>
 
