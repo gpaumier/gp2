@@ -1,5 +1,5 @@
-.. title: Wikimedia
-.. subtitle: Knowledge belongs to all of us.
+.. title: Knowledge belongs to all of us
+.. subtitle: My years in the Wikimedia movement
 .. slug: wikimedia
 .. icon: fa-puzzle-piece
 .. icon-alternative: fa-wikipedia-w

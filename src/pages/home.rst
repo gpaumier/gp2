@@ -4,6 +4,7 @@
 .. styles: page_homepage
 .. class: hero-h2-golden
 
+.. TODO: change h1 to Guillaume Paumier
 
 .. figure:: /images/2017-08-20_GPaumier_warm.jpg
    :figwidth: 10em

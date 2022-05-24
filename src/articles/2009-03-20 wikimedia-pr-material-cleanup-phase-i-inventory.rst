@@ -1,4 +1,5 @@
-.. title: Wikimedia PR material cleanup — Phase I: Inventory
+.. title: Wikimedia PR material cleanup
+.. subtitle: Phase I: Inventory
 .. category: articles-en
 .. slug: wikimedia-pr-material-cleanup-phase-i-inventory
 .. date: 2009-03-20 20:34:32
