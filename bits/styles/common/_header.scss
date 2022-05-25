@@ -31,22 +31,6 @@
 }
 
 %article-header-common {
-  // same proportions as %golden-section-hero-golden, but with a few rows in each for flexibility (like adding the masthead)
-  grid-template-rows:
-  // total height of the graphic spread is 100% of the viewport's height
-  [header-start header-golden-full-start header-golden-large-start] minmax(min-content, #{$golden1 * 100}vh)  // top golden zone (smaller)
-  [header-golden-large-end header-golden-small-start] minmax(min-content, #{$golden2 * 100}vh)  // bottom golden zone (larger)
-  [header-golden-small-end header-golden-full-end figcaption-start] min-content                         // figcaption
-  [figcation-end header-end] ;
-
-  @media screen and (min-width: $breakpoint-medium) {
-    grid-template-rows:
-    // total height of the graphic spread is 85% of the viewport's height
-    [header-start header-golden-full-start header-golden-large-start] repeat(4, minmax(min-content, #{math.div($golden1 * 85, 4)}vh))  // top golden zone (smaller)
-    [header-golden-large-end header-golden-small-start] repeat(3, minmax(min-content, #{math.div($golden2 * 85, 3)}vh))  // bottom golden zone (larger)
-    [header-golden-small-end header-golden-full-end figcaption-start] min-content                         // figcaption
-    [figcation-end header-end] ;
-  }
 
   h1,
   #article-subheader,
@@ -89,10 +73,44 @@
 
 #article-header-default {
   @extend %article-header-common;
+
+  // similar to article-header-hero but taking up less vertical space because we only have a title (and maybe subtitle) but no graphic spread
+  grid-template-rows:
+  // total height of the graphic spread is 100% of the viewport's height
+  [header-start header-golden-full-start header-golden-large-start] minmax(min-content, #{$golden1 * 100}vh)  // top golden zone (smaller)
+  [header-golden-large-end header-golden-small-start] minmax(min-content, #{$golden2 * 100}vh)  // bottom golden zone (larger)
+  [header-golden-small-end header-golden-full-end figcaption-start] min-content                         // figcaption
+  [figcation-end header-end] ;
+
+  @media screen and (min-width: $breakpoint-medium) {
+    grid-template-rows:
+    // total height of the graphic spread is 85% of the viewport's height
+    [header-start header-golden-full-start header-golden-large-start] repeat(4, minmax(min-content, #{math.div($golden1 * 50, 4)}vh))  // top golden zone (smaller)
+    [header-golden-large-end header-golden-small-start] repeat(3, minmax(min-content, #{math.div($golden2 * 50, 3)}vh))  // bottom golden zone (larger)
+    [header-golden-small-end header-golden-full-end figcaption-start] min-content                         // figcaption
+    [figcation-end header-end] ;
+  }
 }
 
 #article-header-hero {
   @extend %article-header-common;
+
+  // same proportions as %golden-section-hero-golden, but with a few rows in each for flexibility (like adding the masthead)
+  grid-template-rows:
+  // total height of the graphic spread is 100% of the viewport's height
+  [header-start header-golden-full-start header-golden-large-start] minmax(min-content, #{$golden1 * 100}vh)  // top golden zone (smaller)
+  [header-golden-large-end header-golden-small-start] minmax(min-content, #{$golden2 * 100}vh)  // bottom golden zone (larger)
+  [header-golden-small-end header-golden-full-end figcaption-start] min-content                         // figcaption
+  [figcation-end header-end] ;
+
+  @media screen and (min-width: $breakpoint-medium) {
+    grid-template-rows:
+    // total height of the graphic spread is 85% of the viewport's height
+    [header-start header-golden-full-start header-golden-large-start] repeat(4, minmax(min-content, #{math.div($golden1 * 85, 4)}vh))  // top golden zone (smaller)
+    [header-golden-large-end header-golden-small-start] repeat(3, minmax(min-content, #{math.div($golden2 * 85, 3)}vh))  // bottom golden zone (larger)
+    [header-golden-small-end header-golden-full-end figcaption-start] min-content                         // figcaption
+    [figcation-end header-end] ;
+  }
 
   img {
     height: 100%;
