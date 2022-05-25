@@ -98,21 +98,39 @@
     height: 100%;
     object-fit: cover;
     z-index: 0;
-    filter: brightness(60%);
+    //filter: brightness(60%);
   }
 
-  h1 {
-    color: #f3f3f3;
-    text-shadow: 0 0 1.5rem #000,1rem 1rem 1.5rem #000,-1rem -1rem 1.5rem #000, 0 1rem 1.5rem #000;
-  }
-
+  h1,
   #article-subheader {
     color: #f3f3f3;
+    text-shadow: 0 0 1.5rem #000,0 0 1rem #000;
+  }
+
+  // box-shadows to simulate depth, similar to layout.%olden-section
+  &::before {
+    content: '';
+    grid-row: header-golden-full;
+    grid-column: full;
+    box-shadow: 0 0 2rem 0 #44000077;
+    z-index: 4;
   }
 
   @media screen and (min-width: $breakpoint-medium) {
+
     img {
       grid-row: header-golden-full;
+    }
+
+    // gradient for better legibility of text on the left side. Pseudo-element needs to be a child of the grid in order to be placed on it.
+
+    &::after {
+      content: '';
+      background: linear-gradient(60deg, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0) 80%, rgba(0,0,0,0) 100%);
+      // TODO: see if we can figure out the proper angle of the gradient by using viewport units and arctangent
+      grid-column: full;
+      grid-row: header-golden-full;
+      z-index: 2;
     }
   }
 }

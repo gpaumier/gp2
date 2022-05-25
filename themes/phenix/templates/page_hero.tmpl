@@ -18,7 +18,11 @@
 
   <header id="article-header-hero">
     <h1 class="p-name entry-title" itemprop="headline name">
-      {{ post.title()|e }}
+      {% if post.meta('h1-override') %}
+        {{ post.meta('h1-override') }}
+      {% else %}
+        {{ post.title()|e }}
+      {% endif %}
     </h1>
 
     {% if post.meta('subtitle') %}

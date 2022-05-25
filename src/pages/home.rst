@@ -1,36 +1,41 @@
 .. title: Homepage
+.. subtitle: I'm an expert at untangling things and reweaving them in ways that make sense.
+.. h1-override: Hi, I'm Guillaume.
 .. slug: index
-.. template: homepage.tmpl
+.. template: page_hero.tmpl
 .. styles: page_homepage
 .. class: hero-h2-golden
 
 .. TODO: change h1 to Guillaume Paumier
 
 .. figure:: /images/2017-08-20_GPaumier_warm.jpg
-   :figwidth: 10em
+   :figclass: lead-figure
 
 .. highlights::
 
-    Hi there.
+   Hi there.
 
-    I'm Guillaume, and I use my superpowers for good. I'm an expert at untangling things and reweaving them in ways that make sense.
+   I'm Guillaume,\ [#pronunciation]_ and I use my superpowers for good. I'm an expert at untangling things and reweaving them in ways that make sense.
 
-    (pronounced "gui-yom" (:abbr:`IPA (International Phonetic Alphabet)`: [ɡijom])
+   .. [#pronunciation] pronounced "gui-yom" (:abbr:`IPA (International Phonetic Alphabet)`: [ɡijom].
 
+   In my work, I guide executives and mission-driven organizations through intricate, interdisciplinary challenges using integrative thinking, curiosity, and empathy.
 
-In my work, I guide executives and mission-driven organizations through intricate, interdisciplinary challenges using integrative thinking, curiosity, and empathy.
+   In recent years, I have developed a specialty of serving as a trusted agent, confidant, and thought partner for executives. I have focused on strategic planning, revenue strategy, and generally bringing clarity to complex socio-technical problems.
 
-In recent years, I have developed a specialty of serving as a trusted agent, confidant, and thought partner for executives. I have focused on strategic planning, revenue strategy, and generally bringing clarity to complex socio-technical problems.
+   .. class:: rowspan-3
 
-I like to tackle complex problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process, culminating with a hundred independent organizations worldwide agreeing on a common strategic direction.\ [#Wikimedia2030]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [#PNIPAM]_ Or designing software that powers the World's largest photography competition.
+   I like to tackle complex problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process, culminating with a hundred independent organizations worldwide agreeing on a common strategic direction.\ [#Wikimedia2030]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [#PNIPAM]_ Or designing software that powers the World's largest photography competition.
 
-I currently work at the Wikimedia Foundation, the nonprofit organization that brings free knowledge to hundreds of millions of people every month, and supports them as they collectively make sense of our world.
+   I currently work at the Wikimedia Foundation, the nonprofit organization that brings free knowledge to hundreds of millions of people every month, and supports them as they collectively make sense of our world.
 
-Read on to learn more about my story, or :ref:`scroll down <footer-contact>` to contact me.
+   Read on to learn more about my story, or :ref:`scroll down <footer-contact>` to contact me.
 
-.. [#Wikimedia2030] :doc:`Wikimedia 2030: participatory strategy for a global movement <wikimedia2030>`
+   .. class:: rowstart-6
+   .. [#Wikimedia2030] :doc:`Wikimedia 2030: participatory strategy for a global movement <wikimedia2030>`
 
-.. [#PNIPAM] :doc:`Ph.D thesis: PNIPAM technologies for labs-on-chips <phd>`
+   .. class:: rowstart-7
+   .. [#PNIPAM] :doc:`Ph.D thesis: PNIPAM technologies for labs-on-chips <phd>`
 
 .. .. [3] :doc:`Wikimedia Commons UploadWizard <uploadwizard>`
 

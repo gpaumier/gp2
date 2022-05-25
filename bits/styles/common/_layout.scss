@@ -46,6 +46,16 @@ header {
   text-align: right;
 }
 
+// Remove side margins for blockquote, and add a border. Article highlights, which are rendered as a blockquote for some reason, are unaffected by the border because they're a grid, and border doesn't apply to those.
+
+blockquote {
+  margin-left: 0;
+  margin-right: 0;
+  border-left: .4rem solid $primary-color;
+  margin-left: -1rem;
+  padding-left: 1rem;
+}
+
 
 // Objects, videos need to be constrained to their parent.
 
