@@ -3,8 +3,11 @@
 .. slug: autistic-wikipedian
 .. date: 2015-07-29 17:14:00
 .. tags: Wikimedia
+.. template: post_hero.tmpl
 .. image: /images/2013-03-08_Death_Valley_5903.jpg
 
+.. figure:: /images/2013-03-08_Death_Valley_5903.jpg
+   :figclass: lead-figure
 
 .. highlights::
 
