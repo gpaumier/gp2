@@ -23,7 +23,7 @@
 
    In 2016–2017, I was a Lead Architect for Wikimedia 2030, a global, participatory strategy process involving dozens of movement organizations and thousands of individuals. I was key in designing the process and guiding the movement through an intense exercise involving several cycles of community discussions, in-person events, interviews with experts, and commissioned research.
 
-   I led the synthesis of all inputs, conversations, and research into several drafts that were further discussed and edited. I was the main author of the Strategic Direction that emerged and went on to be endorsed by hundred Wikimedia organizations around the world.
+   I led the synthesis of all inputs, conversations, and research into several drafts that were further discussed and edited. I was the main author of the Strategic Direction that emerged and went on to be endorsed by a hundred Wikimedia organizations around the world.
 
    The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now serves as the compass for multi-year strategic planning by Wikimedia organizations, and guides decision-making around roles, responsibilities, and resources in the Wikimedia movement.
 

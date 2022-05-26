@@ -204,6 +204,7 @@ interdisciplinarity
 thermoresponsive polymer
 microsystem
 
+Wikimedia tech stuff: Upload wizard, technical writing, etc.
 
 .. TODO: Add link to studies page once written: :doc:`engineering physics and nanotechnology <studies>`,
 
@@ -273,11 +274,7 @@ We moved in the middle of the school year.\ [#troisieme]_ While the curriculum w
 
 After high school, I went on to college at *Université de la Réunion* to study math, computer science, and some physics & chemistry on the side. After my first year, we moved back to Normandy, which meant doing the transfer dance all over again.
 
-The university curriculum was less standardized, and I had a lot to catch up on, but I didn't mind. On the contrary, I felt like it was an opportunity for me to learn about new things.
-
-.. pull-quote::
-
-   I started to realize that I needed to be intellectually stimulated, and that I had the capacity to adapt and catch up quickly.
+The university curriculum was less standardized, and I had a lot to catch up on, but I didn't mind. On the contrary, I felt like it was an opportunity for me to learn about new things. I started to realize that I needed to be intellectually stimulated, and that I had the capacity to adapt and catch up quickly.
 
 A year later, I enrolled at a *Grande École* to study engineering physics, microelectronics, and nanotechnology. One reason was that I loved how physics helped me understand the world. Another reason was that the idea of getting a Doctorate in Physics sounded cool. Another reason was that I had read a science-fiction book a few years earlier,\ [#faust]_ in which nanotechnology was used to improve physical performance, and 19-year-old-Guillaume-with-body-image-issues was finding that concept fascinating. Another reason was that the college was in Toulouse, a lovely city in southwestern France with much less rain than Normandy.
 
