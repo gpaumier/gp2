@@ -1,0 +1,12 @@
+[Core]
+name = scale_images_multiple
+module = scale_images_multiple
+
+[Documentation]
+author = Pelle Nilsson, Guillaume Paumier
+version = 0.1
+website = https://getnikola.com/
+description = Create down-scaled images and thumbnails in multiple sizes
+
+[Nikola]
+PluginCategory = Task

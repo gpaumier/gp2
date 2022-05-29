@@ -82,7 +82,7 @@ TIMEZONE = "America/Los_Angeles"
 
 
 
-FILES_FOLDERS = {'src/files': ''}
+#FILES_FOLDERS = {'src/files': ''}
 
 
 LISTINGS_FOLDERS = {'src/listings': 'listings'}
@@ -187,8 +187,8 @@ COPY_SOURCES = False
 
 FEED_TEASERS = False
 
-
-# DISABLED_PLUGINS = ["render_galleries"]
+# Disable the build-in image scaling plugin since we're adapting it in a custom copy:
+DISABLED_PLUGINS = ["scale_images"]
 
 
 # Templates will use those filters, along with the defaults.
