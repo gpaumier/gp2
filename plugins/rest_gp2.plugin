@@ -1,0 +1,13 @@
+[Core]
+name = rest_gp2
+module = rest_gp2
+
+[Documentation]
+author = Roberto Alsina, Guillaume Paumier
+version = 0.1
+website = https://getnikola.com/
+description = Compile reST into HTML, with some tweaks
+
+[Nikola]
+PluginCategory = Compiler
+friendlyname = reStructuredText_gp2
