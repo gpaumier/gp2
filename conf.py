@@ -155,9 +155,10 @@ FILTERS = {
 # The format is a dictionary of {source: relative destination}.
 
 IMAGE_FOLDERS = {
-    'src/images/others': 'images',
-    'src/images/others-free': 'images',
-    'src/images/own': 'images'
+    #'src/images/others': 'images',
+    #'src/images/others-free': 'images',
+    #'src/images/own': 'images',
+    'src/test-images': 'images',
     }
 # IMAGE_THUMBNAIL_SIZE = 400
 PRESERVE_EXIF_DATA = True
