@@ -41,6 +41,8 @@ class ScaleImageMultiple(Task, ImageProcessor):
     def process_tree(self, src, dst):
         """Process all images in a src tree and put the (possibly) rescaled images in the dst folder."""
         #thumb_fmt = self.kw['image_thumbnail_format']
+        srcset_fmt = self.kw['image_srcset_format']
+        srcset_sizes = self.kw['image_srcset_sizes']
         base_len = len(src.split(os.sep))
         for root, dirs, files in os.walk(src, followlinks=True):
             root_parts = root.split(os.sep)
@@ -56,28 +58,41 @@ class ScaleImageMultiple(Task, ImageProcessor):
                 #     name=thumb_name,
                 #     ext=thumb_ext,
                 # ))
+                srcset_name, srcset_ext = os.path.splitext(src_name)
+                # Create the list of filenames, starting with the "max_sized" version that bears the same name as the original file:
+                dsts = [dst_file]
+                # Now add all the other filenames, based on their size:
+                for srcset_size in srcset_sizes:
+                    srcset_size_file = os.path.join(dst_dir, srcset_fmt.format(
+                        name = srcset_name,
+                        size = srcset_size,
+                        ext = srcset_ext,
+                    ))
+                    dsts.append(srcset_size_file)
                 yield {
                     'name': dst_file,
                     'file_dep': [src_file],
                     #'targets': [dst_file, thumb_file],
-                    'targets': [dst_file],
+                    'targets': dsts,
                     #'actions': [(self.process_image, (src_file, dst_file, thumb_file))],
-                    'actions': [(self.process_image, (src_file, dst_file))],
+                    'actions': [(self.process_image, (src_file, dsts))],
                     'clean': True,
                 }
 
     #def process_image(self, src, dst, thumb):
-    def process_image(self, src, dst):
+    def process_image(self, src, dsts):
         """Resize an image."""
+
+        # Make sure the order here is the same as the order of the list of filenames
+        sizes = [self.kw['max_image_size']]
+        sizes.extend(self.kw['image_srcset_sizes'])
+
         self.resize_image(
-
-            # For reference: resize_image(self, src, dst=None, max_size=None, bigger_panoramas=True, preserve_exif_data=False, exif_whitelist={}, preserve_icc_profiles=False, dst_paths=None, max_sizes=None)
-
             src,
             #dst_paths=[dst, thumb],
-            dst_paths=[dst],
+            dst_paths=dsts,
             #max_sizes=[self.kw['max_image_size'], self.kw['image_thumbnail_size']],
-            max_sizes=[self.kw['max_image_size']],
+            max_sizes=sizes,
             bigger_panoramas=True,
             preserve_exif_data=self.kw['preserve_exif_data'],
             exif_whitelist=self.kw['exif_whitelist'],
@@ -89,6 +104,8 @@ class ScaleImageMultiple(Task, ImageProcessor):
         self.kw = {
             #'image_thumbnail_size': self.site.config['IMAGE_THUMBNAIL_SIZE'],
             #'image_thumbnail_format': self.site.config['IMAGE_THUMBNAIL_FORMAT'],
+            'image_srcset_sizes': self.site.config['IMAGE_SRCSET_SIZES'],
+            'image_srcset_format': self.site.config['IMAGE_SRCSET_FORMAT'],
             'max_image_size': self.site.config['MAX_IMAGE_SIZE'],
             'image_folders': self.site.config['IMAGE_FOLDERS'],
             'output_folder': self.site.config['OUTPUT_FOLDER'],

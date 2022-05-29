@@ -161,6 +161,11 @@ IMAGE_FOLDERS = {
     'src/test-images': 'images',
     }
 # IMAGE_THUMBNAIL_SIZE = 400
+
+IMAGE_SRCSET_SIZES = [400, 800, 1200, 1600, 2400, 3200]
+IMAGE_SRCSET_FORMAT = '{name}.{size}{ext}'
+IMAGE_COPY_ORIGINAL = True
+
 PRESERVE_EXIF_DATA = True
 EXIF_WHITELIST = {'*': '*'}
 
