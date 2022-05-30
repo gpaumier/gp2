@@ -7,10 +7,10 @@ import lxml.etree as le
 
 # walk the document and find all the <img>
 
-def rewrite_images (html):
+def rewrite_images (data):
     #import doit
     #doit.tools.set_trace()
-    return html
+    return data
 
 ################################################################
 ################################################################
