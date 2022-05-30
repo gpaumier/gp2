@@ -88,7 +88,7 @@ TIMEZONE = "America/Los_Angeles"
 LISTINGS_FOLDERS = {'src/listings': 'listings'}
 
 COMPILERS = {
-    "rest_gp2": ('.rst', '.txt'),
+    "rest": ('.rst', '.txt'),
     "ipynb": ('.ipynb',),
 }
 
