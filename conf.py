@@ -120,10 +120,14 @@ INDEX_PATH = "list"
 ARCHIVE_PATH = ""
 
 from nikola import filters
-#from custom_filters import *
+from nikola.filters import apply_to_text_file
+from custom_filters.rewrite_images import rewrite_images
 
 FILTERS = {
-    ".html": [filters.typogrify],
+    ".html": [
+        filters.typogrify,
+        apply_to_text_file(rewrite_images)
+    ],
 #    ".js": [filters.closure_compiler],
 #    ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
 }
