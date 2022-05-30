@@ -17,10 +17,26 @@ from docutils.writers import html5_polyglot
 
 class WriterGP2(html5_polyglot.Writer):
 
-    def __init__(self):
+    def __init__(self, site):
         html5_polyglot.Writer.__init__(self)
         self.translator_class = HTMLTranslatorGP2
 
+        #image_srcset_sizes = site.config['IMAGE_SRCSET_SIZES']
+
+
+
+def build_srcset(image_uri):
+    srcset = ''
+    file_exts = ['jpg', 'png']
+    # We only build srcsets for JPG and PNG files for now
+    #if ext not in file_exts:
+    #    return srcset
+
+    srcset = '../images/plants_3808.3200.jpg 3200w'
+    import doit
+    doit.tools.set_trace()
+
+    return srcset
 
 class HTMLTranslatorGP2(html5_polyglot.HTMLTranslator):
 
@@ -30,7 +46,14 @@ class HTMLTranslatorGP2(html5_polyglot.HTMLTranslator):
 
     def visit_image(self, node):
         atts = {}
+
         uri = node['uri']
+        srcset = build_srcset(uri)
+        import doit
+        doit.tools.set_trace()
+        if srcset:
+            atts['srcset'] = srcset
+
         mimetype = mimetypes.guess_type(uri)[0]
         if mimetype not in self.videotypes:
             # ORIGINAL: return super(HTMLTranslator, self).visit_image(node)

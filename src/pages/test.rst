@@ -1,5 +1,8 @@
 .. title: test page
 .. slug: test
 
-.. figure:: /images/plants_3808.jpg
+.. image:: /images/plants_3808.jpg
    :align: right
+
+.. figure:: /images/baking_8358.jpg
+   :align: left

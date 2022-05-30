@@ -67,6 +67,7 @@ class ScaleImageMultiple(Task, ImageProcessor):
                         name = srcset_name,
                         size = srcset_size,
                         ext = srcset_ext,
+                        #ext = '.webp',
                     ))
                     dsts.append(srcset_size_file)
                 yield {

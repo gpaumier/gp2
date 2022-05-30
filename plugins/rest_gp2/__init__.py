@@ -93,8 +93,10 @@ class CompileRestGP2(rest.CompileRest):
         if self.site.config.get('HIDE_REST_DOCINFO', False):
             self.site.rst_transforms.append(RemoveDocinfo)
 
-        writer_gp2 = WriterGP2()
-        #doit.tools.set_trace()
+        import doit
+        doit.tools.set_trace()
+        # Create our custom writer and give it our site object so we can get things like config options for srcset sizes:
+        writer_gp2 = WriterGP2(self.site)
 
         output, error_level, deps, _ = rest.rst2html(
             new_data, settings_overrides=settings_overrides, logger=self.logger, source_path=source_path, l_add_ln=add_ln, transforms=self.site.rst_transforms, writer=writer_gp2,
