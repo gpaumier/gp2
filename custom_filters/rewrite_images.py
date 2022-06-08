@@ -59,16 +59,18 @@ def rewrite_raster(node, image_srcset_format):
     srcset_list = get_srcset_list(src)
 
     # Build our srcset attribute:
-    srcset = ''
+    srcsets = []
     src_name, src_ext = os.path.splitext(src)
     full_srcset_fmt = image_srcset_format + " {size}w"
 
     for src_size in srcset_list:
-        srcset = ' '.join([srcset, full_srcset_fmt.format(
+        srcsets.extend([full_srcset_fmt.format(
             name = src_name,
             size = src_size,
-            ext = src_ext)
-            ])
+            ext = src_ext)]
+        )
+
+    srcset = ', '.join(srcsets)
 
     # Determine the relevant sizes for the image in the page context:
     sizes = get_sizes(node)
@@ -106,6 +108,18 @@ def get_sizes(node):
     # Is one of the node's parents an <aside> element? (meaning we're in the sidebar aka smaller golden content side)
     #doit.tools.set_trace()
     #path = node.getroottree().getpath(node)
+
+    # CSS settings from bits/styles/_settings.scss
+    breakpoint_large = '1024px'
+    breakpoint_medium = '750px'
+
+    phi = (1 + 5 ** 0.5) / 2
+    golden1 = 1 / phi
+    golden2 = 1 / phi ** 2
+    main_content_max_width = '65ch'
+
+    # Container sizes reflect layouts from the olden grids in
+    # bits/styles/common/_layout.scss
 
     sizes = {
         'aside': 'aside',
