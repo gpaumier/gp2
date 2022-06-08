@@ -126,7 +126,7 @@ from custom_filters.rewrite_images import rewrite_images
 FILTERS = {
     ".html": [
         filters.typogrify,
-        apply_to_text_file(rewrite_images)
+        rewrite_images,
     ],
 #    ".js": [filters.closure_compiler],
 #    ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
