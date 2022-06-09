@@ -116,17 +116,29 @@ def get_sizes(node):
     phi = (1 + 5 ** 0.5) / 2
     golden1 = 1 / phi
     golden2 = 1 / phi ** 2
-    main_content_max_width = '65ch'
+    main_content_max_width = 65 #units: ch
 
-    # Container sizes reflect layouts from the olden grids in
+    # Container sizes reflect layouts from the golden grids in
     # bits/styles/common/_layout.scss
 
     sizes = {
-        'aside': 'aside',
-        'full-content': 'full-content',
+        # The default size is always 100vw on narrow viewports.
+        # The sizes on wider viewports are based on the golden grid and golden ratio.
+
+        # The sidebar is in a golden relationship with main-content:
+        'aside': '(max-width: {}) 100vw, {}ch'.format(breakpoint_medium, main_content_max_width * golden1),
+
+        # Full-content is the sum of default and aside (a.k.a. default * phi), plus the separating gutter, ignored on first approximation:
+        'full-content': '(max-width: {}) 100vw, {}ch'.format(breakpoint_medium, main_content_max_width * phi),
+
+        # Hero h2 spreads are trivial to calculare from the viewport width:
         'hero-h2-golden': '(max-width: {}) 100vw, {}vw'.format(breakpoint_medium, golden1 * 100),
+
+        # The article header hero always takes up the full width of the viewport:
         'article-header-hero': '100vw',
-        'default': 'default'
+
+        # The default size is main-content above the breakpoint, a.k.a. 65ch (main_content_max_width) at most. We can probably make this more efficient by calculating the width when it's fewer than 65ch, but this works for now.
+        'default': '(max-width: {}) 100vw, {}ch'.format(breakpoint_medium, main_content_max_width)
     }
 
     asides = node.iterancestors('aside')
