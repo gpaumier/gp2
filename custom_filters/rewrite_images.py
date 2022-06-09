@@ -124,7 +124,7 @@ def get_sizes(node):
     sizes = {
         'aside': 'aside',
         'full-content': 'full-content',
-        'hero-h2-golden': 'hero-h2-golden',
+        'hero-h2-golden': '(max-width: {}) 100vw, {}vw'.format(breakpoint_medium, golden1 * 100),
         'article-header-hero': '100vw',
         'default': 'default'
     }
