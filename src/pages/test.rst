@@ -3,11 +3,11 @@
 .. class: hero-h2-golden
 
 .. image:: /images/plants_3808.jpg
-   :align: center
+   :align: left
 
 .. figure:: /images/baking_8358.jpg
    :align: left
-   :figclass: left
+   :figclass: center
 
 H2 title
 ========
@@ -17,4 +17,4 @@ H2 title
 .. sidebar::
 
    .. figure:: /images/baking_8358.jpg
-      :align: center
+      :align: left
