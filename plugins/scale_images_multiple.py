@@ -31,6 +31,7 @@ import os
 from nikola.plugin_categories import Task
 from nikola.image_processing import ImageProcessor
 from nikola import utils
+from PIL import Image
 
 
 class ScaleImageMultiple(Task, ImageProcessor):
@@ -55,7 +56,7 @@ class ScaleImageMultiple(Task, ImageProcessor):
                 srcset_name, srcset_ext = os.path.splitext(src_name)
 
                 # Find out the width of the image so we only resize up to that size
-                src_width = get_image_width(src_file)
+                src_width = Image.open(src_file).size[0]
                 srcset_sizes = [ size for size in srcset_sizes_all if (size < src_width) ]
                 
                 # Create the list of filenames, starting with the "max_sized" version that bears the same name as the original file:
@@ -120,8 +121,3 @@ class ScaleImageMultiple(Task, ImageProcessor):
                 task['basename'] = self.name
                 task['uptodate'] = [utils.config_changed(self.kw)]
                 yield utils.apply_filters(task, filters)
-
-def get_image_width(path):
-        """Look up the width of an image so we only resize up to that width."""
-
-        return 1500
