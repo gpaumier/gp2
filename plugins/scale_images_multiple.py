@@ -61,15 +61,30 @@ class ScaleImageMultiple(Task, ImageProcessor):
                 
                 # Create the list of filenames, starting with the "max_sized" version that bears the same name as the original file:
                 dsts = [dst_file]
+
                 # Now add all the other filenames, based on their size:
                 for srcset_size in srcset_sizes:
                     srcset_size_file = os.path.join(dst_dir, srcset_fmt.format(
                         name = srcset_name,
                         size = srcset_size,
                         ext = srcset_ext,
-                        #ext = '.webp',
                     ))
                     dsts.append(srcset_size_file)
+
+                # If we have extra output formats for images, we need to add them to the list as well:
+                for extra_format in self.kw['extra_image_extensions']:
+                    # First the largest / default image:
+                    dsts.append(os.path.join(dst_dir, srcset_name + extra_format))
+                    
+                    # Then the smaller ones:
+                    for srcset_size in srcset_sizes:
+                        srcset_size_file = os.path.join(dst_dir, srcset_fmt.format(
+                            name = srcset_name,
+                            size = srcset_size,
+                            ext = extra_format,
+                        ))
+                        dsts.append(srcset_size_file)
+                        
                 yield {
                     'name': dst_file,
                     'file_dep': [src_file],
@@ -82,8 +97,11 @@ class ScaleImageMultiple(Task, ImageProcessor):
         """Resize an image."""
 
         # Make sure the order here is the same as the order of the list of filenames
+        
         sizes = [self.kw['max_image_size']]
         sizes.extend(srcset_sizes)
+        if self.kw['extra_image_extensions']:
+            sizes = sizes * (1 + len(self.kw['extra_image_extensions']))
 
         self.resize_image(
             src,
@@ -100,6 +118,7 @@ class ScaleImageMultiple(Task, ImageProcessor):
         self.kw = {
             'image_srcset_sizes': self.site.config['IMAGE_SRCSET_SIZES'],
             'image_srcset_format': self.site.config['IMAGE_SRCSET_FORMAT'],
+            'extra_image_extensions': self.site.config['EXTRA_IMAGE_EXTENSIONS'],
             'max_image_size': self.site.config['MAX_IMAGE_SIZE'],
             'image_folders': self.site.config['IMAGE_FOLDERS'],
             'output_folder': self.site.config['OUTPUT_FOLDER'],
