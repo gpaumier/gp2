@@ -40,7 +40,6 @@ class ScaleImageMultiple(Task, ImageProcessor):
 
     def process_tree(self, src, dst):
         """Process all images in a src tree and put the (possibly) rescaled images in the dst folder."""
-        #thumb_fmt = self.kw['image_thumbnail_format']
         srcset_fmt = self.kw['image_srcset_format']
         srcset_sizes = self.kw['image_srcset_sizes']
         base_len = len(src.split(os.sep))
@@ -53,11 +52,6 @@ class ScaleImageMultiple(Task, ImageProcessor):
                     continue
                 dst_file = os.path.join(dst_dir, src_name)
                 src_file = os.path.join(root, src_name)
-                # thumb_name, thumb_ext = os.path.splitext(src_name)
-                # thumb_file = os.path.join(dst_dir, thumb_fmt.format(
-                #     name=thumb_name,
-                #     ext=thumb_ext,
-                # ))
                 srcset_name, srcset_ext = os.path.splitext(src_name)
                 # Create the list of filenames, starting with the "max_sized" version that bears the same name as the original file:
                 dsts = [dst_file]
@@ -73,14 +67,11 @@ class ScaleImageMultiple(Task, ImageProcessor):
                 yield {
                     'name': dst_file,
                     'file_dep': [src_file],
-                    #'targets': [dst_file, thumb_file],
                     'targets': dsts,
-                    #'actions': [(self.process_image, (src_file, dst_file, thumb_file))],
                     'actions': [(self.process_image, (src_file, dsts))],
                     'clean': True,
                 }
 
-    #def process_image(self, src, dst, thumb):
     def process_image(self, src, dsts):
         """Resize an image."""
 
@@ -90,9 +81,7 @@ class ScaleImageMultiple(Task, ImageProcessor):
 
         self.resize_image(
             src,
-            #dst_paths=[dst, thumb],
             dst_paths=dsts,
-            #max_sizes=[self.kw['max_image_size'], self.kw['image_thumbnail_size']],
             max_sizes=sizes,
             bigger_panoramas=True,
             preserve_exif_data=self.kw['preserve_exif_data'],
@@ -103,8 +92,6 @@ class ScaleImageMultiple(Task, ImageProcessor):
     def gen_tasks(self):
         """Copy static files into the output folder."""
         self.kw = {
-            #'image_thumbnail_size': self.site.config['IMAGE_THUMBNAIL_SIZE'],
-            #'image_thumbnail_format': self.site.config['IMAGE_THUMBNAIL_FORMAT'],
             'image_srcset_sizes': self.site.config['IMAGE_SRCSET_SIZES'],
             'image_srcset_format': self.site.config['IMAGE_SRCSET_FORMAT'],
             'max_image_size': self.site.config['MAX_IMAGE_SIZE'],
