@@ -4,6 +4,9 @@ import lxml.etree as le
 import os
 
 from nikola.filters import _ConfigurableFilter, apply_to_text_file
+from PIL import Image
+from copy import deepcopy
+
 import doit
 
 ################################################################
@@ -12,9 +15,9 @@ import doit
 # walk the document and find all the <img>
 
 @_ConfigurableFilter(image_srcset_sizes='IMAGE_SRCSET_SIZES',
-image_srcset_format='IMAGE_SRCSET_FORMAT')
+image_srcset_format='IMAGE_SRCSET_FORMAT', extra_image_extensions='EXTRA_IMAGE_EXTENSIONS')
 @apply_to_text_file
-def rewrite_images (data, image_srcset_sizes=[], image_srcset_format=''):
+def rewrite_images (data, image_srcset_sizes=[], image_srcset_format='', extra_image_extensions=[]):
     if not image_srcset_sizes and image_srcset_format:
         return data
 
@@ -29,7 +32,8 @@ def rewrite_images (data, image_srcset_sizes=[], image_srcset_format=''):
             node = rewrite_svg(node)
 
         if src.lower().endswith(tuple(raster_exts)):
-            node = rewrite_raster(node, image_srcset_format)
+
+            node.getparent().replace(node, rewrite_raster(doc, node, image_srcset_format, extra_image_extensions))
 
     return lxml.html.tostring(doc, encoding='unicode')
 
@@ -39,6 +43,7 @@ def rewrite_images (data, image_srcset_sizes=[], image_srcset_format=''):
 # if this is an SVG file, only add png fallback
 
 def rewrite_svg(node):
+    # TODO
     return node
 
 ################################################################
@@ -48,7 +53,7 @@ def rewrite_svg(node):
 # * add srcset and sizes attributes
 # * add webp (and later avif) alternatives
 
-def rewrite_raster(node, image_srcset_format):
+def rewrite_raster(doc, node, image_srcset_format, extra_image_extensions):
     """Given an image HTML node, returns a modified image node that now includes srcset and sizes attributes for that image.
     """
 
@@ -78,6 +83,18 @@ def rewrite_raster(node, image_srcset_format):
     # Update attributes of our node with srcset and sizes values and return it:
     node.set('srcset', srcset)
     node.set('sizes', sizes)
+
+    # if extra_image_extensions:
+    #     # We have extra image output formats to add to the page. In this case, we need to replace the <img> tag by a <picture> tag, add our extra formats with their MIME `type` and own set of `srcset` values, and make the <img> tag a child of the new <picture> element. Values for the `sizes` are the same as for the <img>. We don't have any art direction in here, just resolution switching for different file types.
+
+    #     img_node = deepcopy(node)
+    #     #doit.tools.set_trace()
+    #     picture_node = doc.makeelement('picture')
+    #     picture_node.append(img_node)
+    #     #Image.open("hopper.jpg").get_format_mimetype()
+    #     #replace(self, old_element, new_element)
+    #     return picture_node
+
     return node
 
 def get_srcset_list(src):
@@ -115,7 +132,7 @@ def get_sizes(node):
 
     phi = (1 + 5 ** 0.5) / 2
     golden1 = 1 / phi
-    golden2 = 1 / phi ** 2
+    #golden2 = 1 / phi ** 2
     main_content_max_width = 65 #units: ch
 
     # Container sizes reflect layouts from the golden grids in
