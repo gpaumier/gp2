@@ -41,7 +41,7 @@ class ScaleImageMultiple(Task, ImageProcessor):
     def process_tree(self, src, dst):
         """Process all images in a src tree and put the (possibly) rescaled images in the dst folder."""
         srcset_fmt = self.kw['image_srcset_format']
-        srcset_sizes = self.kw['image_srcset_sizes']
+        srcset_sizes_all = self.kw['image_srcset_sizes']
         base_len = len(src.split(os.sep))
         for root, dirs, files in os.walk(src, followlinks=True):
             root_parts = root.split(os.sep)
@@ -53,6 +53,11 @@ class ScaleImageMultiple(Task, ImageProcessor):
                 dst_file = os.path.join(dst_dir, src_name)
                 src_file = os.path.join(root, src_name)
                 srcset_name, srcset_ext = os.path.splitext(src_name)
+
+                # Find out the width of the image so we only resize up to that size
+                src_width = get_image_width(src_file)
+                srcset_sizes = [ size for size in srcset_sizes_all if (size < src_width) ]
+                
                 # Create the list of filenames, starting with the "max_sized" version that bears the same name as the original file:
                 dsts = [dst_file]
                 # Now add all the other filenames, based on their size:
@@ -68,16 +73,16 @@ class ScaleImageMultiple(Task, ImageProcessor):
                     'name': dst_file,
                     'file_dep': [src_file],
                     'targets': dsts,
-                    'actions': [(self.process_image, (src_file, dsts))],
+                    'actions': [(self.process_image, (src_file, dsts, srcset_sizes))],
                     'clean': True,
                 }
 
-    def process_image(self, src, dsts):
+    def process_image(self, src, dsts, srcset_sizes):
         """Resize an image."""
 
         # Make sure the order here is the same as the order of the list of filenames
         sizes = [self.kw['max_image_size']]
-        sizes.extend(self.kw['image_srcset_sizes'])
+        sizes.extend(srcset_sizes)
 
         self.resize_image(
             src,
@@ -115,3 +120,8 @@ class ScaleImageMultiple(Task, ImageProcessor):
                 task['basename'] = self.name
                 task['uptodate'] = [utils.config_changed(self.kw)]
                 yield utils.apply_filters(task, filters)
+
+def get_image_width(path):
+        """Look up the width of an image so we only resize up to that width."""
+
+        return 1500
