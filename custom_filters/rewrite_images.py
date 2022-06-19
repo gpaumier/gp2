@@ -2,6 +2,7 @@
 import lxml
 import lxml.etree as le
 import os
+import mimetypes
 
 from nikola.filters import _ConfigurableFilter, apply_to_text_file
 from PIL import Image
@@ -35,7 +36,11 @@ def rewrite_images (data, image_srcset_sizes=[], image_srcset_format='', extra_i
 
             node.getparent().replace(node, rewrite_raster(doc, node, image_srcset_format, extra_image_extensions))
 
-    return lxml.html.tostring(doc, encoding='unicode')
+    # Nikola seems to force us to use encoding='unicode' but the doctype disappears so we have to re-add it manually
+    # https://lxml.de/api/lxml.etree-module.html#tostring
+    page = lxml.html.tostring(doc, encoding='unicode', doctype='<!DOCTYPE html>')
+    #remove stray closing source tags:
+    return page.replace('</source>', '')
 
 ################################################################
 ################################################################
@@ -62,6 +67,7 @@ def rewrite_raster(doc, node, image_srcset_format, extra_image_extensions):
     # Find the available sizes for the image:
     src = node.get('src')
     srcset_list = get_srcset_list(src)
+    #TODO: find out the sizes actually available for that image
 
     # Build our srcset attribute:
     srcsets = []
@@ -84,16 +90,37 @@ def rewrite_raster(doc, node, image_srcset_format, extra_image_extensions):
     node.set('srcset', srcset)
     node.set('sizes', sizes)
 
-    # if extra_image_extensions:
-    #     # We have extra image output formats to add to the page. In this case, we need to replace the <img> tag by a <picture> tag, add our extra formats with their MIME `type` and own set of `srcset` values, and make the <img> tag a child of the new <picture> element. Values for the `sizes` are the same as for the <img>. We don't have any art direction in here, just resolution switching for different file types.
+    if extra_image_extensions:
+        # We have extra image output formats to add to the page. In this case, we need to replace the <img> tag by a <picture> tag, add our extra formats with their MIME `type` and own set of `srcset` values, and make the <img> tag a child of the new <picture> element. Values for the `sizes` are the same as for the <img>. We don't have any art direction in here, just resolution switching for different file types.
 
-    #     img_node = deepcopy(node)
-    #     #doit.tools.set_trace()
-    #     picture_node = doc.makeelement('picture')
-    #     picture_node.append(img_node)
-    #     #Image.open("hopper.jpg").get_format_mimetype()
-    #     #replace(self, old_element, new_element)
-    #     return picture_node
+        img_node = deepcopy(node)
+        picture_node = doc.makeelement('picture')
+
+        for extension in extra_image_extensions:
+            source_node = doc.makeelement('source')
+            srcsets = []
+            src_name, src_ext = os.path.splitext(src)
+            full_srcset_fmt = image_srcset_format + " {size}w"
+
+            for src_size in srcset_list:
+                srcsets.extend([full_srcset_fmt.format(
+                    name = src_name,
+                    size = src_size,
+                    ext = extension)]
+                )
+
+            srcset = ', '.join(srcsets)
+            #doit.tools.set_trace()
+
+            source_node.set('type', mimetypes.guess_type(src_name + extension)[0])
+            source_node.set('srcset', srcset)
+            source_node.set('sizes', sizes)
+
+            picture_node.append(source_node)
+
+        picture_node.append(img_node)
+        
+        return picture_node
 
     return node
 
