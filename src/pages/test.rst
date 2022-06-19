@@ -3,11 +3,14 @@
 .. class: hero-h2-golden
 
 .. image:: /images/plants_3808.jpg
-   :align: left
+   :align: center
 
-.. figure:: /images/baking_8358.jpg
-   :align: left
+.. figure:: /images/2010-09-29_languages_surjection.png
+   :align: right
    :figclass: center
+
+.. figure:: /images/poster_biodevices.png
+   
 
 H2 title
 ========
@@ -17,4 +20,5 @@ H2 title
 .. sidebar::
 
    .. figure:: /images/baking_8358.jpg
-      :align: left
+      :align: center
+
