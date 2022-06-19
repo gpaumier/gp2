@@ -66,57 +66,63 @@ def rewrite_raster(doc, node, image_srcset_format, extra_image_extensions, outpu
     src = node.get('src')
     srcset_list = get_srcset_list(output_folder, src, srcset_sizes_all)
 
-    # if we don't actually have images to add, return the node unchanged
-    if not srcset_list:
-        return node
+    # if we have srcset images images to add to the img element, do it here:
+    if srcset_list:
 
-    # Build our srcset attribute:
-    srcsets = []
-    src_name, src_ext = os.path.splitext(src)
-    full_srcset_fmt = image_srcset_format + " {size}w"
+        # Build our srcset attribute:
+        srcsets = []
+        src_name, src_ext = os.path.splitext(src)
+        full_srcset_fmt = image_srcset_format + " {size}w"
 
-    for src_size in srcset_list:
-        srcsets.extend([full_srcset_fmt.format(
-            name = src_name,
-            size = src_size,
-            ext = src_ext)]
-        )
+        for src_size in srcset_list:
+            srcsets.extend([full_srcset_fmt.format(
+                name = src_name,
+                size = src_size,
+                ext = src_ext)]
+            )
 
-    srcset = ', '.join(srcsets)
+        srcset = ', '.join(srcsets)
 
-    # Determine the relevant sizes for the image in the page context:
-    sizes = get_sizes(node)
+        # Determine the relevant sizes for the image in the page context:
+        sizes = get_sizes(node)
 
-    # Update attributes of our node with srcset and sizes values and return it:
-    node.set('srcset', srcset)
-    node.set('sizes', sizes)
+        # Update attributes of our node with srcset and sizes values and return it:
+        node.set('srcset', srcset)
+        node.set('sizes', sizes)
 
     if extra_image_extensions:
         # We have extra image output formats to add to the page. In this case, we need to replace the <img> tag by a <picture> tag, add our extra formats with their MIME `type` and own set of `srcset` values, and make the <img> tag a child of the new <picture> element. Values for the `sizes` are the same as for the <img>. We don't have any art direction in here, just resolution switching for different file types.
+
+        # We might not have extra sizes, but we still might have an extra format.
 
         img_node = deepcopy(node)
         picture_node = doc.makeelement('picture')
 
         for extension in extra_image_extensions:
             source_node = doc.makeelement('source')
-            srcsets = []
+
+            # Add the alternative srcset with extra extension:
             src_name, src_ext = os.path.splitext(src)
-            full_srcset_fmt = image_srcset_format + " {size}w"
+            source_src = src_name + extension
+            source_node.set('type', mimetypes.guess_type(source_src)[0])
+            srcset = source_src
 
-            for src_size in srcset_list:
-                srcsets.extend([full_srcset_fmt.format(
-                    name = src_name,
-                    size = src_size,
-                    ext = extension)]
-                )
+            # If we have srcset candidates, add them now:
+            if srcset_list:
+                srcsets = [srcset]
+                full_srcset_fmt = image_srcset_format + " {size}w"
 
-            srcset = ', '.join(srcsets)
-            #doit.tools.set_trace()
+                for src_size in srcset_list:
+                    srcsets.extend([full_srcset_fmt.format(
+                        name = src_name,
+                        size = src_size,
+                        ext = extension)]
+                    )
 
-            source_node.set('type', mimetypes.guess_type(src_name + extension)[0])
+                srcset = ', '.join(srcsets)
+                source_node.set('sizes', sizes)
+
             source_node.set('srcset', srcset)
-            source_node.set('sizes', sizes)
-
             picture_node.append(source_node)
 
         picture_node.append(img_node)
