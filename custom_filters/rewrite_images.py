@@ -16,9 +16,9 @@ import doit
 # walk the document and find all the <img>
 
 @_ConfigurableFilter(image_srcset_sizes='IMAGE_SRCSET_SIZES',
-image_srcset_format='IMAGE_SRCSET_FORMAT', extra_image_extensions='EXTRA_IMAGE_EXTENSIONS')
+image_srcset_format='IMAGE_SRCSET_FORMAT', extra_image_extensions='EXTRA_IMAGE_EXTENSIONS', output_folder='OUTPUT_FOLDER')
 @apply_to_text_file
-def rewrite_images (data, image_srcset_sizes=[], image_srcset_format='', extra_image_extensions=[]):
+def rewrite_images (data, image_srcset_sizes=[], image_srcset_format='', extra_image_extensions=[], output_folder='output'):
     if not image_srcset_sizes and image_srcset_format:
         return data
 
@@ -34,12 +34,12 @@ def rewrite_images (data, image_srcset_sizes=[], image_srcset_format='', extra_i
 
         if src.lower().endswith(tuple(raster_exts)):
 
-            node.getparent().replace(node, rewrite_raster(doc, node, image_srcset_format, extra_image_extensions))
+            node.getparent().replace(node, rewrite_raster(doc, node, image_srcset_format, extra_image_extensions, output_folder, image_srcset_sizes))
 
-    # Nikola seems to force us to use encoding='unicode' but the doctype disappears so we have to re-add it manually
+    # The doctype disappears so we have to re-add it manually
     # https://lxml.de/api/lxml.etree-module.html#tostring
     page = lxml.html.tostring(doc, encoding='unicode', doctype='<!DOCTYPE html>')
-    #remove stray closing source tags:
+    # remove stray closing source tags:
     return page.replace('</source>', '')
 
 ################################################################
@@ -58,16 +58,17 @@ def rewrite_svg(node):
 # * add srcset and sizes attributes
 # * add webp (and later avif) alternatives
 
-def rewrite_raster(doc, node, image_srcset_format, extra_image_extensions):
-    """Given an image HTML node, returns a modified image node that now includes srcset and sizes attributes for that image.
+def rewrite_raster(doc, node, image_srcset_format, extra_image_extensions, output_folder, srcset_sizes_all):
+    """Given an image HTML node, returns a modified image node that now includes srcset and sizes attributes for that image (but only if we actually have srcset images)
     """
-
-    #doit.tools.set_trace()
 
     # Find the available sizes for the image:
     src = node.get('src')
-    srcset_list = get_srcset_list(src)
-    #TODO: find out the sizes actually available for that image
+    srcset_list = get_srcset_list(output_folder, src, srcset_sizes_all)
+
+    # if we don't actually have images to add, return the node unchanged
+    if not srcset_list:
+        return node
 
     # Build our srcset attribute:
     srcsets = []
@@ -124,12 +125,22 @@ def rewrite_raster(doc, node, image_srcset_format, extra_image_extensions):
 
     return node
 
-def get_srcset_list(src):
+def get_srcset_list(output_folder, src, srcset_sizes_all):
     """
     Given a path to an image, returns a list of integers representing the other sizes available for that image.
     """
 
-    return [400, 800, 1200, 1600, 2400, 3200]
+    src_dir = os.path.basename(os.path.dirname(src))
+    src_name = os.path.basename(src)
+    src_file = os.path.abspath(os.path.join(output_folder, src_dir, src_name))
+
+    try:
+        src_width = Image.open(src_file).size[0]
+    except FileNotFoundError:
+        # This shouldn't happen, but it might during testing when we don't have all our images
+        src_width = 1000    
+
+    return [ size for size in srcset_sizes_all if (size < src_width) ]
 
 # To figure out what's available for srcset, look into the nikola cache to see if we have that information recorded there
 

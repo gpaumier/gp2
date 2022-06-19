@@ -57,6 +57,7 @@ class ScaleImageMultiple(Task, ImageProcessor):
 
                 # Find out the width of the image so we only resize up to that size
                 src_width = Image.open(src_file).size[0]
+                # then trim our list of sizes to only those below the image width:
                 srcset_sizes = [ size for size in srcset_sizes_all if (size < src_width) ]
                 
                 # Create the list of filenames, starting with the "max_sized" version that bears the same name as the original file:
