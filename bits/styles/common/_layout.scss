@@ -139,7 +139,8 @@ svg {
   // On small viewports, images in figures are stretched to the full viewport, but for that we need to flatten them so we can align its child elements on the grid. The figcaption keeps its margins though.
 
   figure,
-  .figures {
+  .figures,
+  picture {
     display: contents;
   }
 
