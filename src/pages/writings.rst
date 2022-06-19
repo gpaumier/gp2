@@ -2,8 +2,6 @@
 .. slug: writings
 .. template: page_hero.tmpl
 .. image: /images/Leonardo_da_Vinci_-_Ambrosiana-Codice-Atlantico-Codex-Atlanticus-f-272-verso.jpg
-.. icon: fa-puzzle-piece
-.. icon-alternative: fa-wikipedia-w
 
 
 .. figure:: /images/Leonardo_da_Vinci_-_Ambrosiana-Codice-Atlantico-Codex-Atlanticus-f-272-verso.jpg
@@ -57,7 +55,7 @@ The Architecture of Open Source Applications, Volume II
 
 In 2011, I authored a chapter about the architecture of `MediaWiki <https://www.mediawiki.org>`__, the software that powers Wikipedia and its sister sites, for inclusion in the book *The Architecture of Open Source Applications, volume 2*. The chapter was based on the shared knowledge of MediaWiki developers, and written in collaboration with Sumana Harihareswara.
 
-* Guillaume Paumier and Sumana Harihareswara, "MediaWiki", in *The Architecture of Open Source Applications, Volume II*, ed. Amy Brown and‎ Greg Wilson (Lulu.com, 2012). ISBN 978-1105571817
+* Guillaume Paumier and Sumana Harihareswara, "MediaWiki", in *The Architecture of Open Source Applications, Volume II*, ed. Amy Brown and Greg Wilson (Lulu.com, 2012). ISBN 978-1105571817
 
   * `Read online <https://aosabook.org/en/mediawiki.html>`__ \| `Buy on Amazon <https://www.amazon.com/dp/1105571815/>`__
 
