@@ -19,6 +19,7 @@
    `Luca Baggio <https://unsplash.com/@luca42>`__ on `Unsplash <https://unsplash.com/photos/eKU3JGNCCMg>`__.
 
 
+
 .. highlights::
 
    In 2016–2017, I was a Lead Architect for Wikimedia 2030, a global, participatory strategy process involving dozens of movement organizations and thousands of individuals. I was key in designing the process and guiding the movement through an intense exercise involving several cycles of community discussions, in-person events, interviews with experts, and commissioned research.

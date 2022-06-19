@@ -64,7 +64,18 @@ def rewrite_raster(doc, node, image_srcset_format, extra_image_extensions, outpu
 
     # Find the available sizes for the image:
     src = node.get('src')
-    srcset_list = get_srcset_list(output_folder, src, srcset_sizes_all)
+
+    src_dir = os.path.basename(os.path.dirname(src))
+    src_name = os.path.basename(src)
+    src_file = os.path.abspath(os.path.join(output_folder, src_dir, src_name))
+
+    try:
+        src_width = Image.open(src_file).size[0]
+    except FileNotFoundError:
+        # This shouldn't happen, but it might during testing when we don't have all our images
+        src_width = 1000
+
+    srcset_list = [ size for size in srcset_sizes_all if (size < src_width) ]
 
     # if we have srcset images images to add to the img element, do it here:
     if srcset_list:
@@ -105,11 +116,11 @@ def rewrite_raster(doc, node, image_srcset_format, extra_image_extensions, outpu
             src_name, src_ext = os.path.splitext(src)
             source_src = src_name + extension
             source_node.set('type', mimetypes.guess_type(source_src)[0])
-            srcset = source_src
+            srcset = source_src + ' {}w, '.format(src_width)
 
             # If we have srcset candidates, add them now:
             if srcset_list:
-                srcsets = [srcset]
+                srcsets = []
                 full_srcset_fmt = image_srcset_format + " {size}w"
 
                 for src_size in srcset_list:
@@ -119,7 +130,7 @@ def rewrite_raster(doc, node, image_srcset_format, extra_image_extensions, outpu
                         ext = extension)]
                     )
 
-                srcset = ', '.join(srcsets)
+                srcset += ', '.join(srcsets)
                 source_node.set('sizes', sizes)
 
             source_node.set('srcset', srcset)
@@ -130,27 +141,6 @@ def rewrite_raster(doc, node, image_srcset_format, extra_image_extensions, outpu
         return picture_node
 
     return node
-
-def get_srcset_list(output_folder, src, srcset_sizes_all):
-    """
-    Given a path to an image, returns a list of integers representing the other sizes available for that image.
-    """
-
-    src_dir = os.path.basename(os.path.dirname(src))
-    src_name = os.path.basename(src)
-    src_file = os.path.abspath(os.path.join(output_folder, src_dir, src_name))
-
-    try:
-        src_width = Image.open(src_file).size[0]
-    except FileNotFoundError:
-        # This shouldn't happen, but it might during testing when we don't have all our images
-        src_width = 1000    
-
-    return [ size for size in srcset_sizes_all if (size < src_width) ]
-
-# To figure out what's available for srcset, look into the nikola cache to see if we have that information recorded there
-
-# If not, take the image URI and look for other sizes in the image output folder
 
 
 ################################################################

@@ -3,7 +3,7 @@
 .. class: hero-h2-golden
 
 .. image:: /images/plants_3808.jpg
-   :align: center
+   :align: left
 
 .. figure:: /images/2010-09-29_languages_surjection.png
    :align: right
