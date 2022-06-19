@@ -159,10 +159,10 @@ MAX_IMAGE_SIZE = 10000
 # The format is a dictionary of {source: relative destination}.
 
 IMAGE_FOLDERS = {
-    #'src/images/others': 'images',
-    #'src/images/others-free': 'images',
-    #'src/images/own': 'images',
-    'src/test-images': 'images',
+    'src/images/others': 'images',
+    'src/images/others-free': 'images',
+    'src/images/own': 'images',
+    #'src/test-images': 'images',
     }
 # IMAGE_THUMBNAIL_SIZE = 400
 
