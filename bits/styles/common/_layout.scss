@@ -8,6 +8,10 @@ figure {
   margin-right: 0;
 }
 
+picture {
+  display: contents;
+}
+
 //////////////////////////////////////////////////
 
 @mixin side-by-side-figures($column-gap: 0, $rows: 2) {
@@ -139,8 +143,7 @@ svg {
   // On small viewports, images in figures are stretched to the full viewport, but for that we need to flatten them so we can align its child elements on the grid. The figcaption keeps its margins though.
 
   figure,
-  .figures,
-  picture {
+  .figures {
     display: contents;
   }
 
@@ -514,7 +517,7 @@ svg {
 
 #article-content-default,
 section,
-// On hero pages, the golden grid is at the level of sections, so we need to make .highlights a golder grid as well
+// On hero pages, the golden grid is at the level of sections, so we need to make .highlights a golden grid as well
 #article-content-hero .highlights {
   @extend %golden-grid;
 }
