@@ -82,7 +82,7 @@ TIMEZONE = "America/Los_Angeles"
 
 
 
-#FILES_FOLDERS = {'src/files': ''}
+FILES_FOLDERS = {'src/files': ''}
 
 
 LISTINGS_FOLDERS = {'src/listings': 'listings'}
