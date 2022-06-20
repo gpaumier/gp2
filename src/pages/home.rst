@@ -152,36 +152,26 @@ Knowledge belongs to all of us
 
    Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_Group_photo_4.jpg>`__ // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis mi at lorem molestie porttitor. Sed ligula enim, feugiat quis sapien ac, lobortis tristique eros. Duis nec diam molestie nisi ultrices maximus. Sed porttitor eros odio, sed dictum sapien interdum in.
+I am passionate about free knowledge and I started contributing to Wikipedia in 2005. Since then, I have been serving the Wikimedia community in various volunteer roles, and I have also been working for the Wikimedia Foundation since 2009.
 
 .. Inspired by https://en.wikipedia.org/wiki/Template:Main
 .. class:: main-article
 
+After making a few small corrections to Wikipedia articles in 2005, I became more and more involved in the encyclopedia and its universe, serving the movement in almost every possible volunteer capacity. This ranged from writing Wikipedia articles to responding to press inquiries, public speaking and advocacy, helping small wikis deal with vandalism, creating marketing documents, organizing events, and managing the team of volunteers who respond to emails sent to Wikipedia.
 
-I am passionate about free knowledge and I started contributing to Wikipedia in 2005. I have been serving the Wikimedia community in almost every possible role, from writing articles to giving presentations, helping small wikis deal with vandalism, creating documents, and organizing events. Since 2009, I have been working for the Wikimedia Foundation.
+I joined the Wikimedia Foundation in 2009 as a Product Manager for the Multimedia Usability project; I designed and led the development of UploadWizard, the customizable file upload software for Wikimedia Commons, as well as its illustrated copyright tutorial.
+
+I then moved on to a new role as Technical Communications Manager (2011–2014), writing technical reports and other publications. I created Tech News, the weekly, multilingual technical newsletter that informs Wikipedians and other volunteers of software changes that may affect them.
+
+As a Senior Analyst (2014–2016), I managed special projects for the Foundation's Deputy Director, and served as a strategic advisor to the leadership team. My projects ranged from deep research guiding the work of Product teams, to organizing community efforts to add machine-readable copyright metadata to hundreds of thousands of media files.
+
+In 2016–2017, I was a Lead Architect for "Wikimedia 2030," guiding dozens of organizations and thousands of individuals through a global strategy and movement-building process. I led the synthesis of all inputs, conversations, and research, and I was the main author of the resulting Strategic Direction of "Knowledge Equity and Knowledge as a Service."
+
+Since 2018, I have focused on Revenue Strategy and future thinking as Principal Program Manager, leading the Foundation's long-term outlook and resilience in a changing world. I guide the organization through unknowns in technology, policy, industry, society, and climate, notably through scenario planning. I also play unofficial roles as a Wikimedia historian, mentor, and "ship's counselor."
 
 .. class:: continue-reading
 
    :doc:`continue reading <wikimedia>`
-
-.. TODO: add summary after writing the intro of the Wikimedia page
-
-
-https://wikimediafoundation.org/about/values/
-
-We welcome and cherish our differences.
-
-The sum of all knowledge for every single human being; we can’t do that by leaving people out. Our vision is about more than providing universal access to all forms of knowledge. It’s about creating an inclusive culture. It’s about inviting others to join in and thrive with us. It’s about embracing human diversity. It’s about saying, “We see you and you belong with us.”
-
-Our differences are precious; they make us smarter, stronger, more humble. They balance our biases and weaknesses. They open our minds. We do our best work when we understand a problem from all its perspectives.
-
-We encourage others to do what we can’t, and we help them succeed. When voices are absent, ignored, or silenced, we seek them out. We are welcoming hosts, caring neighbors, and equitable allies. We don’t fear difference. We welcome it with curiosity, delight, and hope.
-
-
-
-.. figure:: /images/2016-06-06_Libres_conseils_1011.jpg
-
-.. figure:: /images/2007-07-05_Wikimania_group_0302.jpg
 
 
 ----
@@ -193,18 +183,30 @@ Science & Engineering
 
    `Soroush Zargar <https://unsplash.com/@soroushzargar>`__ on `Unsplash <https://unsplash.com/photos/zFSUhqGual8>`__
 
-Way back when, I initially studied Mathematics and Computer Science before turning to Physics, with a double major in Materials & Semiconductors and in Nanotechnology. I went on to develop :doc:`chemical processes for biochips <biochips>` and then completed my Ph.D on :doc:`polymer microsystems for biological analysis <phd>`. Since then, I have also written software in a number of coding languages.
+As an engineer and physicist by training, I have always been fascinated by how things work. Before joining Wikimedia, I worked at the crossroads of microelectronics, chemistry, and biology, and developed miniaturized systems such as antibody biochips and labs on a chip.
 
-.. figure:: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
+Way back when, I initially studied Mathematics and Computer Science before turning to Engineering Physics, graduating with a double major in Materials & Semiconductors and in Nanotechnology. I then specialized in interdisciplinary research & development, combining technologies & tools from microelectronics manufacturing in clean room environments, with methods and problems in chemistry & biology.
 
-I adapted a capillary-based immunoassay to a planar microarray, and developed a vapor-phase silanization protocol for use in peptide digestion microsystems.
+During my time at CEA-Léti, I developed :doc:`chemical processes for biochips <biochips>`, and adapted a capillary-based immunoassay to a planar microarray. I also pioneered a vapor-phase silanization protocol for use in peptide digestion microsystems.
 
-microfluidics
-interdisciplinarity
-thermoresponsive polymer
-microsystem
+.. class:: rowstart-4 rowspan-2
+.. sidebar::
 
-Wikimedia tech stuff: Upload wizard, technical writing, etc.
+   .. figure:: /images/Biochips_236-29_532s.jpg
+
+      :doc:`Fluorescence immunoassay with antibody mAb SP31 <biochips>` (rows 1 & 2) and control antibody Il2-73 (row 3), attached on a silane layer grafted through liquid-phase CEA-2 functionalization.
+
+In 2008, I completed my Ph.D at LAAS-CNRS, where I worked on microfluidic devices for chemical & biological analysis. I developed :doc:`technologies based on PNIPAM <phd>`, a polymer whose properties change with temperature. I also explored applications in controlled electro-osmosis and sample preparation for nano-liquid chromatography, through on-demand adsorption and release of proteins.
+
+.. class:: rowspan-2
+.. sidebar::
+
+   .. figure:: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
+
+      :doc:`Silica capillary coated with PNIPAM <phd>` under a fluorescence microscope, and placed on a thermoelectric Peltier module to control the temperature of the polymer.
+
+I never completely left science and engineering. I continue to learn and work in interdisciplinary contexts across scientific fields, and I also write software in various coding languages when needed.
+
 
 .. TODO: Add link to studies page once written: :doc:`engineering physics and nanotechnology <studies>`,
 
