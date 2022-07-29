@@ -41,7 +41,7 @@ Mako==1.2.2
 Markdown==3.3.6
 MarkupSafe==2.0.1
 micawber==0.5.4
-mistune==0.8.4
+mistune==2.0.3
 multidict==5.2.0
 natsort==8.1.0
 nbclient==0.5.9
