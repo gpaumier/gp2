@@ -37,7 +37,7 @@ jupyter-client==7.1.2
 jupyter-core==4.9.2
 jupyterlab-pygments==0.1.2
 lxml==4.8.0
-Mako==1.1.6
+Mako==1.2.2
 Markdown==3.3.6
 MarkupSafe==2.0.1
 micawber==0.5.4
