@@ -207,7 +207,6 @@ In 2008, I completed my Ph.D at LAAS-CNRS, where I worked on microfluidic device
 
 I never completely left science and engineering. I continue to learn and work in interdisciplinary contexts across scientific fields, and I also write software in various coding languages when needed.
 
-
 .. TODO: Add link to studies page once written: :doc:`engineering physics and nanotechnology <studies>`,
 
 
@@ -227,10 +226,6 @@ I am an avid reader and bibliophile, sometimes to the point of tsundoku. During 
    :doc:`continue reading <play>`
 
 books for musicals, interclubs
-
-.. TODO Ajouter autres photos, trouver un arrangement
-
-.. Hexagones? https://www.cssscript.com/demo/responsive-hexagon-grid-pure-css/
 
 Playfulness design: Swipe / slideshow, grid if more space
 
