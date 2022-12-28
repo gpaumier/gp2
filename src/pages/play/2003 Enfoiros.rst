@@ -19,7 +19,7 @@ The |enfoiros|_ is a student club from the *Institut National des Sciences Appli
 .. _enfoiros: https://www.enfoiros.org/
 
 
-Founded in 2000, the club's purpose revolves around activities aimed at supporting the *Restaurants du Cœur* ("*les Restos*"), a French charity providing food and support to the needy.
+Founded in 2000, the club's purpose revolves around activities aimed at supporting the *Restaurants du Cœur* ("*les Restos*"), a French charity providing food and support for unhoused people and other people in need.
 
 The club was inspired by the |enfoires|_, a group of mainstream artists and celebrities who perform in a yearly series of concerts. All proceeds from the concert (and associated products, such as CDs and DVDs) benefit the *Restos*. The student club built on this idea, and each year the group of students, faculty and college staff performs in a similar series of concerts.
 
@@ -28,12 +28,10 @@ The club was inspired by the |enfoires|_, a group of mainstream artists and cele
 .. _enfoires: https://en.wikipedia.org/wiki/Les_Enfoir%C3%A9s
 
 
-The opening night of the series of concerts is reserved for the people in need who benefit from the Restos' help: they get to be the first to enjoy the yearly performance.
+The opening night of the series of concerts is reserved for the people who benefit from the Restos: the beneficiaries get to be the first to enjoy the yearly performance.
 
-The club also organizes food collection campaigns among students, entertainment for the needy, and other activities to benefit the Restos, like volunteering at gift-wrapping booths during the holiday season.
+The club also organizes food collection campaigns among students, entertainment for low-income folks, and other activities to support the Restos, like volunteering at gift-wrapping booths during the holiday season.
 
-I joined the club in 2003 and participated in its activities until I graduated in 2005. I have the fondest memories from these two years, taking action to help the needy, being on stage and performing and, most of all, being part of a community of friends and like-minded people who were, for a time, a real family.
+I joined the club in 2003 and participated in its activities until I graduated in 2005. I have the fondest memories from these two years, taking action against poverty, being on stage and performing and, most of all, being part of a community of friends and like-minded people who were, for a time, a real family.
 
-Volunteering and performing for the *Enfoiros* always has a bittersweet taste: of course, it was fun to rehearse and perform the concerts, and to take part into other group activities; but we'd all rather it not be necessary at all.
-
-But, as long as there are people in need, we figured we might as well have fun supporting them and connecting with them.
+Volunteering and performing for the *Enfoiros* was always bittersweet: although it was fun to rehearse and perform the concerts, and to take part into other group activities, we would all have preferred that it not be necessary at all. But since there was a need, we figured we might as well find opportunities for joy and connection.

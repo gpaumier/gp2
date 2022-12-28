@@ -137,6 +137,28 @@ This is something I started to ponder `back in 2010 </fr/articles/reference-nece
    Wikipedians organize, weigh, and nuance facts; as a collective, they constitute a formidable sensemaking engine. Wikipedia, as a website, is merely the current manifestation and artifact of that ethos.
 
 
+Working as a community
+----------------------
+
+.. class:: rowspan-4
+
+It takes a village. // Barn raising is a fundamental concept in the study of online communities. Barn raising "occurs when a community actively decides to come to the same place at the same time to help achieve some specific goal."\ [#BarnRaisingMeatBall]_ The metaphor comes from the collective effort needed to raise an actual barn,\ [#BarnRaisingWP]_ a process that is all but impossible to do on one's own, and demands collaboration and good will from the community. While mostly reminiscent of 18th- and 19th-century rural North America, barn raising is only one example of communal work encountered in many societies around the world.\ [#CommunalWork]_ The Indonesian ethos of *Gotong royong* similarly refers to carrying burdens together, which sometimes translates to literally carrying your neighbor's home to a new location.\ [#GotongRoyong]_
+
+.. [#BarnRaisingMeatBall] See `BarnRaising <http://meatballwiki.org/wiki/BarnRaising>`_ on MeatballWiki, the community reference on online communities. Barnraising is also where `Barnstars <http://meatballwiki.org/wiki/BarnStar>`_ come from, as tokens of appreciation for individual efforts.
+
+.. [#BarnRaisingWP] See `Barn raising <https://en.wikipedia.org/wiki/Barn_raising>`_ on the English-language Wikipedia.
+
+.. [#CommunalWork] See `Communal work <https://en.wikipedia.org/wiki/Communal_work>`_ on the English-language Wikipedia.
+
+.. [#GotongRoyong] See `Gotong royong <https://id.wikipedia.org/wiki/Gotong_royong>`_ on the Indonesian-language Wikipedia.
+
+.. figure:: /images/Gotong_Royong_Pindah_Rumah.jpg
+
+   Herusutimbul on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gotong_Royong_Pindah_Rumah.jpg>`_ // `CC-By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_
+
+Wikis are built by people coming together to achieve something that one person couldn't do alone. Most human endeavors are no different. A good strategy with broad alignment can't be built by just the CEO or a few executives. It takes a collective effort to carry this burden together and build it in the wiki spirit of good-faith collaboration. Only then can we raise the barn as a community.
+
+
 Stating our Values
 ------------------
 
