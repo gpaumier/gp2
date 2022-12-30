@@ -12,7 +12,9 @@
 Images
 ======
 
+.. figure:: /images/erik-witsoe-mODxn7mOzms-unsplash.jpg
 
+   `Erik Witsoe <https://unsplash.com/@ewitsoe>`__ from `Unsplash <https://unsplash.com/photos/mODxn7mOzms>`__
 
 .. figure:: /images/2013-10-08_Presse_Marinoni_8863.jpg
 

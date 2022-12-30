@@ -3,9 +3,16 @@
 
   margin-bottom: .5rem;
 
-  &> img {
+  & img {
       border: 1px solid #A9A9A9;
       margin-bottom: 0;
+  }
+}
+
+.flip-img {
+
+  & img {
+    transform: scaleX(-1);
   }
 }
 

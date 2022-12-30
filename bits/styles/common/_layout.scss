@@ -178,6 +178,17 @@ svg {
       grid-column: main-content;
     }
 
+    .footnote {
+      // this is below as well, but we need it here otherwise the specificity of the rule above overrides it
+      .label {
+        grid-column: 1/2;
+      }
+    
+      > p {
+        grid-column: 2/3;
+      }
+    }
+
     // Unless we have a full-content element:
     .full-content {
       img {

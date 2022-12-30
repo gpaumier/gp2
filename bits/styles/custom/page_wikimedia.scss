@@ -32,107 +32,6 @@ h3 {
 
 /////////////////////////////////////////////////////////////
 
-
-#the-stakes-of-knowledge h2 {
-  display: none;
-}
-
-.stakes-header {
-
-  display: grid;
-  grid-template-columns: minmax(.5rem, 2vw) min-content 6fr;
-  grid-template-rows: 6fr min-content minmax(.5rem, 2vh);
-  height: calc(30vh + 10vw);
-
-  figure {
-    grid-column: 1/4;
-    grid-row: 1/4;
-
-    img {
-      height: 100%;
-      width: 100%;
-      object-fit: cover;
-      object-position: 0 70%;
-      z-index: 25;
-    }
-
-    figcaption{
-      text-align: right;
-    }
-  }
-
-  .stakes-header-text {
-    grid-column: 2/3;
-    grid-row: 2/3;
-    color: #f3f3f3;
-    font-size: calc(2rem + 2vw);
-    line-height: calc(2.5rem + 2vw);
-    align-self: center;
-    text-align: left;
-    margin: 0;
-    z-index: 50;
-
-    @media screen and (max-width: 100rem) {
-      background-color: #332d2f99;
-      padding: .5rem;
-    }
-  }
-}
-
-/////////////////////////////////////////////////////////////
-// Tri-columns intros
-
-.stakes-writeout,
-.identity-intro,
-.product-tech-intro,
-.community-operations-intro {
-  max-width: 100ch;
-  column-width: 30ch;
-  column-count: 3;
-  column-rule: 1px solid #666;
-  margin-right: auto;
-  margin-left: auto;
-  padding-left: .5rem;
-  padding-right: .5rem;
-  margin-top: 2rem;
-  margin-bottom: 3rem;
-
-  p {
-    line-height: 1.35rem;
-    text-indent: 1rem;
-    margin-bottom: 0;
-    padding: 0;
-    overflow-wrap: break-word;
-    word-wrap: break-word;
-    -webkit-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
-  }
-
-  p:first-child {
-    text-indent: 0;
-    -webkit-initial-letter: 3.0;
-    initial-letter: 3.0;
-  }
-
-}
-
-/////////////////////////////////////////////////////////////
-
-#recent-work {
-
-  #revenue-strategy-and-long-term-thinking {
-    
-  }
-
-  #wikimedia-2030 {
-  }
-
-
-}
-
-/////////////////////////////////////////////////////////////
-
 .wikimedia-vision {
   height: 80vh;
   overflow: hidden;
@@ -190,11 +89,6 @@ h3 {
       font-size: calc(1rem + 0.3vw);
       line-height: calc(1.5rem + 1vw);
     }
-
-    margin-top: calc(3vh + 3vw);
-    margin-bottom: calc(3vh + 3vw);
-    padding-top: calc(3vh + 3vw);
-    padding-bottom: calc(3vh + 3vw);
     background-color: transparentize($primary-color, 0.95);;
 
   }

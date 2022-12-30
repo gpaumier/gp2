@@ -51,7 +51,7 @@ ol,
 }
 
 %small-font-size {
-  font-size: calc(1rem + .4vw);
+  font-size: calc(1rem + .3vw);
 }
 
 h1 {
@@ -226,7 +226,7 @@ p.continue-reading {
 .fn-backref,
 .footnote p,
 .sidebar p {
-  @extend %smaller-font-size;
+  @extend %small-font-size;
   text-decoration: none;
 }
 
