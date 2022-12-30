@@ -157,12 +157,14 @@ Substance P
 
 Substance P (SP) is a neurotransmitter from the neurokinin family, synthesized by neurons and able to excite nearby neurons. SP is involved in many physiological systems, including  the transmission of pain information to the central nervous system.
 
-.. class:: rowstart-1 rowspan-2
 .. sidebar::
+   :class: rowstart-1 rowspan-3
 
    .. figure:: /images/Biochips_Substance_P.svg
 
       Chemical structure of Substance P.
+
+.. class:: rowspan-2
 
 Substance P was used as a model molecule in the development of a novel approach to detect biological warfare agents, led by Laure-Marie Neuburger of the *Laboratoire d'Études et de Recherches en Immunoanalyse* (LERI).\ [#neuburger2006]_ Laure-Marie had been developing the immunoassay in capillaries, and produced the antibodies and antigens, conjugated with fluorophores or other molecules. I adapted Laure-Marie's immunoassay to planar microarrays using the CEA-2 protocol, traditionally used for DNA biochips.
 
