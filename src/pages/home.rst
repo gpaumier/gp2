@@ -61,7 +61,7 @@ I communicate from a place of curiosity: I ask lots of questions to learn more a
 Centering the human element
 ---------------------------
 
-Very few problems are purely technical; solving a problem often means understanding the human emotions in the room, as well as cognitive biases, power dynamics, historical context, privilege, and structural inequality. My own journey of self-discovery has taught me how to better consider the variety of subjective human experiences. In particular, when solving problems, I believe it is essential to accept our human fallibility, acknowledge failures, and learn from them.
+Very few problems are purely technical; solving a problem often means understanding the human emotions in the room, as well as cognitive biases, power dynamics, historical context, privilege, and structural inequity. My own journey of self-discovery has taught me how to better consider the variety of subjective human experiences. In particular, when solving problems, I believe it is essential to accept our human fallibility, acknowledge failures, and learn from them.
 
 I feel compelled to use my skills for the common good, and I have a particular affinity for mission-driven organizations that seek transformative social change. I find John Rawls's "veil of ignorance" approach to be a useful basis for a theory of justice, particularly in the context of the climate crisis. I believe in building a fair, just, pluralistic society, and in dismantling systems of oppression.
 
@@ -160,7 +160,7 @@ Playfulness & Creativity
 
 .. figure:: /images/plants_3808.jpg
 
-Over the years I've dabbled in archery, ballet, martial arts, stage acting, fencing, ballroom dancing, playwriting, photography, and singing. These days, I enjoy powerlifting, reading, hiking, writing, learning new languages, and discovering new places and new cultures.
+Over the years, I've dabbled in archery, ballet, martial arts, stage acting, fencing, ballroom dancing, playwriting, photography, and singing. These days, I enjoy powerlifting, reading, hiking, writing, learning new languages, and discovering new places and new cultures.
 
 I like to do things with my hands and move my body around. Whether it’s building things, folding paper, hiking, tending to plants, lifting heavy weights, doing pirouettes, belting out songs, or kneading bread, it provides an escape from intellectual work and intense thinking. I like to let my mind wander; it’s often when I focus on my body and let my brain work out problems subconsciously that epiphanies happen. Playfulness and fun are great sources of inspiration and creativity.
 
