@@ -6,6 +6,7 @@
 .. tag: needs-date-update
 .. template: page_hero.tmpl
 .. styles: page_wikimedia
+.. class: hero-h2-golden
 .. image: /images/Wikimedia_Summit_2019_-_Group_photo_4.jpg
 .. image-alt: Group photo of Wikimedians at the 2019 Wikimedia Summit in Berlin
 
@@ -30,53 +31,42 @@
 The Stakes of Knowledge
 =======================
 
-.. container:: stakes-header
+.. figure:: /images/fred-kearney-enkfvvZkKv0-unsplash.jpg
+   :alt: Photograph of a book burning
 
-   .. class:: stakes-header-text
+   `Fred Kearney <https://unsplash.com/@fredasem>`__ on `Unsplash <https://unsplash.com/photos/enkfvvZkKv0>`__.
 
-      The Stakes of Knowledge
+It is easy to take knowledge for granted when you grow up surrounded by it, and have immediate access to readily-available, trustworthy information at your fingertips.
 
-   .. figure:: /images/fred-kearney-enkfvvZkKv0-unsplash.jpg
-      :alt: Photograph of a book burning
-      :target: /articles/stakes-of-knowledge/
+When I started editing Wikipedia, it was mostly out of curiosity and fascination. Curiosity about an encyclopedia that anyone could edit, and about the strange people who would devote their time to sharing knowledge for free. Fascination about an opportunity to record the sum of all knowledge, which appealed to my knowledge-hoarder mind.
 
-      `Fred Kearney <https://unsplash.com/@fredasem>`__ on `Unsplash <https://unsplash.com/photos/enkfvvZkKv0>`__.
+But thinking of knowledge as only an abstract concept is a privilege.
 
-.. container:: stakes-writeout
+Thinking of Wikipedia as merely a hobby for people with too much time on their hands ignores the opportunity it represents for people who did not grow up surrounded by books. Knowledge has real consequences on human lives, both for individuals and for societies.
 
-   It is easy to take knowledge for granted when you grow up surrounded by it. When I started editing Wikipedia, it was mostly out of curiosity and fascination.
+.. class:: continue-reading
 
-   Curiosity about an encyclopedia that anyone could edit, and about the strange people who would devote their time to sharing knowledge for free.
-
-   Fascination about an opportunity to record the sum of all knowledge, which appealed to my knowledge-hoarder mind.
-
-   But thinking of knowledge as only an abstract concept is a privilege.
-
-   Thinking of Wikipedia as merely a hobby for people with too much time on their hands ignores the opportunity it represents for people who did not grow up surrounded by books.
-
-   Knowledge has real consequences on human lives, both for individuals and for societies.
-
-   .. class:: continue-reading
-
-      :doc:`continue reading <stakes-of-knowledge>`
+   :doc:`continue reading <stakes-of-knowledge>`
 
 ----
 
 Recent work
 ===========
 
+.. figure:: /images/2012-03-29_Wikimedia_Foundation_Office.jpg
+   :alt: A photo of a plaque of the Wikimedia Foundation logo at their offices
+
 Revenue strategy and long-term thinking
 ---------------------------------------
 
-.. TODO: add group photo of department after all-hands. Using a placeholder in the meantime
+.. TODO: add group photo of department after all-hands. 
+
+I currently lead special projects for the Wikimedia Foundation's Chief Advancement Officer, serving as the department's de facto chief of staff. In this role, I am leading the organization's future thinking towards resilience in a changing world, navigating unknowns in technology, policy, industry, society, and climate, notably through :doc:`scenario planning <2031-scenarios>`.
 
 .. figure:: /images/javier-allegue-barros-C7B-ExXpOIE-unsplash.jpg
    :alt: Photograph showing the silhouette of a signpost against a sunset
-   :target: /wikimedia/advancement/
 
    `Javier Allegue Barros <https://unsplash.com/@soymeraki>`__ on `Unsplash <https://unsplash.com/photos/C7B-ExXpOIE>`__
-
-I currently lead special projects for the Wikimedia Foundation's Chief Advancement Officer, serving as the department's de facto chief of staff. In this role, I am leading the organization's future thinking towards resilience in a changing world, navigating unknowns in technology, policy, industry, society, and climate, notably through :doc:`scenario planning <2031-scenarios>`.
 
 I lead :doc:`Revenue Strategy research <wikimedia-revenue-strategy>` and the development of new revenue models for financial growth and long-term sustainability. I also provide expertise and guidance to other teams in the Advancement department, notably the Major Gifts team.
 
@@ -88,15 +78,14 @@ I lead :doc:`Revenue Strategy research <wikimedia-revenue-strategy>` and the dev
 Wikimedia 2030
 --------------
 
-.. figure:: /images/NASA_Earth_CO2-wikimedia2030.jpg
-   :alt: Screenshot of a NASA video of a computer model showing how carbon dioxide in the atmosphere travels around the globe.
-   :target: /wikimedia/wikimedia2030/
-
-   NASA's Goddard Space Flight Center on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:A_Year_In_The_Life_Of_Earth%27s_CO2_11719-1920-MASTER.webm>`__ // Public Domain
-
 In 2016–2017, I was a Lead Architect for :doc:`Wikimedia 2030 <wikimedia2030>`, a global, participatory strategy process involving dozens of movement organizations and thousands of individuals. I was key in designing the process and guiding the movement through an intense exercise involving several cycles of community discussions, in-person events, interviews with experts, and commissioned research.
 
 I led the synthesis of all inputs, conversations, and research into several drafts that were further discussed and edited. I was the main author of the Strategic Direction that emerged and went on to be endorsed by nearly a hundred Wikimedia organizations around the world.
+
+.. figure:: /images/NASA_Earth_CO2-wikimedia2030.jpg
+   :alt: Screenshot of a NASA video of a computer model showing how carbon dioxide in the atmosphere travels around the globe.
+
+   NASA's Goddard Space Flight Center on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:A_Year_In_The_Life_Of_Earth%27s_CO2_11719-1920-MASTER.webm>`__ // Public Domain
 
 The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now serves as the compass for multi-year strategic planning by Wikimedia organizations, and guides decision-making around roles, responsibilities, and resources in the Wikimedia movement.
 
@@ -106,8 +95,10 @@ The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now ser
 
 ----
 
-History, culture & identity
-===========================
+Culture & identity
+==================
+
+Being a Wikipedian isn't just about being a modern Diderot, however noble that is. The process through which that sum of knowledge is developed is what makes it so valuable; that's why, over the years, I have studied the history of Wikipedia, and sought to better understand its culture and identity.
 
 .. container:: wikimedia-vision
 
@@ -115,42 +106,43 @@ History, culture & identity
 
    a world in which every single human being can freely share in the sum of all knowledge.
 
-.. container:: identity-intro
-
-   I recognized myself early on in the Wikipedia vision of collecting and sharing "the sum of all knowledge." Wikipedians document the world, relying on facts and verifiable information, working in harmony (as much as possible) with complete strangers in pursuit of the best encyclopedic content possible. They integrate sources and organize content, working across language communities and collaborating with other Wikipedians around the world.
-
-   But being a Wikipedian isn't just about being modern Diderots, however noble that is. Free knowledge is about :doc:`so much more <stakes-of-knowledge>`. And the process through which that sum of knowledge is developed is what makes it so valuable; that's why, over the years, I have studied the history of Wikipedia, and sought to better understand its culture and identity.
-
 A culture of sensemaking
 ------------------------
 
-.. figure:: /images/2012-02-14_Wikipedian_meme.png
-
-   Humor is part of the Wikipedia culture. This collage was my take on the "What people think I do / What I really do" meme, which "depict[s] a range of preconceptions associated with a particular field of occupation or expertise" and "compares varying impressions about one's profession held by others, self-image and the often mundane reality of the job." (from `Know Your Meme <https://knowyourmeme.com/memes/what-people-think-i-do-what-i-really-do>`__). Images by John Blyberg, Mr Thinktank, PierreSelim, Garry Knight, and Louis-Michel van Loo, on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikipedian.png>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
+I recognized myself early on in the Wikipedia vision of collecting and sharing "the sum of all knowledge." Wikipedians document the world, relying on facts and verifiable information, working in harmony (as much as possible) with complete strangers in pursuit of the best encyclopedic content possible. They integrate sources and organize content, working across language communities and collaborating with other Wikipedians around the world.
 
 Wikipedians have a unique affinity and talent for collecting and curating free, reliable knowledge. In a world of information overload, bias, and misinformation, they provide discernment, sensemaking, and human judgment on information, which all contributes to building trust.
 
+.. sidebar::
+   :class: rowspan-2
+
+   .. figure:: /images/Webcomic_xkcd_-_Wikipedian_protester_-_English.svg
+
+      xkcd's "`Wikipedian Protester <https://xkcd.com/285/>`__" epitomizes the Wikipedian unafraid to demand citations for bold claims. // `Randall Munroe <https://xkcd.com/about>`_, `CC BY <https://creativecommons.org/licenses/by/2.5/legalcode>`__ // `Vectorized <https://commons.wikimedia.org/wiki/File:Webcomic_xkcd_-_Wikipedian_protester_-_English.svg>`__ by `Ponor <https://commons.wikimedia.org/wiki/User:Ponor>`__
+
 This is something I started to ponder `back in 2010 </fr/articles/reference-necessaire/>`__ (fr) when I mused about how Wikipedians' habit of adding reliable sources to Wikipedia articles was seeping into many other areas of their lives, something I had experienced myself when I was writing my :doc:`Ph.D. thesis <phd>`: the jury said they had never read such a well-referenced and well-structured thesis. This realization finally crystallized much later as I was reflecting on the Wikimedia Foundation's :doc:`revenue strategy <wikimedia-revenue-strategy>` and identifying sustainable differentiators of Wikipedia.
 
-.. class:: emphasis
+.. figure:: /images/2012-02-14_Wikipedian_meme.png
 
-   Wikipedians organize, weigh, and nuance facts; as a collective, they constitute a formidable sensemaking engine. Wikipedia, as a website, is merely the current manifestation and artifact of that ethos.
+   Humor is also part of the Wikipedia culture. This collage was my take on the "What people think I do / What I really do" meme, which "depict[s] a range of preconceptions associated with a particular field of occupation or expertise" and "compares varying impressions about one's profession held by others, self-image and the often mundane reality of the job." (from `Know Your Meme <https://knowyourmeme.com/memes/what-people-think-i-do-what-i-really-do>`__). Images by John Blyberg, Mr Thinktank, PierreSelim, Garry Knight, and Louis-Michel van Loo, on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikipedian.png>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
+
+Wikipedians organize, weigh, and contextualize facts; as a collective, they constitute a formidable sensemaking engine. Wikipedia, as a website, is merely the current manifestation and artifact of that ethos.
 
 
 Working as a community
 ----------------------
 
-.. class:: rowspan-4
+It takes a village. // Barn raising is a fundamental concept in the study of online communities. Barn raising "occurs when a community actively decides to come to the same place at the same time to help achieve some specific goal."\ [#BarnRaisingMeatBall]_ The metaphor comes from the collective effort needed to raise an actual barn,\ [#BarnRaisingWP]_ a process that is all but impossible to do on one's own, and demands collaboration and good will from the community. While mostly reminiscent of 18th- and 19th-century rural North America, barn raising is only one example of communal work encountered in many societies around the world.\ [#CommunalWork]_ The Indonesian concept of *Gotong royong* similarly refers to carrying burdens together, which sometimes translates to literally carrying your neighbor's home to a new location.\ [#GotongRoyong]_
 
-It takes a village. // Barn raising is a fundamental concept in the study of online communities. Barn raising "occurs when a community actively decides to come to the same place at the same time to help achieve some specific goal."\ [#BarnRaisingMeatBall]_ The metaphor comes from the collective effort needed to raise an actual barn,\ [#BarnRaisingWP]_ a process that is all but impossible to do on one's own, and demands collaboration and good will from the community. While mostly reminiscent of 18th- and 19th-century rural North America, barn raising is only one example of communal work encountered in many societies around the world.\ [#CommunalWork]_ The Indonesian ethos of *Gotong royong* similarly refers to carrying burdens together, which sometimes translates to literally carrying your neighbor's home to a new location.\ [#GotongRoyong]_
+.. sidebar::
 
-.. [#BarnRaisingMeatBall] See `BarnRaising <http://meatballwiki.org/wiki/BarnRaising>`_ on MeatballWiki, the community reference on online communities. Barnraising is also where `Barnstars <http://meatballwiki.org/wiki/BarnStar>`_ come from, as tokens of appreciation for individual efforts.
+   .. [#BarnRaisingMeatBall] See `BarnRaising <http://meatballwiki.org/wiki/BarnRaising>`_ on MeatballWiki, the community reference on online communities. Barnraising is also where `Barnstars <http://meatballwiki.org/wiki/BarnStar>`_ come from, as tokens of appreciation for individual efforts.
 
-.. [#BarnRaisingWP] See `Barn raising <https://en.wikipedia.org/wiki/Barn_raising>`_ on the English-language Wikipedia.
+   .. [#BarnRaisingWP] See `Barn raising <https://en.wikipedia.org/wiki/Barn_raising>`_ on the English-language Wikipedia.
 
-.. [#CommunalWork] See `Communal work <https://en.wikipedia.org/wiki/Communal_work>`_ on the English-language Wikipedia.
+   .. [#CommunalWork] See `Communal work <https://en.wikipedia.org/wiki/Communal_work>`_ on the English-language Wikipedia.
 
-.. [#GotongRoyong] See `Gotong royong <https://id.wikipedia.org/wiki/Gotong_royong>`_ on the Indonesian-language Wikipedia.
+   .. [#GotongRoyong] See `Gotong royong <https://id.wikipedia.org/wiki/Gotong_royong>`_ on the Indonesian-language Wikipedia.
 
 .. figure:: /images/Gotong_Royong_Pindah_Rumah.jpg
 
@@ -162,47 +154,63 @@ Wikis are built by people coming together to achieve something that one person c
 Stating our Values
 ------------------
 
-.. figure:: /images/2018-01-26_Values_All-hands_9688_v1.jpg
-
-   My colleagues in the Foundation's Talent & Culture team have been leading the efforts to bring those values to life and integrate them into the employee life cycle, from hiring to onboarding and performance evaluation. In 2018, we organized a workshop to invite employees to express how they approached the values in their work. They did so through a variety of media ranging from poetry to mixed media, dance, clay, or just plain discussion.
-
 I had another opportunity to understand what brings Wikipedians together in 2016, when I co-led an `extensive conversation <https://meta.wikimedia.org/wiki/Values/2016_discussion>`__ to discuss and identify the Wikimedia Foundation's values. I developed a `framing for the discussions <https://meta.wikimedia.org/wiki/Values/2016_discussion/Framing>`__, based on academic research, industry practices, and the history of the Wikimedia Foundation. This framing invited the different stakeholders (staff, Board, volunteers) to think deeply about what motivated them to be part of the movement, and helped identify the organization's values as "the core intrinsic beliefs that drive us towards our vision."
 
-In the end, this project was also an opportunity for me to better understand my own motivations and values. As we were writing the `final set of values <https://wikimediafoundation.org/about/values/>`__, I realized how closely my own beliefs resonated with them, and why I felt so much at home at Wikimedia.
+This project was also an opportunity for me to better understand my own motivations and values. As we were writing the `final set of values <https://wikimediafoundation.org/about/values/>`__, I realized how closely my own beliefs resonated with them, and why I felt so much at home at Wikimedia.
+
+.. sidebar::
+   :class: rowstart-2 rowspan-2
+
+   .. figure:: /images/2018-01-26_Values_All-hands_9688_v1.jpg
+
+      My colleagues in the Foundation's Talent & Culture team have been leading the efforts to bring those values to life and integrate them into the employee life cycle, from hiring to onboarding and performance evaluation. In 2018, we organized a workshop to invite employees to express how they approached the values in their work. They did so through a variety of media ranging from poetry to mixed media, dance, clay, or just plain discussion.
+
+In 2022, I was part of an effort to refresh those values through a small-group discussions, initially focusing on "We are in this together." This worked continued into 2023, extending to the other values.
 
 
-History and wikiarchaeology
----------------------------
+History & wikiarchaeology
+=========================
 
 .. figure:: /images/andrew-neel-1-29wyvvLJA-unsplash.jpg
 
    `Andrew Neel <https://unsplash.com/@andrewtneel>`__ on `Unsplash <https://unsplash.com/photos/1-29wyvvLJA>`__
 
-Another pillar of the Wikipedia culture is its insistence on keeping a history of nearly everything. Some of this custom originates in the wiki platform itself: when anyone can edit the site and change its content immediately for all subsequent visitors of a page, it is necessary to keep a diligent history, if only to be able to undo malicious or misguided changes.
+As someone who has been part of the Wikimedia movement for a long time, I consider it my responsibility to help preserve its collective history and institutional memory. Remembering history isn't just a crucial part of staying true to who we are; it's is also how we understand how the past has shaped our present.
+
+Keeping a history of nearly everything is a pillar of the Wikipedia culture. Some of this custom originates in the wiki platform itself: when anyone can edit the site and change its content immediately for all subsequent visitors of a page, it is necessary to keep a diligent history, if only to be able to undo malicious or misguided changes.
 
 The obsession of Wikipedians with documentation and record-keeping is both a blessing and a curse when it comes to studying the history of the Wikimedia movement. A blessing because hardly anything ever disappears completely from the archives of the site. A curse because the overabundance of historical artifacts and documents makes wikiarchaeology a relentless exercise in endurance, perseverance, and often luck.
 
-As someone who has been part of the Wikimedia movement for a long time, I consider it my responsibility to help preserve its collective history and institutional memory. Remembering history isn't just a crucial part of staying true to who we are; the study of history is also how we make sense of the past and understand how events and decisions, both good and bad, have shaped our present.
-
 My commitment to understanding and preserving Wikipedia's collective history has manifested in several ways over the years. For example, in 2013, I produced an :doc:`interactive timeline <wikipedia-2013-timeline>` to serve as a retrospective of what had happened across the Wikimedia movement that year. In 2018, I led a workshop for the Wikimedia Foundation's :doc:`Advancement team <advancement>` to spark the transmission of knowledge. Old-timers shared stories and memories that they thought newcomers would find of interest, and newcomers asked old-timers questions from a fresh perspective.
 
-In 2012, I gave a talk at Wikimania, the annual Wikipedia conference, entitled "Eleven years of Wikipedia, or the Wikimedia history crash course you can edit." The presentation consisted of a large chronological infographic through which I walked the audience. I also printed the graphic on a large poster and invited the participants to correct or expand its content throughout the conference, in true Wikipedia fashion.
+.. sidebar::
+   :class: rowstart-5 rowspan-2
+
+   .. figure:: /images/2014-01-10_Wikipedia-timeline-2013-screenshot.png
+
+      The interactive timeline I created in 2013 served as a retrospective of what had happened across the Wikimedia movement that year.
+
+In 2012, I gave a talk at Wikimania, the annual Wikipedia conference, called "Eleven years of Wikipedia, or the Wikimedia history crash course you can edit." The presentation consisted of a large chronological infographic through which I walked the audience. I also printed the graphic on a large poster and invited the participants to correct or expand its content throughout the conference, in true Wikipedia fashion.
 
 .. figure:: /images/2012-06-25_Wikipedia-infographic.png
 
-   Infographic developed for the talk "Eleven years of Wikipedia, or the Wikimedia history crash course you can edit."
+   Infographic developed for the talk "Eleven years of Wikipedia, or the Wikimedia history crash course you can edit." In the video below, recorded at Wikimania 2012 in Washington, D.C., I walked the audience through this visual history of the Wikimedia movement.
 
-.. raw:: html
+   .. raw:: html
 
-   <figure id="wikimedia-history-wikimania-2012-video">
-     <div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/ZRA1sKIBB_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+      <figure id="wikimedia-history-wikimania-2012-video">
+        <div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/ZRA1sKIBB_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-     <figcaption>Video of my talk "Eleven years of Wikipedia, or the Wikimedia history crash course you can edit" at Wikimania 2012 in Washington, D.C. // Video loaded from YouTube <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>.</figcaption>
-   </figure>
+        <figcaption>Video loaded from YouTube <a href="/privacy-policy" title="See Privacy policy" class="privacy-policy">🛡</a>.</figcaption>
+      </figure>
 
 
 
 "Who documents the documenters?"
+
+historiography
+
+history and context: helpful for making decisions
 
 such a unique and fascinating endeavor
 defies
@@ -216,23 +224,24 @@ Product & Technology
 .. figure:: /images/Presse_Marinoni_8863_banner.jpg
    :alt: Close-up on the gears of Marinoni's printing machine
 
-.. container:: product-tech-intro
+I dedicated my first few years at the Wikimedia Foundation to improving the technical platform that makes Wikipedia possible.
 
-   I dedicated my first few years at the Wikimedia Foundation to improving the technical platform that makes Wikipedia possible.
+As a Product Manager, I sought to understand the needs of Wikipedia contributors and translate them into product requirements that could be implemented by developers.
 
-   As a Product Manager, I sought to understand the needs of Wikipedia contributors and translate them into product requirements that could be implemented by developers.
+.. sidebar::
+   :class: rowspan-4
 
-   As a technical writer, I translated techspeak into communications for multiple audiences on a wide spectrum of specialized technical expertise, ranging from technical reports to corporate communications to newsletters for casual Wikipedia contributors.
+   ..
 
-   As a Senior Analyst, I stepped in to lead time-sensitive initiatives and strategic research critical to the Foundation's product development efforts.
+       "Guillaume understands many of Wikimedia's workflows deeply. ... he loves documenting, analyzing, breaking apart things and putting them back together in novel ways. He's awesome at information architecture, and at really thinking through all the options to solve a complex product problem."
 
-   These roles enabled me to bring together my skills as an engineer, writer, and researcher, to solve complex problems creatively, and to fulfill my need for interdisciplinary work that spans fields and social groups.
+       --- `Erik Möller <https://lists.wikimedia.org/pipermail/wikimediaannounce-l/2014-October/000993.html>`__, Deputy Director and VP of Product & Strategy (2014).
 
-..
+As a technical writer, I translated techspeak into communications for multiple audiences on a wide spectrum of specialized technical expertise, ranging from technical reports to corporate communications to newsletters for casual Wikipedia contributors.
 
-    "Guillaume understands many of Wikimedia's workflows deeply. ... he loves documenting, analyzing, breaking apart things and putting them back together in novel ways. He's awesome at information architecture, and at really thinking through all the options to solve a complex product problem."
+As a Senior Analyst, I stepped in to lead time-sensitive initiatives and strategic research critical to the Foundation's product development efforts.
 
-    --- `Erik Möller <https://lists.wikimedia.org/pipermail/wikimediaannounce-l/2014-October/000993.html>`__, Deputy Director & VP of Product & Strategy (2014).
+These roles enabled me to bring together my skills as an engineer, writer, and researcher, to solve complex problems creatively, and to fulfill my need for interdisciplinary work that spans fields and social groups.
 
 Product strategy
 ----------------
@@ -241,9 +250,13 @@ Prior to leading the Wikimedia 2030 strategy effort, I managed special projects 
 
 In practice, this meant leading initiatives like the :doc:`File metadata cleanup drive <file-metadata-cleanup-drive>`. The high number of files missing machine-readable copyright information was blocking the wide release of MediaViewer, the plugin that opens images in full screen on Wikipedia pages. The plugin needed to be able to read the copyright information from the images to comply with license requirements. I created an automated dashboard to measure and identify the files with unreadable data, and organized community efforts to fix them. In three months, the cleanup drive had contributed to eliminating a third of the unreadable files across all wikis, fixing over 800,000 files.
 
-.. figure:: /images/2014-09-11_MrMetadata-screenshot.png
+.. sidebar::
+   :class: rowstart-2 rowspan-2
 
-   I coded an online tool in Python to query tens of millions of multimedia files across all Wikimedia sites and check that their copyright information was easily accessible by automated programs.
+   .. figure:: /images/2014-09-11_MrMetadata-screenshot.png
+      :figclass: framed-img
+
+      I coded an online tool in Python to query tens of millions of multimedia files across all Wikimedia sites and check that their copyright information was easily accessible by automated programs.
 
 In this role, I also produced a research report on the `roles performed by Wikipedia contributors <https://meta.wikimedia.org/wiki/Research:Codex/Roles_of_contributors>`__, based on a literature review of over a hundred scientific publications. The report helped product managers and designers understand scholarly knowledge about Wikipedia and online communities in a language that spoke to them. In addition, I supported the VisualEditor team with quality assurance research to identify critical software bugs, and analyzed the most cited websites in Wikipedia references to improve automated citation formatting. Those efforts enabled the team to move forward with a wider release of the visual editor to Wikipedia contributors.
 
@@ -253,41 +266,36 @@ In this role, I also produced a research report on the `roles performed by Wikip
 Multimedia usability project
 ----------------------------
 
-.. container:: figures
+.. TODO: :doc:`UploadWizard <uploadwizard>`
+
+I first joined the Wikimedia Foundation's staff in October 2009 as a Product Manager for Multimedia Usability. The `Multimedia Usability Project <https://meta.wikimedia.org/wiki/Multimedia_usability_project_report>`__ was a special project to increase multimedia participation on Wikimedia sites, through an overhaul of the uploading process to Wikimedia Commons, the central media repository for all language editions of Wikipedia. The two-person team was funded by a $300,000 grant from the `Ford Foundation <https://www.fordfoundation.org/>`__.
+
+.. sidebar::
+   :class: rowstart-1 rowspan-2
 
    .. figure:: /images/upwiz.png
       :figclass: framed-img
 
-
       As a Product Manager, I led the development of UploadWizard, a multi-file upload system  designed to make it easier for contributors to upload pictures to Wikipedia. It has now been used to upload over 20 million files.
+
+Two main products were delivered as part of the project, both based on extensive user research: a new multi-file upload system for Wikimedia Commons, featuring a wizard-style interface; and an illustrated licensing tutorial, explaining the basics of copyright and free licenses in plain language. More features were added after the completion of the grant, notably to support campaigns and contests like Wiki Loves Monuments, a worldwide contest that was recognized by the Guinness Book of Records as the largest photography competition.
+
+.. TODO: add citation for Guinness record
+
+.. sidebar::
+   :class: rowspan-2
 
    .. figure:: /images/2010-11-05_Licensing_tutorial_en.png
       :figclass: framed-img
 
       I worked with a graphic artist to develop an illustrated tutorial explaining the basics of copyright law and free licensing to new contributors.
 
-.. TODO: :doc:`UploadWizard <uploadwizard>`
-
-I first joined the Wikimedia Foundation's staff in October 2009 as a Product Manager for Multimedia Usability. The `Multimedia Usability Project <https://meta.wikimedia.org/wiki/Multimedia_usability_project_report>`__ was a special project to increase multimedia participation on Wikimedia sites, through an overhaul of the uploading process to Wikimedia Commons, the central media repository for all language editions of Wikipedia. The two-person team was funded by a $300,000 grant from the `Ford Foundation <https://www.fordfoundation.org/>`__.
-
-Two main products were delivered as part of the project, both based on extensive user research: a new multi-file upload system for Wikimedia Commons, featuring a wizard-style interface; and an illustrated licensing tutorial, explaining the basics of copyright and free licenses in plain language. More features were added after the completion of the grant, notably to support campaigns and contests like Wiki Loves Monuments, a worldwide contest that was recognized by the  Guinness Book of Records as the largest photography competition.
-
 As of February 2020, UploadWizard has been used to upload over 20 million files to Wikimedia Commons.
 
+.. TODO: update number of uploaded files, and add Quarry link in a comment to run the SQL query easily for future updates.
 
 Technical writing
 -----------------
-
-.. container:: figures
-
-   .. figure:: /images/2012-02-09_Open_advice_books_8098s.jpg
-
-      I contributed a chapter on User Experience to the *Open Advice* book, a collection of essays, stories and lessons learned by members of the Free Software community.
-
-   .. figure:: /images/2013-06-12_tech_news_en.png
-      :figclass: framed-img
-
-      Tech News, a weekly technical newsletter I created in 2013 for Wikipedia contributors, has now been running for seven years and has been instrumental in improving relationships between engineering staff and Wikipedia communities.
 
 .. /images/2014-01-02_Technews_screen.png
 
@@ -301,7 +309,22 @@ As Technical Communications Manager, I was responsible for assembling, editing, 
 
 During that period, I authored :doc:`a few book chapters <writings>`. One detailed the architecture of MediaWiki, the software that powers Wikipedia, for inclusion in *The Architecture of Open Source Applications, volume 2*. Another one, on the topic of user experience, was included in *Open Advice*, a collection of essays, stories and lessons learned by members of the Free Software community.
 
+.. sidebar::
+   :class: rowstart-1 rowspan-3
+
+   .. figure:: /images/2012-02-09_Open_advice_books_8098s.jpg
+
+      I contributed a chapter on User Experience to the *Open Advice* book, a collection of essays, stories and lessons learned by members of the Free Software community.
+
 In 2013, I started :doc:`Tech News <tech-news>`, a weekly technical newsletter for Wikipedia contributors. Written in intentionally simple language, its goal was to inform Wikipedians without specialized technical knowledge about software changes that might affect them. I worked with volunteers to translate the newsletter in about a dozen languages every week, and wrote a Lua script to distribute multilingual newsletters. The newsletter, now managed by the Community Liaisons team, has been running for seven years and has been instrumental in improving relationships between engineering staff and Wikipedia communities.
+
+.. sidebar::
+   :class: rowstart-4 rowspan-2
+
+   .. figure:: /images/2013-06-12_tech_news_en.png
+      :figclass: framed-img
+
+      Tech News, a weekly technical newsletter I created in 2013 for Wikipedia contributors, has now been running for seven years and has been instrumental in improving relationships between engineering staff and Wikipedia communities.
 
 .. visual editor rollout: https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide
 
@@ -311,8 +334,6 @@ Community Organizing
 ====================
 
 .. figure:: /images/2007-08-05_Wikimania_2007_Commons_puzzle_piece.jpg
-   :figclass: community-organizing-lead-image
-
 
    Holding the Commons with `Brianna <https://commons.wikimedia.org/wiki/User:Pfctdayelise>`__ and `Cary <https://commons.wikimedia.org/wiki/User:Bastique>`__ at Wikimania 2007 in Taipei, Taiwai. From `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimania_2007_Commons_puzzle_piece.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
@@ -329,53 +350,66 @@ As a Board member, and later also Secretary, I focused on transparency, efficien
 Wikimedia Chapters conference 2009
 ----------------------------------
 
-.. figure:: /images/2009-04-03_Wikimedia_conference_chapters_meeting_2009_9456.jpg
-
-   `Elke Wetzig <https://commons.wikimedia.org/wiki/User:Elya>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_conference_chapters_meeting_2009_9456.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
-
 In 2009, I moved on to Community organizing at the global level, and organized one of the first annual meetings of national Wikimedia chapters, on behalf of Wikimedia Deutschland. Representatives from 23 countries and the Wikimedia Foundation attended the conference in Berlin. I developed the conference's program in advance with the participants, balancing competing interests and navigating movement politics. I also coordinated travel arrangements and subsidies between chapters, to ensure that all the groups were represented at the meeting.
+
+.. sidebar::
+   :class: rowspan-2
+
+   .. figure:: /images/2009-04-03_Wikimedia_conference_chapters_meeting_2009_9456.jpg
+
+      Photograph of the conference's schedule. (`Elke Wetzig <https://commons.wikimedia.org/wiki/User:Elya>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_conference_chapters_meeting_2009_9456.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.)
 
 The conference was a success, and went on to be replicated every year since. Now called the Wikimedia Summit, it has become one of the main venues for the Wikimedia movement to discuss governance, determine strategy, and share experiences.
 
 ----
 
-Community Operations
-====================
+External communications
+=======================
 
 .. figure:: /images/hans-peter-gauster-3y1zF4hIPCg-unsplash.jpg
-   :figclass: community-operations-lead-image
 
    `Hans-Peter Gauster <https://unsplash.com/@sloppyperfectionist>`__ on `Unsplash <https://unsplash.com/photos/3y1zF4hIPCg>`__
 
-.. container:: community-operations-intro
+The Wikimedia movement has always relied heavily on the work on volunteers, and even more so in its early years. When the Foundation was a lot smaller, I supported its Communications staff, answered press requests, and co-led the team of volunteers who respond to emails sent to Wikipedia by the general public.
 
-   Among the many areas in which I volunteered for the Wikimedia movement over the years, I was particularly involved in Communications.
+Press & Communications
+----------------------
 
-   I created and designed corporate documents and graphics, such as press kits and fundraising prospectuses, and provided visual identity advice.
+Among the many areas in which I volunteered for the Wikimedia movement over the years, I was particularly involved in Communications, back when a single employee staffed that function at the Wikimedia Foundation.
 
-   I also answered press requests from international news outlets about Wikipedia and its sister sites at a time when Wikipedia was not as well-respected and understood as it is today.
+.. sidebar::
+   :class: rowspan-2
 
-   I co-managed the Foundation's customer relationship system, and community of 300+ trusted volunteers answering questions and requests about Wikipedia.
+   ..
+
+       "Guillaume wasn't really a 'volunteer' ... he was a very important part of the communications department. His creativity, commitment, valuable input, and drive was not only appreciated but needed by our staff at that time. He is a pleasure to work with - super professional and upbeat; He is incredibly bright - his instincts and creativity are beyond superb; And most importantly, he was a source of great support that allowed the foundation to grow to what it is today. Truly a blessing to have worked with him."
+
+       --- `Sandra Ordonez <https://www.linkedin.com/in/gpaumier/#recommendations>`__, Communications Director (2008).
+
+I created and designed corporate documents and graphics, such as press kits and fundraising prospectuses, and provided visual identity advice. I also answered press requests from international news outlets about Wikipedia and its sister sites, at a time when Wikipedia was not as well-respected and understood as it is today.
+
+.. https://wikimania2007.wikimedia.org/wiki/File:Wikimania_2007_Presskit.pdf
 
 
-Volunteer response team (OTRS)
-------------------------------
+Volunteer response team (VRT)
+-----------------------------
 
-.. figure:: /images/sharon-mccutcheon-tn57JI3CewI-unsplash.jpg
+In 2007, I joined the `Volunteer Response Team <https://en.wikipedia.org/wiki/Wikipedia:Volunteer_Response_Team>`_ who answers the emails sent to Wikipedia by the general public. This group of 300+ trusted volunteers also used to be referred to as "OTRS agents," after the name of the customer service software we used.
 
-   `Sharon McCutcheon <https://unsplash.com/@sharonmccutcheon>`__ on `Unsplash <https://unsplash.com/photos/tn57JI3CewI>`__
+VRT volunteers respond to thousands of emails every year, while ensuring the confidentiality of the messages and protecting the privacy of the people who email us. Many emails are similar and can be answered using canned responses. However, those in the Pareto minority are often related to complex questions or tricky conflicts, and require much more time; they involve research, lengthy back-and-forth, and sometimes mediation.
 
-In 2007, I joined the `Volunteer Response Team <https://en.wikipedia.org/wiki/Wikipedia:Volunteer_Response_Team>`_ who answers the emails sent to Wikipedia by the general public. This group is also referred to as "OTRS agents," after the name of the customer service software we use. OTRS volunteers respond to thousands of emails every year, while ensuring the confidentiality of the messages and protecting the privacy of the people who email us. Many emails are similar and can be answered using canned responses, but the rest are often related to complex questions or tricky conflicts, which involve research, lengthy back-and-forth, and sometimes mediation.
+.. sidebar::
+   :class: rowspan-2
 
-After a few months, I became a team leader ("OTRS administrator"), which gave me access to advanced tools to manage queues, volunteers, and canned responses. In that capacity, I vetted, recruited, and onboarded dozens of new volunteers to respond to email in many languages. I also improved processes so that agents could focus their time on responding to emails.
+   .. figure:: /images/sharon-mccutcheon-tn57JI3CewI-unsplash.jpg
+
+      Responding to emails sent to Wikipedia sometimes feel like a sisyphean endeavor. (`Sharon McCutcheon <https://unsplash.com/@sharonmccutcheon>`__ on `Unsplash <https://unsplash.com/photos/tn57JI3CewI>`__)
+
+After a few months, I became a team leader ("VRT administrator"), which gave me access to advanced tools to manage queues, volunteers, and canned responses. In that capacity, I vetted, recruited, and onboarded dozens of new volunteers to respond to email in many languages. I also improved processes so that agents could focus their time on responding to emails.
 
 
 Crosswiki service work
 ----------------------
-
-.. figure:: /images/erik-witsoe-mODxn7mOzms-unsplash.jpg
-
-   `Erik Witsoe <https://unsplash.com/@ewitsoe>`__ from `Unsplash <https://unsplash.com/photos/mODxn7mOzms>`__
 
 For a few years, I served as a member of the Wikimedia “`Stewards <https://meta.wikimedia.org/wiki/stewards>`__,” a handful of individuals entrusted with wide-ranging powers across the different language versions of Wikipedia and its sister sites.
 
@@ -383,64 +417,81 @@ Stewards have the sensitive ability to grant and remove rights on any of the hun
 
 Serving as a steward and as part of the `Small Wiki Monitoring Team <https://meta.wikimedia.org/wiki/Small_Wiki_Monitoring_Team>`__ gave me an opportunity to work with contributors from a variety of languages and backgrounds over the years. I was left with a deep appreciation for their work, particularly in communities with few native speakers.
 
-.. https://wikimania2007.wikimedia.org/wiki/File:Wikimania_2007_Presskit.pdf
 
 ----
 
 Editing Wikipedia
 =================
 
-.. figure:: /images/2010-10-28_Guillaume_by_Steven_Walling.jpg
-   :figclass: editing-wikipedia-lead-image
+.. figure:: /images/Heinrich_Schlitt_-_The_Gnome_Artist.jpg
 
-   `Steven Walling <https://en.wikipedia.org/wiki/User:Steven_Walling>`__ on `flickr <https://secure.flickr.com/photos/ragesoss/5140417338/>`__ //  `CC-BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__.
+   |gnomeartist|_. Oil painting on canvas by `Heinrich Schlitt <https://en.wikipedia.org/wiki/Heinrich_Schlitt>`__ // Public domain.
 
+.. |gnomeartist| replace:: *The Gnome Artist*
+.. _gnomeartist: https://commons.wikimedia.org/wiki/File:Heinrich_Schlitt_-_The_Gnome_Artist.jpg
 
-volunteer contributions: articles, photos, etc.
+Since 2005, I have been editing Wikipedia in several languages, from making small grammar fixes, to writing whole articles, to facilitating community processes behind the scenes.
 
-I made my first edit to the French-language Wikipedia in August 2005 to fix a spelling mistake.\ [#firstedit]_ My second edit was to fix a conjugation mistake.\ [#secondedit]_ My third edit was to fix spelling and punctuation mistakes.\ [#thirdedit]_ I guess you could say there was a pattern.
+I made my first edit to the French-language Wikipedia in August 2005 to fix a spelling mistake. My second edit was to fix a conjugation mistake. My third edit was to fix spelling and punctuation mistakes. I guess you could say there was a pattern.\ [#wikignome]_
 
-Since then, I have made over 50,000 edits across hundreds of Wikimedia wikis, and I have spent most of my professional career supporting the Wikimedia movement in various roles. I still occasionally made the odd edit when I come across something I can fix on a Wikipedia page.
+.. sidebar::  
+   :class: rowspan-2
 
-.. [#firstedit] |firsteditlink|_. French-language Wikipedia.
+   .. [#wikignome] `First <https://fr.wikipedia.org/w/index.php?title=Sable_bitumineux&diff=next&oldid=2983498>`__ and `second <https://fr.wikipedia.org/w/index.php?title=Sable_bitumineux&diff=prev&oldid=3049780>`__ edit to *Sable bitumineux*, `third edit <https://fr.wikipedia.org/w/index.php?title=Calculateur_stochastique&diff=prev&oldid=3049833>`__ to *Calculateur stochastique*, all on August 18, 2005. These are all typical examples of the work of a `wikignome <https://en.wikipedia.org/wiki/Wikipedia:WikiGnome>`__, i.e. "a wiki user who makes useful incremental edits without clamoring for attention. WikiGnomes work behind the scenes of a wiki, tying up little loose ends and making things run more smoothly."
 
-.. [#secondedit] |secondeditlink|_. French-language Wikipedia.
+Most of my early edits were to articles related to my studies and :doc:`my work <biochips>`, like adding content to the article about nanotechnology, adding a schematic to the one about atomic force microscopy, or translating the English-language article about the electrical double layer to French.
 
-.. [#thirdedit] |thirdeditlink|_. French-language Wikipedia.
+I quickly moved on to reverting damaging edits made by vandals, contributing to the *Oracle* (a convivial reference desk on Wikipedia), welcoming new users, and participating in community discussions (using an obnoxiously colorful signature). I became an "administrator" on Wikipedia and a few other sites, like Wikimedia Commons and Meta-Wiki. I also started operaring a "bot," i.e. an automated program to make repetitive edits: the `Seven-League Bot <https://meta.wikimedia.org/wiki/User:Seven-League_Bot>`__ (and its French alter ego, the |botfr|_).
 
-.. |firsteditlink| replace:: First edit to *Sable bitumineux* on August 18, 2005
-.. _firsteditlink: https://fr.wikipedia.org/w/index.php?title=Sable_bitumineux&diff=next&oldid=2983498
-.. |secondeditlink| replace:: Second edit to *Sable bitumineux* on August 18, 2005
-.. _secondeditlink: https://fr.wikipedia.org/w/index.php?title=Sable_bitumineux&diff=prev&oldid=3049780
-.. |thirdeditlink| replace:: Edit to *Calculateur stochastique* on August 18, 2005
-.. _thirdeditlink: https://fr.wikipedia.org/w/index.php?title=Calculateur_stochastique&diff=prev&oldid=3049833
+.. |botfr| replace:: *Bot de Sept Lieues*
 
-
-First steps on the French-language Wikipedia
---------------------------------------------
-
-Most of my early edits were to articles related to my studies and work, like adding content to the article about nanotechnology, adding a schematic to the one about atomic force microscopy, or translating the English-language article about the electrical double layer to French.
-
-I quickly moved on to reverting damaging edits made by vandals, contributing to the *Oracle* (a convivial reference desk-like space), welcoming new users, and participating in community discussions—using a colorfully obnoxious signature.
-
-administration, technique
-
-, operating m:User:Seven-League Bot
-https://meta.wikimedia.org/wiki/User:Seven-League_Bot
+.. _botfr: https://fr.wikipedia.org/wiki/Utilisateur:Bot_de_Sept_Lieues
 
 .. sidebar::
+   :class: rowstart-6 rowspan-3
 
    .. figure:: /images/Gustave_Dore_le_chat_botte.jpg
+      :figclass: flip-img
 
-      The avatar of the Seven-League Bot: Gustave Doré's 19th century engraving of *Le chat botté* (Puss in Boots). `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gustave_Dore_le_chat_botte.jpg>`__ // Public domain.
+      The avatar of the Seven-League Bot was Gustave Doré's 19th century engraving of *Le chat botté* (Puss in Boots). `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gustave_Dore_le_chat_botte.jpg>`__ // Public domain.
 
+Since then, I have made over 50,000 edits across hundreds of Wikimedia wikis, and I have spent most of my professional career supporting the Wikimedia movement in various roles. I still occasionally make the odd edit when I come across something I can fix on a Wikipedia page.
 
 Photography and Wikimedia Commons
----------------------------------
+=================================
 
-https://commons.wikimedia.org/wiki/User:guillom/gallery
-covering events (French presidential election, G8 in Deauville, conventions)
+.. figure:: /images/2010-10-28_Guillaume_by_Steven_Walling.jpg
 
+   by `Steven Walling <https://en.wikipedia.org/wiki/User:Steven_Walling>`__ on `flickr <https://secure.flickr.com/photos/ragesoss/5140417338/>`__ //  `CC-BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__.
+
+Shortly after I started editing Wikipedia, I became a contributor to Wikimedia Commons, the free media repository. What started as a side project eventually led me to photograph heads of state and Hollywood celebrities, and my work to be published in books, journals, and major magazines.
+
+Wikimedia Commons, like Wikipedia, only accepts cultural works released under a free license or in the public domain.\ [#freelicenses]_ Therefore, many subjects remain devoid of illustration because Wikipedians can't use promotional materials created by others. This gap is particularly visible on biographies of politicians, people from the entertainment industry, and other public figures.
+
+.. sidebar::
+   :class: rowspan-2
+
+   .. [#freelicenses] Free cultural works, or works released under a free license, "can be freely studied, applied, copied and/or modified, by anyone, for any purpose" including commercial use. See the definition on `Freedom defined <https://freedomdefined.org/Definition>`__. (Technically, some language editions of Wikipedia accept `non-free content <https://en.wikipedia.org/wiki/Wikipedia:Non-free_content>`__, such as cover art and movie posters, under very specific conditions, but those are exceptions we don't need to get into right now. `In the words <http://commons.wikimedia.org/wiki/File:200908281553-Sue_Gardner-The_Wikimedia_Foundation_The_Year_In_Review_and_The_Year_Ahead.ogg>`__ of Sue Gardner, former Executive Director of the Wikimedia Foundation, who was addressing Wikimedians in Buenos Aires in 2009: "You all know more about copyright law than any sane, sensible human being.")
+
+In 2007, I started to attend events specifically to take pictures of hard-to-photograph subjects. I covered political rallies to take pictures of politicians running in the 2007 presidential election, photographing 8 out of 12 candidates, including the two finalists. The same year, I was the photographer for the 11th International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS 2007), where I was also presenting my research.
+
+Later, I attended comics and film conventions like WonderCon and the Alternative Press Expo in San Francisco and Anaheim, CA. In 2014, I was accredited to attend the 37 G8 summit in Deauville, France, where I photographed heads of government such as David Cameron (Prime Minister of the United Kingdom) and Naoto Kan (Prime Minister of Japan).
+
+Beyond Wikipedia, my pictures have now been published in many other venues, from specialized technical publications (like a university-level physics textbook\ [#univphysics]_ and an academic journal about psychology\ [#joye2007]_) to magazines like *Science*,\ [#sciencemag]_ *The Smithsonian*,\ [#smithsonian]_ and *ELLE*.\ [#ellerussia]_
+
+.. find picture of David Cameron used in a concert; Radiohead? The Cure?
+
+.. [#univphysics] Bauer/Westfall. University Physics with Modern Physics. McGraw-Hill Education. Chapter 11: Static Equilibrium as Figure: 11.1(b)
+
+.. [#joye2007] Joye, Yannick (2007-12). "`Architectural Lessons from Environmental Psychology: The Case of Biophilic Architecture <http://journals.sagepub.com/doi/10.1037/1089-2680.11.4.305>`__." *Review of General Psychology.* **11** (4): 305–328. doi:`10.1037/1089-2680.11.4.305 <https://doi.org/10.1037%2F1089-2680.11.4.305>`__. ISSN `1089-2680 <https://www.worldcat.org/issn/1089-2680>`__. `Full-text PDF <https://www.researchgate.net/publication/228670992_Architectural_Lessons_From_Environmental_Psychology_The_Case_of_Biophilic_Architecture>`__. "The interior of Gaudi's Sagrada Familia contains schematic interpretations of natural contents. Left: columns as treelike structures. Right: flowerlike canopies."
+
+.. [#sciencemag] Sumner, Thomas (2014-02-16) "How to Hide Your Genome." *science.org.* doi:`10.1126/article.23537 <https://doi.org/10.1126/article.23537>`__. "Genetic gold. Each spot in a DNA microarray, such as this one, contains large amounts of sensitive genetic information."
+
+.. [#smithsonian] Binkovitz, Leah. "`PHOTOS: Orchids of Latin America <https://www.smithsonianmag.com/smithsonian-institution/photos-orchids-of-latin-america-6307653/>`__." *Smithsonian Magazine.* 2013-01-25. "Paphiopedilium appletonianum."
+
+.. [#ellerussia] "ELLE СТИЛЬ ЖИЗНИ." *ELLE Russia.* 2015-04. p. 325. ISSN `1560-3180 <https://www.worldcat.org/issn/1560-3180>`__. "Пляжные кабинки с именами звезд, которые ими пользовались, — одна из изюминок Довиля." 
+
+.. https://commons.wikimedia.org/wiki/User:guillom/gallery
 
 .. Insérer galerie de photos
 
@@ -448,12 +499,6 @@ covering events (French presidential election, G8 in Deauville, conventions)
 .. https://commons.wikimedia.org/wiki/File:Nicolas_Sarkozy_-_Meeting_in_Toulouse_for_the_2007_French_presidential_election_0327_2007-04-12.jpg
 .. https://commons.wikimedia.org/wiki/File:Sarkozy%27s_meeting_in_Toulouse_for_the_2007_French_presidential_election_0226_2007-04-12_cropped.jpg
 .. https://commons.wikimedia.org/wiki/User:Guillom/Politicians
-
-accredited photographer for political rallies, events, and conventions
-
-As a photographer, Guillaume Paumier has covered international scientific & popular culture conferences. He has photographed heads of state, Hollywood actors and other public figures. His work has been featured in books, magazines and on countless websites.
-
-I like to take pictures during my travels, and I have also served as a photoreporter for Wikipedia and Wikimedia Commons. I have covered national events, international conferences and popular culture conventions. You may have seen some of my work in books, magazines, and on the web.
 
 
 .. container:: gallery
@@ -478,14 +523,3 @@ I like to take pictures during my travels, and I have also served as a photorepo
    .. image:: /images/PNIPAM_microsystems_at_LAAS_CNRS_022_June_2008.jpg
       :alt: alt
       :name: pnipam3
-
-Parking lot
-===========
-
-`sandbox <https://en.wikipedia.org/wiki/User:Guillaume_(WMF)/sandbox2>`__
-`vediffs.js <https://en.wikipedia.org/wiki/User:Guillaume_(WMF)/vediffs.js>`__
-
-`PM JD <https://foundation.wikimedia.org/w/index.php?title=Job_openings/Product_Manager_-_Multimedia_Usability&oldid=87954>`__
-
-.. figure:: /images/2012-03-29_Wikimedia_Foundation_Office.jpg
-   :alt: A photo of a plaque of the Wikimedia Foundation logo at their offices
