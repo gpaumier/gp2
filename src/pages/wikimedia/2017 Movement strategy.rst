@@ -195,8 +195,9 @@ Engaging a whole movement
 =========================
 
 .. figure:: /images/Wikimedia_Summit_2019_-_172.jpg
+   :alt: Photograph of four people thinking together, discussing, and writing at the 2019 Wikimedia Summit
 
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_172.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   `Jason Krüger <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_172.jpg>`__ for Wikimedia Deutschland e.V. //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 TODO: add intro
 
@@ -220,7 +221,7 @@ Wikimedia 2030 was arguably the largest participatory process the Wikimedia move
 
    .. figure:: /images/Consult_or_not.jpg
 
-      In the Wikimedia movement, "consulting the communities" can be a `Catch-22 <https://en.wikipedia.org/wiki/Catch-22_(logic)>`__ dilemma, where consultation may grind an initiative to a halt and bury it under interminable deliberations, but moving forward without prior discussion is likely to lead to people later objecting that they were not consulted. Consultation (or even better, co-design) is almost always the best route, but it can also be very frustrating. I made this version of the "`Daily Struggle / Two Buttons <https://knowyourmeme.com/memes/daily-struggle-two-buttons>`__" meme to find some levity in this process. Adapted from the `original artwork by Jake Clark <https://jake-clark.tumblr.com/post/100946716432>`__ (all rights reserved) and inspired by `this tweet <https://twitter.com/gpaumier/status/1264259199875203072>`__.
+      In the Wikimedia movement, "consulting the communities" can be a `Catch-22 <https://en.wikipedia.org/wiki/Catch-22_(logic)>`__ dilemma, where consultation may grind an initiative to a halt and bury it under interminable deliberations, but moving forward without prior discussion is likely to lead to people later objecting that they were not consulted. Consultation (or even better, co-creation) is almost always the best route, but it can also be very frustrating. I made this version of the "`Daily Struggle / Two Buttons <https://knowyourmeme.com/memes/daily-struggle-two-buttons>`__" meme to find some levity in this process. Adapted from the `original artwork by Jake Clark <https://jake-clark.tumblr.com/post/100946716432>`__ (all rights reserved) and inspired by `this tweet <https://twitter.com/gpaumier/status/1264259199875203072>`__.
 
 To ensure a rich discussion and a legitimate outcome, we intentionally reached out to "new voices." They were not just people outside the movement, but also people *within* the movement who didn't traditionally participate in this kind of discussions. We contracted eighteen coordinators to organize and facilitate discussions in many languages, with support from the Foundation's Community Engagement team. Volunteers and groups also organized discussions with their communities and affiliates across wikis and off-wiki. This encouraged many contributors to participate in the discussion by avoiding the "Not my wiki" effect.\ [#NotMyWiki]_
 

@@ -22,9 +22,19 @@ vision
 Images
 ======
 
+
+.. figure:: /images/martin-sX4lxBWV0-A-unsplash.jpg
+
+   `Martin <https://unsplash.com/@mrtnpro>`__ on `Unsplash <https://unsplash.com/photos/sX4lxBWV0-A>`__.
+   
+.. figure:: /images/javier-allegue-barros-C7B-ExXpOIE-unsplash.jpg
+   :alt: Photograph showing the silhouette of a signpost against a sunset
+
+   `Javier Allegue Barros <https://unsplash.com/@soymeraki>`__ on `Unsplash <https://unsplash.com/photos/C7B-ExXpOIE>`__
+
 .. figure:: /images/Wikimedia_2018-20_Recommendation_06.svg
 
-   `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_2018-20_Recommendation_06.svg>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+      `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_2018-20_Recommendation_06.svg>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 .. figure:: /images/sharon-mccutcheon-tn57JI3CewI-unsplash.jpg
 

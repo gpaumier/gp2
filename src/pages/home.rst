@@ -54,7 +54,7 @@ I have the ability to absorb massive amounts of information on almost any topic,
 
 .. _The Pretender: https://en.wikipedia.org/wiki/The_Pretender_(TV_series)>
 
-I communicate from a place of curiosity: I ask lots of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. I dig into the "why" a lot. When two opposite choices are unsatisfactory, I try to find a third one.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, and prefer instead to arrive at solutions with others using the Socratic method.
+I communicate from a place of curiosity: I ask lots of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. I dig into the "why" a lot, and try to diligently revise my beliefs based on new information. When two opposite choices are unsatisfactory, I try to find a third one.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, and prefer instead to arrive at solutions with others using the Socratic method.
 
 .. [#CreatingGreatChoices] This process comes naturally to me, but Roger Martin and Jennifer Riel refer to it as "integrative thinking" in their 2017 book, *Creating Great Choices: A Leader's Guide to Integrative Thinking* (Harvard Business Review Press. ISBN 978-1633692961). Their work builds on Martin's earlier book, *The Opposable Mind*, which focused on leaders who "can hold two opposing ideas in their minds at once, and then reach a synthesis that actually improves on each." (Harvard Business Review Press, 2007. ISBN 978-1422118924).
 
@@ -93,24 +93,25 @@ Knowledge belongs to all of us
 .. figure:: /images/Wikimedia_Summit_2019_-_Group_photo_4.jpg
    :alt: Group photo of Wikimedians at the 2019 Wikimedia Summit in Berlin
 
-   Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_Group_photo_4.jpg>`__ // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+   `Jason Krüger <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_Group_photo_4.jpg>`__ for Wikimedia Deutschland e.V. // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-I am passionate about free knowledge and I started contributing to Wikipedia in 2005. Since then, I have been serving the Wikimedia community in various volunteer roles, and I have also been working for the Wikimedia Foundation since 2009.
+I have been serving the Wikimedia community as a volunteer since 2005 in almost every possible role, and have devoted a large part of my professional career to advancing the Wikimedia mission. I do this out of a deep commitment to free knowledge for all, and a belief that knowledge makes the world a better place. 
 
-.. Inspired by https://en.wikipedia.org/wiki/Template:Main
-.. class:: main-article
+After making a few small corrections to Wikipedia articles in 2005, I became more and more involved in the encyclopedia and its universe, serving the movement in almost every possible volunteer capacity. What started with a single edit eventually led to writing books, immigrating to the United States, creating software, managing teams of volunteers, photographing heads of state & Hollywood celebrities, and learning more about copyright laws than any human being ever should.
 
-After making a few small corrections to Wikipedia articles in 2005, I became more and more involved in the encyclopedia and its universe, serving the movement in almost every possible volunteer capacity. This ranged from writing Wikipedia articles to responding to press inquiries, public speaking and advocacy, helping small wikis deal with vandalism, creating marketing documents, organizing events, and managing the team of volunteers who respond to emails sent to Wikipedia.
+I joined the Wikimedia Foundation in 2009 and spent almost a decade working on the technical platform that powers Wikipedia. I notably designed and led the development of UploadWizard, the customizable file upload software for Wikimedia Commons. I also wrote technical reports and other publications to increase collaboration between the engineers who code the platform, and the people who use the platform to write Wikipedia.
 
-I joined the Wikimedia Foundation in 2009 as a Product Manager for the Multimedia Usability project; I designed and led the development of UploadWizard, the customizable file upload software for Wikimedia Commons, as well as its illustrated copyright tutorial.
+.. sidebar::
+   :class: rowstart-4 rowspan-3
 
-I then moved on to a new role as Technical Communications Manager (2011–2014), writing technical reports and other publications. I created Tech News, the weekly, multilingual technical newsletter that informs Wikipedians and other volunteers of software changes that may affect them.
+   .. figure:: /images/Wikimedia_2018-20_Recommendation_13.svg
 
-As a Senior Analyst (2014–2016), I managed special projects for the Foundation's Deputy Director, and served as a strategic advisor to the leadership team. My projects ranged from deep research guiding the work of Product teams, to organizing community efforts to add machine-readable copyright metadata to hundreds of thousands of media files.
+      `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_2018-20_Recommendation_13.svg>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-In 2016–2017, I was a Lead Architect for "Wikimedia 2030," guiding dozens of organizations and thousands of individuals through a global strategy and movement-building process. I led the synthesis of all inputs, conversations, and research, and I was the main author of the resulting Strategic Direction of "Knowledge Equity and Knowledge as a Service."
+Later on, I was a Lead Architect for "Wikimedia 2030," guiding dozens of organizations and thousands of individuals through a global strategy and movement-building process. I led the synthesis of all inputs, conversations, and research, and I was the main author of the resulting Strategic Direction of "Knowledge Equity and Knowledge as a Service."
 
-Since 2018, I have focused on Revenue Strategy and future thinking as Principal Program Manager, leading the Foundation's long-term outlook and resilience in a changing world. I guide the organization through unknowns in technology, policy, industry, society, and climate, notably through scenario planning. I also play unofficial roles as a Wikimedia historian, mentor, and "ship's counselor."
+My most recent work at the Wikimedia Foundation has focused on long-term thinking, strategy, and executive initiatives. I also play unofficial roles as a Wikimedia historian, mentor, and "ship's counselor."
+
 
 .. class:: continue-reading
 

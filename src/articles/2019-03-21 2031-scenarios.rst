@@ -109,9 +109,10 @@ The point of this exercise was not to choose a scenario over another: we can't c
 The scenarios all contained both favorable and unfavorable story elements, to ensure that people engaging with them wouldn’t be tempted to pick one as the future they favored. The actual future that would come to pass was likely to be a combination of elements from all these stories. These stories were the basis of the :doc:`revenue strategy <wikimedia-revenue-strategy>` I devised in 2019.
 
 .. figure:: /images/2031_scenario_cards.jpg
+   :alt: Photograph of two dozen scenario cards printed on large sheets of thick paper, showing various images with titles, and messily arranged on a surface.
    :figclass: scenario-cards
 
-   Full-page cards representing story elements from the scenarios.
+   Projecting ourselves into the future (for example, with scenarios and unexpected events) is a helpful way to chart a course for the future, and become antifragile in an uncertain world.
 
 During a department retreat, I organized a workshop with :doc:`Advancement <advancement>` staff, using full-page cards representing story elements of the scenarios, to encourage long-term thinking while tapping into the participants’ own expertise and imagination. The cards provided the framework for the discussion, but let the participants weave them together in new ways.
 

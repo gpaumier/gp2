@@ -20,13 +20,11 @@
 
 .. highlights::
 
-   I've been serving the Wikimedia community as a volunteer since 2005 in almost every possible role, from writing Wikipedia articles to giving presentations,
+   I've been serving the Wikimedia community as a volunteer since 2005 in almost every possible role, and have devoted a large part of my professional career to advancing the Wikimedia mission. I do this out of a deep commitment to free knowledge for all, and a belief that knowledge makes the world a better place. 
 
+   On this journey, I have met many people who share the same belief, and made many like-minded friends along the way. What started with a single edit to Wikipedia eventually led me to organize events, write books, appear on national television, create software, manage teams of volunteers, photograph heads of state & Hollywood celebrities, and learn more about copyright laws than any human being ever should.
 
-   (add more about career)
-
-   But first, I want to start with the reason . what animates me. What is at stake when we talk about knowledge.
-
+----
 
 The Stakes of Knowledge
 =======================
@@ -36,15 +34,11 @@ The Stakes of Knowledge
 
    `Fred Kearney <https://unsplash.com/@fredasem>`__ on `Unsplash <https://unsplash.com/photos/enkfvvZkKv0>`__.
 
-It is easy to take knowledge for granted when you grow up surrounded by it, and have immediate access to readily-available, trustworthy information at your fingertips.
+.. container:: h2-intro
 
-When I started editing Wikipedia, it was mostly out of curiosity and fascination. Curiosity about an encyclopedia that anyone could edit, and about the strange people who would devote their time to sharing knowledge for free. Fascination about an opportunity to record the sum of all knowledge, which appealed to my knowledge-hoarder mind.
+   Knowledge has real consequences on human lives, both for individuals and for societies. As I reckoned with the privilege of growing up surrounded by books, I deepened my understanding of knowledge and the real power it holds, both as an instrument of liberation, and as a vital component of our collective survival.
 
-But thinking of knowledge as only an abstract concept is a privilege.
-
-Thinking of Wikipedia as merely a hobby for people with too much time on their hands ignores the opportunity it represents for people who did not grow up surrounded by books. Knowledge has real consequences on human lives, both for individuals and for societies.
-
-.. class:: continue-reading
+   .. class:: continue-reading
 
    :doc:`continue reading <stakes-of-knowledge>`
 
@@ -53,17 +47,26 @@ Thinking of Wikipedia as merely a hobby for people with too much time on their h
 Recent work
 ===========
 
-.. figure:: /images/javier-allegue-barros-C7B-ExXpOIE-unsplash.jpg
-   :alt: Photograph showing the silhouette of a signpost against a sunset
+.. figure:: /images/photoholgic-kKWcOwioewA-unsplash.jpg
+   :alt: Photograph of a sunset and a glass ball on sand, showing the inverted sunset
 
-   `Javier Allegue Barros <https://unsplash.com/@soymeraki>`__ on `Unsplash <https://unsplash.com/photos/C7B-ExXpOIE>`__
+   `Photoholgic <https://unsplash.com/@photoholgic>`__ on `Unsplash <https://unsplash.com/photos/kKWcOwioewA>`__.
+
+My most recent work at the Wikimedia Foundation has focused on long-term thinking, strategy, and executive initiatives. I also play unofficial roles as a Wikimedia historian, mentor, and "ship's counselor."
 
 Revenue strategy and long-term thinking
 ---------------------------------------
 
-.. TODO: add group photo of department after all-hands. 
+.. TODO: add group photo of department after all-hands?
 
 I currently lead special projects for the Wikimedia Foundation's Chief Advancement Officer, serving as the department's de facto chief of staff. In this role, I am leading the organization's future thinking towards resilience in a changing world, navigating unknowns in technology, policy, industry, society, and climate, notably through :doc:`scenario planning <2031-scenarios>`.
+
+.. sidebar::
+   :class: rowspan-2
+
+   .. figure:: /images/Wikimedia_Summit_2019_-_182.jpg
+
+      Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_182.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 I lead :doc:`Revenue Strategy research <wikimedia-revenue-strategy>` and the development of new revenue models for financial growth and long-term sustainability. I also provide expertise and guidance to other teams in the Advancement department, notably the Major Gifts team.
 
@@ -79,10 +82,13 @@ In 2016–2017, I was a Lead Architect for :doc:`Wikimedia 2030 <wikimedia2030>`
 
 I led the synthesis of all inputs, conversations, and research into several drafts that were further discussed and edited. I was the main author of the Strategic Direction that emerged and went on to be endorsed by nearly a hundred Wikimedia organizations around the world.
 
-.. figure:: /images/NASA_Earth_CO2-wikimedia2030.jpg
-   :alt: Screenshot of a NASA video of a computer model showing how carbon dioxide in the atmosphere travels around the globe.
+.. sidebar::
+   :class: rowstart-2 rowspan-3
 
-   NASA's Goddard Space Flight Center on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:A_Year_In_The_Life_Of_Earth%27s_CO2_11719-1920-MASTER.webm>`__ // Public Domain
+   .. figure:: /images/Wikimedia_Summit_2019_-_172.jpg
+      :alt: Photograph of four people thinking together, discussing, and writing at the 2019 Wikimedia Summit
+
+      `Jason Krüger <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_172.jpg>`__ for Wikimedia Deutschland e.V. //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now serves as the compass for multi-year strategic planning by Wikimedia organizations, and guides decision-making around roles, responsibilities, and resources in the Wikimedia movement.
 
@@ -195,7 +201,7 @@ Keeping a history of nearly everything is central to the Wikipedia culture. Some
    .. figure:: /images/document_all_the_things.png
       :figclass: framed-img
 
-      My adaptation of the "`X all the things <https://knowyourmeme.com/memes/all-the-things>`__" meme, based on the original artwork by `Hyperbole and a Half <http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html>`__.
+      My adaptation of the "`X all the things <https://knowyourmeme.com/memes/all-the-things>`__" meme, based on the original artwork by `Hyperbole and a Half <http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html>`__ (all rights reserved).
 
 The obsession of Wikipedians with documentation and record-keeping is both a blessing and a curse when it comes to studying the history of the Wikimedia movement. A blessing because hardly anything ever disappears completely from the archives of the site. A curse because the overabundance of historical artifacts and documents makes wikiarchaeology a relentless exercise in endurance, perseverance, and often luck.
 
@@ -274,7 +280,7 @@ The `Multimedia Usability Project <https://meta.wikimedia.org/wiki/Multimedia_us
    .. figure:: /images/upwiz.png
       :figclass: framed-img
 
-      As a Product Manager, I led the development of UploadWizard, a multi-file upload system  designed to make it easier for contributors to upload pictures to Wikipedia. It has now been used to upload over 20 million files.
+      As a Product Manager, I led the development of UploadWizard, a multi-file upload system designed to make it easier for contributors to upload pictures to Wikipedia. It has now been used to upload over 20 million files.
 
 Two main products were delivered as part of the project, both based on extensive user research: a new multi-file upload system for Wikimedia Commons, featuring a wizard-style interface; and an illustrated licensing tutorial, explaining the basics of copyright and free licenses in plain language. More features were added after the completion of the grant, notably to support campaigns and contests like Wiki Loves Monuments, a worldwide contest that was recognized by the Guinness Book of Records as the largest photography competition.
 
@@ -422,8 +428,8 @@ Editing Wikipedia
 
 Since 2005, I have been editing Wikipedia in several languages, from making small grammar fixes, to writing whole articles, to facilitating community processes behind the scenes.
 
-It starts with one edit
------------------------
+It starts with a single edit
+----------------------------
 
 I made my first edit to the French-language Wikipedia in August 2005 to fix a spelling mistake. My second edit was to fix a conjugation mistake. My third edit was to fix spelling and punctuation mistakes. I guess you could say there was a pattern.\ [#wikignome]_
 
@@ -475,7 +481,9 @@ Wikimedia Commons, like Wikipedia, only accepts cultural works released under a 
 .. sidebar::
    :class: rowspan-2
 
-   .. [#freelicenses] Free cultural works, or works released under a free license, "can be freely studied, applied, copied and/or modified, by anyone, for any purpose" including commercial use. See the definition on `Freedom defined <https://freedomdefined.org/Definition>`__. (Technically, some language editions of Wikipedia accept `non-free content <https://en.wikipedia.org/wiki/Wikipedia:Non-free_content>`__, such as cover art and movie posters, under very specific conditions, but those are exceptions we don't need to get into right now. `In the words <http://commons.wikimedia.org/wiki/File:200908281553-Sue_Gardner-The_Wikimedia_Foundation_The_Year_In_Review_and_The_Year_Ahead.ogg>`__ of Sue Gardner, former Executive Director of the Wikimedia Foundation, who was addressing Wikimedians in Buenos Aires in 2009: "You all know more about copyright law than any sane, sensible human being.")
+   .. [#freelicenses] Free cultural works, or works released under a free license, "can be freely studied, applied, copied and/or modified, by anyone, for any purpose" including commercial use. See the definition on `Freedom defined <https://freedomdefined.org/Definition>`__.
+   
+      (Technically, some language editions of Wikipedia accept `non-free content <https://en.wikipedia.org/wiki/Wikipedia:Non-free_content>`__, such as cover art and movie posters, under very specific conditions, but those are exceptions we don't need to get into right now. `In the words <http://commons.wikimedia.org/wiki/File:200908281553-Sue_Gardner-The_Wikimedia_Foundation_The_Year_In_Review_and_The_Year_Ahead.ogg>`__ of Sue Gardner, former Executive Director of the Wikimedia Foundation, who was addressing Wikimedians in Buenos Aires in 2009: "You all know more about copyright law than any sane, sensible human being.")
 
 In 2007, I started to attend events specifically to take pictures of hard-to-photograph subjects. I covered political rallies to take pictures of politicians running in the 2007 presidential election, photographing 8 out of 12 candidates, including the two finalists. The same year, I was the photographer for the 11th International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS 2007), where I was also presenting my research.
 
