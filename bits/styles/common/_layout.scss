@@ -488,7 +488,8 @@ svg {
       }
     }
 
-    > p:first-of-type {
+    > p:first-of-type,
+    .h2-intro {
       // Like the title, this needs to be full width:
       grid-column: full-golden-small;
       // We place it in the bottom half of the hero spread:
