@@ -28,6 +28,7 @@
 
    The Strategic Direction of "Knowledge Equity and Knowledge as a Service" now serves as the compass for multi-year strategic planning by Wikimedia organizations, and guides decision-making around roles, responsibilities, and resources in the Wikimedia movement.
 
+
 "Your mission, should you choose to accept it ..."
 ==================================================
 
@@ -202,14 +203,6 @@ TODO: add intro
 Learning from each other
 ------------------------
 
-.. class:: rowstart-1 rowspan-3
-.. sidebar::
-
-   .. figure:: /images/Wikimedia_2018-20_Recommendation_06.svg
-
-      `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_2018-20_Recommendation_06.svg>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
-
-
 .. .. raw:: html
 ..
 ..    <figure id="victors-video">
@@ -222,13 +215,22 @@ Learning from each other
 
 Wikimedia 2030 was arguably the largest participatory process the Wikimedia movement had ever undertaken. For several months, the movement buzzed with activity, as people went through cycles of discussion online and in-person, and converged towards the direction.
 
+.. sidebar::
+   :class: rowspan-4
+
+   .. figure:: /images/Consult_or_not.jpg
+
+      In the Wikimedia movement, "consulting the communities" can be a `Catch-22 <https://en.wikipedia.org/wiki/Catch-22_(logic)>`__ dilemma, where consultation may grind an initiative to a halt and bury it under interminable deliberations, but moving forward without prior discussion is likely to lead to people later objecting that they were not consulted. Consultation (or even better, co-design) is almost always the best route, but it can also be very frustrating. I made this version of the "`Daily Struggle / Two Buttons <https://knowyourmeme.com/memes/daily-struggle-two-buttons>`__" meme to find some levity in this process. Adapted from the `original artwork by Jake Clark <https://jake-clark.tumblr.com/post/100946716432>`__ (all rights reserved) and inspired by `this tweet <https://twitter.com/gpaumier/status/1264259199875203072>`__.
+
 To ensure a rich discussion and a legitimate outcome, we intentionally reached out to "new voices." They were not just people outside the movement, but also people *within* the movement who didn't traditionally participate in this kind of discussions. We contracted eighteen coordinators to organize and facilitate discussions in many languages, with support from the Foundation's Community Engagement team. Volunteers and groups also organized discussions with their communities and affiliates across wikis and off-wiki. This encouraged many contributors to participate in the discussion by avoiding the "Not my wiki" effect.\ [#NotMyWiki]_
 
 All those discussions and research projects produced massive amounts of notes, reports, and documentation,  so that anyone could follow facts and decisions to their source, and to make it easier for people joining the process later to catch up.\ [#2030Reports]_
 
-.. [#NotMyWiki] "`Not my wiki <https://meta.wikimedia.org/wiki/Not_my_wiki>`__" is a community essays on Meta-Wiki that describes the tendency for Wikipedians and Wikimedians to avoid discussions that happen outside of their immediate online surroundings.
+.. container:: main-content
 
-.. [#2030Reports] `Strategy > Wikimedia movement > 2017 > Reports <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/Reports>`__. Meta-Wiki, 2017.
+   .. [#NotMyWiki] "`Not my wiki <https://meta.wikimedia.org/wiki/Not_my_wiki>`__" is a community essays on Meta-Wiki that describes the tendency for Wikipedians and Wikimedians to avoid discussions that happen outside of their immediate online surroundings.
+
+   .. [#2030Reports] `Strategy > Wikimedia movement > 2017 > Reports <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/Reports>`__. Meta-Wiki, 2017.
 
 .. .. raw:: html
 ..
