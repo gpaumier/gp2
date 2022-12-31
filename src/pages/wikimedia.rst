@@ -20,9 +20,9 @@
 
 .. highlights::
 
-   I've been serving the Wikimedia community as a volunteer since 2005 in almost every possible role, and have devoted a large part of my professional career to advancing the Wikimedia mission. I do this out of a deep commitment to free knowledge for all, and a belief that knowledge makes the world a better place. 
+   I have been serving the Wikimedia community as a volunteer since 2005 in almost every possible role, and have devoted a large part of my professional career to advancing the Wikimedia mission. I do this out of a deep commitment to free knowledge for all, and a belief that knowledge makes the world a better place. 
 
-   On this journey, I have met many people who share the same belief, and made many like-minded friends along the way. What started with a single edit to Wikipedia eventually led me to organize events, write books, appear on national television, create software, manage teams of volunteers, photograph heads of state & Hollywood celebrities, and learn more about copyright laws than any human being ever should.
+   I have made many like-minded friends along the way. What started with a single edit on Wikipedia eventually led me to places I didn't expect, like publishing books, appearing on national television, immigrating to the United States, creating software, photographing heads of state & Hollywood celebrities, and learning more about copyright laws than any human being ever should.
 
 ----
 
