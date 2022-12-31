@@ -223,20 +223,30 @@ p.continue-reading {
 // Footnotes
 
 .footnote-reference,
-.fn-backref,
+.footnote .label,
 .footnote p,
 .sidebar p {
   @extend %small-font-size;
-  text-decoration: none;
 }
 
 .footnote-reference,
-.fn-backref {
-  text-decoration: none;
+.footnote .label {
+  a {
+    text-decoration: none;
+  }
 }
 
-.fn-backref {
+.footnote .label {
   align-self: start;
+}
+
+.footnote {
+
+  margin-top: .4rem;
+
+  p {
+    margin-top: 0;
+  }
 }
 
 section:last-child, p:last-child {
