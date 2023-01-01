@@ -3,6 +3,7 @@
 .. slug: play
 .. icon: fa-palette
 .. template: page_hero.tmpl
+.. class: hero-h2-golden
 .. image: /images/plants_3808.jpg
 .. image-alt: placeholder
 
@@ -24,12 +25,13 @@
 Mind-wandering
 ==============
 
+.. figure:: /images/cranes_3726.jpg
+
 One thousand cranes
 -------------------
 
 .. figure:: /images/cranes_3721.jpg
 .. figure:: /images/cranes_3724.jpg
-.. figure:: /images/cranes_3726.jpg
 .. figure:: /images/cranes_3729.jpg
 .. figure:: /images/cranes_3740.jpg
 .. figure:: /images/cranes_3742.jpg
@@ -76,7 +78,7 @@ Travel & Photography
 .. figure:: /images/2012-03-22_Selfie_on_the_Queen_Mary_2173.jpg
    :alt: Placeholder
 
-   Placeholder caption
+   on board the Queen Mary
 
 Placeholder text
 
@@ -87,13 +89,14 @@ Placeholder text
 Building things
 ===============
 
+.. figure:: /images/lego_3906.jpg
+
 Construction sets
 -----------------
 
 .. figure:: /images/plants_3808.jpg
 .. figure:: /images/lego_3714.jpg
 .. figure:: /images/lego_3794.jpg
-.. figure:: /images/lego_3906.jpg
 .. figure:: /images/lego_4048.jpg
 .. figure:: /images/lego_5341.jpg
 .. figure:: /images/lego_5346.jpg
@@ -142,6 +145,8 @@ Homemaking
 Greenery
 ========
 
+.. figure:: /images/plants_5608.jpg
+
 Houseplants
 -----------
 
@@ -159,7 +164,6 @@ Houseplants
 .. figure:: /images/plants_3813.jpg
 .. figure:: /images/plants_3870.jpg
 .. figure:: /images/plants_3876.jpg
-.. figure:: /images/plants_5608.jpg
 .. figure:: /images/plants_5922.jpg
 
    Placeholder caption
@@ -191,8 +195,9 @@ Terrariums etc.
 Moving around
 =============
 
-.. figure:: /images/ballet_497.jpg
 .. figure:: /images/lifting_3881.jpg
+
+.. figure:: /images/ballet_497.jpg
 .. figure:: /images/lifting_5215.jpg
 
    Placeholder caption
@@ -215,6 +220,8 @@ Baking
 ======
 
 .. figure:: /images/baking_0594.jpg
+
+
 .. figure:: /images/baking_0885.jpg
 .. figure:: /images/baking_1106.jpg
 .. figure:: /images/baking_1937.jpg
@@ -284,10 +291,11 @@ Performing arts
 Curiosity & learning
 ====================
 
+.. figure:: /images/reading_0269.jpg
+
 Books, books, books
 -------------------
 
-.. figure:: /images/reading_0269.jpg
 .. figure:: /images/reading_3891.jpg
 .. figure:: /images/reading_3892.jpg
 
