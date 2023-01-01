@@ -341,13 +341,35 @@ Converging on a shared direction
 As it turned out, many Wikimedians found the metaphors to be too "flowery" and "poetic," too far removed from the seriousness of their endeavor. Some also took offense at the comparison to villages; they explained that in their culture, small settlements have a negative connotation of backwardness and stagnation, and that real change and advancement happens in cities. When I rewrote the direction to integrate all the feedback, I took this into account and decided to use more precise (and complex) words like "infrastructure" and "ecosystem" instead, and to explain how to translate those concepts instead of translating words.\ [#TranslateExt]_
 
 .. class:: rowspan-2
-.. [#TranslateExt] Translation of pages on Wikimedia sites happens through the "Translate extension," a dedicated tool built for the MediaWiki software. When preparing pages for translation, an author may add "message documentation" to provide additional context to translators about a particular sentence or paragraph. I used this feature to describe concepts like "the essential infrastructure" ("idea of a backbone, foundation. Something that allows something to stand up; Something upon which one builds something else") and "ecosystem" ("idea of an organic, dynamic group, network, or environment, with many components that have effects on each other and sometimes depend on each other"). See `Example of message documentation for the first paragraph of the Strategic Direction <https://meta.wikimedia.org/wiki/Translations:Strategy/Wikimedia_movement/2017/Direction/182/qqq>`__, Meta-Wiki, 2017.
+.. [#TranslateExt] Translation of pages on Wikimedia sites happens through the "Translate extension," a dedicated tool built for the MediaWiki software. When preparing pages for translation, an author may add "message documentation" to provide additional context to translators about a particular sentence or paragraph.
+
+   I used this feature to describe concepts like "the essential infrastructure" ("idea of a backbone, foundation. Something that allows something to stand up; Something upon which one builds something else") and "ecosystem" ("idea of an organic, dynamic group, network, or environment, with many components that have effects on each other and sometimes depend on each other"). See `Example of message documentation for the first paragraph of the Strategic Direction <https://meta.wikimedia.org/wiki/Translations:Strategy/Wikimedia_movement/2017/Direction/182/qqq>`__, Meta-Wiki, 2017.
 
 Some Wikimedians found the Wikimania draft to focus too much on technical infrastructure and tools. A first attempt at better highlighting the human aspect of the movement left others feeling that the technical aspects were not emphasized enough. We eventually settled on a strategic direction that acknowledged the duality of our movement as a complex socio-technical system, and painted the vision of a future to which everyone could contribute.
 
-.. TODO: Knowledge Equity and Knowledge as a service
+Direction and Endorsement
+-------------------------
 
-.. TODO: add paragraph about endorsements. I worked with Nicole Ebber, who was leading and coordinating our work with "organized groups" across the movement (meaning chapters, user groups, and other affiliates).
+Knowledge Equity and Knowledge as a service
+
+
+
+.. sidebar::
+   :class: rowspan-3
+
+   ..
+
+      **By 2030, Wikimedia will become the essential infrastructure of the ecosystem of free knowledge, and anyone who shares our vision will be able to join us.** ...
+
+      **Knowledge as a service:** To serve our users, we will become a platform that serves open knowledge to the world across interfaces and communities. We will build tools for allies and partners to organize and exchange free knowledge beyond Wikimedia. Our infrastructure will enable us and others to collect and use different forms of free, trusted knowledge.
+
+      **Knowledge equity**: As a social movement, we will focus our efforts on the knowledge and communities that have been left out by structures of power and privilege. We will welcome people from every background to build strong and diverse communities. We will break down the social, political, and technical barriers preventing people from accessing and contributing to free knowledge. 
+
+      --- `Strategic direction <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/Direction>`__ (final text).
+
+
+
+I worked with Nicole Ebber, who was leading and coordinating our work with "organized groups" across the movement (meaning chapters, user groups, and other affiliates).
 
 
 
@@ -362,11 +384,21 @@ Recommendations and implementation
 Phase 2: Working groups and recommendations
 -------------------------------------------
 
-"Phase 2"
+Between 2018 and 2020 (Phase 2), `nine thematic working groups <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2018-20/Working_Groups>`__ composed of volunteers, staff, and affiliates prepared Recommendations for the movement to work towards the Direction. Some of the upcoming discussions revolved around "big questions" like movement roles, governance, and decision making.
 
-Movement discussions
+For my part, after the endorsement of the Strategic Direction, I decided to focus on another endeavor as I joined the Wikimedia Foundation's :doc:`Advancement department <advancement>`. In parallel with my work on :doc:`Revenue strategy <wikimedia-revenue-strategy>`, I continued to participate in Wikimedia 2030 as a member of the "Revenue Streams" working group, and as one of the last group of "integrators" who took the dozens of recommendations coming from all the working groups, and consolidated them into the `final list of recommendations <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2018-20/Recommendations>`__ (and accompanying `principles <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2018-20/Recommendations/Movement_Strategy_Principles>`__) in 2020. 
 
-Wikimedia Foundation internal planning, MTP
+Although I was not leading Phase 2 efforts, I continued to advise the Wikimedia 2030 core team as needed during that period
+
+
+
+
+
+
+I was not done thinking about the future though. Taking the long view. :doc:`2031 scenarios <2031-scenarios>`
+
+
+
 
 .. figure:: /images/Movement_Strategy_Process_-_Synthesizing_89_recommendations_into_one_set._Oct_2019_to_Jan_2020.png
    :figclass: full-content framed
@@ -402,14 +434,12 @@ Wikimedia Foundation internal planning, MTP
 
 
 
-Some of the upcoming discussions will revolve around “big questions” like movement roles, governance, and decision making, while others will be more goal-oriented and will aim to build organizational strategies and multi-year strategic plans.
 
-For my part: decided to focus on another endeavor as I joined the Wikimedia Foundation's :doc:`Advancement department <advancement>`. I continued to participate in Wikimedia 2030 as a member of the "Revenue Streams" working group, whose mission was to .... I also continued to advise the Wikimedia 2030 core team as needed.
-
-I was not done thinking about the future though. Taking the long view. :doc:`2031 scenarios <2031-scenarios>`
 
 Phase 3 and beyond: Towards implementation
 ------------------------------------------
+
+As of 2023, the movement is now in Phase 3 of Movement Strategy: implementation through `prioritized Initiatives <https://meta.wikimedia.org/wiki/Movement_Strategy/Initiatives>`__. This last phase is notably hindered by strategy fatigue and loss of momentum. While the Recommendations are considered to be necessary, they are also unlikely to be sufficient to realize the 2030 vision of the movement. In 2022, the Foundation grounded its `2022–2023 annual plan <https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2022-2023>`__ in the Strategic Direction, and is now seeking to align its multi-year strategic planning with the Direction, Recommendations, Principles, and other movement-wide strategic guideposts.
 
 .. figure:: /images/Timeline_for_Phase_I,_II,_and_III_of_the_Movement_Strategy.png
    :figclass: full-content framed

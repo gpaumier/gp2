@@ -461,7 +461,7 @@ Crosswiki service work
 
 For a few years, I served as a member of the Wikimedia “`Stewards <https://meta.wikimedia.org/wiki/stewards>`__,” a handful of individuals entrusted with wide-ranging powers across the different language versions of Wikipedia and its sister sites.
 
-Stewards have the sensitive ability to grant and remove rights on any of the hundreds of thousands of user accounts across wikis, as well complete access to the software interface on all wikis. Use of those powers is regulated through policy. Although most of a steward's work is routine, they occasionally intervene in case of emergencies, like rampant vandalism or a rogue administrator abusing their tools.
+Stewards have the sensitive ability to grant and remove rights on any of the hundreds of thousands of user accounts across wikis, as well as complete access to the software interface on all wikis. Use of those powers is regulated through policy. Although most of a steward's work is routine, they occasionally intervene in case of emergencies, like rampant vandalism or a rogue administrator abusing their tools.
 
 Serving as a steward and as part of the `Small Wiki Monitoring Team <https://meta.wikimedia.org/wiki/Small_Wiki_Monitoring_Team>`__ gave me an opportunity to work with contributors from a variety of languages and backgrounds over the years. I was left with a deep appreciation for their work, particularly in communities with few native speakers.
 
