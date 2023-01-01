@@ -30,19 +30,9 @@ Mind-wandering
 One thousand cranes
 -------------------
 
-.. figure:: /images/cranes_3721.jpg
-.. figure:: /images/cranes_3724.jpg
-.. figure:: /images/cranes_3729.jpg
-.. figure:: /images/cranes_3740.jpg
-.. figure:: /images/cranes_3742.jpg
-.. figure:: /images/cranes_3747.jpg
 .. figure:: /images/cranes_3750.jpg
 .. figure:: /images/cranes_3755.jpg
-.. figure:: /images/cranes_3757.jpg
 .. figure:: /images/cranes_3758.jpg
-.. figure:: /images/cranes_3760.jpg
-.. figure:: /images/cranes_3763.jpg
-.. figure:: /images/cranes_185416.jpg
 
    Placeholder caption
 
@@ -55,14 +45,8 @@ I folded about 750 cranes in 2018, a hundred throughout 2019, and finished the l
 Coloring books
 --------------
 
-.. figure:: /images/coloring_3700_v1.jpg
-.. figure:: /images/coloring_3765_v1.jpg
 .. figure:: /images/coloring_3767_v1.jpg
 .. figure:: /images/coloring_3770_v1.jpg
-.. figure:: /images/coloring_134324_2.jpg
-.. figure:: /images/coloring_135415_2.jpg
-.. figure:: /images/coloring_141429_2.jpg
-
 
 Another activity that encourages mind-wandering is coloring books. Coloring requires focus while simultaneously offering complete freedom in the choice of colors. When the outside world feels like too much, coloring books are a way for me to retreat into a quieter bubble for a little while.
 
@@ -94,17 +78,7 @@ Building things
 Construction sets
 -----------------
 
-.. figure:: /images/plants_3808.jpg
-.. figure:: /images/lego_3714.jpg
-.. figure:: /images/lego_3794.jpg
-.. figure:: /images/lego_4048.jpg
 .. figure:: /images/lego_5341.jpg
-.. figure:: /images/lego_5346.jpg
-.. figure:: /images/lego_081029.jpg
-.. figure:: /images/lego_101530.jpg
-.. figure:: /images/lego_122837.jpg
-.. figure:: /images/lego_153755.jpg
-.. figure:: /images/lego_153807.jpg
 
    Placeholder caption
 
@@ -114,32 +88,9 @@ Building LEGO sets was probably my favorite activity as a kid. I rediscovered th
 Wood and stuff
 --------------
 
-.. figure:: /images/building__4717.jpg
-.. figure:: /images/building__4721.jpg
-.. figure:: /images/building__4737.jpg
-.. figure:: /images/building__4739.jpg
-.. figure:: /images/building__4770.jpg
-.. figure:: /images/building_1917.jpg
-.. figure:: /images/building_113510.jpg
-.. figure:: /images/building_133538.jpg
-.. figure:: /images/building_133547.jpg
-.. figure:: /images/building_141917.jpg
-.. figure:: /images/building_143516.jpg
 .. figure:: /images/building_152928.jpg
-.. figure:: /images/building_155106.jpg
-.. figure:: /images/building_165937.jpg
-
 
 I also like to build new things, often for a functional purpose. Several homes ago, I built a modular home office with shelves out of Ikea poles and wood planks. More recently, I built a platform to anchor a squat rack that serves as a home gym. I also built a modular deadlift platform out of lumber and plywood, which I can adjust for block pulls and deficit deadlifts. As of 2022, I'm slowly getting into more ambitious woodworking projects, partly motivated by the need to store books from my ever-expanding personal library.
-
-
-Homemaking
-----------
-
-.. figure:: /images/living_room_sf.jpg
-
-----
-
 
 
 Greenery
@@ -150,21 +101,7 @@ Greenery
 Houseplants
 -----------
 
-.. figure:: /images/plants_3795.jpg
 .. figure:: /images/plants_3802.jpg
-.. figure:: /images/plants_3804.jpg
-.. figure:: /images/plants_3805.jpg
-.. figure:: /images/plants_3613.jpg
-.. figure:: /images/plants_3806.jpg
-.. figure:: /images/plants_3810.jpg
-.. figure:: /images/plants_3607.jpg
-.. figure:: /images/plants_3627.jpg
-.. figure:: /images/plants_3629.jpg
-.. figure:: /images/plants_3632.jpg
-.. figure:: /images/plants_3813.jpg
-.. figure:: /images/plants_3870.jpg
-.. figure:: /images/plants_3876.jpg
-.. figure:: /images/plants_5922.jpg
 
    Placeholder caption
 
@@ -174,17 +111,9 @@ Plants, pandemic, move across the country with the truck
 Garden in a bottle
 ------------------
 
-.. figure:: /images/plants_3593.jpg
-.. figure:: /images/plants_3598.jpg
-.. figure:: /images/plants_3604.jpg
 .. figure:: /images/plants_3611.jpg
 .. figure:: /images/plants_3614.jpg
-.. figure:: /images/plants_3615.jpg
-.. figure:: /images/plants_3616.jpg
-.. figure:: /images/plants_3619.jpg
 .. figure:: /images/plants_3641.jpg
-.. figure:: /images/plants_3651.jpg
-.. figure:: /images/plants_3653.jpg
 
 Terrariums etc.
 
@@ -223,36 +152,10 @@ Baking
 
 
 .. figure:: /images/baking_0885.jpg
-.. figure:: /images/baking_1106.jpg
 .. figure:: /images/baking_1937.jpg
-.. figure:: /images/baking_3682.jpg
-.. figure:: /images/baking_3686.jpg
-.. figure:: /images/baking_3687.jpg
 .. figure:: /images/baking_3777.jpg
-.. figure:: /images/baking_3780.jpg
-.. figure:: /images/baking_3781.jpg
-.. figure:: /images/baking_3782.jpg
-.. figure:: /images/baking_7884.jpg
-.. figure:: /images/baking_8060.jpg
-.. figure:: /images/baking_8358.jpg
-.. figure:: /images/baking_9750.jpg
-.. figure:: /images/baking_072106.jpg
-.. figure:: /images/baking_115057.jpg
-.. figure:: /images/baking_115442.jpg
-.. figure:: /images/baking_124233.jpg
-.. figure:: /images/baking_142744.jpg
-.. figure:: /images/baking_143523.jpg
-.. figure:: /images/baking_150124.jpg
-.. figure:: /images/baking_152405.jpg
-.. figure:: /images/baking_153409.jpg
-.. figure:: /images/baking_153455.jpg
-.. figure:: /images/baking_155013.jpg
-.. figure:: /images/baking_155638.jpg
-.. figure:: /images/baking_174912.jpg
+.. figure:: /images/baking_9750.jpg   
 .. figure:: /images/baking_183934.jpg
-.. figure:: /images/baking_190224.jpg
-.. figure:: /images/baking_195224.jpg
-.. figure:: /images/baking_195351.jpg
 
    Placeholder caption
 
