@@ -133,6 +133,14 @@ pre {
 
 blockquote {
   @extend %phenix-serif-italic;
+
+  strong {
+    @extend %phenix-serif-bolditalic;
+  }
+  
+  em {
+    @extend %phenix-serif;
+  }
 }
 
 figcaption p,
