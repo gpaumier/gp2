@@ -46,3 +46,5 @@ plugins/sphinx_roles/*
 
 # Local Netlify folder
 .netlify
+netlify build log
+netlify errors
