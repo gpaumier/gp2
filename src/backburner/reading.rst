@@ -10,7 +10,7 @@
 
 https://www.firstthings.com/article/2018/11/the-bookish-life
 
-https://www.nytimes.com/2018/10/08/books/review/personal-libraries.html?fallback=0&amp;recId=1BfZ2pvf0LNy5yBu2JiHE5p0CUc&amp;locked=0&amp;geoContinent=NA&amp;geoRegion=NY&amp;recAlloc=control&amp;geoCountry=US&amp;blockId=home-living-vi&amp;imp_id=109372272&amp;action=click&amp;module=Smarter%20Living&amp;pgtype=Homepage
+https://www.nytimes.com/2018/10/08/books/review/personal-libraries.html
 
 
 
