@@ -3,14 +3,16 @@
 .. slug: 2031-scenarios
 .. date: 2019-03-21
 .. tags: Wikimedia
-.. template: custom/post_2031-scenarios.tmpl
+.. template: post_hero.tmpl
 .. image: /images/2031-postpic.png
 .. styles: post_2031-scenarios
 .. class: hero-h2-golden
-.. image1: /images/The_fin_de_siècle_newspaper_proprietor_(cropped).jpg
-.. image2: /images/Grosse_Linde_bei_Teuchatz_P1320563-PS.jpg
-.. image3: /images/Artificial-intelligence-155161_1280.png
 
+.. figure:: /images/The_Ladies'_home_journal_(1948)_(14787774963).jpg
+   :figclass: lead-figure
+   :alt: Page from a women's magazine from 1889 showing two women in a room, seated at a table. One of them is a fortune teller with a glowing orb.
+
+   `The Ladies' home journal <https://commons.wikimedia.org/wiki/File:The_Ladies%27_home_journal_(1948)_(14787774963).jpg>`__ (1889) // Public domain.
 
 .. highlights::
 
@@ -26,7 +28,7 @@
 
 Misinformation, disinformation, testudo formation.
 
-It is the year 2031, and Wikipedia is celebrating its 30th birthday. In a world of unrest and division, Wikipedia seems strangely united. Environmental disasters due to global warming, compounded by socioeconomic crises and identity politics, have birthed a world where distrust and fear of the other are the new normal. Bad actors have never been more active online, whether they are state-funded or attempting to destabilize nations. The violence in the streets is fueled by institutional censorship, organized disinformation, and trolling campaigns that make the online atmosphere even more polluted and toxic than the actual atmosphere.
+**It is the year 2031,** and Wikipedia is celebrating its 30th birthday. In a world of unrest and division, Wikipedia seems strangely united. Environmental disasters due to global warming, compounded by socioeconomic crises and identity politics, have birthed a world where distrust and fear of the other are the new normal. Bad actors have never been more active online, whether they are state-funded or attempting to destabilize nations. The violence in the streets is fueled by institutional censorship, organized disinformation, and trolling campaigns that make the online atmosphere even more polluted and toxic than the actual atmosphere.
 
 Wikipedia has fared relatively well and looks, from afar, like a surprisingly quiet haven, whose content is stable and safe from harm. In trolls, censors, and purveyors of lies, Wikipedians have found a common enemy to unite them; in tech giants, they have found unexpected allies. Big Tech companies have invested heavily in technologies to combat bad actors: they have developed tools to circumvent censorship, to make sure that they still have access to their markets. They have devised ways to identify and derank information that is not from established reputable sources, to protect the content on which their business model relies from being poisoned. They have created shared reputation scores for internet users based on all the data they collect (which are now being tested by insurance companies as well), to determine who is trustworthy online.
 
@@ -50,7 +52,7 @@ It is unclear how, when, or if the fight will end, but it has taken an undeniabl
 
 More money than we had hoped, and the cost of success.
 
-It is the year 2031, and Wikipedia is celebrating its 30th birthday. Hundreds of parties are happening around the world and on all continents. The Wikipedia Consortium can be proud of its achievements. We did it; we achieved the ambitious goals dreamed in the 2030 strategic direction. Looking back, our success can be attributed to a series of good decisions and external events that played in our favor, for better or for worse.
+**It is the year 2031,** and Wikipedia is celebrating its 30th birthday. Hundreds of parties are happening around the world and on all continents. The Wikipedia Consortium can be proud of its achievements. We did it; we achieved the ambitious goals dreamed in the 2030 strategic direction. Looking back, our success can be attributed to a series of good decisions and external events that played in our favor, for better or for worse.
 
 A series of earthquakes, tsunamis, and violent storms in Asia, combined with civil unrest due to economic downturn, created an extended shortage of computer chips, and a prolonged increase in the price of all technological hardware that weakened tech giants worldwide. Regulators seized this opportunity to strengthen antitrust laws and break down most of the largest tech corporations, in an effort to reassert state control and power that had been eroded in the previous two decades.
 
@@ -78,7 +80,7 @@ As the celebrations wind down, optimism is widespread but the future is uncertai
 
 The robot revolution will not be advertised.
 
-It is the year 2031, and Wikipedia is celebrating its 30th birthday. Banners and celebratory logos have been chosen through community contests, but they saw little participation. No one is really in the mood for celebrating: last month, Wikipedia was acquired by a large media group. And even though the new owners have promised editorial independence, the few remaining editors expect the giant to kill off the site in the next few years. How did we not see this coming?
+**It is the year 2031,** and Wikipedia is celebrating its 30th birthday. Banners and celebratory logos have been chosen through community contests, but they saw little participation. No one is really in the mood for celebrating: last month, Wikipedia was acquired by a large media group. And even though the new owners have promised editorial independence, the few remaining editors expect the giant to kill off the site in the next few years. How did we not see this coming?
 
 The opening of the Northern Sea Route and Northwest passage in the 2020s, following the melting of the ice caps due to global warming, caused tensions between Arctic powers. With defense spending eating more and more of national budgets, governments have increasingly relied on large corporations to take on social services and infrastructure projects. Facing pressure from their constituents for more efficiency, regulators caved to the Big Tech lobby: artificial intelligence, connected devices, and smart everything appeared as modern solutions to do more with less government money and bureaucracy. The fact that the same companies were also some of the largest defense contractors, providing digital warfare and intelligence services, was not a coincidence.
 

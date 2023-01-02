@@ -4,8 +4,15 @@
 .. date: 2003-09-01T00:00:00
 .. end: 2005-06-30T00:00:00
 .. image: /images/2003-09-01_enfoiros-Ramonville-054b.jpg
+.. alt: Photograoh of five people on a stage (three women and two men), singing into microphones. They are dressed with red shirts and black pants. The second person from the left is Guillaume Paumier.
 .. roles: ensemble singer, soloist, volunteer
 .. tags: Performing arts, INSA
+
+.. figure:: /images/2003-09-01_enfoiros-Ramonville-054b.jpg
+   :figclass: lead-figure
+   :alt: Photograoh of five people on a stage (three women and two men), singing into microphones. They are dressed with red shirts and black pants. The second person from the left is Guillaume Paumier.
+
+   Singing at one of the concerts in Ramonville, France, in 2003 // All rights reserved.
 
 .. highlights::
 

@@ -176,7 +176,7 @@ Other things I like to bake are apple cobblers, marble cakes, and other simple F
 Performing arts
 ===============
 
-.. figure:: /images/2010-07-03_Qt_duck.jpg
+.. figure:: /images/2005_blues_brothers_ceremonie_diplomes.jpg
    :alt: Placeholder
 
    Placeholder caption
