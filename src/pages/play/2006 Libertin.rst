@@ -3,20 +3,33 @@
 .. slug: le-libertin
 .. date: 2006-02-21T00:00:00
 .. end: 2006-05-12T00:00:00
+.. template: page_hero.tmpl
 .. image: /images/2006_libertin4.png
 .. roles: stage actor
 .. tags: Performing arts, INSA
+
+
+.. figure:: /images/Denis_Diderot_by_Louis-Michel_van_Loo.jpg
+   :figclass: lead-figure
+   :alt: Portrait painting of Denis Diderot by Louis-Michel van Loo
+
+   `Louis-Michel van Loo <https://commons.wikimedia.org/wiki/File:Denis_Diderot_by_Louis-Michel_van_Loo.jpg>`__ // Public domain.
+
+
 
 .. highlights::
 
     A play we staged in college where I played the title role of a philandering Diderot. In a bathrobe.
 
 
+Morality, thievery, Encyclopédie
+================================
+
 "Libertinage is the faculty to separate sex from love, mates from mating, in a word, libertinage is all about nuance and accuracy." This is what a philandering Diderot tells his wife, as he is constantly solicited and needs to write the *Encyclopédie*’s article about Morality.
 
 *Le Libertin* is a play by French author Éric-Emmanuel Schmitt (also adapted into `a movie <http://www.imdb.com/title/tt0214878/>`__) that we staged with a group of friends from my college drama club back in 2006.
 
-It was my first role in the main cast of a non-musical play. To make things more interesting, I got the lead role (Diderot) and had to play the whole thing naked under my bathrobe. The play actually opens with Diderot posing half-naked for a painting.
+It was my first role in the main cast of a non-musical play. To make things more interesting, I played the lead role (Diderot) and had to play the whole thing naked under my bathrobe. The play actually opens with Diderot posing half-naked for a painting.
 
 The story starts as Madame Therbouche is painting a nude of Diderot. The seance is interrupted when Diderot is asked, at the last minute, to write the article about Morality for the *Encyclopédie*, because Rousseau suddenly can't.
 
