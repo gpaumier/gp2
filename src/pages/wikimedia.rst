@@ -214,6 +214,7 @@ My commitment to understanding and preserving Wikipedia's collective history has
    :class: rowspan-2
 
    .. figure:: /images/2014-01-10_Wikipedia-timeline-2013-screenshot.png
+      :figclass: framed-img
 
       The interactive timeline I created in 2013 served as a retrospective of what had happened across the Wikimedia movement that year.
 
@@ -375,7 +376,7 @@ External communications
 
 .. figure:: /images/pablo-heimplatz-ZODcBkEohk8-unsplash.jpg
 
-   `Pablo Heimplatz <https://unsplash.com/@pabloheimplatz>`__ from `Unsplash <https://unsplash.com/photos/ZODcBkEohk8>`__
+   `Pablo Heimplatz <https://unsplash.com/@pabloheimplatz>`__ on `Unsplash <https://unsplash.com/photos/ZODcBkEohk8>`__
 
 The Wikimedia movement has always relied heavily on the work on volunteers, and even more so in its early years. When the Foundation was a lot smaller, I supported its Communications staff, answered press requests, and co-led the team of volunteers who respond to emails sent to Wikipedia by the general public.
 

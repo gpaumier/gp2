@@ -1,6 +1,6 @@
 .. title: Wikimedia Advancement
 .. category: projects-en-featured
-.. subtitle: Revenue strategy and long-term thinking
+.. subtitle: Revenue strategy & long-term thinking
 .. slug: advancement
 .. date: 2018-01-01T00:00:00
 .. template: page_hero.tmpl
@@ -100,8 +100,8 @@ In February 2021, I led a similar workshop with Advancement staff, painting a pi
 Future-oriented thinking helps build resilience by shifting the perspective of the organization's leaders to the long view, and leading them to imagine the future consequences of current events and choices they make today.
 
 
-Major Gifts and Endowment
-=========================
+Major Gifts & Endowment
+=======================
 
 .. figure:: /images/2018_Allhands_team_photo_C81A2782.jpg
 
