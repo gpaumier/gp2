@@ -295,9 +295,10 @@ Two main products were delivered as part of the project, both based on extensive
 
       I worked with a graphic artist to develop an illustrated tutorial explaining the basics of copyright law and free licensing to new contributors.
 
-As of February 2020, UploadWizard has been used to upload over 20 million files to Wikimedia Commons.
+As of January 2023, UploadWizard has been used to upload over 20 million files to Wikimedia Commons.
 
-.. TODO: update number of uploaded files, and add Quarry link in a comment to run the SQL query easily for future updates.
+.. 2023-01-02 tally: 20,231,516 files uploaded with UW
+.. Quarry link for future updates: https://quarry.wmcloud.org/query/42025
 
 Technical writing
 -----------------
