@@ -171,7 +171,7 @@ Polymers are macromolecules (very large molecules) composed of a bunch of smalle
 
       Chemical formula of a monomer of NIPAM. The fragment between square brackets repeats and forms the backbone of the PNIPAM polymer.
 
-The easiest way to describe PNIPAM is as a goey substance that changes when it gets hot. At room temperature, it likes to spread in water: it's *hydrophilic*. But if you heat it to around 32°C (90°F), it doesn't like water any more: it becomes *hydrophobic*. It shrinks onto itself so it can be the least wet possible. If you lower the temperature again, it reverts to being hydrophilic, unfolds, and spreads its arms in water.
+The simplest way to describe PNIPAM is as a goey substance that changes when it gets hot. At room temperature, it likes to spread in water: it's *hydrophilic*. But if you heat it to around 32°C (90°F), it doesn't like water any more: it becomes *hydrophobic*. It shrinks onto itself so it can be the least wet possible. If you lower the temperature again, it reverts to being hydrophilic, unfolds, and spreads its arms in water.
 
 .. container:: pnipam-switch-figures
 

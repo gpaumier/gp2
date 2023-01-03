@@ -64,4 +64,4 @@ And right there, as the red curtain fell, I knew I could do anything I set out t
 
 .. class:: copyright-notes
 
-    *Le Libertin* was written by Éric-Emmanuel Schmitt. Photos were taken from the video shot by the A/V club.
+    *Le Libertin* was written by Éric-Emmanuel Schmitt. Photos were taken from the video recorded by the A/V club.

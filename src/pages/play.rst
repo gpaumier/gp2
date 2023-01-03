@@ -183,9 +183,9 @@ I love to sing, I've performed in (and directed) plays, and I've written scripts
 
 I started singing in junior high school as part of the school's *chorale* and then its *maîtrise* (a fancy word for a children's choir). I kept singing in choirs on and off through high school.
 
-In college, I joined the choir, wrote the book for the two musicals we staged, and directed them. With a few friends, I performed in an a capella quarted-then-quintet for a few years. I also joined the :doc:`Enfoiros <enfoiros>`, a group of students who perform concerts and organize other activities to support low-income folks in the region.
+In college, I joined the choir, wrote the book for the two musicals we staged, and directed them. With a few friends, I performed in an a capella quartet-then-quintet for a few years. I also joined the :doc:`Enfoiros <enfoiros>`, a group of students who perform concerts and organize other activities to support low-income folks in the region.
 
-Also in college, I joined the Theater club and starting performing in plays, including the lead role in Éric-Emmanuel Schmitt's ":doc:`Le Libertin <le-libertin>`," in which I played a philandering Diderot in a bathrobe. For two years, I was on the organizing and writing team for the *Interclubs*, an annual series of shows designed to showcase all the student clubs in one cohesive story.
+Also in college, I joined the drama club and starting performing in plays, including the lead role in Éric-Emmanuel Schmitt's ":doc:`Le Libertin <le-libertin>`," in which I played a philandering Diderot in a bathrobe. For two years, I was on the organizing and writing team for the *Interclubs*, an annual series of shows designed to showcase all the student clubs in one cohesive story.
 
 The Covid-19 pandemic has put musical and other stage endeavors on hold for now, and my only audience these days is probably my neigbors when I'm singing, well, *enthusiastically*.
 
