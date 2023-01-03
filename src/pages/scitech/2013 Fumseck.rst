@@ -20,6 +20,10 @@ In Fall of 2013, I decided it was time, and got to work. I did some research and
 
 “Fumseck” is the name of Professor Dumbledore's phoenix Fawkes in the French version of the *Harry Potter* book series. Choosing this name was a tongue-in-cheek reference to the fact that this site had been moribund for a while and that I wanted it to "rise from its ashes."
 
+.. sidebar::
+   
+   2022 note: J.K. Rowling is a transphobic monster. Transphobia kills people. Don't buy her books. Don't buy merchandise about her books. Any money you spend on Harry Potter stuff will enrich her and fund her transphobic hate.
+
 Fumseck is used in conjunction with "Batbelt," a plugin for WordPress that I've written to bundle together customizations I've made to this site that aren't directly related to its appearance. For example, it's the plugin that implements the Project custom content type (used on this page) and custom taxonomies such as Locations. The Fumseck theme is then in charge of defining the appearance of those customizations, in addition to the rest of the site.
 
 
