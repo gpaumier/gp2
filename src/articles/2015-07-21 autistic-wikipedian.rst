@@ -42,7 +42,7 @@ Sure, the subject had come up before a few times, but it was always as a joke, a
 
 After I started researching the topic, and reading books on autism or autobiographies by autistic people, I realized how much of it applied to me.
 
-It took a bit longer (and a few tests) to get a confirmation from experts, and when it came, many people still had doubts. The question that came up the most often was "But how was this never detected before?" Autism is generally noticed at a much younger age, and it seemed that for most of my life, I had managed to disguise myself as "neurotypical", meaning someone whose brain works similarly to most people.
+It took a bit longer (and a few tests) to get a confirmation from experts, and when it came, many people still had doubts. The question that came up the most often was "But how was this never detected before?" Autism is generally noticed at a much younger age, and it seemed that for most of my life, I had managed to disguise myself as "neurotypical," meaning someone whose brain works similarly to most people.
 
 The current prevailing hypothesis to explain this, based on an IQ test taken as part of the evaluation process, is that I am privileged to have higher-than-average intellectual capacities, which have allowed me to partly compensate for the different wiring of my brain. One way to illustrate this is to use a computer analogy: in a way, my CPU runs at a higher frequency, which has allowed me to emulate with software the hardware that I'm missing. What this also means is that it can be exhausting to run this software all the time, so sometimes I need to be by myself.
 
@@ -56,7 +56,7 @@ One caveat I want to start with is that autism is a spectrum. There's a popular 
    :figclass: full-width
    :alt: A picture of Guillaume Paumier sitting on a bench, changing a lens on a camera, on a background of green plants.
 
-   "`Taipei Wm2007 Guillaume.jpg <https://commons.wikimedia.org/wiki/File:Taipei_Wm2007_Guillaume.jpg>`_",    by `Cary Bass <https://commons.wikimedia.org/wiki/User:Bastique>`_, under `CC-By-SA 3.0    Unported <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`_,    from Wikimedia Commons.
+   "`Taipei Wm2007 Guillaume.jpg <https://commons.wikimedia.org/wiki/File:Taipei_Wm2007_Guillaume.jpg>`_,"    by `Cary Bass <https://commons.wikimedia.org/wiki/User:Bastique>`_, under `CC-By-SA 3.0    Unported <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`_,    from Wikimedia Commons.
 
 The picture above was taken during Wikimania 2007 in Taipei. I was exploring the city with Cary Bass (User:Bastique) and a few other people. Looking back at this picture now, there are a few things I notice today:
 
@@ -76,10 +76,10 @@ A good analogy to help understand what it's like to be autistic in a neurotypica
    .. figure:: /images/2015-07-21_Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg
       :alt: An image of Leonard Nimoy and Willian Shatner standing side by side as Spock and Kirk from the Star Trek series. A model of the star ship Enterprise is in the foreground.
 
-      Spock and Kirk. "`Leonard Nimoy William Shatner Star Trek 1968 <https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG>`_", by NBC Television, in the public domain, from Wikimedia Commons.
+      Spock and Kirk. "`Leonard Nimoy William Shatner Star Trek 1968 <https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG>`_," by NBC Television, in the public domain, from Wikimedia Commons.
 
 
-Some of the funniest moments of the show are his arguments with the irascible Dr. McCoy, who calls him an "unfeeling automaton" and "the most cold-blooded man [he's] ever known". To which Spock responds: "Why, thank you, Doctor."  [1]_
+Some of the funniest moments of the show are his arguments with the irascible Dr. McCoy, who calls him an "unfeeling automaton" and "the most cold-blooded man [he's] ever known." To which Spock responds: "Why, thank you, Doctor."  [1]_
 
 As a Vulcan, Spock's life is ruled by logic. Although he does feel emotions, they are deeply repressed. His speech pattern is very detached, almost clinical. Because of his logical and utilitarian perspective, Spock often appears dismissive, cold-hearted, or just plain rude to his fellow shipmates.
 
@@ -157,9 +157,9 @@ How are you?
 
 Many languages have a common phrase to ask someone how they're doing, whether it's the French *Comment ça va ?*, the English *How are you?* or the German *Wie geht's?*
 
-When I first moved to the US, every time someone asked me "How are you?", I would pause to consider the question. Now, I've learned that it's a greeting, not an actual question, and I've mostly automated the response to the expected "Great, how are you?". It only takes a few milliseconds to switch to that path and short-circuit the question-answering process. But if people deviate from that usual greeting, then that mental shortcut doesn't work any more.
+When I first moved to the US, every time someone asked me "How are you?," I would pause to consider the question. Now, I've learned that it's a greeting, not an actual question, and I've mostly automated the response to the expected "Great, how are you?." It only takes a few milliseconds to switch to that path and short-circuit the question-answering process. But if people deviate from that usual greeting, then that mental shortcut doesn't work any more.
 
-A few weeks ago, someone in the Wikimedia Foundation office asked me "How is your world?", and I froze for a few seconds. In order to answer that question, my brain was reviewing everything that was happening in "my world" (and "my world" is big!), before I realized that I just needed to say "Great! Thanks!".
+A few weeks ago, someone in the Wikimedia Foundation office asked me "How is your world?," and I froze for a few seconds. In order to answer that question, my brain was reviewing everything that was happening in "my world" (and "my world" is big!), before I realized that I just needed to say "Great! Thanks!."
 
 .. figure:: /images/2015-07-21_small_talk.png
 
@@ -179,7 +179,7 @@ The most common consequence I've noticed in my experience, and in accounts from 
    .. figure:: /images/Wikimania_2014_welcome_reception_02.jpg
       :alt: A photograph of the Wikimania 2014 welcome reception.
 
-      "`Wikimania 2014 welcome reception 02 <https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg>`_", by Chris McKenna, under CC-BY-SA 4.0 International, from Wikimedia Commons.
+      "`Wikimania 2014 welcome reception 02 <https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg>`_," by Chris McKenna, under CC-BY-SA 4.0 International, from Wikimedia Commons.
 
 Imagine that you're talking to me face to face. You don't really know me, but I seem nice so you start making small talk. I'm not saying much, and you need to carry the discussion over those awkward silences. When I do speak, it's in a very monotone manner, like I don't really care. You try harder, and ask me questions, but I hesitate, I struggle to maintain eye contact, and I keep looking away, as if I'm making stuff up as I go.
 
@@ -197,7 +197,7 @@ There are also many professional hurdles associated with being on the autism spe
 
 With that in mind, imagine what the career opportunities (or lack thereof) can be for someone who is a terrible liar, who has a lot of interest in doing great work, but less interest in taking credit for it, who doesn't understand office politics, who not only makes social missteps and angers their colleagues, but doesn't even know about it, someone who's unable to make small talk around the office. Imagine that person, and what kind of a career they can have even if they're very good at their job.
 
-Casual relationships with colleagues and acquaintances are usually superficial; the stakes of the water cooler discussions are low, so people are more inclined to forgive missteps. However, friendship is another matter, and for most of my life, I have hardly had any friends, unless you use Facebook's definition of the term. Awkwardness is generally tolerated, but rarely sought after. It's not "cool".
+Casual relationships with colleagues and acquaintances are usually superficial; the stakes of the water cooler discussions are low, so people are more inclined to forgive missteps. However, friendship is another matter, and for most of my life, I have hardly had any friends, unless you use Facebook's definition of the term. Awkwardness is generally tolerated, but rarely sought after. It's not "cool."
 
 Most of those issues arise because you don't have a way of *knowing* that the person in front of you is different. At least Spock had his pointed ears to signal that he wasn't human. His acceptance by the crew of the *Enterprise* was in large part due to the relationships he was able to develop with his shipmates. Those relationships would arguably not have been possible if they had not known how he was different.
 
@@ -235,7 +235,7 @@ Of course, one major example of wide-scale online communication is the Wikimedia
 
 For example, my first edit ten years ago was to fix a spelling error. My second edit was to fix a conjugation error. My third edit was to fix both a spelling and a conjugation error. That's how my journey as a Wikipedian started ten years ago.
 
-Wikipedians are obsessed with citations, references, and verifiability; fact is king, and interpretation is taboo. As long as you stay in the main namespace, that is. As soon as you step out of article pages and venture into talk pages and community spaces like the "Village Pump", those high standards don't apply any more. There are plenty of unsourced, exaggerated and biased statements in Wikipedia *discussions*.
+Wikipedians are obsessed with citations, references, and verifiability; fact is king, and interpretation is taboo. As long as you stay in the main namespace, that is. As soon as you step out of article pages and venture into talk pages and community spaces like the "Village Pump," those high standards don't apply any more. There are plenty of unsourced, exaggerated and biased statements in Wikipedia *discussions*.
 
 That's in addition to the problems I mentioned earlier. As an autistic, it can be hard to let go of arguments about things or people you care about. It's often said that autistic people lack empathy, which basically makes us look like cold-hearted robots. However, there is a distinction between being able to *read the feelings* of other people, and *feeling compassion* for other people.
 
@@ -261,7 +261,7 @@ Steve Silberman, who wrote a book on the history of autism, presented it this wa
 
 .. _forgotten history: http://www.ted.com/talks/steve_silberman_the_forgotten_history_of_autism
 
-But still, neurodiversity has a cost. Sometimes, you'll be offended; sometimes, you'll be frustrated; and sometimes, you'll think "Wow, I would never have thought of that in a million years".
+But still, neurodiversity has a cost. Sometimes, you'll be offended; sometimes, you'll be frustrated; and sometimes, you'll think "Wow, I would never have thought of that in a million years."
 
 As I mentioned earlier, I believe Spock was only able to build those relationships over time because people were aware of his difference, and learned to understand and embrace it. Spock also learned a lot from humans along the way.
 
@@ -275,4 +275,4 @@ Live long and prosper. 🖖
 .. figure:: /images/2015-07-21_ISS_42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg
    :figclass: full-width
 
-   "`ISS-42 Samantha Cristoforetti Leonard Nimoy tribute <https://commons.wikimedia.org/wiki/File:ISS-42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg>`_", by `NASA <https://www.nasa.gov>`_, in the Public domain, from Wikimedia Commons.
+   "`ISS-42 Samantha Cristoforetti Leonard Nimoy tribute <https://commons.wikimedia.org/wiki/File:ISS-42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg>`_," by `NASA <https://www.nasa.gov>`_, in the Public domain, from Wikimedia Commons.

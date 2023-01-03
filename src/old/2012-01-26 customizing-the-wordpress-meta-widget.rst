@@ -17,7 +17,7 @@
 
 I maintain the `Wikimedia Blog <https://blog.wikimedia.org>`__, and we wanted to include a link to our `posting guidelines <https://meta.wikimedia.org/wiki/Wikimedia_Blog/Guidelines>`__ to the "meta" section of our sidebar.
 
-There is no straightforward way to do this; the widget can't be edited from within the admin area. One possibility was to replace the standard meta widget by a custom text widget, with the same content and links, and to add our guidelines to the mix. But this meant losing the nice context-aware links (e.g. "Register" vs. "Site admin", and "Log in" vs. "Log out", respectively for logged-out and logged-in users) provided by built-in WordPress functions (``wp_register`` and ``wp_loginout``): widget text can't embed PHP code.
+There is no straightforward way to do this; the widget can't be edited from within the admin area. One possibility was to replace the standard meta widget by a custom text widget, with the same content and links, and to add our guidelines to the mix. But this meant losing the nice context-aware links (e.g. "Register" vs. "Site admin," and "Log in" vs. "Log out," respectively for logged-out and logged-in users) provided by built-in WordPress functions (``wp_register`` and ``wp_loginout``): widget text can't embed PHP code.
 
 Another possibility was to install a third-party plugin to customize the meta widget (or allow PHP code in widget text). I'm usually reluctant to using plugins for simple changes like the one we wanted to do. Both our Operations staff and I prefer to keep the amount of third-party plugins installed on the blog to a minimum, for various reasons (security, maintenance, maintainability, etc.).
 

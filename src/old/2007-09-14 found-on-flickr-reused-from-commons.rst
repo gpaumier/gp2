@@ -26,4 +26,4 @@ The lady emailed me through flickr and asked permission to use photos from `my g
 
 Eventually, flickr may help Commons to get some attention. Teachers and librarians, who are always very doubtful about Wikipedia, usually love the idea of a free media repository where they can pick media for their courses or to where they can send their students without risking that they copy/paste articles full of errors.
 
-Commons may be the next *coolest project*, as soon as developers find the time to improve its usability to make it more user-friendly and more "`2.0 <http://en.wikipedia.org/wiki/Web_2.0>`__".
+Commons may be the next *coolest project*, as soon as developers find the time to improve its usability to make it more user-friendly and more "`2.0 <http://en.wikipedia.org/wiki/Web_2.0>`__."

@@ -47,7 +47,7 @@ E gostaria de começar expondo que o autismo é um espectro. Existe uma máxima 
 
 .. figure:: /images/2007-07-31_Taipei_Wm2007_Guillaume.jpg
 
-   "`Taipei Wm2007Guillaume.jpg <https://commons.wikimedia.org/wiki/File:Taipei_Wm2007_Guillaume.jpg>`_", por `Cary Bass <https://commons.wikimedia.org/wiki/User:Bastique>`_, sob `CC-By-SA 3.0 Unported <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`_, da Wikimedia Commons.
+   "`Taipei Wm2007Guillaume.jpg <https://commons.wikimedia.org/wiki/File:Taipei_Wm2007_Guillaume.jpg>`_," por `Cary Bass <https://commons.wikimedia.org/wiki/User:Bastique>`_, sob `CC-By-SA 3.0 Unported <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`_, da Wikimedia Commons.
 
 
 A foto acima foi tirada durante a Wikimania 2007, em Taipei. Eu estava explorando a cidade com Cary Bass (usuário: Bastique) e algumas outras pessoas. Ao olhar agora para esta imagem, noto algumas coisas:
@@ -64,7 +64,7 @@ Uma boa analogia para entender o que significa ser autista em um mundo de neurot
 
 .. figure:: /images/2015-07-21_Leonard_Nimoy_William_Shatner_Star_Trek_1968.jpg
 
-   Spock e Kirk. "`Leonard Nimoy William Shatner Star Trek 1968 <https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG>`_", da Televisão NBC, domínio público, da Wikimedia Commons.
+   Spock e Kirk. "`Leonard Nimoy William Shatner Star Trek 1968 <https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG>`_," da Televisão NBC, domínio público, da Wikimedia Commons.
 
 
 Alguns dos momentos mais engraçados da série são as discussões que ele tem com o irritadiço Dr. McCoy, quem o chama de “autômato insensível” e “o homem mais sangue frio que ele já conheceu”. Ao que o Spock responde: “Por que, obrigado, Doutor”  [1]_
@@ -154,7 +154,7 @@ A consequência mais comum, de acordo com a minha experiência, e tendo em conta
 
 .. figure:: /images/Wikimania_2014_welcome_reception_02.jpg
 
-   Recepção de boas vindas da Wikimania 2014. "`Wikimania 2014 welcome reception 02 <https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg>`_", por Chris McKenna, sob CC-BY-SA 4.0 International, da Wikimedia Commons.
+   Recepção de boas vindas da Wikimania 2014. "`Wikimania 2014 welcome reception 02 <https://commons.wikimedia.org/wiki/File:Wikimania_2014_welcome_reception_02.jpg>`_," por Chris McKenna, sob CC-BY-SA 4.0 International, da Wikimedia Commons.
 
 
 Imagine que você está falando comigo cara a cara. Você não me conhece realmente, mas eu pareço legal, então você puxa um papo. Eu não falo muito, e você acaba tendo que preencher todos os silêncios desconfortáveis. E quando eu falo, o faço de um modo monótono, como se eu não estivesse nem aí. Você insiste, e me faz perguntas, mas eu hesito, evito manter contato visual, mantenho um olhar distante, como se eu tivesse inventando as coisas conforme eu falo.
@@ -238,7 +238,7 @@ Vida longa e próspera. 🖖
 .. figure:: /images/2015-07-21_ISS_42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg
 
    "`ISS-42 Samantha Cristoforetti Leonard Nimoy
-   tribute <https://commons.wikimedia.org/wiki/File:ISS-42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg>`_",
+   tribute <https://commons.wikimedia.org/wiki/File:ISS-42_Samantha_Cristoforetti_Leonard_Nimoy_tribute.jpg>`_,"
    by `NASA <https://www.nasa.gov>`_, in the Public domain, from
    Wikimedia Commons.
 

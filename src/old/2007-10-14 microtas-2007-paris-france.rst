@@ -14,7 +14,7 @@
 
    .. figure:: /images/2007-10-08_MicroTAS_Welcome_speech_0005.jpg
 
-"`MicroTAS <https://en.wikipedia.org/wiki/MicroTAS>`__" (also written "µTAS") stands for "Micro Total Analysis Systems", a subset of the field of labs-on-chips that specializes in the analysis of total (unprocessed) samples, like a drop of blood. `MicroTAS <http://www.microtas2007.org/>`__ (the conference), as its name does not indicate, is the *International conference on biomedical electronics and devices*. It's one of the major conferences in the field of labs-on-chip, and we were thrilled to have a paper accepted, even if it was "just" for a poster.
+"`MicroTAS <https://en.wikipedia.org/wiki/MicroTAS>`__" (also written "µTAS") stands for "Micro Total Analysis Systems," a subset of the field of labs-on-chips that specializes in the analysis of total (unprocessed) samples, like a drop of blood. `MicroTAS <http://www.microtas2007.org/>`__ (the conference), as its name does not indicate, is the *International conference on biomedical electronics and devices*. It's one of the major conferences in the field of labs-on-chip, and we were thrilled to have a paper accepted, even if it was "just" for a poster.
 
 Most (if not all) of my colleagues use PowerPoint to make their posters. Besides the fact that it is a proprietary and expensive software, it also remains a presentation program suited for, well, presentations. A poster is *not* a presentation, and there are more suited tools than presentation programs, such as desktop publishing programs.
 

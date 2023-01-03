@@ -207,7 +207,7 @@ between the different entities are (chapters, foundation, community).
 Their performance was quite good overall given the complexity of the
 topics involved. A participant also conjectured that it was very
 difficult to moderate this conference because the participants formed "a
-group of very individualistic, fiercely independent people".
+group of very individualistic, fiercely independent people."
 
 Committees
 ==========

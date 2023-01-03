@@ -35,7 +35,7 @@ I've found the following modus operandi to be very effective: While you're readi
 3. Understand the importance of raising funds
 =============================================
 
-Don't try to raise funds because you "should" or because "it's nice". **Raise funds because you need money.** You can never be as convincing when you ask as when you're passionate about a project you know you can't accomplish unless you collect the needed amount of money.
+Don't try to raise funds because you "should" or because "it's nice." **Raise funds because you need money.** You can never be as convincing when you ask as when you're passionate about a project you know you can't accomplish unless you collect the needed amount of money.
 
 You may see fundraising as a difficult activity that doesn't bring in a lot of money. You may consider other means to collect money (such as selling goodies) because you see them as easier ways to earn money. Considering alternate means is good, but selling T-shirts won't (and shouldn't) be your primary source of money. Ever.
 
@@ -51,4 +51,4 @@ Also, try to walk in your donors shoes ("donor-centric approach"). Why should I 
 5. Spend your money
 ===================
 
-The best way to raise funds is to spend your money. Donors don't give you money so it lingers on your bank account. They give you money so you *do things*; they want you to accomplish things to make the world better on their behalf. There is no such thing as "waiting for more money before spending it". If your projects require more money, then raise more money. If you don't have any projects to spend your money on, you're in big trouble. Fortunately, my next article will be about just that: how to spend your money.
+The best way to raise funds is to spend your money. Donors don't give you money so it lingers on your bank account. They give you money so you *do things*; they want you to accomplish things to make the world better on their behalf. There is no such thing as "waiting for more money before spending it." If your projects require more money, then raise more money. If you don't have any projects to spend your money on, you're in big trouble. Fortunately, my next article will be about just that: how to spend your money.

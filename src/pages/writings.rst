@@ -33,7 +33,7 @@ Open Advice: What We Wish We Had Known When We Started
 
 I contributed a chapter on User Experience to the *Open Advice* book, a collection of essays edited by `Lydia Pintscher <http://www.lydiapintscher.de/about.php>`__. The book consists of stories and lessons learned by 42 members of the Free Software community who share what they would have liked to know when they started, so that newcomers can get a headstart when they start contributing.
 
-* Guillaume Paumier, "Learn from Your Users", in *Open Advice: What We Wish We Had Known When We Started*, ed. Lydia Pintscher (Lulu.com, 2012). ISBN 978-1105514937
+* Guillaume Paumier, "Learn from Your Users," in *Open Advice: What We Wish We Had Known When We Started*, ed. Lydia Pintscher (Lulu.com, 2012). ISBN 978-1105514937
 
   * `Read online <http://open-advice.org/>`__ \| `Buy on Amazon <https://www.amazon.com/dp/1105514935/>`__
 
@@ -44,7 +44,7 @@ Libres conseils. Ce que nous aurions aimé savoir avant de commencer
 
 The *Open Advice* book was translated to French by `Framasoft <https://framasoft.org/>`__ during a year-long process involving nearly a hundred contributors.
 
-* Guillaume Paumier, "Apprenez de vos utilisateurs", in *Libres conseils. Ce que nous aurions aimé savoir avant de commencer*, dir. Lydia Pintscher (Framasoft, 2013). ISBN 978-1092674040
+* Guillaume Paumier, "Apprenez de vos utilisateurs," in *Libres conseils. Ce que nous aurions aimé savoir avant de commencer*, dir. Lydia Pintscher (Framasoft, 2013). ISBN 978-1092674040
 
   * `Read online <https://framabook.org/libres-conseils/>`__ \| `Buy on EVL <https://enventelibre.org/livres/31-libres-conseils-9781092674040.html>`__
 
@@ -55,7 +55,7 @@ The Architecture of Open Source Applications, Volume II
 
 In 2011, I authored a chapter about the architecture of `MediaWiki <https://www.mediawiki.org>`__, the software that powers Wikipedia and its sister sites, for inclusion in the book *The Architecture of Open Source Applications, volume 2*. The chapter was based on the shared knowledge of MediaWiki developers, and written in collaboration with Sumana Harihareswara.
 
-* Guillaume Paumier and Sumana Harihareswara, "MediaWiki", in *The Architecture of Open Source Applications, Volume II*, ed. Amy Brown and Greg Wilson (Lulu.com, 2012). ISBN 978-1105571817
+* Guillaume Paumier and Sumana Harihareswara, "MediaWiki," in *The Architecture of Open Source Applications, Volume II*, ed. Amy Brown and Greg Wilson (Lulu.com, 2012). ISBN 978-1105571817
 
   * `Read online <https://aosabook.org/en/mediawiki.html>`__ \| `Buy on Amazon <https://www.amazon.com/dp/1105571815/>`__
 

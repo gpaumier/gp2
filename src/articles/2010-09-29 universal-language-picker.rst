@@ -29,7 +29,7 @@ The main focus of the Multimedia usability project right now is on developing `a
 
 A few months ago, we did some "hallway testing": we asked some of our co-workers (who aren't necessarily wiki-experts) to try out the upload wizard. As they were using it, we watched them and tried to identify what was confusing, in order to improve the interface & interaction with the user.
 
-It was really interesting, as they were all using the upload wizard differently. One was an "explorer", who would expand each and every sub-menu in order to better understand the options offered to her. Another would just try to proceed as fast as possible, get the job done and get it over with. It was a sort of rehearsal for our then-upcoming :doc:`User experience (UX) study <wikimedia-multimedia-ux-testing-videos>`, and we learned a lot.
+It was really interesting, as they were all using the upload wizard differently. One was an "explorer," who would expand each and every sub-menu in order to better understand the options offered to her. Another would just try to proceed as fast as possible, get the job done and get it over with. It was a sort of rehearsal for our then-upcoming :doc:`User experience (UX) study <wikimedia-multimedia-ux-testing-videos>`, and we learned a lot.
 
 Where's my Hindi?
 =================
@@ -73,7 +73,7 @@ Later, we had a very interesting discussion about how we should show languages i
 Language displayed in the same language
 =======================================
 
-One viewpoint is that, if you're looking for a language in the list, you should know the name of this language in this language. For example, if you're English, but you're looking for German, you should know that the German name for "German" is "Deutsch".
+One viewpoint is that, if you're looking for a language in the list, you should know the name of this language in this language. For example, if you're English, but you're looking for German, you should know that the German name for "German" is "Deutsch."
 
 This is currently how MediaWiki handles language selection in most cases, because this system is considered to be the most language-neutral (see :doc:`my previous article on this topic <state-of-language-selection-mediawiki-wikipedia>`). The language picker in your Wikipedia (or other MediaWik-based wiki) user preferences is an example of this.
 
@@ -90,7 +90,7 @@ Also, although languages are usually displayed in their own language, they're so
 Language displayed in the user's language
 =========================================
 
-Another viewpoint is that all languages should be presented in the user's language. If we consider the same example (you're English and looking for German), the software should present you with a full list of languages with their English name, and you would be able to select "German".
+Another viewpoint is that all languages should be presented in the user's language. If we consider the same example (you're English and looking for German), the software should present you with a full list of languages with their English name, and you would be able to select "German."
 
 That would basically require us to know the name of all languages in all languages. For *n* languages, you would need a total of *n* × *n* translations. That's *a lot*.
 

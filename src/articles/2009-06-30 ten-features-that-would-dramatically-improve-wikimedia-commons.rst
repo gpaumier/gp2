@@ -17,7 +17,7 @@ Browsing & reusing
 ==================
 
 #. **Automatic localization**: Websites such as Wikimedia Commons and meta-wiki host content in various languages and have a multilingual audience. These multilingual wikis should automagically `detect the locale of the user's browser <http://blog.notanendive.org/post/2008/09/25/I-don-t-spreche-Deutsch-merci-beaucoup>`__ and use it as language of the interface, especially for unregistered users. As for users with an account, their browser's locale should be set as the default language in their preferences.
-#. **Usage-centric page layout**: It's all very nice to know that such image is a "retouched picture" or that such diagram was "made using Inkscape". But I think what most of the users want to know is: how to use the picture (in Wikimedia projects or elsewhere) and how to download it (using the best resolution available). Many people use the right-click-save-as method to save pictures from the Internet. If they do that on Commons, they will only save the low-resolution preview. There should be a big button « Download high-res », as well as snippets of code to embed a file with proper attribution.
+#. **Usage-centric page layout**: It's all very nice to know that such image is a "retouched picture" or that such diagram was "made using Inkscape." But I think what most of the users want to know is: how to use the picture (in Wikimedia projects or elsewhere) and how to download it (using the best resolution available). Many people use the right-click-save-as method to save pictures from the Internet. If they do that on Commons, they will only save the low-resolution preview. There should be a big button « Download high-res », as well as snippets of code to embed a file with proper attribution.
 
 Metadata
 ========
@@ -51,13 +51,13 @@ Editing
 Rating
 ======
 
-7. Some sort of community-managed **rating feature**; as someone said elsewhere, "Commons is a depository, and depositories are expected to host lots of junk". A rating feature would allow the best of Commons to be presented first during the search, and junk to be presented last.
+7. Some sort of community-managed **rating feature**; as someone said elsewhere, "Commons is a depository, and depositories are expected to host lots of junk." A rating feature would allow the best of Commons to be presented first during the search, and junk to be presented last.
 
 Searching
 =========
 
 With currently more than 4.6 million files (and counting), it is becoming increasingly important to improve the search features of Wikimedia Commons.
 
-8.  **An "advanced search" feature** similar to `flickr's <http://www.flickr.com/search/advanced/?>`__. It should be possible to search by media type, by license, and to add toggles such as "safe mode" (explicit content) or "personality rights".
+8.  **An "advanced search" feature** similar to `flickr's <http://www.flickr.com/search/advanced/?>`__. It should be possible to search by media type, by license, and to add toggles such as "safe mode" (explicit content) or "personality rights."
 9.  **Multilingual search**: Files on Commons are ordered in hierarchical categories, using English as *lingua franca*. If you want to find a file, you have to search in English. I imagine it is possible to use some dictionary (coupled to the language detection) to give good results for a search in any language.
 10. **Google-Images-friendliness**. A lot of people use Google Images to find pictures, but images from Wikimedia Commons rarely appear in these results (unless they are used on a Wikipedia page).

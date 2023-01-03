@@ -95,7 +95,7 @@ On Wikipedia, the first choice happens on the multilingual `wikipedia.org <http:
    Screenshot of the Wikipedia.org portal
 
 
-On this (`manually curated <http://meta.wikimedia.org/wiki/Project_portals>`__) portal, each language is displayed in the language's language:\ [#]_ English is displayed as "English", German as "Deutsch", French as "Français", etc. The sorting order is based on the size of each language edition, measured in number of articles. In a word, the bigger the Wikipedia, the more prominent the place. "Small" Wikipedia editions are at the very end of the list.
+On this (`manually curated <http://meta.wikimedia.org/wiki/Project_portals>`__) portal, each language is displayed in the language's language:\ [#]_ English is displayed as "English," German as "Deutsch," French as "Français," etc. The sorting order is based on the size of each language edition, measured in number of articles. In a word, the bigger the Wikipedia, the more prominent the place. "Small" Wikipedia editions are at the very end of the list.
 
 .. [#] This is getting confusing, I know. I'm doing my best, believe me.
 
@@ -105,7 +105,7 @@ In most cases, though, you don't have to make this choice; your search engine co
 Interlanguage links
 -------------------
 
-**Interlanguage links** are a specific subset of `interwiki links <http://en.wikipedia.org/wiki/Interwiki_links>`__; they allow users to navigate between different language versions of the same page. Links and their order are curated by humans or "bots", i.e. external programs that interact with the software as humans would, but are not part of the MediaWiki software
+**Interlanguage links** are a specific subset of `interwiki links <http://en.wikipedia.org/wiki/Interwiki_links>`__; they allow users to navigate between different language versions of the same page. Links and their order are curated by humans or "bots," i.e. external programs that interact with the software as humans would, but are not part of the MediaWiki software
 
 .. figure:: /images/2010-06-26_interlanguage_links_apple.png
    :figclass: framed
@@ -178,7 +178,7 @@ Langswitch & Autotranslation
 
 *Langswitch* and *Autotranslate* are two similar methods used on Commons to show a given text depending on the user's language (as specified in their preferences). They're more elaborate systems than *Language select* and *Language templates*, but they essentially try to address the same issue.
 
-|langswitch|_ is more lightweight and used for `simple templates <http://commons.wikimedia.org/wiki/Category:Internationalization_templates_using_LangSwitch>`__: all translations are contained in one page. For example, the "`France <http://commons.wikimedia.org/w/index.php?title=Template:France&action=edit>`__" template on Commons uses *Langswitch*; it includes the translation of the word "France" in all available languages, and provides a link to the appropriate article in the associated language edition of Wikipedia. If the user's language is German, they will only see "`Frankreich <http://de.wikipedia.org/wiki/Frankreich>`__".
+|langswitch|_ is more lightweight and used for `simple templates <http://commons.wikimedia.org/wiki/Category:Internationalization_templates_using_LangSwitch>`__: all translations are contained in one page. For example, the "`France <http://commons.wikimedia.org/w/index.php?title=Template:France&action=edit>`__" template on Commons uses *Langswitch*; it includes the translation of the word "France" in all available languages, and provides a link to the appropriate article in the associated language edition of Wikipedia. If the user's language is German, they will only see "`Frankreich <http://de.wikipedia.org/wiki/Frankreich>`__."
 
 .. |langswitch| replace:: **Langswitch**
 
@@ -215,4 +215,4 @@ For multilingual Wikimedia wikis like Commons and meta, language selection is a 
 
 Current language selection solutions also don't cater for the needs or unregistered readers, who are the majority of the people visiting Wikimedia projects. That issue will have to be addressed at some point if we want to reach a truly global audience.
 
-Another challenge with language selection is the interface you provide the user with to make their choice, i.e. the actual "selector". It is not obvious what design is the best and allows the user to select the language they want in the most efficient manner. This will be the topic of :doc:`my next article, about language selectors <universal-language-picker>`.
+Another challenge with language selection is the interface you provide the user with to make their choice, i.e. the actual "selector." It is not obvious what design is the best and allows the user to select the language they want in the most efficient manner. This will be the topic of :doc:`my next article, about language selectors <universal-language-picker>`.

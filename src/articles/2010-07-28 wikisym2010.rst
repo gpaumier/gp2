@@ -15,7 +15,7 @@
     Three weeks ago, I attended the WikiSym 2010 conference. WikiSym is the "International Symposium on Wikis and Open Collaboration;" it's sort of the "Academic Wikimania," where people researching wikis, Wikipedia and generally open collaboration get together and share their findings.
 
 
-I couldn't attend `WikiSym <http://www.wikisym.org/ws2010>`__ the previous years for various reasons, the main one being money: they were too far away and the registration fee was too expensive. This year, WikiSym was collocated with Wikimania in Gdańsk, Poland, so it was a perfect opportunity for researchers & Wikimedians (or "practitioners", as researchers call them) to get together and meet. We have to thank my friend Phoebe Ayers for that, who was this year's Chair/Organizer of WikiSym.
+I couldn't attend `WikiSym <http://www.wikisym.org/ws2010>`__ the previous years for various reasons, the main one being money: they were too far away and the registration fee was too expensive. This year, WikiSym was collocated with Wikimania in Gdańsk, Poland, so it was a perfect opportunity for researchers & Wikimedians (or "practitioners," as researchers call them) to get together and meet. We have to thank my friend Phoebe Ayers for that, who was this year's Chair/Organizer of WikiSym.
 
 .. class:: rowspan-2
 .. sidebar::
@@ -72,7 +72,7 @@ Hence, I refused to sign the copyright transfer form, even though it meant not b
 
 I do hope, though, that at some point we'll be able to move towards a more open access & reuse model,\ [#]_ in accord with the philosophy of open collaboration and `free works <http://freedomdefined.org/>`__.
 
-.. [#] "Gold", and not just "green" open access. See |acm not open access|_, by Michael Mitzenmacher, for more information, and |addendum|_, by Stevan Harnad, for an opposing view.
+.. [#] "Gold," and not just "green" open access. See |acm not open access|_, by Michael Mitzenmacher, for more information, and |addendum|_, by Stevan Harnad, for an opposing view.
 
 .. |acm not open access| replace:: *The ACM is NOT Open Access*
 

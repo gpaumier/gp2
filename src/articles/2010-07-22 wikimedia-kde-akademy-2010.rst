@@ -48,7 +48,7 @@ Meeting the KDE community
 
 I've had some interaction with the KDE community before. I used to live in the same city as `one of the lead KDE developers <http://ervin.ipsquad.net/about/>`__, and we belonged to `the same Linux User Group <http://toulibre.org/>`__. I'm also familiar with the digiKam community, with whom I've been working on and off.
 
-Besides our presentation, Akademy was also an opportunity to get together with the "gearheads", to discuss collaboration opportunities, and of course to get my `debugging duck <http://developer.qt.nokia.com/duck>`__.
+Besides our presentation, Akademy was also an opportunity to get together with the "gearheads," to discuss collaboration opportunities, and of course to get my `debugging duck <http://developer.qt.nokia.com/duck>`__.
 
 .. figure:: /images/2010-07-03_Qt_duck.jpg
 
