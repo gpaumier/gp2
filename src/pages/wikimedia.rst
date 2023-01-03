@@ -338,9 +338,9 @@ In 2013, I started :doc:`Tech News <tech-news>`, a weekly technical newsletter f
 Community organizing
 ====================
 
-.. figure:: /images/2007-08-05_Wikimania_2007_Commons_puzzle_piece.jpg
+.. figure:: /images/2014-08-09_Wikimania_2014.jpg
 
-   Holding the Commons with `Brianna <https://commons.wikimedia.org/wiki/User:Pfctdayelise>`__ and `Cary <https://commons.wikimedia.org/wiki/User:Bastique>`__ at Wikimania 2007 in Taipei, Taiwai. From `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimania_2007_Commons_puzzle_piece.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
+   `Sebastiaan ter Burg <https://commons.wikimedia.org/wiki/User:Ter-burg>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Questions_to_WMF%27s_new_Communications_team_at_Wikimania_2014.jpg>`__ // `CC BY 2.0 <https://creativecommons.org/licenses/by/2.0/deed.en>`__.
 
 Wikimedia affiliates are local and thematic organizations that organize events and run programs to support Wikipedia and its sister sites. I got involved with Wikimedia France in 2006, and later organized one of the first annual meetings of Wikimedia affiliates in Berlin.
 
@@ -349,6 +349,13 @@ Wikimédia France
 ----------------
 
 In 2006, I gave my first presentation about Wikipedia, the first of many. I started becoming more involved in public outreach, workshops, and training. I also started volunteering for `Wikimédia France <https://meta.wikimedia.org/wiki/Wikim%C3%A9dia_France/en>`_, the local Wikimedia chapter, and a few months later I was elected to its Board. The chapter was small and had no paid staff, so Board members took on the work and responsibilities that would traditionally be in the purview of staff.
+
+.. sidebar::
+   :class: rowspan-2
+
+   .. figure:: /images/2007-08-05_Wikimania_2007_Commons_puzzle_piece.jpg
+
+      Holding the Commons with `Brianna <https://commons.wikimedia.org/wiki/User:Pfctdayelise>`__ and `Cary <https://commons.wikimedia.org/wiki/User:Bastique>`__ at Wikimania 2007 in Taipei, Taiwai. (From `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimania_2007_Commons_puzzle_piece.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.)
 
 As a Board member, and later also Secretary, I focused on transparency, efficiency, and community organizing at the local level: I managed membership logistics, engaged donors, and streamlined the Board's decision making process. In addition to a Board member's usual responsibilities around governance, I also created an internal newsletter to keep members informed, and organized the chapter's activities into working groups to facilitate the involvement of volunteers.
 

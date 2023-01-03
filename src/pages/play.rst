@@ -128,15 +128,12 @@ a little bit of ballroom
    Placeholder caption
 
 
+.. ----
 
+.. Travel & Photography
+.. ====================
 
-
-----
-
-..Travel & Photography
-..====================
-
-.... figure:: /images/2012-03-22_Selfie_on_the_Queen_Mary_2173.jpg
+.. .. figure:: /images/2012-03-22_Selfie_on_the_Queen_Mary_2173.jpg
 ..   :alt: Placeholder
 
 ..   on board the Queen Mary
