@@ -6,12 +6,12 @@
   "author": "Guillaume Paumier",
   "license": "MIT",
   "devDependencies": {
-    "del": "^6.1.0",
+    "del": "^7.0.0",
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
     "gulp-sass": "^5.1.0",
     "gulp-sourcemaps": "^3.0.0",
     "normalize.css": "^8.0.1",
-    "sass-embedded": "^1.52.1"
+    "sass-embedded": "^1.57.1"
   }
 }
