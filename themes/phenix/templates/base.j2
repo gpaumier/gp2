@@ -5,7 +5,7 @@
     {{ set_locale(lang) }}
     {% block head %}
         <head>
-            {% include "_head.tmpl" %}
+            {% include "_head.j2" %}
         </head>
     {% endblock %}
 
@@ -36,11 +36,11 @@
         {% endblock %}
 <!--
         {% block icon_navbar %}
-            {% include "_icon_navbar.tmpl" %}
+            {% include "_icon_navbar.j2" %}
         {% endblock %} -->
 
         {% block footer %}
-            {% include "_footer.tmpl" %}
+            {% include "_footer.j2" %}
         {% endblock %}
 
     </body>

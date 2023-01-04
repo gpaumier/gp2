@@ -10,7 +10,7 @@ Featured articles
 
 .. post-list::
    :categories: articles-en-featured
-   :template: project_list_featured.tmpl
+   :template: project_list_featured.j2
 
 
 All articles
@@ -18,4 +18,4 @@ All articles
 
 .. post-list::
    :categories: articles-en
-   :template: article_list.tmpl
+   :template: article_list.j2

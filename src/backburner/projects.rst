@@ -8,7 +8,7 @@ Featured projects
 
 .. post-list::
    :categories: projects-en-featured
-   :template: project_list_featured.tmpl
+   :template: project_list_featured.j2
 
 
 All projects
@@ -16,4 +16,4 @@ All projects
 
 .. post-list::
    :categories: projects-en
-   :template: project_list.tmpl
+   :template: project_list.j2

@@ -1,6 +1,6 @@
 .. title: Writings
 .. slug: writings
-.. template: page_hero.tmpl
+.. template: page_hero.j2
 .. image: /images/Leonardo_da_Vinci_-_Ambrosiana-Codice-Atlantico-Codex-Atlanticus-f-272-verso.jpg
 
 
@@ -100,7 +100,7 @@ Featured articles and essays
 
 .. post-list::
    :categories: articles-en-featured
-   :template: project_list_featured.tmpl
+   :template: project_list_featured.j2
 
 
 All articles and essays
@@ -108,4 +108,4 @@ All articles and essays
 
 .. post-list::
    :categories: articles-en
-   :template: article_list.tmpl
+   :template: article_list.j2

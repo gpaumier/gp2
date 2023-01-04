@@ -4,7 +4,7 @@
 .. slug: wikimedia2030
 .. date: 2016-11-01T00:00:00
 .. end: 2017-12-31T00:00:00
-.. template: page_hero.tmpl
+.. template: page_hero.j2
 .. styles: page_wikimedia2030
 .. class: hero-h2-golden
 .. image: /images/luca-baggio-eKU3JGNCCMg-unsplash.jpg

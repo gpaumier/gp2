@@ -2,7 +2,7 @@
 {% import 'post_helper.tmpl' as helper with context %}
 {% import 'post_header.tmpl' as pheader with context %}
 {% import 'base_helper.tmpl' as base with context %}
-{% extends '_head.tmpl' %}
+{% extends '_head.j2' %}
 
 {% block css %}
   {% if post.meta('styles') %}

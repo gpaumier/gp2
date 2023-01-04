@@ -15,7 +15,7 @@ Sélection de projets
 
 .. post-list::
    :categories: projects-fr-featured
-   :template: project_list_featured.tmpl
+   :template: project_list_featured.j2
 
 
 Tous les projets
@@ -24,4 +24,4 @@ Tous les projets
 ..
    post-list::
    :categories: projects-fr
-   :template: project_list.tmpl
+   :template: project_list.j2

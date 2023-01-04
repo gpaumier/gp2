@@ -3,7 +3,7 @@
 .. category: articles-en-featured
 .. slug: stakes-of-knowledge
 .. date: 2019-05-17 18:57:00
-.. template: post_hero.tmpl
+.. template: post_hero.j2
 .. class: hero-h2-golden
 .. tags: Wikimedia
 .. image: /images/fred-kearney-enkfvvZkKv0-unsplash.jpg

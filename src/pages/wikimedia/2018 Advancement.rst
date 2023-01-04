@@ -3,7 +3,7 @@
 .. subtitle: Revenue strategy & long-term thinking
 .. slug: advancement
 .. date: 2018-01-01T00:00:00
-.. template: page_hero.tmpl
+.. template: page_hero.j2
 .. class: hero-h2-golden
 .. tags: Wikimedia, strategy
 .. image: /images/photoholgic-kKWcOwioewA-unsplash.jpg

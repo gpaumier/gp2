@@ -1,22 +1,22 @@
 {#  -*- coding: utf-8 -*- #}
 {% import 'post_helper.tmpl' as helper with context %}
 {% import 'post_header.tmpl' as pheader with context %}
-{% extends 'base.tmpl' %}
+{% extends 'base.j2' %}
 
 {% block head %}
     <head>
-        {% include "_head_post.tmpl" %}
+        {% include "_head_post.j2" %}
     </head>
 {% endblock %}
 
 {% block header %}
-    {% include "_header.tmpl" %}
+    {% include "_header.j2" %}
 {% endblock %}
 
 {% block content %}
-<article class="post-{{ post.meta('type') }} h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article">
+<article class="post-default-{{ post.meta('type') }} h-entry hentry postpage {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" itemscope="itemscope" itemtype="http://schema.org/Article">
 
-    <header id="article-header-hero">
+    <header id="article-header-default">
         <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>
 
         {% if post.meta('subtitle') %}
@@ -25,17 +25,15 @@
           </p>
         {% endif %}
 
-        {{ post.text() | get_lead_figure }}
-
         <p class="dateline"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date( messages('date_format_long'))|e }}</time></p>
     </header>
 
-    <div id="article-content-hero" class="e-content entry-content {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" itemprop="articleBody text">
-    {{ post.text() | remove_lead_figure }}
+    <div id="article-content-default" class="e-content entry-content" itemprop="articleBody text">
+    {{ post.text() }}
     </div>
 
     {% block edit_link %}
-        {% include "_edit_link.tmpl" %}
+        {% include "_edit_link.j2" %}
     {% endblock %}
 
     {{ helper.mathjax_script(post) }}

@@ -2,7 +2,7 @@
 .. category: articles-en-featured
 .. slug: wikimedia-revenue-strategy
 .. date: 2019-05-24
-.. template: post_hero.tmpl
+.. template: post_hero.j2
 .. tags: Wikimedia
 .. image: /images/javier-allegue-barros-C7B-ExXpOIE-unsplash.jpg
 

@@ -91,10 +91,10 @@ Many years later, the Wikimedia Foundation's Language Engineering team developed
 
    .. post-list::
       :slugs: licensing-tutorial-making-of
-      :template: sidebar_card.tmpl
+      :template: sidebar_card.j2
 
 .. sidebar:: Read more:
 
    .. post-list::
       :slugs: illustrated-licensing-tutorial-for-wikimedia-commons
-      :template: sidebar_card.tmpl
+      :template: sidebar_card.j2

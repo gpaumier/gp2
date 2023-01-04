@@ -2,7 +2,7 @@
 .. subtitle: I'm an expert at untangling things and reweaving them in ways that make sense.
 .. h1-override: Hi, I'm Guillaume.
 .. slug: index
-.. template: page_hero.tmpl
+.. template: page_hero.j2
 .. styles: page_homepage
 .. class: hero-h2-golden
 

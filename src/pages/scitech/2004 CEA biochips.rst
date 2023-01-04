@@ -7,7 +7,7 @@
 .. styles: page_biochips
 .. class: hero-h2-golden
 .. tags: biochips, surface functionalization, silane
-.. template: page_hero.tmpl
+.. template: page_hero.j2
 
 
 

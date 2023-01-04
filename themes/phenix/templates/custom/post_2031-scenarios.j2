@@ -1,16 +1,16 @@
 {#  -*- coding: utf-8 -*- #}
 {% import 'post_helper.tmpl' as helper with context %}
 {% import 'post_header.tmpl' as pheader with context %}
-{% extends 'base.tmpl' %}
+{% extends 'base.j2' %}
 
 {% block head %}
     <head>
-        {% include "_head_post.tmpl" %}
+        {% include "_head_post.j2" %}
     </head>
 {% endblock %}
 
 {% block header %}
-    {% include "_header.tmpl" %}
+    {% include "_header.j2" %}
 {% endblock %}
 
 {% block content %}
@@ -34,7 +34,7 @@
     </div>
 
     {% block edit_link %}
-        {% include "_edit_link.tmpl" %}
+        {% include "_edit_link.j2" %}
     {% endblock %}
 
     {{ helper.mathjax_script(post) }}

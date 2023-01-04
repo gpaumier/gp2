@@ -4,7 +4,7 @@
 .. icon: fa-puzzle-piece
 .. icon-alternative: fa-wikipedia-w
 .. tag: needs-date-update
-.. template: page_hero.tmpl
+.. template: page_hero.j2
 .. styles: page_wikimedia
 .. class: hero-h2-golden
 .. image: /images/Wikimedia_Summit_2019_-_Group_photo_4.jpg

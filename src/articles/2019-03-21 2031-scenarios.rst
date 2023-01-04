@@ -3,7 +3,7 @@
 .. slug: 2031-scenarios
 .. date: 2019-03-21
 .. tags: Wikimedia
-.. template: post_hero.tmpl
+.. template: post_hero.j2
 .. image: /images/2031-postpic.png
 .. styles: post_2031-scenarios
 .. class: hero-h2-golden
