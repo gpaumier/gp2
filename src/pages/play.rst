@@ -233,8 +233,6 @@ Learning languages
 
 I learned English and German in school, although my German was never conversational. A few years ago, I took two semesters of Spanish at the *Instituto Cervantes*, and I've been using Duolingo to keep learning since then.
 
-I've been curious to learn more about other language families, so I started learning Tagalog with Rosetta Stone, but took a break until I could learn more about its grammar another way. I've also made some first steps in Arabic.
-
 .. sidebar::
    :class: rowstart-2 rowspan-3
 
@@ -243,3 +241,5 @@ I've been curious to learn more about other language families, so I started lear
       :alt: Screenshot from the Duolingo app asking the user to translate the sentence "¡No salgas con él, sabes que es mi ex!" ("Dont go out with him, you know he's my ex!")
    
       Duolingo likes DRAMA.
+
+I've been curious to learn more about other language families, so I started learning Tagalog with Rosetta Stone, but took a break until I could learn more about its grammar another way. I've also made some first steps in Arabic.
