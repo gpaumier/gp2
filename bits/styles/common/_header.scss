@@ -5,19 +5,7 @@
 #masthead {
   margin-bottom: 0;
 
-  #site-name {
-    grid-column: 2/7;
-    align-self: start;
-    grid-row: 1/2;
-    justify-self: start;
-  }
-
-  nav#languages {
-    grid-column: side-content;
-    align-self: start;
-    grid-row: 1/2;
-    justify-self: end;
-  }
+  // border separator between site name and language navigation
 
   &::after {
     content: '';
@@ -28,7 +16,47 @@
     align-self: center;
     justify-self: start;
   }
+
+  @media screen and (min-width: $breakpoint-medium) {
+
+  }
 }
+
+
+
+#site-name {
+  grid-column: extended-main-content;
+  align-self: center;
+  grid-row: 1/2;
+  justify-self: start;
+
+  ::before {
+    content: '🦉 ';
+  }
+}
+
+#languages {
+  grid-column: side-content;
+  align-self: center;
+  grid-row: 1/2;
+  justify-self: end;
+
+  
+}
+
+#current-language::before {
+  content: '';
+  background-image: url(/images/language.svg);
+  background-position: left 0.08333333em;
+  background-repeat: no-repeat;
+  background-size: 1.33333333em 1.33333333em;
+  padding-top: 0.33333333em;
+  padding-left: 1.66666667em;
+  opacity: 0.67;
+}
+
+
+// Common rules for all h1 titles (with or without hero image)
 
 %article-header-common {
 
@@ -70,6 +98,7 @@
   }
 }
 
+// Rules for default h1 header without hero image
 
 #article-header-default {
   @extend %article-header-common;
@@ -92,6 +121,8 @@
   }
 }
 
+// Rules for h1 header with hero image
+
 #article-header-hero {
   @extend %article-header-common;
 
@@ -113,6 +144,7 @@
   }
 
   img {
+    grid-row: header-golden-full;
     height: 100%;
     object-fit: cover;
     z-index: 0;
@@ -125,7 +157,7 @@
     text-shadow: 0 0 1.5rem #000,0 0 1rem #000;
   }
 
-  // box-shadows to simulate depth, similar to layout.%olden-section
+  // box-shadows to simulate depth, similar to layout.golden-section
   &::before {
     content: '';
     grid-row: header-golden-full;
@@ -134,21 +166,23 @@
     z-index: 4;
   }
 
+  // gradient for better legibility of text on the left side. Pseudo-element needs to be a child of the grid in order to be placed on it.
+
+  &::after {
+    content: '';
+    background: linear-gradient(60deg, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0) 100%);
+    // TODO: see if we can figure out the proper angle of the gradient by using viewport units and arctangent
+    grid-column: full;
+    grid-row: header-golden-full;
+    z-index: 2;
+  }
+
   @media screen and (min-width: $breakpoint-medium) {
 
-    img {
-      grid-row: header-golden-full;
-    }
-
-    // gradient for better legibility of text on the left side. Pseudo-element needs to be a child of the grid in order to be placed on it.
+    // Slightly different gradient on larger viewports, to obscure the image less on the right side
 
     &::after {
-      content: '';
       background: linear-gradient(60deg, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0) 80%, rgba(0,0,0,0) 100%);
-      // TODO: see if we can figure out the proper angle of the gradient by using viewport units and arctangent
-      grid-column: full;
-      grid-row: header-golden-full;
-      z-index: 2;
     }
   }
 }

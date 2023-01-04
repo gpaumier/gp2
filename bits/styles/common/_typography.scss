@@ -82,6 +82,7 @@ h3,
   font-size: calc(1.5rem + .65vw);
 }
 
+// General font styles
 
 strong {
   @extend %phenix-serif-bold;
@@ -115,8 +116,21 @@ pre {
   }
 }
 
+// Custom font styles
+
+#languages {
+
+  @extend %phenix-sans;
+  //@extend %small-font-size;
+
+  em {
+    @extend %phenix-sans-italic;
+  }
+}
+
 .expert,
-.expert p {
+.expert p,
+#languages {
 
   @extend %phenix-sans;
   @extend %small-font-size;
@@ -128,7 +142,6 @@ pre {
   em {
     @extend %phenix-sans-italic;
   }
-
 }
 
 blockquote {
@@ -145,7 +158,7 @@ blockquote {
 
 figcaption p,
 .caption,
-.legend, {
+.legend {
   @extend %phenix-sans;
   @extend %smaller-font-size;
   line-height: 1.3;
