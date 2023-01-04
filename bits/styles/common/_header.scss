@@ -1,4 +1,5 @@
 @use 'sass:math';
+@use '../modules/clicky_menus';
 @use 'settings' as *;
 @use 'layout';
 
@@ -22,8 +23,6 @@
   }
 }
 
-
-
 #site-name {
   grid-column: extended-main-content;
   align-self: center;
@@ -41,7 +40,9 @@
   grid-row: 1/2;
   justify-self: end;
 
-  
+  li {
+    z-index: 10;
+  }
 }
 
 #current-language::before {
@@ -54,6 +55,8 @@
   padding-left: 1.66666667em;
   opacity: 0.67;
 }
+
+
 
 
 // Common rules for all h1 titles (with or without hero image)
