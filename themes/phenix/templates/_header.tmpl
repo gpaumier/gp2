@@ -3,21 +3,25 @@
     <a href="{{ abs_link(_link("root", None, lang)) }}" title="{{ blog_title|e }}" rel="home">{{ blog_title|e }}</a>
   </p>
   <nav id="languages">
-    {{ messages("LANGUAGE", lang) }}
-    <ul class="menu vertical">
-      {% for langname in translations|sort %}
-        {% if langname != lang %}
-          {% if post.is_translation_available(langname) %}
-            <li>
-              &rsaquo;&nbsp;<a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a>
-            </li>
-          {% else %}
-            <li class="topbar-disabled-item menu-text">
-              &#10680;&nbsp;{{ messages("LANGUAGE", langname) }}
-            </li>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
+	  <ul class="clicky-menu no-js">
+		  <li>
+      <a href="#" id="current-language">{{ messages("LANGUAGE", lang) }}</a>
+        <ul class="menu vertical">
+          {% for langname in translations|sort %}
+            {% if langname != lang %}
+              {% if post.is_translation_available(langname) %}
+                <li>
+                  &rsaquo;&nbsp;<a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a>
+                </li>
+              {% else %}
+                <li class="masthead-disabled-item menu-text">
+                  &#10680;&nbsp;{{ messages("LANGUAGE", langname) }}
+                </li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </li>
     </ul>
   </nav>
 </header>
