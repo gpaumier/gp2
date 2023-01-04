@@ -17,7 +17,7 @@ picture {
 @mixin side-by-side-figures($column-gap: 0, $rows: 2) {
 
   // A little utility to place two figures side by side in a grid, and have a (manual) caption spread underneath.
-  // If we have more than to opictures (e.g. two rows of two pictures and one row of caption), increase $rows to add more explicit rows so the explicit placement of the caption works.
+  // If we have more than two pictures (e.g. two rows of two pictures and one row of caption), increase $rows to add more explicit rows so the explicit placement of the caption works.
 
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -99,15 +99,19 @@ svg {
   grid-template-columns:
 
   // The left margin (larger) is in a golden relationship with the right margin (smaller). When added to the main-content, they're in a golden relationship with the smaller [side-content + right-margin] area, which enables us to have a full-width golden row as well.
-  [full-start full-golden-large-start left-margin-start] repeat(2, minmax(1rem, #{math.div($golden1, 2)}fr))
+  [full-start full-golden-large-start left-margin-start] minmax(1rem, #{math.div($golden1, 2)}fr)
+
+  // Same as above but separate so we can have an additional grid area for the masthead
+
+  [extended-main-content-start] minmax(1rem, #{math.div($golden1, 2)}fr)
 
   // The main content is limited by its max width, and we split that zone into 4 equal columns for flexibility:
   [left-margin-end full-content-start main-content-start] repeat(4, minmax(min-content, math.div($main-content-max-width, 4)))
 
   // We don't have a column-gap in order to stay as close as possible to the golden proportions. We add a gutter here to separate the two content sections a bit, but we split it into two smaller gutters that are themselves in a golden relationship, so we can split the width exactly with full-golden-large and full-golden-small:
-  [main-content-end] calc(#{$golden1 * 1.2rem} + #{$golden1 * 2vw}) // slightly larger than $base-unit
+  [main-content-end extended-main-content-end] calc(#{$golden1 * 1.2rem} + #{$golden1 * 2vw}) // slightly larger than $base-unit
 
-  [full-golden-large-end full-golden-small-start ] calc(#{$golden2 * 1.2rem} + #{$golden2 * 2vw}) // slightly larger than $base-unit
+  [full-golden-large-end full-golden-small-start] calc(#{$golden2 * 1.2rem} + #{$golden2 * 2vw}) // slightly larger than $base-unit
 
   // The side content is defined by its golden relationship to the main content, and we split that zone into 3 equal columns for flexibility:
   [side-content-start] repeat(3, minmax(min-content, math.div($golden1 * $main-content-max-width, 3)))
@@ -261,7 +265,7 @@ svg {
   }
 }
 
-// Hero titles based on the golden grid
+// Hero h2 titles based on the golden grid (for use with .. class: hero-h2-golden )
 
 %golden-section {
   @extend %golden-grid;
@@ -324,13 +328,15 @@ svg {
     > figure:first-of-type figcaption {
     justify-self: end;
       // Since we have more space, we align this flushed right, but no longer than beyond the golden divide:
-      // TODO: uncomment that once we find a way to reserve the full-golden-large part of this rnow so text paragraphs don't go in there
+      // TODO: uncomment this once we find a way to reserve the full-golden-large part of this row so text paragraphs don't go in there
       //grid-column: full-golden-small;
       // And we can get rid of the left-margin
       //margin-left: 0;
     }
   }
 }
+
+// I don't remember what this does??
 
 %golden-section-hero-full {
   @extend %golden-section;
@@ -398,6 +404,8 @@ svg {
     }
   }
 }
+
+// Layout and placement rules for sections on golden pages with hero h2 titles
 
 %golden-section-hero-golden {
   @extend %golden-section;
@@ -507,37 +515,28 @@ svg {
 
 // Site-wide layouts ///////////////////////////////////////////////////////////
 
+// (Almost) everything uses the golden grid skeleton:
+
 #masthead,
 #article-header-default,
-#article-header-hero,
+#article-header-hero
 {
   @extend %golden-grid-skeleton;
 }
 
-// article.page,
-// article.postpage,
-// #article-content-hero {
-//   grid-column: full;
-//   display: contents;
-// }
-//
-// #article-content-default,
-// #article-content-hero > div {
-//     grid-column: full;
-//     grid-row: 8/9
-// }
+// Default rules for placing content where it needs to go in the golden grid:
 
 #article-content-default,
 section,
-// On hero pages, the golden grid is at the level of sections, so we need to make .highlights a golden grid as well
+footer nav,
+// On pages with hero header, the golden grid is at the level of sections, so we need to make .highlights a golden grid as well:
 #article-content-hero .highlights {
   @extend %golden-grid;
 }
+
+// Sections on golden pages with hero header AND hero h2
 
 .hero-h2-golden.entry-content > div > section {
   @extend %golden-section-hero-golden;
 }
 
-footer nav {
-  @extend %golden-grid;
-}
