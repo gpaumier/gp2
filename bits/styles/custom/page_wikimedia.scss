@@ -2,23 +2,6 @@
 @use '../common/media';
 
 
-h2 {
-  font-size: calc(1.5rem + 1.5vw);
-}
-
-h3 {
-  font-size: calc(1rem + 1vw);
-}
-
-h2,
-.stakes-writeout,
-.identity-intro {
-  margin-bottom: 3rem;
-}
-
-h3 {
-  margin-bottom: 2rem;
-}
 
 .post-subtitle {
   display:block;
