@@ -6,6 +6,11 @@
 #masthead {
   margin-bottom: 0;
 
+  a {
+    text-decoration: none;
+  }
+  
+
   // border separator between site name and language navigation
 
   &::after {
@@ -45,18 +50,41 @@
   }
 }
 
-#current-language::before {
-  content: '';
-  background-image: url(/images/language.svg);
-  background-position: left 0.08333333em;
-  background-repeat: no-repeat;
-  background-size: 1.33333333em 1.33333333em;
-  padding-top: 0.33333333em;
-  padding-left: 1.66666667em;
-  opacity: 0.67;
+#current-language {
+  
+  &::before {
+    content: '';
+    background-image: url(/assets/images/language.svg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 1.7rem 1.7rem;
+    padding-top: 1.7rem;
+    padding-left: 1.7rem;
+    padding-right: .5rem;
+    opacity: 0.67;
+  }
+
+  &::after {
+    content: '⌄';
+    padding-left: .5rem;
+  }
 }
 
+.masthead-enabled-item::before {
+  content: '›';
+  padding-right: .5rem;
+}
 
+.masthead-disabled-item {
+
+  opacity: 0.6;
+  cursor: not-allowed;;
+
+  &::before {
+    padding-right: .5rem;
+    content: '⦸';
+  }
+}
 
 
 // Common rules for all h1 titles (with or without hero image)

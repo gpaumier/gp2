@@ -11,27 +11,17 @@
 }
 
 /* General Link & Button Styles */
-.clicky-menu a,
-.clicky-menu button {
-	margin: .25em;
-	padding: 1em;
-	background: transparent;
-	color: #000;
-	font-weight: bold;
-	text-decoration: none;
-	font-family: inherit;
-	border-radius: 3px;
+.clicky-menu {
+	
+	a,
+	button {
+		background: transparent;
+    }
+	
 }
 
-.clicky-menu a:hover,
-.clicky-menu button:hover {
+.clicky-menu a:hover {
 	background: #fff;
-}
-
-.clicky-menu a:focus,
-.clicky-menu button:focus {
-	outline: .125em dotted purple;
-	outline-offset: -.125em;
 }
 
 /* Top Level Items */
@@ -43,23 +33,29 @@
 	flex-wrap: wrap;
 }
 
-.clicky-menu > li > a,
-.clicky-menu > li > button {
-	flex: 1 0 auto;
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	border: 0;
-	font-size: inherit;
-	line-height: 1.5;
-	cursor: pointer;
+.clicky-menu > li {
+
+	a,
+	button,
+	span {
+		flex: 1 0 auto;
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		border: 0;
+		font-size: inherit;
+
+		@media (min-width: 540px) {
+			justify-content: center;	
+		}
+	}
+
+	a,
+	button {
+		cursor: pointer;
+	}
 }
-@media (min-width: 540px) {
-	.clicky-menu > li > a,
-	.clicky-menu > li > button {
-		justify-content: center;
-	}	
-}
+
 
 /* Icon */
 .clicky-menu svg {
@@ -82,11 +78,6 @@
 	background-color: #eee;
 	border-radius: 3px;
 }
-@media (min-width: 540px) {
-	.clicky-menu {
-		box-shadow: 2px 4px 4px rgba(0,0,0,.2);
-	}
-}
 
 /* Responsive Submenu Behavior */
 .clicky-menu ul[aria-hidden="false"] {
@@ -103,14 +94,17 @@
 }
 
 /* Submenu Links */
-.clicky-menu ul a {
-	display: block;
-	padding-top: .375em;
-	padding-bottom: .375em;
-}
-@media (min-width: 540px) {
-	.clicky-menu ul a {
-		padding: .375em 1em;
-		white-space: nowrap;
-	}
+.clicky-menu ul {
+
+	a,
+	span {
+		display: block;
+		padding-top: .375em;
+		padding-bottom: .375em;
+
+		@media (min-width: 540px) {
+			padding: .375em 1em;
+			white-space: nowrap;
+		}
+	}	
 }

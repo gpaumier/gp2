@@ -11,11 +11,11 @@
             {% if langname != lang %}
               {% if post.is_translation_available(langname) %}
                 <li>
-                  &rsaquo;&nbsp;<a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a>
+                  <a class="masthead-enabled-item" href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a>
                 </li>
               {% else %}
-                <li class="masthead-disabled-item menu-text">
-                  &#10680;&nbsp;{{ messages("LANGUAGE", langname) }}
+                <li>
+                  <span class="masthead-disabled-item">{{ messages("LANGUAGE", langname) }}</span>
                 </li>
               {% endif %}
             {% endif %}
