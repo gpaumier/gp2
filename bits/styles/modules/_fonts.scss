@@ -2,15 +2,21 @@ $fonts-dir: "/assets/fonts";
 
 /**
  * Font-face mixin to simplify the following.
+ * links for reference:
+ * https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
+ * https://css-tricks.com/snippets/css/using-font-face-in-css/
+ * https://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/
  */
 
 @mixin font-face ($family, $file-prefix, $weight: normal, $style: normal) {
 	@font-face {
 		font-family: $family;
 		src: url("#{$fonts-dir}/#{$file-prefix}.eot");
-		src: url("#{$fonts-dir}/#{$file-prefix}.eot?#iefix") format("embedded-opentype"),
-			url("#{$fonts-dir}/#{$file-prefix}.woff") format("woff"),
+		src: 
+			local("#{$family}"),
+			url("#{$fonts-dir}/#{$file-prefix}.eot?#iefix") format("embedded-opentype"),
 			url("#{$fonts-dir}/#{$file-prefix}.woff2") format("woff2"),
+			url("#{$fonts-dir}/#{$file-prefix}.woff") format("woff"),
 			url("#{$fonts-dir}/#{$file-prefix}.svg##{$file-prefix}") format("svg"),
 			url("#{$fonts-dir}/#{$file-prefix}.ttf") format("truetype");
 		font-weight: $weight;
