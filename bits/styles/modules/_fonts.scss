@@ -21,6 +21,7 @@ $fonts-dir: "/assets/fonts";
 			url("#{$fonts-dir}/#{$file-prefix}.ttf") format("truetype");
 		font-weight: $weight;
 		font-style: $style;
+		font-display: swap;
 	}
 }
 
