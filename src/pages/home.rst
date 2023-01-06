@@ -52,7 +52,7 @@ I have the ability to absorb massive amounts of information on almost any topic,
 
 .. |The Pretender| replace:: *The Pretender*
 
-.. _The Pretender: https://en.wikipedia.org/wiki/The_Pretender_(TV_series)>
+.. _The Pretender: https://en.wikipedia.org/wiki/The_Pretender_(TV_series)
 
 I communicate from a place of curiosity: I ask lots of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. I dig into the "why" a lot, and try to diligently revise my beliefs based on new information. When two opposite choices are unsatisfactory, I try to find a third one.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, and prefer instead to arrive at solutions with others using the Socratic method.
 
