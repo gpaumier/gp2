@@ -5,7 +5,6 @@
 .. tags: Wikimedia
 .. template: post_hero.j2
 .. image: /images/2031-postpic.png
-.. styles: post_2031-scenarios
 .. class: hero-h2-golden
 
 .. figure:: /images/The_Ladies'_home_journal_(1948)_(14787774963).jpg
@@ -26,7 +25,7 @@
 
    Frederick Burr Opper on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:The_fin_de_si%C3%A8cle_newspaper_proprietor_(cropped).jpg>`__.
 
-Misinformation, disinformation, testudo formation.
+*Misinformation, disinformation, testudo formation.*
 
 **It is the year 2031,** and Wikipedia is celebrating its 30th birthday. In a world of unrest and division, Wikipedia seems strangely united. Environmental disasters due to global warming, compounded by socioeconomic crises and identity politics, have birthed a world where distrust and fear of the other are the new normal. Bad actors have never been more active online, whether they are state-funded or attempting to destabilize nations. The violence in the streets is fueled by institutional censorship, organized disinformation, and trolling campaigns that make the online atmosphere even more polluted and toxic than the actual atmosphere.
 
@@ -50,7 +49,7 @@ It is unclear how, when, or if the fight will end, but it has taken an undeniabl
 
    `Reinhold Möller <https://commons.wikimedia.org/wiki/User:Ermell>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gro%C3%9Fe_Linde_bei_Teuchatz_P1320563-PS.jpg>`__ // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__
 
-More money than we had hoped, and the cost of success.
+*More money than we had hoped, and the cost of success.*
 
 **It is the year 2031,** and Wikipedia is celebrating its 30th birthday. Hundreds of parties are happening around the world and on all continents. The Wikipedia Consortium can be proud of its achievements. We did it; we achieved the ambitious goals dreamed in the 2030 strategic direction. Looking back, our success can be attributed to a series of good decisions and external events that played in our favor, for better or for worse.
 
@@ -78,7 +77,7 @@ As the celebrations wind down, optimism is widespread but the future is uncertai
 
    Pixabay on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Artificial-intelligence-155161_1280.png>`__ // `CC0 1.0 <https://creativecommons.org/publicdomain/zero/1.0/legalcode>`__
 
-The robot revolution will not be advertised.
+*The robot revolution will not be advertised.*
 
 **It is the year 2031,** and Wikipedia is celebrating its 30th birthday. Banners and celebratory logos have been chosen through community contests, but they saw little participation. No one is really in the mood for celebrating: last month, Wikipedia was acquired by a large media group. And even though the new owners have promised editorial independence, the few remaining editors expect the giant to kill off the site in the next few years. How did we not see this coming?
 
@@ -104,7 +103,7 @@ Beyond the scenarios
 
    Black swan *(cygnus atratus)* by `Rikiwiki2 <https://commons.wikimedia.org/wiki/User:Rikiwiki2>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:NSG_Vogelfreist%C3%A4tte_Feldheimer_Stausee_-_Trauerschwan_als_Gast.jpg>`__ // `CC-By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-If all you've ever known is white swans, you think black ones can't exist.
+*If all you've ever known is white swans, you think black ones can't exist.*
 
 The point of this exercise was not to choose a scenario over another: we can't choose what the future will look like, just like we can't change the past. Our temporal agency is limited to the decisions we make in the present, based on our understanding of the past and the future. The goal was to provoke thinking, devise strategies, and guide decisions that would help us adapt to the variety of possible futures.
 
