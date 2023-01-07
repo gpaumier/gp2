@@ -14,7 +14,7 @@ picture {
 
 //////////////////////////////////////////////////
 
-@mixin side-by-side-figures($column-gap: 0, $rows: 2) {
+@mixin side-by-side-figures($column-gap: 0, $rows: 1) {
 
   // A little utility to place two figures side by side in a grid, and have a (manual) caption spread underneath.
   // If we have more than two pictures (e.g. two rows of two pictures and one row of caption), increase $rows to add more explicit rows so the explicit placement of the caption works.
@@ -24,18 +24,19 @@ picture {
   column-gap: $column-gap;
   grid-template-rows: repeat($rows, min-content);
 
-  // Override default img behavior in the golden grid:
+  // Source elements are used for responsive images; we don't want them to take real estate in the grid 
+  source {
+    display: none;
+  }
 
+  // Make sure we're placing images where we should:
   img {
+    //height: 100%;
     grid-column: auto;
+    align-self: center;
   }
 
-  p.caption {
-    grid-column: 1/3;
-    grid-row: -2/-1;
-    margin-top: .2rem;
-    margin-bottom: 1rem;
-  }
+  margin-bottom: 1.5rem;
 }
 
 //////////////////////////////////////////////////
@@ -155,6 +156,10 @@ svg {
     grid-column: full;
   }
 
+  .side-by-side img {
+    grid-column: unset;
+  }
+
   figcaption,
   .caption {
     grid-column: full-content;
@@ -166,9 +171,11 @@ svg {
     h2,
     h3,
     p,
+    div,
     blockquote,
     ul,
     ol,
+    table,
     video,
     // Let's put figures in the main-content unless explicitly in a sidebar. We keep <figure> and .figures elements flattened so we can arrange images and captions à la Tufte:
     img,
@@ -195,6 +202,9 @@ svg {
 
     // Unless we have a full-content element:
     .full-content {
+
+      grid-column: full-content;
+      
       img {
         grid-column: full-content;
       }
