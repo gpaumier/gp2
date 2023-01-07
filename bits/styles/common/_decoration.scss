@@ -19,7 +19,7 @@
 %graph-paper {
   // most for use in .expert below, but also in a few other places (like the technical abstract and the citations on the Ph.D page) so let's make it reusable.
 
-  background: url('../images/Graph_paper_inch_green_pattern.svg');
+  background: url('/assets/images/Graph_paper_inch_green_pattern.svg');
   border: 1px dashed #0B0;
   padding: .4rem;
   color: #050;
@@ -30,12 +30,19 @@
   @extend %graph-paper;
 }
 
+/////////////////////////////////////////////////////////////
+
+.technical-abstract {
+  @extend %graph-paper;
+  border: 2px dotted #0B0;
+}
+
 
 // Previously for:
 // .article-list-featured hr, .project-list-featured hr
 
 hr {
-    background: url('../images/Memoria_sullo_scavo_della_Via_Appia_fregio_p_10.png')  no-repeat top center;
+    background: url('/assets/images/Memoria_sullo_scavo_della_Via_Appia_fregio_p_10.png')  no-repeat top center;
     height: 122px;
     width: 100%;
     border:none !important;
@@ -44,7 +51,7 @@ hr {
 }
 
 .article-list hr {
-    background: url('../images/Paragraph_decoration.png')  no-repeat top center;
+    background: url('/assets/images/Paragraph_decoration.png')  no-repeat top center;
     height: 30px;
     border:none !important;
 }
