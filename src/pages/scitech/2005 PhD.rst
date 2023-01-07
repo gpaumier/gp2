@@ -227,7 +227,7 @@ To attach PNIPAM on surfaces, chemists use a primer layer of *silane*. Silanes a
 
    The methacrylate end of TMSPM serves as starting point for the radical chain polymerization of PNIPAM and polyacrylamide, the latter of which I used as a temperature-insensitive control for PNIPAM in some experiments.
 
-.. container:: silane-afm side-by-side
+.. container:: silane-afm side-by-side framed
 
    .. figure:: /images/PhD_silane_AFM1.jpg
    .. figure:: /images/PhD_silane_AFM2.jpg
@@ -250,10 +250,7 @@ Many plants, in contrast, have hydrophobic leaves: they repel water; droplets st
 .. container:: functionalization-hydrophobic-hydrophilic side-by-side
 
    .. figure:: /images/olia-gozha-ijzZru_5VUU-unsplash.jpg
-      :figclass: hydrophilic
-
    .. figure:: /images/lukas-bato-l866cMim5I4-unsplash.jpg
-      :figclass: hydrophobic
 
 .. class:: caption
 
@@ -276,12 +273,14 @@ Infrared spectroscopy
 
 Measuring the angle of a droplet of water is limited in the amount of information it provides. More advanced (but heavier) characterization methods can determine the chemical composition of the molecules present on the surface.
 
-Using Attenuated total reflectance infrared spectroscopy (ATR-IR) and Fourier-transform infrared spectroscopy (FTIR), our colleagues were able to confirm the presence of chemisorbed PNIPAM and its grafting silane layer.
-
 .. class:: rowspan-3
 .. sidebar::
 
    .. figure:: /images/PhD_FTIR_Rutgers_PNIPAM.png
+
+   .. TODO Add caption and more details?
+
+Using Attenuated total reflectance infrared spectroscopy (ATR-IR) and Fourier-transform infrared spectroscopy (FTIR), our colleagues were able to confirm the presence of chemisorbed PNIPAM and its grafting silane layer.
 
 
 Controlling surface properties with PNIPAM
@@ -402,7 +401,9 @@ The microfluidic device therefore consists of a flexible, transparent PDMS molde
 .. container:: chip-blender side-by-side
 
    .. figure:: /images/PhD_device-blender.png
+      :figclass: framed-img
    .. figure:: /images/PhD_device-blender2.png
+      :figclass: framed-img
 
 .. class:: caption
 
@@ -423,11 +424,16 @@ Labs-on-a-chip are interdisciplinary by nature: they involve physical, chemical,
 *Multiphysics simulation* involves a model with two or more physical phenomena; in my case, Joule heating in the resistor (an electro-thermal effect) and heat transfer through the microfluidic device (a thermal effect). The model might later be expanded to include electrokinetic mixers (microfluidic effects) and biological interaction (sensitive layers).
 
 .. figure:: /images/PhD_simu3D-or3.png
-   :figclass: comsol-3d
+   :figclass: framed-img
 
    Simulation software like COMSOL Multiphysics is able to model the generation of heat by Joule effect in the resistor, and heat transfer through the glass substrate. However, a 3D model is computationally expensive, particularly when adding the PDMS microchannel on top of the resistor.
 
-The simulation is based on the *finite elements method*, meaning that we break down the model into a mesh of many small bits, and then approximate the solution in each tiny region. Computers can calculate those estimates numerically, instead of trying to solve partial differential equations analytically in the whole system. The mesh is denser in the main zone of interest
+The simulation is based on the *finite elements method*, meaning that we break down the model into a mesh of many small bits, and then approximate the solution in each tiny region. Computers can calculate those estimates numerically, instead of trying to solve partial differential equations analytically in the whole system. The mesh is denser in the main zone of interest.
+
+.. figure:: /images/PhD_joule2-sim.png
+   :figclass: framed-img
+
+   After decoupling the geometry, modeling Joule heating shows a uniform temperature in the gold resistor. The results of this model are then plugged into the heat transfer simulation.
 
 While it's possible to create one simulation for both phenomena (heat generation and heat transfer), it requires building a complex model for a 3D object with high aspect ratio; computing time can be reduced by simplifying the geometry, and ideally reducing the volume or number of dimensions involved. In other words, the two physical effects are still linked, but solved in two different 2D geometries that are simpler to compute.
 
@@ -437,16 +443,13 @@ While it's possible to create one simulation for both phenomena (heat generation
 
    Heat transfer is then simulated from the golden resistor to the glass substrate, silica layer, water in the channel, and PDMS structure. Heat convection in the liquid is negligible at this scale, so heat transfer is governed by conduction. The silica layer deposited onto the gold resistor ensures electrical insulation while also providing a surface for functionalization.
 
-.. container:: comsol-ligne-maillage
-
-   .. figure:: /images/PhD_joule2-sim.png
-
-      After decoupling the geometry, modeling Joule heating shows a uniform temperature in the gold resistor. The results of this model are then plugged into the heat transfer simulation.
+.. sidebar::
+   :class: rowstart-9 rowspan-3
 
    .. figure:: /images/PhD_maillage-transfert2D.png
       :figclass: comsol-maillage
 
-      Finite elements modeling relies on breaking down the system into a mesh and computing physical effects in each of the small regions. Here, the area around the channel is meshed more densely, to obtain more accurate results in the primary region of interest.
+      Finite elements modeling relies on breaking down the system into a mesh, and computing physical effects in each of the small regions. Here, the area around the channel is meshed more densely, to obtain more accurate results in the primary region of interest.
 
 The final simulation shows that a simple Joule heating line provides a stable temperature high enough to trigger PNIPAM's transition in the channel in about 100 ms.
 
@@ -461,12 +464,14 @@ The final simulation shows that a simple Joule heating line provides a stable te
 
 After building the heating element, I measured the temperature using an infrared camera, and confirmed that it could activate PNIPAM.
 
-.. container:: ir-camera
+.. container:: ir-camera side-by-side
 
    .. figure:: /images/PhD_IR_camera_Joule_resistor_rest.png
    .. figure:: /images/PhD_IR_camera_Joule_resistor_4V.png
 
-      Infrared thermography of the Ti-Au Joule resistor shows how it heats up the glass substrate. The resistor itself appears black due to gold's low emissivity and high reflectivity. The temperature is therefore measured instead on the glass adjacent to the resistor, which is a good approximation in a stationary regime (Top: 0V, 23°C. Bottom: 7 V, 40°C).
+.. class:: caption
+   
+   Infrared thermography of the Ti-Au Joule resistor shows how it heats up the glass substrate. The resistor itself appears black due to gold's low emissivity and high reflectivity. The temperature is therefore measured instead on the glass adjacent to the resistor, which is a good approximation in a stationary regime (Top: 0V, 23°C. Bottom: 7 V, 40°C).
 
       .. TODO: add color legend
 
@@ -485,7 +490,7 @@ Labs-on-a-chip aim to provide a remplacement for entire chains of analysis. In p
 *Solid-phase extraction* consists in trapping biological molecules on solid objects, then releasing them in a cleaner liquid, for example one free of salts. To detach the molecules, scientists often use solvents like acetonitrile, which risk damaging the very biological objects we are trying to detect and analyze.
 
 .. figure:: /images/2008-11-06_Controlled_adsorption_and_release_of_proteins_on_PNIPAM.svg
-   :figclass: catching-proteins-principle
+   :figclass: catching-proteins-principle framed-img
 
    Biological molecules like proteins stick to PNIPAM in its hydrophobic state, above 32°C. When the temperature drops below PNIPAM's transition point, the proteins are released. This behavior has applications in the preconcentration of samples in proteomics.
 
@@ -493,33 +498,35 @@ PNIPAM can attach proteins in its hydrophobic (warm) state, and release them in 
 
 .. class:: full-content
 .. figure:: /images/PhD_preconcentration_porous_material_sorting.svg
+   :figclass: framed-img
 
    Proteins and other biological molecules are sometimes present in concentrations too low to be detected: they don't stand out from background noise (left). Preconcentration consists in trapping molecules and accumulating them (for example on hydrophobic PNIPAM) and then releasing them all together, leading to a cleaner sample and a more visible spike (right).
 
 I coated microscopic silica beads with PNIPAM to use them to trap proteins (a process called *adsorption*) and release them afterwards *(desorption)*. I conducted those experiments in silica capillaries and in microfluidic chips using fluorescence microscopy: many biological molecules can be combined with a fluorophore, a molecule that absorbs light in one color and re-emits it in another color (at a higher wavelength). Fluorescence can confirm the presence of biological molecules we're interested in.
 
-.. container:: catching-proteins-capillary
+.. container:: catching-proteins-capillary side-by-side
 
    .. figure:: /images/PhD_beads12_adsorption.jpg
    .. figure:: /images/PhD_beads12_desorption.jpg
 
-   .. class:: caption
+.. class:: caption
 
-      In a silica capillary, silica beads coated with PNIPAM catch  albumin–fluorescein isothiocyanate conjugates (top), and release up to 80% of them when the temperature is lowered (bottom).
+   In a silica capillary, silica beads coated with PNIPAM catch  albumin–fluorescein isothiocyanate conjugates (left), and release up to 80% of them when the temperature is lowered (right).
 
 .. class:: expert
 
    Bovine serum albumine (BSA, CAS: 9048-46-8) is often used as a model protein in biology because it is widely available, affordable, stable, and middle-sized (~66 KDa). Florescein (CAS: 2321-07-5, excitation ~495 nm, emission ~521 nm) is a common fluorophore, whose isothiocyanate conjugate (FITC, CAS: 27072-45-3) easily binds to amine groups in proteins. I also conducted experiments with streptavidin conjugated with an Alexa fluorophore.
 
-.. container:: catching-proteins-chip
+.. container:: catching-proteins-chip side-by-side
 
    .. figure:: /images/PhD_billes-puces-lumblanche.png
+      :figclass: framed-img
    .. figure:: /images/PhD_ads-billes-puces-fluo-inv.png
       :figclass: framed-img
 
-   .. class:: caption
+.. class:: caption
 
-      In the microfluidic chip, beads accumulate in the entropic trap before the central section (top, natural light). Fluorescent proteins attach to PNIPAM-coated beads and stand out of the background fluorescence of the solution in the channel (bottom, inverted fluorescence).
+   In the microfluidic chip, beads accumulate in the entropic trap before the central section (left, natural light). Fluorescent proteins attach to PNIPAM-coated beads and stand out of the background fluorescence of the solution in the channel (right, inverted fluorescence).
 
 The desorption rate, meaning how much of the proteins detach from the PNIPAM-coated beads, reached 80% in capillaries, but only 60% in the microfluidic chip. The lower rate in the chip is likely due to the beads being packed too densely and not being able to move around. A common technique to control beads in microfluidic systems is to integrate magnetic fields, which can perform functions like actuation, trapping in place, and stirring to help with rinsing. That technology was still under development in my lab at the time.
 
