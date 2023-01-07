@@ -22,19 +22,28 @@
 
    Microarrays contain thousands of spots with biological probes, like DNA or proteins, attached to the surface via a chemical layer. They rely on fluorescence and help scientists test many different samples in parallel.
 
-   My goal was to adapt an antigen-antibody biological test, which had been developed in capillaries, to a planar format designed for DNA biochips. I brought these two techniques together and partnered with nearby labs to study this biological interaction with real-time fluorescence, lasers, and neutrons.
+   My goal was to adapt an antigen-antibody biological test, which had been developed in capillaries, to a planar format designed for DNA biochips. I brought these two techniques together and partnered with nearby labs to study this biological interaction with real-time fluorescence, lasers, and neutrons. I also adapted the protocol to work in fragile microsystems used in the preparation of samples and the analysis of proteins.
 
-   I adapted the protocol to work in fragile microsystems used in the preparation of samples and the analysis of proteins. I conducted this research with Guillaume Delapierre at the Laboratory for Functionalization and Chemistry for Microsystems (LFCM) at CEA-Léti in Grenoble, France.
 
+Overview
+========
+
+.. figure:: /images/Biochips_reactor.jpg
+
+   A large desiccator serves as silanization reactor. Modified to hold up to forty glass slides or twenty-five 100-mm wafers, it improves reproducibility by silanizing  substrates in bulk.
+
+I conducted this research with Guillaume Delapierre at the Laboratory for Functionalization and Chemistry for Microsystems (LFCM) at CEA-Léti in Grenoble, France.
 
 Technical abstract
-==================
+~~~~~~~~~~~~~~~~~~
 
-In this study, I adapted a capillary-based immunoassay to a planar fluorescence microarray, and developed a vapor-phase silanization protocol for use in peptide digestion microsystems.
+.. container:: technical-abstract
 
-The biological model concerns a neuropeptide known as Substance P (SP), and the anti-SP monoclonal antibody mAb SP31. These molecules are grafted on functionalized glass slides using the CEA-2 liquid-phase silanization protocol, based on 5,6-epoxyhexyltriethoxysilane. The amine functions of the proteins and peptides covalently bind to the silane's aldehyde ending. I developed two tests: immobilization of antibodies revealed with fluorescent antigens, and immobilization of peptides revealed with marked antibodies. The binding of biological probes on the surface was optimized, as well as the revealing steps with the target. I characterized the chemical and biological layers using contact angle measurement, photothermal deflection spectroscopy, and neutron reflectometry.
+   In this study, I adapted a capillary-based immunoassay to a planar fluorescence microarray, and developed a vapor-phase silanization protocol for use in peptide digestion microsystems.
 
-In order to transfer this protocol to microsystems, I developed a vapor phase adaptation of the CEA-2 silanization protocol, and validated it using fluorescence, contact angle measurement, and atomic force microscopy. After optimizing the protocol on glass slides with the SP/anti-SP model, I applied it to microsystems for proteomics. In particular, I explored the vapor-phase silanization of peptide digestion microreactors developed for the BioChipLab project.
+   The biological model concerns a neuropeptide known as Substance P (SP), and the anti-SP monoclonal antibody mAb SP31. These molecules are grafted on functionalized glass slides using the CEA-2 liquid-phase silanization protocol, based on 5,6-epoxyhexyltriethoxysilane. The amine functions of the proteins and peptides covalently bind to the silane's aldehyde ending. I developed two tests: immobilization of antibodies revealed with fluorescent antigens, and immobilization of peptides revealed with marked antibodies. The binding of biological probes on the surface was optimized, as well as the revealing steps with the target. I characterized the chemical and biological layers using contact angle measurement, photothermal deflection spectroscopy, and neutron reflectometry.
+
+   In order to transfer this protocol to microsystems, I developed a vapor phase adaptation of the CEA-2 silanization protocol, and validated it using fluorescence, contact angle measurement, and atomic force microscopy. After optimizing the protocol on glass slides with the SP/anti-SP model, I applied it to microsystems for proteomics. In particular, I explored the vapor-phase silanization of peptide digestion microreactors developed for the BioChipLab project.
 
 ----
 
@@ -83,7 +92,7 @@ Fluorescence in biochips
 
 Microarrays often rely on fluorescence as a detection mechanism. *Fluorophores* are molecules that absorb light at a certain color and re-emit it at another color. They are combined with biological molecules of interest to detect their presence or their interaction. Because fluorophores emit light at a different color (wavelength) than what they receive, scientists can separate the two colors, and measure only the light emitted in return: it indicates how many biological molecules (DNA strands, antibodies, etc.) are in a specific spot.
 
-.. class:: rowstart-2 rowspan-4 align-start
+.. class:: rowstart-2 rowspan-3 align-start
 .. sidebar::
 
    .. figure:: /images/Biochips_Jablonski_diagram.svg
@@ -96,16 +105,15 @@ Microarrays often rely on fluorescence as a detection mechanism. *Fluorophores* 
 
 The intensity of fluorescence emitted by the molecules is measured by a scanner or a microscope, leading to grayscale images where brighter zones indicate more fluorescence emitted than darker ones. A palette of false colors is then used to interpret the results.
 
-.. container:: fluorescence-palette main-content
+.. container:: fluorescence-palette side-by-side
 
-   .. figure:: /images/Biochips_236-32_532_closeup_raw.png
+   .. figure:: /images/Biochips_236-32_532_closeup_raw.jpg
    .. figure:: /images/Biochips_236-32_532_closeup_colors.jpg
-   .. figure:: /images/Biochips_palette.jpg
-      :figclass: palette
 
-   .. class:: caption
+.. figure:: /images/Biochips_palette.jpg
+   :figclass: palette
 
-      Fluorescence is measured at the wavelength of the light emitted by the fluorophore, to filter out the light used to excite it. The raw image (left) therefore only measures intensity, from dark (no signal) to bright (fluorescence emitted). The final image (right) shows false colors after applying a palette for visualization (bottom).
+   Fluorescence is measured at the wavelength of the light emitted by the fluorophore, to filter out the light used to excite it. The raw image (left) therefore only measures intensity, from dark (no signal) to bright (fluorescence emitted). The final image (right) shows false colors after applying a palette for visualization (bottom).
 
 ----
 
@@ -125,7 +133,7 @@ The CEA-2 protocol is an established way to attach biological molecules to surfa
 
       Chemical formula of 5,6-epoxyhexyltriethoxysilane (CAS: 86138-01-4), the basis for CEA-2 surface functionalization. EtO represents ethoxy groups CH\ :subscript:`3`\ CH\ :subscript:`2`\ O–.
 
-.. container:: cea2-protocol full-content
+.. container:: cea2-protocol content framed
 
    .. figure:: /images/Biochips_functionalization_cea2_step1.svg
    .. figure:: /images/Biochips_functionalization_cea2_step2.svg
@@ -134,16 +142,12 @@ The CEA-2 protocol is an established way to attach biological molecules to surfa
    .. figure:: /images/Biochips_functionalization_cea2_step5.svg
    .. figure:: /images/Biochips_functionalization_cea2_step6.svg
 
-.. class:: expert
-
-   In technical terms, after a surface activation in a basic environment, the silanization binds 5,6-epoxyhexyltriethoxysilane to the surface and creates Si--O--Si bonds. The silane's epoxide function is then opened into a diol function by acid hydrolysis. The last step, which consists in oxidizing the diol into an aldehyde, is done immediately before grafting biological probes, whose amine functions bind to the silane's aldehyde.
-
-.. class:: rowstart-5 rowspan-2
 .. sidebar::
 
-   .. figure:: /images/Biochips_reactor.jpg
+   .. class:: expert
 
-      A large desiccator serves as silanization reactor. Modified to hold up to forty glass slides or twenty-five 100-mm wafers, it improves reproducibility by silanizing  substrates in bulk.
+      In technical terms, after a surface activation in a basic environment, the silanization binds 5,6-epoxyhexyltriethoxysilane to the surface and creates Si--O--Si bonds. The silane's epoxide function is then opened into a diol function by acid hydrolysis. The last step, which consists in oxidizing the diol into an aldehyde, is done immediately before grafting biological probes, whose amine functions bind to the silane's aldehyde.
+
 
 Antibody microarray on CEA-2 protocol
 =====================================
@@ -189,7 +193,7 @@ A solution containing the target molecules (antigens/peptides) is then deposited
       Some peptides are not directly marked with a fluorophore, but rather with a biotin, a small vitamin. Biotin has an extraordinarily high affinity for streptavidin, a larger protein; their bond is one of the strongest known non-covalent interactions. Such *biotinylated* peptides can be indirectly detected using *streptavidinated fluorophores*, meaning fluorophores attached to a streptavidin. The antibodies themselves can also be marked with a biotin, to check their presence on the surface independent of their interaction with peptides.
 
 .. figure:: /images/Biochips_immunotest_paths.svg
-   :figclass: main-content framed
+   :figclass: main-content framed-img
 
    Stages of the protocol for three possible antibody microarray tests: (a) Direct verification of the immobilization of biotinylated antibodies on the surface, using streptavidinated fluorophores. (b) Direct reading of the binding of fluorescent peptides on immobilized antibodies. (c) Indirect reading of the binding of biotinylated peptides on immobilized antibodies, using streptavidinated fluorophores.
 
@@ -201,143 +205,6 @@ Parameter study & protocol optimization
 Biological tests, and immunoassays in particular, can be difficult to control because they depend on so many different parameters: duration and temperature of the successive steps, humidity, blocking proteins, buffers, etc. In order to increase the reproducibility of our tests, I worked with fellow engineer Isabelle Mingam to study those parameters and optimize them for the most consistent results.
 
 The tests confirmed the need for blocking proteins to limit background noise, and a small amount of glycerol to limit the evaporation of droplets. We also found out that the drying step, done by centrifuge for DNA microarrays in the lab, might be too strong for antibodies: a softer drying method better preserved their integrity, in particular their antigen-binding site (paratope) needed to recognize and attach molecules of interest.
-
-.. TODO: Collapse spotting patterns with a checkbox control
-
-Probe attachment
-----------------
-
-A first experiment tested the grafting of antibodies and antigens on the CEA-2 chemical layer. Biotinylated antibodies and antigens were spotted, and their presence was directly detected using streptavidinated fluorophores (Cyanine3). As expected, only biotinylated antibodies (rows 3 & 4) and biotinylated peptides (rows 7 & 8) showed significant fluorescence. Neither non-biotinylated nor control probes showed high fluorescence.
-
-.. figure:: /images/Biochips_GP-08_bloc2_532.jpg
-
-.. container:: spotting-pattern
-
-   * Antibody mAb SP31 1 μM
-   * Antibody mAb SP31 1 μM, 10% glycerol
-   * Biotinylated antibody mAb SP31-biot 0.8 μM
-   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM
-   * Control antibody Il2-73 1 μM, 10% glycerol
-   * Peptide LMN1 1 μM
-   * Peptide LMN1 1 μM, 10% glycerol
-
-Blocking proteins
------------------
-
-This experiment was similar to the initial grafting of probes, but free actives sites were not blocked: without neutral proteins like bovine serum albumin (BSA), fluorophores adsorbed on the surface and led to high background noise.
-
-.. figure:: /images/Biochips_GP-02_bloc2_532.jpg
-
-.. container:: spotting-pattern
-
-   * Antibody mAb SP31 1 μM
-   * Antibody mAb SP31 1 μM, 10% glycerol
-   * Biotinylated antibody mAb SP31-biot 0.8 μM
-   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM
-   * Control antibody Il2-73 1 μM, 10% glycerol
-   * Peptide LMN1 1 μM
-   * Peptide LMN1 1 μM, 10% glycerol
-
-Drying steps
-------------
-
-Incubating regular antibodies with biotinylated peptides should lead to a significant fluorescence signal, but it originally didn't (rows 1 & 2). This led us to reconsider the drying step by centrifuge after immobilization, which might damage the antibodies. We switched to a softer drying step using an azote stream instead. The final drying step (after incubation and immediately before detection) can still be done using a centrifuge, since fluorophores are more robust than antibodies.
-
-.. figure:: /images/Biochips_GP-10_bloc2_532.jpg
-
-.. container:: spotting-pattern
-
-   * Antibody mAb SP31 1 μM
-   * Antibody mAb SP31 1 μM, 10% glycerol
-   * Biotinylated antibody mAb SP31-biot 0.8 μM
-   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM
-   * Control antibody Il2-73 1 μM, 10% glycerol
-   * Peptide LMN1 1 μM
-   * Peptide LMN1 1 μM, 10% glycerol
-
-Glycerol content
-----------------
-
-We originally used a 10% glycerol concentration for probes to prevent evaporation. However, too high a concentration may decrease fluorescence later. A study of glycerol percentage revealed that 2% glycerol was enough to prevent evaporation.
-
-.. figure:: /images/Biochips_217b-03_bloc1_532.jpg
-
-.. container:: spotting-pattern
-
-   * Antibody mAb SP31 1 μM, 0% glycerol
-   * Antibody mAb SP31 1 μM, 2% glycerol
-   * Antibody mAb SP31 1 μM, 4% glycerol
-   * Antibody mAb SP31 1 μM, 6% glycerol
-   * Antibody mAb SP31 1 μM, 8% glycerol
-   * AntibodymAb SP31 1 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM, 10% glycerol
-
-Incubation period
------------------
-
-A higher temperature on incubation leads to a faster reaction, but needs to remain compatible with our biological molecules. Our reaction kinetics study showed that the reaction between antibodies and antigens was very fast, so we tested incubation periods of five minutes (top) and one hour (bottom). Results after one hour showed more consistent fluorescence (indicative of target saturation) and comparable background noise.
-
-.. figure:: /images/Biochips_236-30_532s.jpg
-.. figure:: /images/Biochips_236-29_532s.jpg
-
-.. container:: spotting-pattern
-
-   * Antibody mAb SP31 1 μM, 10% glycerol
-   * Antibody mAb SP31 1 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM, 10% glycerol
-
-
-Chemical layer
---------------
-
-In the original microarray protocol, DNA strands (oligonucleotides) were grafted onto the CEA-2 layer at the aldehyde stage via their amine ending (NH\ :subscript:`2`). Our antibodies and antigens also had amine functions, so it made sense to graft them at the aldehyde stage as well. Out of scientific curiosity, we decided to test grafting them on the epoxide (top) and diol (bottom) stages. Both led to less consistent, lower fluorescence, so we stuck to aldehyde.
-
-.. figure:: /images/Biochips_216-31_bloc2_532.jpg
-.. figure:: /images/Biochips_216-07_bloc2_532.jpg
-
-.. container:: spotting-pattern
-
-   * Antibody mAb SP31 1 μM, 10% glycerol
-   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol
-   * Control antibody Il2-73 1 μM, 10% glycerol
-   * Peptide LMN1 1 μM, 10% glycerol
-
-
-Reducing agent
---------------
-
-The imine chemical function between the biological probe and the silane's aldehyde needs to be reduced to be stable over time. This reduction can be done *in situ*  by adding NaCNBH\ :subscript:`3` directly to the solution of probes (top), or afterwards with a NaBH\ :subscript:`4` bath (bottom). The latter turned out to damage the blocking proteins and increased background noise, so we chose *in situ* reduction.
-
-.. figure:: /images/Biochips_217b-06_bloc2_532.jpg
-.. figure:: /images/Biochips_217b-07_bloc2_532.jpg
-
-.. container:: spotting-pattern
-
-   * Antibody mAb SP31 1 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
-   * Antibody mAb SP31 1 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
-   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
-   * Biotinylated antibody mAb SP31-biot 0.8 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
-   * Control antibody Il2-73 1 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
-   * Control antibody Il2-73 1 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
-   * Peptide LMN1 1 μM, 10% glycerol, with NaCNBH\ :subscript:`3`
-   * Peptide LMN1 1 μM, 10% glycerol, no NaCNBH\ :subscript:`3`
-
-
-Reproducibility
----------------
-
-Once the different parameters of the protocol were optimized, we printed biological probes onto an entire glass slide, and measured an interspot variation of 7.7%, which indicates good reproducibility between spots of the same biological test.
-
-.. figure:: /images/Biochips_236-32_532.jpg
-
-.. container:: spotting-pattern
-
-   * Antibody mAb SP31 incubated with peptide LMN1 marked with Alexa-532 (2196 spots: 36 columns by 61 lines; *x* step: 600 μm, *y* step: 800 μm)
-
 
 Alternative detection methods
 =============================
@@ -356,17 +223,15 @@ All the fluorescence-based experiments conducted so far were done after a period
 .. [#galland2008] Rémi Galland. *Mise en œuvre de concepts de détecteurs optiques de fluorescence intégrant la source de lumière au composant pour des immunoanalyses adaptées à des applications hors laboratoires.* Ph.D dissertation. Biophysics, Université Joseph-Fourier -- Grenoble I, 2008. `tel-00332307 <https://tel.archives-ouvertes.fr/tel-00332307>`__.
 
 .. figure:: /images/Biochips_reaction_kinetics.svg
-   :figclass: reaction-kinetics-diagram framed
+   :figclass: reaction-kinetics-diagram framed-img
 
    Principle of real-time measurement of the interaction between antibodies and peptides.
 
 Our exploratory work showed promising results: we were able to observe a rapid increase in signal during the first few minutes of the experiment, showing a plateau (indicating saturation) after about 30 minutes. The signal then decreased over time due to photobleaching (the gradual fading of fluorophores under the exciting light). These results prompted us to experiment with shorter incubation periods (described above).
 
-.. sidebar::
+.. figure:: /images/Biochips_reaction_kinetics_1nM.svg
 
-   .. figure:: /images/Biochips_reaction_kinetics_1nM.svg
-
-      Reaction kinetics between mAb SP31 antibodies, grafted on CEA-2 chemistry, and fluorescein-marked LMN1 peptides in solution at 1 nM (P = 500 µW, D = 0.5 mL/min, pH = 7.4).
+   Reaction kinetics between mAb SP31 antibodies, grafted on CEA-2 chemistry, and fluorescein-marked LMN1 peptides in solution at 1 nM (P = 500 µW, D = 0.5 mL/min, pH = 7.4).
 
 ----
 
@@ -379,7 +244,7 @@ Photothermal deflection spectroscopy (PDS) is a technique used to characterize t
 .. sidebar::
 
    .. figure:: /images/Biochips_Photothermal_deflection_spectroscopy_setup.png
-      :figclass: framed
+      :figclass: framed-img
 
       Experimental apparatus for transverse PDS from Jackson *et al.*'s 1981 article "`Photothermal deflection spectroscopy and detection <https://digital.library.unt.edu/ark:/67531/metadc827884/>`__." *Applied Optics.* **20** (8): 1333–1344.
 
@@ -418,12 +283,9 @@ Towards the end of my time at CEA-Léti, I was offered the opportunity to visit 
 
 Neutron reflectometry is a technique used to study thin films by shining a tight neutron beam from a high flux nuclear reactor onto a very flat surface, and measuring the intensity of the reflected radiation. It is particularly adapted to the study of stratified biological layers, because neutrons are highly penetrating and not as damaging as X-rays to delicate samples like ours.
 
-.. class:: rowspan-2
-.. sidebar::
+.. figure:: /images/Institut_Laue_Langevin_inside_reactor_hall.jpg
 
-   .. figure:: /images/Institut_Laue_Langevin_inside_reactor_hall.jpg
-
-      Inside the hall of the high-flux nuclear reactor at Institut Laue-Langevin in Grenoble, France. (Nerd bzh on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Institut_Laue_Langevin_inside_reactor_hall.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__)
+   Inside the hall of the high-flux nuclear reactor at Institut Laue-Langevin in Grenoble, France. (Nerd bzh on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Institut_Laue_Langevin_inside_reactor_hall.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__)
 
 .. class:: expert
 
@@ -437,17 +299,11 @@ Neutron reflectometry is a technique used to study thin films by shining a tight
 .. sidebar::
 
    .. figure:: /images/Biochips_D17.png
-      :figclass: framed
+      :figclass: framed-img
 
       Two modes of operation of the `D17 reflectometer <https://www.ill.eu/users/instruments/instruments-list/d17/description/instrument-layout>`__ (Cubitt & Fragneto). D17 has a horizontal scattering geometry and offers two modes of operation: a monochromatic mode, and a time-of-flight mode (TOF) for dynamic studies like reaction kinetics.
 
 Our results (see table below) were consistent with layers of native silicon oxide, silane, and antigens. The blocking proteins increased the density of the antigen layer, which was consistent with the hypothesis that they saturated active free sites. However, the results for antibody layers were unexpected, showing thinner layers than with just the antigens. One explanation might be that our sensitive biological molecules, usually preserved in chemical buffers, were denatured during the experiment, and couldn't attach specifically.
-
-.. class:: expert
-
-   Confirming the presence of the mixed layer of antigens and blocking protein would require deuterating one of those two substances, meaning replacing hydrogen by its heavier isotope, deuterium, to vary their contrast. To avoid the possible denaturation of antibodies, preparing buffers using D\ :subscript:`2`\ O and silicon-matched water would provide contrast while preserving a physiological environment adapted to biological molecules. Although I wasn't able to conduct these follow-up experiments before the end of my contract, I still felt privileged to have been able to glimpse into this entirely different field of physics.
-
-.. class:: full-content
 
 ======================================   ==============   =====   ============
 Layer                                    Thickness (nm)   |SLD|   Rugosity (Å)
@@ -462,6 +318,10 @@ LMN1 peptide + BSA + control antibody    5.7              1.2     1.2
 
 .. |SLD| replace:: :abbr:`SLD (Scattering Length Density)` (× 10\ :superscript:`−6` Å\ :superscript:`−2`)
 .. |BSA| replace:: :abbr:`BSA (Bovine serum albumin: blocking protein)`
+
+.. class:: expert
+
+   Confirming the presence of the mixed layer of antigens and blocking protein would require deuterating one of those two substances, meaning replacing hydrogen by its heavier isotope, deuterium, to vary their contrast. To avoid the possible denaturation of antibodies, preparing buffers using D\ :subscript:`2`\ O and silicon-matched water would provide contrast while preserving a physiological environment adapted to biological molecules. Although I wasn't able to conduct these follow-up experiments before the end of my contract, I still felt privileged to have been able to glimpse into this entirely different field of physics.
 
 
 Vapor-phase silanization for proteomics
@@ -522,18 +382,18 @@ Another method in the toolbox of the surface chemist is atomic force microscopy 
 
 I prepared two substrates with the vapor-phase and liquid-phase silanization protocols and observed them by AFM. The vapor-phase sample showed a smoother surface, with a rugosity (a measure of the small peaks and valley)  of about 2 Å, close to that of a naked surface. By contrast, the rugosity of the surface prepared with the liquid-phase protocol was over 32 Å.
 
-On its own, this result might indicate that the vapor-phase silanization had failed. Taken individually, contact angle and atomic force microscopy don't provide definitive proof of the success of the vapor-phase protocol. But since contact angles between protocols were consistent, the difference of rugosity might have been due to a more disorganized layer of silane deposited in liquid phase.
-
-.. container:: figures
+.. container:: figures side-by-side
 
    .. figure:: /images/Biochips_244-2A.png
    .. figure:: /images/Biochips_244-2B.png
    .. figure:: /images/Biochips_239-5A.png
    .. figure:: /images/Biochips_239-5B.png
 
-   .. class:: caption
+.. class:: caption
 
-      Analysis of surfaces functionalized with CEA-2 chemistry in vapor phase (top) and liquid phase (bottom), using atomic force microscopy.
+   Analysis of surfaces functionalized with CEA-2 chemistry in vapor phase (top) and liquid phase (bottom), using atomic force microscopy.
+
+On its own, this result might indicate that the vapor-phase silanization had failed. Taken individually, contact angle and atomic force microscopy don't provide definitive proof of the success of the vapor-phase protocol. But since contact angles between protocols were consistent, the difference of rugosity might have been due to a more disorganized layer of silane deposited in liquid phase.
 
 ----
 
@@ -614,6 +474,6 @@ Finally, we attached trypsin, the enzyme, to the layer of silane in the microcha
 Initial results were promising, with a mass spectrum showing many of the expected peaks. The digestion might not have been complete, but this first result was an encouraging step towards further research.
 
 .. figure:: /images/Biochips_digestion.png
-   :figclass: framed
+   :figclass: framed-img
 
    Mass spectrum of a sample of Cytochrome C (10 pmol/µL) digested by trypsine immobilized on a vapor-phase CEA-2 chemical layer. Green squares indicate peaks corresponding to expected peptides. (F. Mittler / CEA-Léti)

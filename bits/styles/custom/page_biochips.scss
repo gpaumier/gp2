@@ -3,7 +3,7 @@
 
 %spotting-pattern {
   p,
-  ul, {
+  ul {
     font-size: .7rem;
   }
 
@@ -14,15 +14,6 @@
   li p {
     margin-bottom: 0;
   }
-}
-
-/////////////////////////////////////////////////////////////
-
-#technical-abstract {
-  @extend %graph-paper;
-  padding: 1.5rem calc(1.5rem + 2vw);
-  border: 2px dotted #0B0;
-  margin-bottom: 3rem;
 }
 
 /////////////////////////////////////////////////////////////

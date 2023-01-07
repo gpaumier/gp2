@@ -20,38 +20,44 @@
 
 .. highlights::
 
-   During my research, I worked at the crossroads of physics, microelectronics, biology and chemistry to develop miniaturized laboratories based on a polymer that changes properties with temperature.
+   During my research, I worked at the crossroads of physics, microelectronics, biology and chemistry to develop miniaturized laboratories based on PNIPAM, a polymer that changes properties with temperature.
 
    Using techniques developed for microelectronics, researchers are able to miniaturize entire lab functions to the size of a microchip, paving the way for cheap, reliable testing kits and biomedical devices that fit in your pocket. However, shrinking a whole lab onto a chip changes the balance of physical forces, and how liquids behave at the microscale.
 
-   My research centered around PNIPAM, a polymer whose properties change with temperature. I studied how to use PNIPAM to control the flow of fluids in micro channels, and to trap and release proteins for biological analysis. I conducted this research with Anne-Marie Gué and Jan Sudor at the Laboratory for Analysis and Architecture of Systems (LAAS-CNRS) in Toulouse, France.
 
-
-Technical abstract
-==================
-
-Labs-on-a-chip are miniaturized devices integrating one or several laboratory functions, usually dedicated to the handling of chemical and biological samples. My work aimed at integrating a smart polymer called poly(*N*-isopropylacrylamide) (PNIPAM) in microsystems, in order to develop a new technological process for labs-on-a-chip. PNIPAM is a thermosensitive polymer that undergoes a reversible state transition; it switches from a hydrophilic, swollen state below its temperature of transition (LCST ~ 32°C), to a hydrophobic, collapsed state above it. The technology I developed was based on heating elements and a surface functionalization process to graft the PNIPAM layer. My results showed that the electro-osmotic flow could be modulated by thermally controlling the PNIPAM, thus paving the way for electrokinetic mixers. This thermal control also enabled the adsorption (and partial desorption) of proteins on fonctionalized beads, the main application being sample preparation.
-
-
-
-Kudos
-=====
+Overview
+========
 
 .. figure:: /images/tobias-keller-HzSLh5zV42s-unsplash.jpg
 
    `Tobias Keller <https://unsplash.com/@tokeller>`__ on `Unsplash <https://unsplash.com/photos/HzSLh5zV42s>`__
 
-..
+I studied how to use PNIPAM to control the flow of fluids in micro channels, and to trap and release proteins for biological analysis. I conducted this research with Anne-Marie Gué and Jan Sudor at the Laboratory for Analysis and Architecture of Systems (LAAS-CNRS) in Toulouse, France.
 
-    “Dr. Paumier conducted an interdisciplinary study of excellent scientific quality, in a booming research field . . . Moreover, his dissertation is written very clearly, and very well organized.”
+Technical abstract
+~~~~~~~~~~~~~~~~~~
 
-    --- Prof. Hervé Cottet, Institut des Biomolécules Max Mousseron, 2008.
+.. container:: technical-abstract
 
-..
+   Labs-on-a-chip are miniaturized devices integrating one or several laboratory functions, usually dedicated to the handling of chemical and biological samples. My work aimed at integrating a smart polymer called poly(*N*-isopropylacrylamide) (PNIPAM) in microsystems, in order to develop a new technological process for labs-on-a-chip.
+   
+   PNIPAM is a thermosensitive polymer that undergoes a reversible state transition; it switches from a hydrophilic, swollen state below its temperature of transition (LCST ~ 32°C), to a hydrophobic, collapsed state above it. The technology I developed was based on heating elements and a surface functionalization process to graft the PNIPAM layer.
+   
+   My results showed that the electro-osmotic flow could be modulated by thermally controlling the PNIPAM, thus paving the way for electrokinetic mixers. This thermal control also enabled the adsorption (and partial desorption) of proteins on fonctionalized beads, the main application being sample preparation.
 
-    “Dr. Paumier's research in the field of miniaturized technologies for life sciences is original and promising . . . The synoptic analysis led by Dr. Paumier is indubitable proof of his teaching abilities. One must highlight the fact that this research is multidisciplinary, experimental, difficult to conduct, and that it requires wandering along the boundaries of technology, physics, and chemistry.”
+.. sidebar::
 
-    --- Dr. F. Sedat Tardu, Laboratoire des Écoulements Géophysiques et Industriels, 2008.
+   ..
+
+      “Dr. Paumier conducted an interdisciplinary study of excellent scientific quality, in a booming research field . . . Moreover, his dissertation is written very clearly, and very well organized.”
+
+      --- Prof. Hervé Cottet, Institut des Biomolécules Max Mousseron, 2008.
+
+   ..
+
+      “Dr. Paumier's research in the field of miniaturized technologies for life sciences is original and promising . . . The synoptic analysis led by Dr. Paumier is indubitable proof of his teaching abilities. One must highlight the fact that this research is multidisciplinary, experimental, difficult to conduct, and that it requires wandering along the boundaries of technology, physics, and chemistry.”
+
+      --- Dr. F. Sedat Tardu, Laboratoire des Écoulements Géophysiques et Industriels, 2008.
 
 
 Honey, I shrunk the lab.
@@ -173,18 +179,15 @@ Polymers are macromolecules (very large molecules) composed of a bunch of smalle
 
 The simplest way to describe PNIPAM is as a goey substance that changes when it gets hot. At room temperature, it likes to spread in water: it's *hydrophilic*. But if you heat it to around 32°C (90°F), it doesn't like water any more: it becomes *hydrophobic*. It shrinks onto itself so it can be the least wet possible. If you lower the temperature again, it reverts to being hydrophilic, unfolds, and spreads its arms in water.
 
-.. container:: pnipam-switch-figures
+.. container:: pnipam-switch-figures side-by-side
 
    .. figure:: /images/PNIPA_LCST_Before.jpg
-      :figclass: pnipam-switch-figures1
-
    .. figure:: /images/PNIPA_LCST_After.jpg
-      :figclass: pnipam-switch-figures2
 
-   .. figure:: /images/2008-11-06_PNIPAM_switch_solution.svg
-      :figclass: pnipam-switch-figures3
+.. figure:: /images/2008-11-06_PNIPAM_switch_solution.svg
+   :figclass: framed-img
 
-      At room temperature (left), a solution of PNIPAM is transparent because the polymer is dissolved in water. When heated above 32°C (right), the solution becomes opaque as the polymer shrinks. Rg is the radius of gyration, used to describe the dimensions of the polymer chains. (Top: Quantyield on Wikimedia Commons: `1 <https://commons.wikimedia.org/wiki/File:PNIPA_LCST_Before.jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:PNIPA_LCST_After.jpg>`__ //  `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__)
+   At room temperature (left), a solution of PNIPAM is transparent because the polymer is dissolved in water. When heated above 32°C (right), the solution becomes opaque as the polymer shrinks. Rg is the radius of gyration, used to describe the dimensions of the polymer chains. (Top: Quantyield on Wikimedia Commons: `1 <https://commons.wikimedia.org/wiki/File:PNIPA_LCST_Before.jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:PNIPA_LCST_After.jpg>`__ //  `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__)
 
 .. class:: expert
 
@@ -224,16 +227,16 @@ To attach PNIPAM on surfaces, chemists use a primer layer of *silane*. Silanes a
 
    The methacrylate end of TMSPM serves as starting point for the radical chain polymerization of PNIPAM and polyacrylamide, the latter of which I used as a temperature-insensitive control for PNIPAM in some experiments.
 
-.. container:: silane-afm
+.. container:: silane-afm side-by-side
 
    .. figure:: /images/PhD_silane_AFM1.jpg
    .. figure:: /images/PhD_silane_AFM2.jpg
 
-   .. class:: caption
+.. class:: caption
 
-      Silica surface coated with TMSPM after silanization, observed by atomic force microscopy.
+   Silica surface coated with TMSPM after silanization, observed by atomic force microscopy.
 
-      .. ajouter plus d'informations comme la rugosité ; cf. mémoire de master
+   .. TODO ajouter plus d'informations comme la rugosité ; cf. mémoire de master
 
 ----
 
@@ -244,7 +247,7 @@ Testing the *wettability* of the surface is an easy way to verify the steps of t
 
 Many plants, in contrast, have hydrophobic leaves: they repel water; droplets stick out higher, in a more rounded shape. Ultrahydrophobic surfaces can display self-cleaning properties like the `Lotus effect <https://en.wikipedia.org/wiki/Lotus_effect>`__, and have inspired man-made water-repellent coatings, paints, and fabrics. At room temperature, PNIPAM is hydrophilic, like clean metal, and when heated it becomes hydrophobic, like plant leaves, and the angle of the droplet is much higher.
 
-.. container:: functionalization-hydrophobic-hydrophilic
+.. container:: functionalization-hydrophobic-hydrophilic side-by-side
 
    .. figure:: /images/olia-gozha-ijzZru_5VUU-unsplash.jpg
       :figclass: hydrophilic
@@ -252,9 +255,9 @@ Many plants, in contrast, have hydrophobic leaves: they repel water; droplets st
    .. figure:: /images/lukas-bato-l866cMim5I4-unsplash.jpg
       :figclass: hydrophobic
 
-   .. class:: caption
+.. class:: caption
 
-      Left: Flat water droplets on a hydrophobic metallic surface (`Olia Gozha <https://unsplash.com/@olia>`__ on `Unsplash <https://unsplash.com/photos/ijzZru_5VUU>`__). Right: Round water droplet on a hydrophobic plant leaf (`Lukas Bato <https://unsplash.com/@lks_bt>`__ on `Unsplash <https://unsplash.com/photos/l866cMim5I4>`__).
+   Left: Flat water droplets on a hydrophobic metallic surface (`Olia Gozha <https://unsplash.com/@olia>`__ on `Unsplash <https://unsplash.com/photos/ijzZru_5VUU>`__). Right: Round water droplet on a hydrophobic plant leaf (`Lukas Bato <https://unsplash.com/@lks_bt>`__ on `Unsplash <https://unsplash.com/photos/l866cMim5I4>`__).
 
 .. TODO: turn the two photos above into a little side-by-side grid with object-fit: cover
 
@@ -396,15 +399,14 @@ In contrast, silica beads are available at low cost, can be functionalized easil
 
 The microfluidic device therefore consists of a flexible, transparent PDMS molded with reservoirs, a microchannel, and a flat section in the center. Silica beads coated in PNIPAM are trapped in the PDMS channel, and the system is assembled on a glass substrate with a heating element.
 
-.. container:: chip-blender
+.. container:: chip-blender side-by-side
 
    .. figure:: /images/PhD_device-blender.png
-
    .. figure:: /images/PhD_device-blender2.png
 
-   .. class:: caption
+.. class:: caption
 
-      3D model of the molded PDMS chip on a glass substrate (left) and close-up on the entropic trap and the flat center section (right). The yellow line represents the Joule heating element.
+   3D model of the molded PDMS chip on a glass substrate (left) and close-up on the entropic trap and the flat center section (right). The yellow line represents the Joule heating element.
 
 
 Heating elements
@@ -513,7 +515,7 @@ I coated microscopic silica beads with PNIPAM to use them to trap proteins (a pr
 
    .. figure:: /images/PhD_billes-puces-lumblanche.png
    .. figure:: /images/PhD_ads-billes-puces-fluo-inv.png
-      :figclass: framed
+      :figclass: framed-img
 
    .. class:: caption
 
