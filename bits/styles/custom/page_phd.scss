@@ -24,47 +24,13 @@
   @include layout.side-by-side-figures();
 }
 
-
-.hydrophilic,
-.hydrophobic {
-  overflow: hidden; // we're zomming on the images to better see the droplets, but we don't want their footprint to increase
-
-  img {
-    height: 100%;
-    object-fit: cover;
-  }
-}
-
-.hydrophilic img {
-  object-position: 70%;
-  transform: scale(1.5);
-}
-
-.hydrophobic img {
-  object-position: 25%;
-  transform: scale(1.5);
-}
-
 /////////////////////////////////////////////////////////////
 
 
-.chip-blender {
+.chip-blender,
+.ir-camera,
+.catching-proteins-capillary,
+.catching-proteins-chip {
   @include layout.side-by-side-figures(.3rem);
 }
 
-
-/////////////////////////////////////////////////////////////
-
-#heating-elements {
-}
-
-.comsol-maillage {
-  max-width: 25rem;
-  margin: auto;
-}
-
-/////////////////////////////////////////////////////////////
-
-.catching-proteins-chip {
-  @include layout.side-by-side-figures();
-}
