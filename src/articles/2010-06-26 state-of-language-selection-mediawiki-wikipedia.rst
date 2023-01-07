@@ -26,7 +26,7 @@ Language setting in user preferences
 On each MediaWiki website, users who create an account can select the language of the software interface. That means, for example, that you can read Wikipedia articles in Italian, but with the interface in French. This feature is particularly useful for Wikipedia participants who are familiar with the interface in their mother tongue.
 
 .. figure:: /images/2010-06-26_language_selector_prefs.png
-   :figclass: framed
+   :figclass: framed-img
 
    Drop-down menu from MediaWiki's user preferences to select the language of the interface
 
@@ -70,7 +70,7 @@ Such an automatic system would be desirable for some Wikimedia websites, especia
 The *LanguageSelector* extension also provides a drop-down selector that can be included in pages. This setting seems to follow the user at least during the session. You can see an example of it used on the home page of `translatewiki.net <http://translatewiki.net>`__.
 
 .. figure:: /images/2010-06-26_langselect_mwext.png
-   :figclass: framed
+   :figclass: framed-img
    :alt: Drop-down menu showing a list of languages in their language, prefixed by the language code
 
    Drop-down language selector from the LanguageSelector MediaWiki extension
@@ -89,7 +89,7 @@ On monolingual wikis (i.e. wikis whose content is in only one language), there a
 On Wikipedia, the first choice happens on the multilingual `wikipedia.org <http://www.wikipedia.org>`__ portal, if you ever happen to go there.
 
 .. figure:: /images/2010-06-26_Wikipedia.org_portal.png
-   :figclass: framed
+   :figclass: framed-img
    :alt: Screenshot of the wikipedia.org portal; The Wikipedia logo is surrounded by the 10 largest language editions, then languages are listed in size groups
 
    Screenshot of the Wikipedia.org portal
@@ -108,7 +108,7 @@ Interlanguage links
 **Interlanguage links** are a specific subset of `interwiki links <http://en.wikipedia.org/wiki/Interwiki_links>`__; they allow users to navigate between different language versions of the same page. Links and their order are curated by humans or "bots," i.e. external programs that interact with the software as humans would, but are not part of the MediaWiki software
 
 .. figure:: /images/2010-06-26_interlanguage_links_apple.png
-   :figclass: framed
+   :figclass: framed-img
    :alt: List of interlanguage links of the Apple article on Wikipedia in English, and the wikitext that generates them
 
    List of interlanguage links of the Apple article on Wikipedia in English, and the wikitext that generates them
@@ -148,7 +148,7 @@ For a few years, meta has been experimenting with the |language select|_ tool. L
 There too, you have to know the ISO language code, and the user interface isn't very intuitive, but it was a start. The newer JavaScript method detects the language of your browser automatically.
 
 .. figure:: /images/2010-06-26_language_select_meta.png
-   :figclass: framed
+   :figclass: framed-img
    :alt: Cropped screenshot of a web page showing a small input field with the text 'en' in it, followed by two buttons, saying 'Select' and 'Show'
 
    Screenshot of the language select JavaScript tool on meta-wiki
@@ -167,7 +167,7 @@ Language templates
 .. _language templates: http://commons.wikimedia.org/wiki/Commons:Language_templates
 
 .. figure:: /images/2010-06-26_language_templates.png
-   :figclass: framed full-content
+   :figclass: framed-img full-content
    :alt: Descriptions in German, English, French and Italian; the language is formatted in bold font.
 
    Description of a Picture of the Day on Commons in various languages

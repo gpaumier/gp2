@@ -223,7 +223,7 @@ Un exemple majeur de communication en ligne à grande échelle est le mouvement 
 .. sidebar::
 
    .. figure:: /images/2015-07-21_wikipedians_with_autism.png
-      :figclass: framed
+      :figclass: framed-img
 
       La catégorie « `Wikipédiens autistes <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_ » sur Wikipedia en anglais
 

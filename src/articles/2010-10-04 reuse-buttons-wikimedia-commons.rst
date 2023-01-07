@@ -18,7 +18,7 @@ About a year ago, I created some mock-ups of what the `ideal file description pa
 
 
 .. figure:: /images/2010-10-04_page8_MU_mock_ups_Oct09.jpg
-   :figclass: framed
+   :figclass: framed-img
    :alt: Mock-ups of one-click reuse buttons next to the example image
 
    One-click reuse cases from the October 2009 draft mock-ups (`Source <http://usability.wikimedia.org/w/index.php?title=File:GPaumier_multimedia_usability_draft_mock-ups_Oct09.pdf&page=8>`__)
@@ -27,7 +27,7 @@ These prominent buttons would help users embed the media files in wiki pages, HT
 
 
 .. figure:: /images/2010-10-04_page10_MU_mock_ups_Oct09.jpg
-   :figclass: framed
+   :figclass: framed-img
    :alt: Mock-ups of file description pages on Commons with code snippets in the foreground
 
    Code snippets from the October 2009 mock-ups (`Source <http://usability.wikimedia.org/w/index.php?title=File:GPaumier_multimedia_usability_draft_mock-ups_Oct09.pdf&page=10>`__)
@@ -43,7 +43,7 @@ The tool he wrote was pretty neat, and `User:TheDJ <http://commons.wikimedia.org
 Today, as I was visiting Commons, I was stunned to see a new version of Magnus' tool, available on all file description pages, that was clearly inspired by my design. You can see for yourself by visiting `any file description page <https://commons.wikimedia.org/wiki/File:Democracy_Memorial_Hall_-_Summer_2007_0054.jpg>`__ on Commons.
 
 .. figure:: /images/2010-10-04_ShareThisCommons.png
-   :figclass: framed
+   :figclass: framed-img
    :alt: Cropped screenshot of the new file description page on Commons
 
    Screenshot of the buttons as now implemented on Wikimedia Commons

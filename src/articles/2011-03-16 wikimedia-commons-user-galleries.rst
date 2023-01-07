@@ -21,7 +21,7 @@ Nonetheless, a "user gallery" feature built in MediaWiki, similar to `the list o
 A `feature request <https://bugzilla.wikimedia.org/show_bug.cgi?id=3341>`__ was opened in our bug tracker back in 2005. This morning, while reading my `bugmail <http://en.wiktionary.org/wiki/bugmail>`__, I saw a notification about this bug, saying the feature had been added in 2010 and deployed recently.
 
 .. figure:: /images/2011-03-16_myuploads.png
-   :figclass: framed
+   :figclass: framed-img
 
    The new user galleries list recent uploads for any user, including thumbnails and basic information.
 

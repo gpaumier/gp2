@@ -29,7 +29,7 @@ Over the past few months, Neil Kandalgaonkar (`NeilK <http://www.mediawiki.org/w
 .. sidebar::
 
    .. figure:: /images/2010-08-07_UploadWizard_screenshot.png
-      :figclass: framed
+      :figclass: framed-img
 
       Screenshot of the prototype’s interface
 

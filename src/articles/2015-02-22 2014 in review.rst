@@ -51,7 +51,7 @@ I attended the `Zürich hackathon <https://blog.wikimedia.org/2014/05/10/tech-wi
 In September, my role at the Wikimedia Foundation `changed <https://lists.wikimedia.org/pipermail/wikimediaannounce-l/2014-October/000993.html>`__, and I started working on other projects, most notably the :doc:`File metadata cleanup drive <file-metadata-cleanup-drive>`. The drive is an initiative to decrease the number of files (on Wikimedia sites) whose information can't be read by programs.
 
 .. figure:: /images/2015-02-22_MrMetadata_screenshot.png
-   :figclass: framed
+   :figclass: framed-img
    :alt: Screenshot of the MrMetadata tool, showing progress bars for different wikis
 
    In September, my role at the Wikimedia Foundation changed, and I started to work on other projects, like the :doc:`File metadata cleanup drive <file-metadata-cleanup-drive>`.
@@ -63,7 +63,7 @@ In September, my role at the Wikimedia Foundation `changed <https://lists.wikime
 2013 had been a turning point for me, in that I had discovered that I was likely on the autistic spectrum. In 2014, a few experts officially confirmed that hypothesis. When asked why this had not been detected earlier in my life, the prevailing hypothesis was that I had unknowingly compensated this social blindness by a higher potential, as suggested by tests performed in 2013. I like to think of it as having my my own emulated `emotion chip <https://en.wikipedia.org/wiki/Data_(Star_Trek)>`__.
 
 .. figure:: /images/2015-02-22_conclusion_asperger.png
-   :figclass: framed
+   :figclass: framed-img
    :alt: Screenshot of a paragraph from a text document. The text (in French) translates to: CONCLUSION: The criteria (CIM 10 and DSM IV) for the diagnosis of an Autism spectrum disorder, and and in particular of Asperger Syndrome (CIM 10: Axis 1, F-84.5) are present.
 
    I feel like I deserve a membership card or something.

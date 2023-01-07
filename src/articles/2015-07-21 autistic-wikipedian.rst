@@ -228,7 +228,7 @@ Of course, one major example of wide-scale online communication is the Wikimedia
 .. sidebar::
 
    .. figure:: /images/2015-07-21_wikipedians_with_autism.png
-      :figclass: framed
+      :figclass: framed-img
 
       The "`Wikipedians with autism <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_" category on the English Wikipedia
 

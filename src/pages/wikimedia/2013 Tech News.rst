@@ -84,7 +84,7 @@ I created the `Tech/News <https://meta.wikimedia.org/wiki/Tech/News>`__ page in 
 
 
 .. figure:: /images/2014-01-02_Technews_screen.png
-   :figclass: framed
+   :figclass: framed-img
 
    The Tech/News page provides clear calls to action and pointers on how to subscribe and participate.
 

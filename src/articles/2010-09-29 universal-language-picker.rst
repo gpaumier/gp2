@@ -38,7 +38,7 @@ Where's my Hindi?
 .. sidebar::
 
    .. figure:: /images/2010-09-29_language_selector_uploadjs.png
-      :figclass: framed
+      :figclass: framed-img
 
       Drop-down language selector currently used in the JavaScript-enhanced upload form on Wikimedia Commons
 
@@ -58,7 +58,7 @@ On Commons, the list is ordered by `ISO 639-1 code`_ (sort of) but displays the 
 .. sidebar::
 
    .. figure:: /images/2010-09-29_non_latin_languages.png
-      :figclass: framed
+      :figclass: framed-img
 
       Non-latin languages at the bottom of the list in the language picker on Commons Prototype
 
@@ -81,7 +81,7 @@ This is currently how MediaWiki handles language selection in most cases, becaus
 .. sidebar::
 
    .. figure:: /images/2010-06-26_language_selector_prefs.png
-      :figclass: framed
+      :figclass: framed-img
 
       Drop-down menu from MediaWiki's user preferences to select the language of the interface
 
