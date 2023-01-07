@@ -1,12 +1,11 @@
+@use '../settings' as *;
+
 .framed,
-.framed-img {
+.framed-img img {
 
-  margin-bottom: .5rem;
-
-  & img {
-      border: 1px solid #A9A9A9;
-      margin-bottom: 0;
-  }
+  //margin-bottom: .5rem;
+  border: 1px solid #A9A9A9;
+  //margin-bottom: 0;
 }
 
 .flip-img {
@@ -23,7 +22,6 @@
   border: 1px dashed #0B0;
   padding: .4rem;
   color: #050;
-  margin-bottom: 1.5rem;
 }
 
 .expert {
@@ -74,3 +72,14 @@ hr {
 %subtle-shadow {
   box-shadow: rgba(0,0,0,.4) 0 .3rem 1rem;
 }
+
+// Tables
+
+thead tr {
+  background: $primary-color-background-faint;
+}
+
+tbody tr:nth-child(even) {
+  background: $primary-color-background-fainter;
+}
+

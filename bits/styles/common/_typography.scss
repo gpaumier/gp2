@@ -116,6 +116,21 @@ pre {
   }
 }
 
+thead {
+  @extend %phenix-sans-bold;
+}
+
+tbody {
+  @extend %phenix-sans;
+}
+
+thead p,
+tbody p{
+  @extend %small-font-size;
+
+  margin: auto;
+}
+
 // Custom font styles
 
 #languages {
