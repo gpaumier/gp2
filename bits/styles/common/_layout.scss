@@ -563,3 +563,11 @@ footer nav,
   grid-column: side-content;
 }
 
+// edit link
+
+#edit-link {
+  display: flex;
+  flex-direction: row;
+  column-gap: 1rem;
+}
+
