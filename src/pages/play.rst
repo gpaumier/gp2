@@ -38,8 +38,6 @@ According to Japanese legend, someone who folds a thousand origami cranes is gra
 
 I folded about 750 cranes in 2018, a hundred throughout 2019, and finished the last 150 during the 2020 pandemic. I strung them up according to various color patterns, and assembled them all into a full *senbazuru* (千羽鶴). Folding the cranes helped me process what I needed to process, and seeing them on display often brings back feelings of perseverance, aesthetics, and resilience.
 
-.. figure:: /images/cranes_3755.jpg
-
 .. figure:: /images/cranes_3758.jpg
 
 Coloring books
@@ -74,8 +72,6 @@ Wood and stuff
 
 I also like to build new things, often for a functional purpose. Several homes ago, I built a modular home office with shelves out of Ikea poles and wood planks. More recently, I built a platform to anchor a squat rack that serves as a home gym. I also built a modular deadlift platform out of lumber and plywood, which I can adjust for block pulls and deficit deadlifts. As of 2022, I'm slowly getting into more ambitious woodworking projects, partly motivated by the need to store books from my ever-expanding personal library.
 
-.. figure:: /images/building_152928.jpg
-
 
 Greenery
 ========
@@ -101,7 +97,6 @@ Terrariums etc.
 
 
 .. figure:: /images/plants_3611.jpg
-.. figure:: /images/plants_3614.jpg
 .. figure:: /images/plants_3641.jpg
 
 
@@ -146,7 +141,7 @@ a little bit of ballroom
 Baking
 ======
 
-.. figure:: /images/baking_0594.jpg
+.. figure:: /images/baking_0885.jpg
 
 After I moved (back) to the US, I was having trouble finding good bread. Having grown up and lived in France for most of my life, I was unhappy with the limited options available in the small California town where I was living.
 
@@ -154,7 +149,6 @@ In 2017, I took a few days off work to participate in a breadmaking workshop at 
 
 .. [#sfbi] The `SFBI <https://sfbi.com/>`__ was founded in 1996 by Michel Suas, a fellow Frenchman. The workshop was led by Miyuki Togi, who combined deep exertise, geniality, and patience.
 
-.. figure:: /images/baking_0885.jpg
 .. figure:: /images/baking_1937.jpg
 
 For a while after that, I made different kinds of bread at home, with a preference for ciabatta (for its simplicity) and brioche (for its festiveness, and because it reminded me of my childhood in France). Later, I moved to the city and found a great bakery that made excellent bread, so convenience won. I ventured back into my breadmaking ways during the 2020 pandemic.

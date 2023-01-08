@@ -1,5 +1,5 @@
 .. title: Homepage
-.. subtitle: I'm an expert at untangling things and reweaving them in ways that make sense.
+.. subtitle: I'm an expert at untangling things and weaving them back in ways that make sense.
 .. h1-override: Hi, I'm Guillaume.
 .. slug: index
 .. template: page_hero.j2
@@ -81,7 +81,7 @@ My favorite problems are those without an obvious solution, because they give me
       
       Seeking multiple perspectives to `get more hands onto that elephant <https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>`__. (`Townspeople, Who have Never Seen an Elephant, Examine its Appearance in the Dark <https://commons.wikimedia.org/wiki/File:Jalal_al-Din_Rumi,_Maulana_-_Townspeople,_Who_have_Never_Seen_an_Elephant,_Examine_its_Appearance_in_the_Dark_-_Walters_W626117B_-_Full_Page.jpg>`__)
 
-I have a talent for bringing clarity to complex problems, and I have learned to be comfortable with ambiguity. I move easily between the system view and the details, between the past that has shaped where we are today and the future we may still mold. I particularly enjoy imagining different futures as a way to manage the unexpected and to make difficult choices.
+I have learned to be comfortable with ambiguity. I move easily between the system view and the details, between the past that has shaped where we are today and the future we may still mold. I particularly enjoy imagining different futures as a way to manage the unexpected and to make difficult choices.
 
 I love to understand how systems work, recognize patterns, experiment, document, and distill knowledge from observational evidence. I strive to frame the issues I work on by situating the problem in its broader landscape, as a way to increase the quality of information available for decision-making.
 
@@ -110,12 +110,16 @@ I joined the Wikimedia Foundation in 2009 and spent almost a decade working on t
 
 Later on, I was a Lead Architect for "Wikimedia 2030," guiding dozens of organizations and thousands of individuals through a global strategy and movement-building process. I led the synthesis of all inputs, conversations, and research, and I was the main author of the resulting Strategic Direction of "Knowledge Equity and Knowledge as a Service."
 
-My most recent work at the Wikimedia Foundation has focused on long-term thinking, strategy, and executive initiatives. I also play unofficial roles as a Wikimedia historian, mentor, and "ship's counselor."
-
+My most recent work at the Wikimedia Foundation has focused on long-term thinking, strategy, and initiatives for executives. I also play unofficial roles as a Wikimedia historian, mentor, and "ship's counselor."
 
 .. class:: continue-reading
 
    :doc:`continue reading <wikimedia>`
+
+.. sidebar::
+   :class: rowstart-7
+
+   In the Star Trek universe, ship's counselors, like Commander Deanna Troi in *Star Trek: The Next Generation*, are particularly empathetic individuals responsible for the mental well-being of the crew. They provide advice and emotional support, and help resolve disputes. (Read more on `Memory Alpha <https://memory-alpha.fandom.com/wiki/Counselor>`__, the Star Trek wiki.)
 
 
 ----
