@@ -1,3 +1,9 @@
-<aside class="edit-link">
-    <p>✍ <a href="{{ messages('edit_link_github_prefix') + post.post_name + post.source_ext() | urlencode() }}">{{ messages('edit_link_label') }}</p>
+<aside id="prefooter">
+    <p id="edit-link">
+        <span id="edit-link-icon" aria-hidden="true">✍</span>
+        <span id="edit-link-text">
+            <a href="{{ messages('edit_link_github_prefix') + post.post_name + post.source_ext() | urlencode() }}">{{ messages('edit_link_label') }}</a>
+        </span>
+    </p>
+    <link rel="alternate" type="application/x-wiki" title="{{ messages('edit_link_label') }}" href="{{ messages('edit_link_github_prefix') + post.post_name + post.source_ext() | urlencode() }}"/>
 </aside>

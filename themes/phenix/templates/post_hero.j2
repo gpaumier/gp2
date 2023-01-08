@@ -34,10 +34,6 @@
     {{ post.text() | remove_lead_figure }}
     </div>
 
-    {% block edit_link %}
-        {% include "_edit_link.j2" %}
-    {% endblock %}
-
     {{ helper.mathjax_script(post) }}
 </article>
 {% endblock %}

@@ -83,3 +83,10 @@ tbody tr:nth-child(even) {
   background: $primary-color-faded3;
 }
 
+// edit link
+
+#edit-link {
+  display: flex;
+  flex-direction: row;
+  column-gap: 1rem;
+}
