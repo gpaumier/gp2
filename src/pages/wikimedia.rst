@@ -525,25 +525,25 @@ Beyond Wikipedia, my pictures have now been published in many other venues, from
 .. https://commons.wikimedia.org/wiki/User:Guillom/Politicians
 
 
-.. container:: gallery main-content
-   :name: wikimedia-photos
+.. .. container:: gallery main-content
+..    :name: wikimedia-photos
 
-   .. image:: /images/CTS_Riviere_des_Pluies_et_flamboyants_02.jpg
-      :alt: alt
-      :name: cts1
+..    .. image:: /images/CTS_Riviere_des_Pluies_et_flamboyants_02.jpg
+..       :alt: alt
+..       :name: cts1
 
-   .. image:: /images/CTS_Riviere_des_Pluies_et_flamboyants_11.jpg
-      :alt: alt
-      :name: cts2
+..    .. image:: /images/CTS_Riviere_des_Pluies_et_flamboyants_11.jpg
+..       :alt: alt
+..       :name: cts2
 
-   .. image:: /images/PNIPAM_microsystem.jpg
-      :alt: alt
-      :name: pnipam1
+..    .. image:: /images/PNIPAM_microsystem.jpg
+..       :alt: alt
+..       :name: pnipam1
 
-   .. image:: /images/PNIPAM_microsystems_at_LAAS_CNRS_011_June_2008.jpg
-      :alt: alt
-      :name: pnipam2
+..    .. image:: /images/PNIPAM_microsystems_at_LAAS_CNRS_011_June_2008.jpg
+..       :alt: alt
+..       :name: pnipam2
 
-   .. image:: /images/PNIPAM_microsystems_at_LAAS_CNRS_022_June_2008.jpg
-      :alt: alt
-      :name: pnipam3
+..    .. image:: /images/PNIPAM_microsystems_at_LAAS_CNRS_022_June_2008.jpg
+..       :alt: alt
+..       :name: pnipam3
