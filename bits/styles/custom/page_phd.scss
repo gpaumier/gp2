@@ -1,7 +1,6 @@
 @use '../common/decoration';
 @use '../common/layout';
 
-
 /////////////////////////////////////////////////////////////
 
 .pnipam-formula img {
@@ -13,9 +12,7 @@
   @include layout.side-by-side-figures();
 }
 
-
 /////////////////////////////////////////////////////////////
-
 
 .silane-afm {
   @include layout.side-by-side-figures(.5rem);
@@ -26,11 +23,9 @@
 
 /////////////////////////////////////////////////////////////
 
-
 .chip-blender,
 .ir-camera,
 .catching-proteins-capillary,
 .catching-proteins-chip {
   @include layout.side-by-side-figures(.3rem);
 }
-
