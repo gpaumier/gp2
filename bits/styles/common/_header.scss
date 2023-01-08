@@ -51,22 +51,28 @@
 }
 
 #current-language {
+
+  display: flex;
+  flex-direction: row;
+  column-gap: .5rem;
   
-  &::before {
-    content: '';
-    background-image: url(/assets/images/language.svg);
-    background-position: left;
-    background-repeat: no-repeat;
-    background-size: 1.7rem 1.7rem;
-    padding-top: 1.7rem;
-    padding-left: 1.7rem;
-    padding-right: .5rem;
+  #language-selector-icon {
+    height: 1.7rem;
+    width: 1.7rem;
+    margin-top: .4rem;
     opacity: 0.67;
   }
+  
+  #language-selector-caret {
+    height: 1rem;
+    width: 1rem;
+    margin-top: .7rem;
+  }
+}
 
-  &::after {
-    content: '⌄';
-    padding-left: .5rem;
+#language-selector-current-language {
+  @media screen and (max-width: $breakpoint-small) {
+    display: none;
   }
 }
 

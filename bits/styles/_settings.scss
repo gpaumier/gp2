@@ -10,6 +10,7 @@ $primary-color-faded3: rgb(240, 216, 216);
 $body-font-color: #333;
 $breakpoint-large: 1024px;
 $breakpoint-medium: 750px;
+$breakpoint-small: 450px;
 
 $phi: math.div(1 + math.sqrt(5), 2);
 $golden1: math.div(1, $phi);

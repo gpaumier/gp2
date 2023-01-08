@@ -5,7 +5,11 @@
   <nav id="languages" aria-label="Language selector">
 	  <ul class="clicky-menu no-js">
 		  <li>
-      <a href="#" id="current-language">{{ messages("LANGUAGE", lang) }}</a>
+      <a href="#" id="current-language">
+        <img id="language-selector-icon" aria-hidden="true" src="/assets/images/language.svg">
+        <span id="language-selector-current-language">{{ messages("LANGUAGE", lang) }}</span>
+        <img id="language-selector-caret" aria-hidden="true" src="/assets/images/caret.svg">
+      </a>
         <ul class="menu vertical">
           {% for langname in translations|sort %}
             {% if langname != lang %}

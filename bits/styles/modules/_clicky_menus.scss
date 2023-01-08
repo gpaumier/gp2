@@ -79,24 +79,8 @@
 			}
 		}
 	}
+
+	& [aria-expanded="true"] #language-selector-caret {
+		transform: scaleY(-1);
+	}
 }
-
-
-/* Hidden SVG used for down arrows */
-svg[hidden] {
-	display: none;
-	position: absolute;
-}
-
-/* Icon */
-.clicky-menu svg {
-	width: 1em;
-	height: 1em;
-	margin-left: .5em;
-}
-
-.clicky-menu [aria-expanded="true"] svg {
-	transform: scaleY(-1);
-}
-
-
