@@ -532,12 +532,19 @@ svg {
 #article-header-hero
 {
   @extend %golden-grid-skeleton;
+
+  // There's probably a better place for this, TODO: fix it
+
+  p.dateline {
+    grid-column: main-content;
+  }
 }
 
 // Default rules for placing content where it needs to go in the golden grid:
 
 #article-content-default,
 section,
+#prefooter,
 footer nav,
 // On pages with hero header, the golden grid is at the level of sections, so we need to make .highlights a golden grid as well:
 #article-content-hero .highlights {
@@ -548,5 +555,11 @@ footer nav,
 
 .hero-h2-golden.entry-content > div > section {
   @extend %golden-section-hero-golden;
+}
+
+// Misc
+
+#prefooter #edit-link {
+  grid-column: side-content;
 }
 
