@@ -1,5 +1,6 @@
 @use '../common/layout';
 
+/* Legacy styles for when we had the responsive collage
 header {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
@@ -66,7 +67,7 @@ header {
     font-variant-caps: small-caps;
     font-size: 1rem;
   }
-}
+} */
 
 .fig-the-war-of-the-words img {
   object-position: 60% 50%;

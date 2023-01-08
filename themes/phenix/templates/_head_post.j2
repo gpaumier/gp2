@@ -4,8 +4,3 @@
 {% import 'base_helper.tmpl' as base with context %}
 {% extends '_head.j2' %}
 
-{% block css %}
-  {% if post.meta('styles') %}
-    <link href="/assets/styles/custom/{{ post.meta('styles') }}.css" rel="stylesheet">
-  {% endif %}
-{% endblock %}

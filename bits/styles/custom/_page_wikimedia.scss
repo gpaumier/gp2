@@ -1,21 +1,20 @@
 @use '../settings' as *;
 @use '../common/media';
 
-
-
-.post-subtitle {
-  display:block;
-  background-color: rgba(228, 83, 31, 0.78);
-  color: #f3f3f3;
-  padding: .5rem;
-  font-size: calc(2rem + 2vw);
-  line-height: calc(2rem + 2vw);
+.page_wikimedia {
+  .post-subtitle {
+    display:block;
+    background-color: rgba(228, 83, 31, 0.78);
+    color: #f3f3f3;
+    padding: .5rem;
+    font-size: calc(2rem + 2vw);
+    line-height: calc(2rem + 2vw);
+  }
 }
-
 
 /////////////////////////////////////////////////////////////
 
-.wikimedia-vision {
+/* .wikimedia-vision {
   height: 80vh;
   overflow: hidden;
   background-color: #000099;
@@ -43,11 +42,11 @@
     grid-row: 2/3;
     align-self: center;
   }
-}
+} */
 
 /////////////////////////////////////////////////////////////
 // Wikimedia photos slideshow / grid
-
+/* 
 #wikimedia-photos {
   display:grid;
   grid-template-columns: repeat(5, 1fr);
@@ -70,4 +69,4 @@
       grid-row: 1 / 2;
     }
   }
-}
+} */

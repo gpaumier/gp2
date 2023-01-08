@@ -1,0 +1,17 @@
+@use '../settings' as *;
+
+.page-index {
+  #article-header-hero {
+    img {
+      object-position: 75% 25%;
+    }
+  }
+  
+  @media screen and (min-width: $breakpoint-medium) {
+    #article-header-hero #article-subheader {
+      grid-column: 2/7;
+    }
+  }
+}
+
+

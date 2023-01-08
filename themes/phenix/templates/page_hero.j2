@@ -14,7 +14,7 @@
 {% endblock %}
 
 {% block content %}
-<article class="page h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<article class="page page-{{ post.meta('slug') }} h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 
   <header id="article-header-hero">
     <h1 class="p-name entry-title" itemprop="headline name">
