@@ -3,59 +3,90 @@
 	margin: 0;
 	padding: 0;
 	list-style: none;
-}
-@media (min-width: 540px) {
-	.clicky-menu {
-		display: flex;
-	}
-}
+	display: flex;
 
-/* General Link & Button Styles */
-.clicky-menu {
+	/* General Link & Button Styles */
 	
 	a,
 	button {
 		background: transparent;
     }
+
+	a:hover {
+		background: #fff;
+	}
+
+	/* Caret */
+
+	[aria-expanded="true"] #current-language::after {
+		content: '⌃';
+	}
 	
-}
+	/* Top Level Items */
 
-.clicky-menu a:hover {
-	background: #fff;
-}
-
-/* Top Level Items */
-.clicky-menu > li {
-	position: relative;
-	flex: 1 1 auto;
-	display: flex;
-	justify-content: stretch;
-	flex-wrap: wrap;
-}
-
-.clicky-menu > li {
-
-	a,
-	button,
-	span {
-		flex: 1 0 auto;
+	& > li {
+		position: relative;
+		flex: 1 1 auto;
 		display: flex;
+		justify-content: stretch;
 		flex-wrap: wrap;
-		align-items: center;
-		border: 0;
-		font-size: inherit;
 
-		@media (min-width: 540px) {
+		a,
+		button,
+		span {
+			flex: 1 0 auto;
+			display: flex;
+			flex-wrap: wrap;
+			align-items: center;
+			border: 0;
 			justify-content: center;	
+			}
+
+		a,
+		button {
+			cursor: pointer;
 		}
 	}
 
-	a,
-	button {
-		cursor: pointer;
+	/* Submenu Styles */
+	ul {
+		min-width: 100%;
+		margin-top: .25em;
+		padding: 0;
+		list-style: none;
+		background-color: #eee;
+		border-radius: 3px;
+
+		/* Submenu Links */
+
+		a,
+		span {
+			display: block;
+			padding: .375em 1em;
+			white-space: nowrap;
+		}	
+
+		/* Responsive Submenu Behavior */
+		
+		&[aria-hidden="false"] {
+			position: static;
+			width: 100%;
+			flex: 0 0 auto;
+
+			@media (min-width: 540px) {
+				position: absolute;
+				width: auto;
+			}
+		}
 	}
 }
 
+
+/* Hidden SVG used for down arrows */
+svg[hidden] {
+	display: none;
+	position: absolute;
+}
 
 /* Icon */
 .clicky-menu svg {
@@ -68,43 +99,4 @@
 	transform: scaleY(-1);
 }
 
-/* Submenu Styles */
-.clicky-menu ul {
-	min-width: 100%;
-	width: 12em;
-	margin-top: .25em;
-	padding: 0;
-	list-style: none;
-	background-color: #eee;
-	border-radius: 3px;
-}
 
-/* Responsive Submenu Behavior */
-.clicky-menu ul[aria-hidden="false"] {
-	position: static;
-	width: 100%;
-	flex: 0 0 auto;
-}
-
-@media (min-width: 540px) {
-	.clicky-menu ul[aria-hidden="false"] {
-		position: absolute;
-		width: auto;
-	}
-}
-
-/* Submenu Links */
-.clicky-menu ul {
-
-	a,
-	span {
-		display: block;
-		padding-top: .375em;
-		padding-bottom: .375em;
-
-		@media (min-width: 540px) {
-			padding: .375em 1em;
-			white-space: nowrap;
-		}
-	}	
-}

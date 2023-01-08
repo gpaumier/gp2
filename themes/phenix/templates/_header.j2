@@ -2,7 +2,7 @@
   <p id="site-name">
     <a href="{{ abs_link(_link("root", None, lang)) }}" title="{{ blog_title|e }}" rel="home">{{ blog_title|e }}</a>
   </p>
-  <nav id="languages">
+  <nav id="languages" aria-label="Language selector">
 	  <ul class="clicky-menu no-js">
 		  <li>
       <a href="#" id="current-language">{{ messages("LANGUAGE", lang) }}</a>
