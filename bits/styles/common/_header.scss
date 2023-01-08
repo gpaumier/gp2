@@ -9,7 +9,6 @@
   a {
     text-decoration: none;
   }
-  
 
   // border separator between site name and language navigation
 
@@ -28,16 +27,31 @@
   }
 }
 
+// Site name
+
 #site-name {
-  grid-column: extended-main-content;
+  grid-column: main-content;
   align-self: center;
   grid-row: 1/2;
   justify-self: start;
 
-  ::before {
-    content: '🦉 ';
+  display: flex;
+  flex-direction: row;
+  column-gap: .5rem;
+}
+
+#site-name-first-initial {
+  @media screen and (min-width: $breakpoint-small) {
+    display: none;
   }
 }
+#site-name-first {
+  @media screen and (max-width: $breakpoint-small) {
+    display: none;
+  }
+}
+
+// Language selector
 
 #languages {
   grid-column: side-content;
@@ -51,23 +65,22 @@
 }
 
 #current-language {
-
   display: flex;
   flex-direction: row;
   column-gap: .5rem;
+}
   
-  #language-selector-icon {
-    height: 1.7rem;
-    width: 1.7rem;
-    margin-top: .4rem;
-    opacity: 0.67;
-  }
-  
-  #language-selector-caret {
-    height: 1rem;
-    width: 1rem;
-    margin-top: .7rem;
-  }
+#language-selector-icon {
+  height: 1.7rem;
+  width: 1.7rem;
+  margin-top: .4rem;
+  opacity: 0.67;
+}
+
+#language-selector-caret {
+  height: 1rem;
+  width: 1rem;
+  margin-top: .7rem;
 }
 
 #language-selector-current-language {

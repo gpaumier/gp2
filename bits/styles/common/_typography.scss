@@ -133,8 +133,16 @@ tbody p{
 
 // Custom font styles
 
-#languages {
+#site-name {
+  @extend %phenix-sans;
+  @extend %large-font-size;
+}
 
+#site-name-last {
+  @extend %phenix-sans-bold;
+}
+
+#languages {
   @extend %phenix-sans;
 
   em {

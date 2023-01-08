@@ -1,6 +1,11 @@
 <header id="masthead">
   <p id="site-name">
-    <a href="{{ abs_link(_link("root", None, lang)) }}" title="{{ blog_title|e }}" rel="home">{{ blog_title|e }}</a>
+    <a href="{{ abs_link(_link("root", None, lang)) }}" title="{{ blog_title|e }}" rel="home">
+      <span id="site-logo" aria-hidden="true">🦉</span>
+      <span id="site-name-first-initial">{{ messages('site_name_first_initial') }}</span>
+      <span id="site-name-first">{{ messages('site_name_first') }}</span>
+      <span id="site-name-last">{{ messages('site_name_last') }}</span>
+    </a>
   </p>
   <nav id="languages" aria-label="Language selector">
 	  <ul class="clicky-menu no-js">
