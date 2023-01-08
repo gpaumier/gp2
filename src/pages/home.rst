@@ -1,5 +1,5 @@
 .. title: Homepage
-.. subtitle: I'm an expert at untangling things and weaving them back in ways that make sense.
+.. subtitle: I'm an expert at untangling things and weaving them in ways that make sense.
 .. h1-override: Hi, I'm Guillaume.
 .. slug: index
 .. template: page_hero.j2
@@ -13,7 +13,7 @@
 
 .. highlights::
 
-   Hi there; I'm Guillaume Paumier.\ [#pronunciation]_ In my work, I focus on bringing clarity to complex social and technical problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process.\ [#Wikimedia2030]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [#PNIPAM]_ Or designing software that powers the World's largest photography competition.
+   Hi there; I'm Guillaume Paumier.\ [#pronunciation]_ In my work, I focus on bringing clarity to complex social and technical problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process.\ [#Wikimedia2030]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [#PNIPAM]_ Or designing software that powers the world's largest photography competition.
 
    I think a lot about knowledge, time, and power. I have also developed a specialty of serving as a trusted agent, confidant, and thought partner for executives. I currently work at the Wikimedia Foundation, the nonprofit organization that brings free knowledge to hundreds of millions of people every month, and supports them as they collectively make sense of our world.
 
@@ -58,6 +58,8 @@ I communicate from a place of curiosity: I ask lots of questions to learn more a
 
 .. [#CreatingGreatChoices] This process comes naturally to me, but Roger Martin and Jennifer Riel refer to it as "integrative thinking" in their 2017 book, *Creating Great Choices: A Leader's Guide to Integrative Thinking* (Harvard Business Review Press. ISBN 978-1633692961). Their work builds on Martin's earlier book, *The Opposable Mind*, which focused on leaders who "can hold two opposing ideas in their minds at once, and then reach a synthesis that actually improves on each." (Harvard Business Review Press, 2007. ISBN 978-1422118924).
 
+----
+
 Centering the human element
 ---------------------------
 
@@ -68,6 +70,8 @@ I feel compelled to use my skills for the common good, and I have a particular a
 .. sidebar::
 
    The "`veil of ignorance <https://en.wikipedia.org/wiki/Original_position>`__" approach (also called "original position") formulated by Rawls invites us to make decisions about the basic structure of society from "behind the veil," meaning as if you had no knowledge of the ethnicity, social status, gender, or other characteristics you will find yourself with in that society.
+
+----
 
 Seeing different perspectives
 -----------------------------
@@ -127,9 +131,8 @@ My most recent work at the Wikimedia Foundation has focused on long-term thinkin
 Science & Engineering
 =====================
 
-.. figure:: /images/soroush-zargar-zFSUhqGual8-unsplash.jpg
-
-   `Soroush Zargar <https://unsplash.com/@soroushzargar>`__ on `Unsplash <https://unsplash.com/photos/zFSUhqGual8>`__
+.. figure:: /images/Presse_Marinoni_8863_banner.jpg
+   :alt: Close-up on the gears of Marinoni's printing machine
 
 As an engineer and physicist by training, I have always been fascinated by how things work. Before joining Wikimedia, I worked at the crossroads of microelectronics, chemistry, and biology, and developed miniaturized systems such as antibody biochips and labs on a chip.
 
@@ -137,7 +140,7 @@ Way back when, I initially studied Mathematics and Computer Science before turni
 
 During my time at CEA-Léti, I developed :doc:`chemical processes for biochips <biochips>`, and adapted a capillary-based immunoassay to a planar microarray. I also pioneered a vapor-phase silanization protocol for use in peptide digestion microsystems.
 
-.. class:: rowstart-4 rowspan-2
+.. class:: rowstart-3 rowspan-2
 .. sidebar::
 
    .. figure:: /images/Biochips_236-29_532s.jpg
