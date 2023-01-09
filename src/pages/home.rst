@@ -14,11 +14,11 @@
 
 .. highlights::
 
-   Hi there; I'm Guillaume Paumier.\ [#pronunciation]_ In my work, I focus on bringing clarity to complex social and technical problems, like leading a global movement of 70,000+ volunteers through a collaborative strategy process.\ [#Wikimedia2030]_ Or developing bioanalysis microfluidic devices based on thermosensitive polymers.\ [#PNIPAM]_ Or designing software that powers the world's largest photography competition.
+   Hi there; I'm Guillaume Paumier.\ [#pronunciation]_ In my work, I focus on bringing clarity to complex social and technical problems, like when I led a global movement of 70,000+ volunteers through a collaborative strategy process.\ [#Wikimedia2030]_ Or when I developed bioanalysis microfluidic devices based on thermosensitive polymers.\ [#PNIPAM]_ Or when I designed software that powers the world's largest photography competition.
 
    I think a lot about knowledge, time, and power. I have also developed a specialty of serving as a trusted agent, confidant, and thought partner for executives. I currently work at the Wikimedia Foundation, the nonprofit organization that brings free knowledge to hundreds of millions of people every month, and supports them as they collectively make sense of our world.
 
-   Read on to learn more about my story, or :ref:`scroll down <footer-contact>` to contact me.
+   Read on to learn more about my story, or :ref:`skip ahead <footer-contact>` to contact me.
 
    .. class:: rowstart-1 rowspan-2 sidebar 
 
