@@ -4,7 +4,7 @@
 .. date: 2009-05-19 13:24:12
 .. tags: Photo
 
-Mon amie Adrienne racontait, il y a quelques semaines, que les bibliothèques de Toulouse n'avaient apparemment pas le droit d'inscrire dans leur programme papier la liste des films projetés dans le cadre d'une rétrospective thématique [#]_. Un peu dans le même genre, mais pas tout à fait, j'ai remarqué hier que la fnac Toulouse était « peu soigneuse » dans sa gestion du droit d'auteur sur ses prospectus, abusant allègrement de la mention « droits réservés ».
+Mon amie Adrienne racontait, il y a quelques semaines, que les bibliothèques de Toulouse n'avaient apparemment pas le droit d'inscrire dans leur programme papier la liste des films projetés dans le cadre d'une rétrospective thématique [#]_. Un peu dans le même genre, mais pas tout à fait, j'ai remarqué hier que la fnac Toulouse était « peu soigneuse » dans sa gestion du droit d'auteur sur ses prospectus, abusant allègrement de la mention « droits réservés ».
 
 .. [#] |hallucinantes|_, Adrienne Alix, compteurdedit, 23 mars 2009.
 
@@ -12,7 +12,7 @@ Mon amie Adrienne racontait, il y a quelques semaines, que les bibliothèques de
 
 .. _hallucinantes: http://compteurdedit.over-blog.com/article-29352955.html
 
-Droits réservés ou « D.R. »
+Droits réservés ou « D.R. »
 ===========================
 
 Dans le domaine de la publication, *Droits réservés* (ou *D.R.*) est une mention apposée à la place du crédit de l'auteur d'une œuvre orpheline [#]_, c'est à dire une œuvre dont il est impossible ou difficile d'identifier l'auteur. Si l'auteur est identifié par la suite, l'utilisateur doit alors l'indemniser et lui rendre la paternité de l'œuvre.
@@ -31,7 +31,7 @@ Bien qu'illégale au regard du Code de la Propriété Intellectuelle, l'utilisat
 
 .. _eolas: http://maitre-eolas.fr/2008/08/27/1060-eolas-crucifie
 
-Je reviens à mon prospectus de la fnac. Ce prospectus mensuel, intitulé « l'agenda forums » présente les activités organisées par la fnac telles que conférences, séances de dédicaces, mini-concerts, etc. Ce genre de rencontres m'intéresse tout particulièrement, car il permet de photographier des personnalités qui n'ont pas encore leur photo sur Wikipedia.
+Je reviens à mon prospectus de la fnac. Ce prospectus mensuel, intitulé « l'agenda forums » présente les activités organisées par la fnac telles que conférences, séances de dédicaces, mini-concerts, etc. Ce genre de rencontres m'intéresse tout particulièrement, car il permet de photographier des personnalités qui n'ont pas encore leur photo sur Wikipedia.
 
 .. class:: rowstart-2 rowspan-2
 .. sidebar::

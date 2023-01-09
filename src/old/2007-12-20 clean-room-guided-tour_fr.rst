@@ -28,7 +28,7 @@ Dès qu'un fichier multimédia est ajouté à Wikimedia Commons, il peut être u
     * Machines d'alignement sous lumière inactinique
     * Cuves de gravure
 
-Visitez la salle blanche en naviguant dans la catégorie « |commonscat|_ » sur Wikimedia Commons.
+Visitez la salle blanche en naviguant dans la catégorie « |commonscat|_ » sur Wikimedia Commons.
 
 .. |commonscat| replace:: *LAAS technological facility*
 .. _commonscat: http://commons.wikimedia.org/wiki/Category:LAAS_technological_facility

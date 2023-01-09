@@ -28,7 +28,7 @@ Pour rappel, cette consultation fait suite à la `proposition <http://wikimediaf
 GFDL 1.3
 ========
 
-Cette migration a été rendue possible grâce à la publication en novembre 2008 de la `version 1.3 de la GFDL <http://www.gnu.org/copyleft/fdl.html>`__, et notamment de sa clause spéciale de migration pour les « sites de collaboration massive multi-auteurs ». Cette nouvelle version a été publiée suite à la collaboration entre la Wikimedia Foundation et la Free Software Foundation [#]_.
+Cette migration a été rendue possible grâce à la publication en novembre 2008 de la `version 1.3 de la GFDL <http://www.gnu.org/copyleft/fdl.html>`__, et notamment de sa clause spéciale de migration pour les « sites de collaboration massive multi-auteurs ». Cette nouvelle version a été publiée suite à la collaboration entre la Wikimedia Foundation et la Free Software Foundation [#]_.
 
 En pratique
 ===========

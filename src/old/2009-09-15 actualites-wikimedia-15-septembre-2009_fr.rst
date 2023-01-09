@@ -30,9 +30,9 @@ L'objectif est de permettre une gestion plus facile des restaurations d'image et
 Xilopix
 =======
 
-TourMagazine.fr `annonce la naissance de Xilopix <http://www.tourmagazine.fr/Photos-partager-vos-souvenirs-de-vacances-sur-le-net,-ca-paie_a10455.html>`__, en le présentant comme le « Wikipedia de la photo » et « la première photothèque encyclopédique constituée par les internautes pour les internautes ». C'est bien entendu faux, puisque ce n'est pas le premier site de ce genre.
+TourMagazine.fr `annonce la naissance de Xilopix <http://www.tourmagazine.fr/Photos-partager-vos-souvenirs-de-vacances-sur-le-net,-ca-paie_a10455.html>`__, en le présentant comme le « Wikipedia de la photo » et « la première photothèque encyclopédique constituée par les internautes pour les internautes ». C'est bien entendu faux, puisque ce n'est pas le premier site de ce genre.
 
-Le « Wikipedia de la photo » existe déjà, et c'est d'ailleurs un projet lié à Wikipédia ; il s'agit de `Wikimedia Commons <http://commons.wikimedia.org>`__ ; il existe depuis 5 ans et contient plus de 5 millions de fichiers (photos, cartes, schémas, vidéos, sons...) librement réutilisables (sans avoir à payer). Tout internaute peut participer, et les images qui y sont ajoutées peuvent être directement ajoutées aux articles de Wikipedia.
+Le « Wikipedia de la photo » existe déjà, et c'est d'ailleurs un projet lié à Wikipédia ; il s'agit de `Wikimedia Commons <http://commons.wikimedia.org>`__ ; il existe depuis 5 ans et contient plus de 5 millions de fichiers (photos, cartes, schémas, vidéos, sons...) librement réutilisables (sans avoir à payer). Tout internaute peut participer, et les images qui y sont ajoutées peuvent être directement ajoutées aux articles de Wikipedia.
 
 
 Anh Đào Traxel et diffamation sur Wikipedia
@@ -46,13 +46,13 @@ La réaction typique de l'intéressée a été de demander la création d'une in
 *Wikipedia Journal*
 ===================
 
-Liam Wyatt, de Wikimedia Australia, `continue à tirer sur son blog les leçons <http://www.wittylama.com/2009/09/wikipedia-journal/>`__ de la récente conférence « `GLAM-WIKI <http://wikimedia.org.au/wiki/GLAM-WIKI>`__ », un évènement qui visait à rassembler, et faciliter la discussion et la collaboration entre le mouvement Wikimedia et les musées, bibliothèques et organisations similaires.
+Liam Wyatt, de Wikimedia Australia, `continue à tirer sur son blog les leçons <http://www.wittylama.com/2009/09/wikipedia-journal/>`__ de la récente conférence « `GLAM-WIKI <http://wikimedia.org.au/wiki/GLAM-WIKI>`__ », un évènement qui visait à rassembler, et faciliter la discussion et la collaboration entre le mouvement Wikimedia et les musées, bibliothèques et organisations similaires.
 
-L'un des points soulevés pendant la conférence est que la participation des chercheurs aux projets Wikimedia peut difficilement être valorisée selon les critères académiques habituels, en raison des propriétés intrinsèques des projets. Liam émet donc l'idée d'un « Wikipedia Journal », similaire aux revues scientifiques, qui permettrait aux chercheurs de valoriser leur participation.
+L'un des points soulevés pendant la conférence est que la participation des chercheurs aux projets Wikimedia peut difficilement être valorisée selon les critères académiques habituels, en raison des propriétés intrinsèques des projets. Liam émet donc l'idée d'un « Wikipedia Journal », similaire aux revues scientifiques, qui permettrait aux chercheurs de valoriser leur participation.
 
 
 Du neuf et du vieux, en vrac
 ============================
 
 -  Laurent Denis et Gilles Chagnon proposeront un `atelier sur l'accessibilité web de Wikipedia <http://blog.temesis.com/post/2009/09/14/Wikip%C3%A9dia-Accessible-C-est-possible-%3B-)>`__, à l'occasion de l'édition 2009 de la conférence annuelle de Paris-Web.
--  Quelques blogs francophones semblent redécouvrir `Wikirank <http://wikirank.com/en>`__ et `TrendingTopics <http://www.trendingtopics.org/>`__, deux sites indiquant les « sujets chauds » et « tendances » des articles de Wikipedia ; les deux projets reposent sur les mêmes données : les `journaux bruts <http://dammit.lt/wikistats/>`__ mis à disposition par Domas Mituzas.
+-  Quelques blogs francophones semblent redécouvrir `Wikirank <http://wikirank.com/en>`__ et `TrendingTopics <http://www.trendingtopics.org/>`__, deux sites indiquant les « sujets chauds » et « tendances » des articles de Wikipedia ; les deux projets reposent sur les mêmes données : les `journaux bruts <http://dammit.lt/wikistats/>`__ mis à disposition par Domas Mituzas.

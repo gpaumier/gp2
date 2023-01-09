@@ -38,7 +38,7 @@ J'apprécie la métacognition et la conscience de soi émotionnelle, car compren
 Intégrer des informations
 -------------------------
 
-Je suis capable d'absorber d'énormes quantités d'informations sur presque tous les sujets, et de comprendre rapidement de nouveaux paradigmes. Bien qu'ingénieur en physique au départ, j'ai occupé de nombreux rôles différents au fil des ans, ce qui m'a valu de la part de mes collègues des surnoms tels que « l'économiste », « le philosophe », ou encore  « l'âme de l'organisation ».
+Je suis capable d'absorber d'énormes quantités d'informations sur presque tous les sujets, et de comprendre rapidement de nouveaux paradigmes. Bien qu'ingénieur en physique au départ, j'ai occupé de nombreux rôles différents au fil des ans, ce qui m'a valu de la part de mes collègues des surnoms tels que « l'économiste », « le philosophe », ou encore  « l'âme de l'organisation ».
 
 .. [#Pretender] Un peu comme le personnage principal, Jarod, dans la série |The Pretender|_ de la trilogie du samedi sur M6, sauf que je suis un peu moins extraordinaire, et que je n'ai pas été enlevé puis poursuivi par une organisation secrète aux buts néfastes basée au Delaware.
 
@@ -46,9 +46,9 @@ Je suis capable d'absorber d'énormes quantités d'informations sur presque tous
 
 .. _The Pretender: https://fr.wikipedia.org/wiki/Le_Cam%C3%A9l%C3%A9on
 
-Je communique en faisant preuve de beaucoup de curiosité : je pose de nombreuses questions pour en savoir plus sur un problème, le déconstruire, et identifier les hypothèses sous-jacentes. Je cherche souvent à comprendre le « pourquoi » et j'essaie de corriger mes convictions si je reçois de nouvelles informations. Lorsque deux choix opposés ne sont pas satisfaisants, j'essaie d'en trouver un troisième.\ [#CreatingGreatChoices]_ Je suis rarement attaché à une réponse particulière, et je préfère plutôt résoudre un problème ensemble en utilisant la méthode socratique.
+Je communique en faisant preuve de beaucoup de curiosité : je pose de nombreuses questions pour en savoir plus sur un problème, le déconstruire, et identifier les hypothèses sous-jacentes. Je cherche souvent à comprendre le « pourquoi » et j'essaie de corriger mes convictions si je reçois de nouvelles informations. Lorsque deux choix opposés ne sont pas satisfaisants, j'essaie d'en trouver un troisième.\ [#CreatingGreatChoices]_ Je suis rarement attaché à une réponse particulière, et je préfère plutôt résoudre un problème ensemble en utilisant la méthode socratique.
 
-.. [#CreatingGreatChoices] Ce processus me vient naturellement, mais Roger Martin et Jennifer Riel l'appellent « pensée intégrative » dans leur livre de 2017, *Creating Great Choices : A Leader's Guide to Integrative Thinking* (Harvard Business Review Press. ISBN 978-1633692961). Leur travail s'appuie sur le livre précédent de Roger Martin, *The Opposable Mind*, qui décrit les personnes capables d'« avoir deux idées opposées en tête en même temps, puis de parvenir à une synthèse qui améliore réellement chacune d'elles. » (Harvard Business Review Press, 2007. ISBN 978-1422118924).
+.. [#CreatingGreatChoices] Ce processus me vient naturellement, mais Roger Martin et Jennifer Riel l'appellent « pensée intégrative » dans leur livre de 2017, *Creating Great Choices : A Leader's Guide to Integrative Thinking* (Harvard Business Review Press. ISBN 978-1633692961). Leur travail s'appuie sur le livre précédent de Roger Martin, *The Opposable Mind*, qui décrit les personnes capables d'« avoir deux idées opposées en tête en même temps, puis de parvenir à une synthèse qui améliore réellement chacune d'elles. » (Harvard Business Review Press, 2007. ISBN 978-1422118924).
 
 ----
 
@@ -57,11 +57,11 @@ Placer l'humain au centre du problème
 
 Très peu de problèmes sont purement techniques ; résoudre un problème implique souvent de comprendre les émotions humaines présentes dans la salle de réunions, ainsi que les préjugés cognitifs, les dynamique de pouvoir, le contexte historique, les privilèges, et les inégalités structurelles. Mon propre voyage de découverte de soi m'a appris à mieux prendre en compte la variété des expériences humaines subjectives. En particulier, lorsque nous résolvons des problèmes, il est essentiel d'accepter notre faillibilité humaine, de reconnaître nos échecs, et d'en tirer des leçons.
 
-Je ressens une obligation morale d'utiliser mes compétences pour le bien commun, et j'ai une affinité particulière avec les organisations à vocation sociale qui cherchent à transformer la société. Je trouve que l'approche du « voile d'ignorance » de John Rawls est un bon point de départ pour une théorie de la justice, notamment dans le contexte de la crise climatique. Je veux construire une société sociale équitable, juste, et pluraliste, et démanteler les systèmes d'oppression.
+Je ressens une obligation morale d'utiliser mes compétences pour le bien commun, et j'ai une affinité particulière avec les organisations à vocation sociale qui cherchent à transformer la société. Je trouve que l'approche du « voile d'ignorance » de John Rawls est un bon point de départ pour une théorie de la justice, notamment dans le contexte de la crise climatique. Je veux construire une société sociale équitable, juste, et pluraliste, et démanteler les systèmes d'oppression.
 
 .. sidebar::
 
-   L'approche du « `voile d'ignorance <https://fr.wikipedia.org/wiki/Position_originelle>`__ » (également appelée « position originelle ») formulée par John Rawls nous invite à prendre des décisions sur la structure de base de la société depuis « derrière le voile », c'est-à-dire comme si nous n'avions aucune information quant à notre ethnicité, notre statut social, notre genre, ou nos autres caractéristiques avec lesquelles nous nous retrouverons dans cette société.
+   L'approche du « `voile d'ignorance <https://fr.wikipedia.org/wiki/Position_originelle>`__ » (également appelée « position originelle ») formulée par John Rawls nous invite à prendre des décisions sur la structure de base de la société depuis « derrière le voile », c'est-à-dire comme si nous n'avions aucune information quant à notre ethnicité, notre statut social, notre genre, ou nos autres caractéristiques avec lesquelles nous nous retrouverons dans cette société.
 
 ----
 
@@ -104,9 +104,9 @@ J'ai rejoint la Wikimedia Foundation en 2009 et j'ai passé près de dix ans à 
 
       `Svenja Kirsch & Anna Lena Schiller <https://www.riesenspatz.de/>`__ sur `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_2018-20_Recommendation_13.svg>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-Plus tard, j'ai été l'architecte principal de « Wikimedia 2030 » ; dans ce rôle, j'ai guidé des dizaines d'organisations et des milliers d'individus à travers un processus global de stratégie et de construction de mouvement social. J'ai dirigé la synthèse de toutes les contributions, conversations, et rapports de recherche, et j'ai été l'auteur principal de la direction stratégique qui en a résulté : « l'équité du savoir, et la connaissance en tant que service ».
+Plus tard, j'ai été l'architecte principal de « Wikimedia 2030 » ; dans ce rôle, j'ai guidé des dizaines d'organisations et des milliers d'individus à travers un processus global de stratégie et de construction de mouvement social. J'ai dirigé la synthèse de toutes les contributions, conversations, et rapports de recherche, et j'ai été l'auteur principal de la direction stratégique qui en a résulté : « l'équité du savoir, et la connaissance en tant que service ».
 
-Plus récemment, mon travail à la Wikimedia Foundation a porté sur la réflexion à long terme, la stratégie, et les initiatives spéciales des dirigeants. Je joue également des rôles officieux en tant qu'historien de Wikimedia, de mentor, et de « conseiller-thérapeute de bord ».
+Plus récemment, mon travail à la Wikimedia Foundation a porté sur la réflexion à long terme, la stratégie, et les initiatives spéciales des dirigeants. Je joue également des rôles officieux en tant qu'historien de Wikimedia, de mentor, et de « conseiller-thérapeute de bord ».
 
 .. class:: continue-reading
 

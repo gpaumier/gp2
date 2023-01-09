@@ -11,7 +11,7 @@
 
 J'aime beaucoup les foires à la brocante ; je n'y achète jamais rien, mais j'aime m'y promener car on y trouve plein de vieux objets, parfois juxtaposés de façon absurde ou amusante, comme c'est le cas dans cette image. J'aime aussi la composition et la complémentarité des couleurs de cette photo.
 
-Le livre sous le crâne est le premier volume de |evolution|_ : *étude biologique, psychologique et sociologique de l'homme*, un ouvrage en quatre volumes publié il y a 60 ans. Quant au crâne, j'ai décidé de le baptiser `Charles <https://fr.wikipedia.org/wiki/Charles_Darwin>`__, ou plus exactement « Tcharles » avec l'accent anglais.
+Le livre sous le crâne est le premier volume de |evolution|_ : *étude biologique, psychologique et sociologique de l'homme*, un ouvrage en quatre volumes publié il y a 60 ans. Quant au crâne, j'ai décidé de le baptiser `Charles <https://fr.wikipedia.org/wiki/Charles_Darwin>`__, ou plus exactement « Tcharles » avec l'accent anglais.
 
 
 .. |evolution| replace:: *L'évolution humaine des origines à nos jours:*

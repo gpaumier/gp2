@@ -16,7 +16,7 @@ How it began
 
 The first time I heard about facebook was at Wikimania, in Taipei, in Summer 2007. My friend `Delphine <http://blog.notanendive.org>`__ was telling me how wonderful it was, because you could use it to centralize your other sharing platforms like your personal blog, twitter (microblogging), flickr (photos), etc.
 
-At first, I was really skeptical, because I didn't see the point. I was like « I don't need yet another social site to update and check ». A few months later, `I caved and joined <http://www.facebook.com/gpaumier>`__.
+At first, I was really skeptical, because I didn't see the point. I was like « I don't need yet another social site to update and check ». A few months later, `I caved and joined <http://www.facebook.com/gpaumier>`__.
 
 It's hard for me to clearly remember my first steps on facebook, because I've become an avid user since then. I do remember, though, I've never really been fond of the games, quizzes and other farmvilles.
 
@@ -32,7 +32,7 @@ My use of facebook has also been influenced by my liberal "friendship policy." A
 
 As a consequence, I've been using facebook as a microblogging platform. Like `twitter <http://twitter.com/gpaumier>`__ or `identica <http://identi.ca/gpaumier>`__, but with many more people, some of them being old acquaintances who would never join twitter.
 
-I knew anything I would put on facebook could end up being seen by people I didn't know that well. I also knew not all my « friends » were as computer-, Internet-literate and privacy-aware as me. I knew they could, at any time, inadvertently disclose information and content I was sharing with them. So I've been cautious about what I've been disclosing over the years.
+I knew anything I would put on facebook could end up being seen by people I didn't know that well. I also knew not all my « friends » were as computer-, Internet-literate and privacy-aware as me. I knew they could, at any time, inadvertently disclose information and content I was sharing with them. So I've been cautious about what I've been disclosing over the years.
 
 
 Protect your own privacy

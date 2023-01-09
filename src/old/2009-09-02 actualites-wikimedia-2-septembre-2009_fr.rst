@@ -6,7 +6,7 @@
 
 .. highlights::
 
-    Je me suis récemment rendu compte qu'une large part de la communauté wikimédienne francophone n'était pas réellement au courant des derniers développements plus « internationaux » du mouvement Wikimedia. J'ai donc décidé de lancer une nouvelle rubrique « Actualités Wikimedia » pour combler cette lacune, un peu à la manière des articles « En vrac » du `standblog <http://standblog.org/blog/>`__.
+    Je me suis récemment rendu compte qu'une large part de la communauté wikimédienne francophone n'était pas réellement au courant des derniers développements plus « internationaux » du mouvement Wikimedia. J'ai donc décidé de lancer une nouvelle rubrique « Actualités Wikimedia » pour combler cette lacune, un peu à la manière des articles « En vrac » du `standblog <http://standblog.org/blog/>`__.
 
 
 Wikimania 2009
@@ -17,11 +17,11 @@ La semaine dernière, j'étais à Buenos Aires à l'occasion de `Wikimania 2009 
 *Flagged revisions* sur Wikipedia en anglais
 ============================================
 
-Vous avez peut-être récemment lu ou entendu que Wikipedia allait subir un « énorme changement », mettre en place un nouveau système de « modération », dont « l'équipe experte » serait « désormais chargée d'avaliser les changements ». Comme d'habitude, la blogosphère et les sites d'actualités en ligne cherchent à faire du sensationnel et n'hésitent pas, pour ça, à `se recopier les uns les autres <http://guillaumepaumier.com/fr/2009/06/28/consanguinite-bloguesque-ou-le-phenomene-de-reblogging/>`__ en ajoutant à chaque copie davantage d'âneries.
+Vous avez peut-être récemment lu ou entendu que Wikipedia allait subir un « énorme changement », mettre en place un nouveau système de « modération », dont « l'équipe experte » serait « désormais chargée d'avaliser les changements ». Comme d'habitude, la blogosphère et les sites d'actualités en ligne cherchent à faire du sensationnel et n'hésitent pas, pour ça, à `se recopier les uns les autres <http://guillaumepaumier.com/fr/2009/06/28/consanguinite-bloguesque-ou-le-phenomene-de-reblogging/>`__ en ajoutant à chaque copie davantage d'âneries.
 
-Wikipedia ne sera pas « validée », ne « change [pas] de modèle » et n'« encadre » rien du tout. Ce n'est pas un « système de modération », et Wikipédia ne va pas « surveiller » davantage que ce n'est le cas actuellement.
+Wikipedia ne sera pas « validée », ne « change [pas] de modèle » et n'« encadre » rien du tout. Ce n'est pas un « système de modération », et Wikipédia ne va pas « surveiller » davantage que ce n'est le cas actuellement.
 
-La communauté de Wikipedia en anglais a fait une `proposition <http://en.wikipedia.org/wiki/Wikipedia:Flagged_protection_and_patrolled_revisions>`__ concernant l'activation du système « *FlaggedRevisions* » sur une partie des biographies de personnes vivantes. L'objectif est double : d'une part, réduire le risque qu'un lecteur lise une version récemment « vandalisée » ; d'autre part, permettre à tous de modifier tous les articles : actuellement, les articles les plus sujets au vandalisme doivent être complètement protégés. Avec le système de *FlaggedRevisions*, il sera possible de les rendre modifiables par tous, mais les changements ne seront pas obligatoirement visibles aussitôt.
+La communauté de Wikipedia en anglais a fait une `proposition <http://en.wikipedia.org/wiki/Wikipedia:Flagged_protection_and_patrolled_revisions>`__ concernant l'activation du système « *FlaggedRevisions* » sur une partie des biographies de personnes vivantes. L'objectif est double : d'une part, réduire le risque qu'un lecteur lise une version récemment « vandalisée » ; d'autre part, permettre à tous de modifier tous les articles : actuellement, les articles les plus sujets au vandalisme doivent être complètement protégés. Avec le système de *FlaggedRevisions*, il sera possible de les rendre modifiables par tous, mais les changements ne seront pas obligatoirement visibles aussitôt.
 
 -  |nyt|_
 -  `Mise au point d'Erik Möller sur le blog de la Wikimedia Foundation <http://blog.wikimedia.org/2009/08/26/a-quick-update-on-flagged-revisions/>`__
@@ -35,11 +35,11 @@ La communauté de Wikipedia en anglais a fait une `proposition <http://en.wikipe
 WikiTrust
 =========
 
-La blogosphère s'est également enflammée, ces derniers jours, à propos d'un nouveau système appelé WikiTrust, qui serait installé « à l'automne » afin d'indiquer par un « code couleur » le « contenu fiable » de Wikipedia.
+La blogosphère s'est également enflammée, ces derniers jours, à propos d'un nouveau système appelé WikiTrust, qui serait installé « à l'automne » afin d'indiquer par un « code couleur » le « contenu fiable » de Wikipedia.
 
-Contrairement aux rumeurs, aucun « responsable » de Wikipédia n'a rien annoncé. Wikipedia ne va pas « évaluer la pertinence des contenus » ou « préciser la fiabilité de ses articles » ; il s'agit d'une vérification automatique faite par un logiciel externe. « WikiTrust » est le nom donné par les universitaires à leur projet ; il ne s'agit pas d'un nom officiel donné par Wikipedia.
+Contrairement aux rumeurs, aucun « responsable » de Wikipédia n'a rien annoncé. Wikipedia ne va pas « évaluer la pertinence des contenus » ou « préciser la fiabilité de ses articles » ; il s'agit d'une vérification automatique faite par un logiciel externe. « WikiTrust » est le nom donné par les universitaires à leur projet ; il ne s'agit pas d'un nom officiel donné par Wikipedia.
 
-Pour finir, l'installation de cette extension n'est pas prévue « pour l'automne » ; elle n'est pas prévue du tout pour le moment, d'ailleurs. Cet outil intéresse la communauté de Wikimedia et la Wikimedia Foundation, comme de nombreux autres outils ; aucune priorité n'est donnée aux travaux de Luca de Alfaro ; il est certes en discussion avec l'équipe technique de la Foundation, mais c'est le cas de centaines d'autres développeurs.
+Pour finir, l'installation de cette extension n'est pas prévue « pour l'automne » ; elle n'est pas prévue du tout pour le moment, d'ailleurs. Cet outil intéresse la communauté de Wikimedia et la Wikimedia Foundation, comme de nombreux autres outils ; aucune priorité n'est donnée aux travaux de Luca de Alfaro ; il est certes en discussion avec l'équipe technique de la Foundation, mais c'est le cas de centaines d'autres développeurs.
 
 -  `Article original dans Wired <http://www.wired.com/wiredscience/2009/08/wikitrust/>`__ (avec un rectificatif de la Wikimedia Foundation à la fin)
 -  `Page du projet WikiTrust <http://wikitrust.soe.ucsc.edu>`__

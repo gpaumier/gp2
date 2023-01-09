@@ -15,6 +15,6 @@ Lors de mes visites à l'étranger, je n'ai pas trop de mal à m'orienter, car l
 
 La première raison qui me vient à l'esprit est le protectionnisme linguistique français. Pour un Français, il est impensable qu'un grand film en *prime time* soit diffusé en version originale : il sera doublé en français. Les Néerlandais, en revanche, sont habitués à visionner la plupart de leurs films en version originale.
 
-Toujours est-il que je m'attendrais à trouver à Toulouse des indications et signalétiques en anglais *(lingua franca)*, en espagnol (en raison de la proximité géographique) et éventuellement en allemand. En ce qui concerne les annonces dans le métro, il n'est pas possible de traduire ; en revanche, la signalétique pourrait être « internationalisée » afin de faciliter l'orientation des touristes et visiteurs étrangers.
+Toujours est-il que je m'attendrais à trouver à Toulouse des indications et signalétiques en anglais *(lingua franca)*, en espagnol (en raison de la proximité géographique) et éventuellement en allemand. En ce qui concerne les annonces dans le métro, il n'est pas possible de traduire ; en revanche, la signalétique pourrait être « internationalisée » afin de faciliter l'orientation des touristes et visiteurs étrangers.
 
-Les annonces en occitan donnent une touche « couleur locale ». Cependant, il est dommage qu'une telle initiative ait lieu, et que l'on continue à négliger les autres langues dans la signalétique et les panneaux d'information.
+Les annonces en occitan donnent une touche « couleur locale ». Cependant, il est dommage qu'une telle initiative ait lieu, et que l'on continue à négliger les autres langues dans la signalétique et les panneaux d'information.

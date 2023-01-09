@@ -1,4 +1,4 @@
-.. title: « Open Advice » : un livre sur l'expérience accumulée par la communauté du libre
+.. title: « Open Advice » : un livre sur l'expérience accumulée par la communauté du libre
 .. category: articles-fr
 .. slug: open-advice-livre
 .. date: 2012-02-06 12:24:23
@@ -8,7 +8,7 @@
 
 .. highlights::
 
-    Le livre *Open Advice* (dont le titre pourrait être traduit par « Conseils libres ») est un recueil d'essais et de retours d'expérience compilés par la communauté du logiciel libre. Il est maintenant officiellement disponible, et contient notamment un chapitre que j'ai écrit sur l'ergonomie logicielle.
+    Le livre *Open Advice* (dont le titre pourrait être traduit par « Conseils libres ») est un recueil d'essais et de retours d'expérience compilés par la communauté du logiciel libre. Il est maintenant officiellement disponible, et contient notamment un chapitre que j'ai écrit sur l'ergonomie logicielle.
 
 .. class:: rowspan-6
 .. sidebar::
@@ -27,7 +27,7 @@
 
 Un an et 380 pages après le premier e-mail échangé, le livre est maintenant disponible, et tente de répondre à la question : *Avec le recul, qu'auriez-vous voulu savoir quand vous avez commencé à contribuer à la communauté du libre ?*
 
-Les auteurs proposent des réponses à cette question sur des sujets aussi variés que « Comment écrire un patch », « la documentation pour les nouveaux », les modèles d'entreprise du libre, l'organisation de conférences, la traduction, le design, etc.
+Les auteurs proposent des réponses à cette question sur des sujets aussi variés que « Comment écrire un patch », « la documentation pour les nouveaux », les modèles d'entreprise du libre, l'organisation de conférences, la traduction, le design, etc.
 
 J'ai contribué à la rédaction du livre avec un chapitre consacré à l'expérience utilisateur et les tests d'ergonomie. D'autres membres de la communauté Wikimedia, tels qu'Evan Prodromou, Markus Krötzsch et Felipe Ortega, ont également participé au livre. Plus d'informations sur le livre et les auteurs sont disponibles sur le `site web du livre <http://open-advice.org>`__.
 

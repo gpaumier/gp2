@@ -16,7 +16,7 @@
     Aperçu de la thèse. Cliquez pour télécharger la thèse au format PDF (130 p., 6,45 Mo)
 
 
-Ce document, fruit de trois ans de travail de recherche, est intitulé *Technologies PNIPAM pour les laboratoires sur puce*. Il contient notamment de jolies images dont j'ai donné un aperçu précédemment avec l'`infographie « Interdisciplinarité, biologie et micro-nanotechnologies » <http://guillaumepaumier.com/fr/2008/07/08/interdisciplinarite-biologie-et-micro-nanotechnologies/>`__.
+Ce document, fruit de trois ans de travail de recherche, est intitulé *Technologies PNIPAM pour les laboratoires sur puce*. Il contient notamment de jolies images dont j'ai donné un aperçu précédemment avec l'`infographie « Interdisciplinarité, biologie et micro-nanotechnologies » <http://guillaumepaumier.com/fr/2008/07/08/interdisciplinarite-biologie-et-micro-nanotechnologies/>`__.
 
 Résumé
 ======

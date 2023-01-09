@@ -5,7 +5,7 @@
 .. tags: Wikimedia
 
 
-La dernière perle en date nous est offerte par Mlle Anne, surnommée « lhumeurbleue » sur le forum de ecrans.fr, pour un magnifique aveu d'abandon de son sens critique ; et sans complexes, s'il vous plaît, m'sieurs dames.
+La dernière perle en date nous est offerte par Mlle Anne, surnommée « lhumeurbleue » sur le forum de ecrans.fr, pour un magnifique aveu d'abandon de son sens critique ; et sans complexes, s'il vous plaît, m'sieurs dames.
 
 
 L'article
@@ -34,9 +34,9 @@ Là, j'applaudis des deux pieds. Mlle Anne nous explique que Wikipedia n'est pas
 
 -  Ne pas se contenter d'une source unique ; encore moins d'une encyclopédie, qui est un bon point de départ mais qui ne suffit pas pour une recherche approfondie.
 -  Croiser les sources et confronter les informations.
--  *Ne pas laisser son cerveau au vestiaire sous prétexte qu'une source est « validée »*, sgrogneugneu.
+-  *Ne pas laisser son cerveau au vestiaire sous prétexte qu'une source est « validée »*, sgrogneugneu.
 
-À toutes les Mlles Anne qui m'écoutent, si vous préférez utiliser Universalis plutôt que Wikipedia, c'est votre droit et je le respecte. Mais par pitié,  n'abandonnez pas votre sens critique sous prétexte qu'on vous sert de la connaissance « vérifiée », « certifiée », « validée » par des experts, ou que sais-je encore.  Les erreurs sont partout, autant dans Wikipedia que dans Universalis ou le journal de 20h.
+À toutes les Mlles Anne qui m'écoutent, si vous préférez utiliser Universalis plutôt que Wikipedia, c'est votre droit et je le respecte. Mais par pitié,  n'abandonnez pas votre sens critique sous prétexte qu'on vous sert de la connaissance « vérifiée », « certifiée », « validée » par des experts, ou que sais-je encore.  Les erreurs sont partout, autant dans Wikipedia que dans Universalis ou le journal de 20h.
 
 Croire quelqu'un sur parole sous prétexte que c'est un expert est certes une solution de facilité ; ça n'en reste pas moins stupide.
 

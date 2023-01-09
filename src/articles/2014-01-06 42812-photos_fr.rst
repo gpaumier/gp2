@@ -9,7 +9,7 @@
 
 .. highlights::
 
-    42 812. C'est le nombre de fichiers qui résident actuellement dans mon dossier « photos ». Ces images représentent le résultat de sept années de photographie, sur trois continents, et sont témoins de l'évolution au fil des ans de mes goûts, mon degré d'expérience et mon matériel. Cette mosaïque marque l'inauguration de la partie « galerie » de ce site, où je vais partager les photos que j'aime le plus.
+    42 812. C'est le nombre de fichiers qui résident actuellement dans mon dossier « photos ». Ces images représentent le résultat de sept années de photographie, sur trois continents, et sont témoins de l'évolution au fil des ans de mes goûts, mon degré d'expérience et mon matériel. Cette mosaïque marque l'inauguration de la partie « galerie » de ce site, où je vais partager les photos que j'aime le plus.
 
 
 Pour être honnête, un grand nombre de photos qui occupent mon disque dur sont similaires. Je prends souvent des séries de photos quasi identiques afin d'augmenter la probabilité qu'il y en aura au moins une d'acceptable dans le lot. C'est notamment le cas, par exemple, lorsque je prends des photos dans un endroit peu éclairé, ou lorsque je photographie un sujet en mouvement, que ce soit un avion qui voltige, un écureuil qui court ou un politicien qui discourt. Il y a aussi de réels doublons dus à des conversions de format.
@@ -24,7 +24,7 @@ Pour inaugurer cette galerie, il m'a semblé approprié de commencer avec un éc
    :figclass: full-content
    :alt: Photomosaïque montrant des "Painted Ladies"
 
-La mosaïque ci-dessus montre les « `Painted Ladies <https://fr.wikipedia.org/wiki/Painted_Ladies>`__ » (littéralement, les « Dames Peintes », en anglais), de célèbres maisons victoriennes situées ici près d'Alamo Square, à San Francisco. L'image est composée de 22 059 photos, piochées automatiquement par un programme parmi les 42 812. J'ai utilisé l'excellent logiciel (libre) `Metapixel <http://www.complang.tuwien.ac.at/schani/metapixel/>`__ afin de préparer les images et d'assembler la mosaïque. La photo d'origine, que j'ai prise en juin 2010, est ci-dessous pour comparaison.
+La mosaïque ci-dessus montre les « `Painted Ladies <https://fr.wikipedia.org/wiki/Painted_Ladies>`__ » (littéralement, les « Dames Peintes », en anglais), de célèbres maisons victoriennes situées ici près d'Alamo Square, à San Francisco. L'image est composée de 22 059 photos, piochées automatiquement par un programme parmi les 42 812. J'ai utilisé l'excellent logiciel (libre) `Metapixel <http://www.complang.tuwien.ac.at/schani/metapixel/>`__ afin de préparer les images et d'assembler la mosaïque. La photo d'origine, que j'ai prise en juin 2010, est ci-dessous pour comparaison.
 
 .. figure:: /images/2010-06-13_Original_Painted_Ladies_in_Alamo_Square.jpg
     :alt: Photograph of the Painted Ladies, 6 painted Victorian houses located at Alamo Square in San Francisco

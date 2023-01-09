@@ -25,7 +25,7 @@ Wikipedia en français définit un marronnier, en journalisme, comme :
 .. _marronnier: http://fr.wikipedia.org/wiki/Marronnier_(journalisme)
 
 
-Sur le bistro de Wikipedia, un « marronnier » est une « discussion éternelle », un sujet maintes fois discuté, qui resurgit régulièrement du fait de l'arrivée constante de nouveaux contributeurs.
+Sur le bistro de Wikipedia, un « marronnier » est une « discussion éternelle », un sujet maintes fois discuté, qui resurgit régulièrement du fait de l'arrivée constante de nouveaux contributeurs.
 
 Ces discussions sont souvent de grands moments de frustration : les contributeurs inexpérimentés cherchent énergiquement à comprendre, tandis que les contributeurs plus anciens manifestent leur exaspération et ne veulent pas prendre le temps de réexpliquer à nouveau les arguments.
 
@@ -44,7 +44,7 @@ J'ai compilé une liste de ces sujets ; ils sont donnés sans ordre particulier 
 
 -  Faut-il appliquer la réforme orthographique de 1990 ? Plus généralement, faut-il suivre les règles de l'Académie Française ? N'est-ce pas du francocentrage ?\ [#]_
 -  Pourquoi ne pas restreindre la création d'articles aux utilisateurs enregistrés ?
--  Pourquoi ne pas restreindre la modification des articles aux utilisateurs enregistrés ? Ou son homologue « Pourquoi ne pas (semi-)protéger telle catégorie d'articles ?\ [#]_
+-  Pourquoi ne pas restreindre la modification des articles aux utilisateurs enregistrés ? Ou son homologue « Pourquoi ne pas (semi-)protéger telle catégorie d'articles ?\ [#]_
 -  Quelle longueur un article doit-il avoir ?
 -  Les articles d'actualité sont-ils admissibles ? Doit-on attendre d'avoir suffisamment de recul pour les traiter ?
 -  Bandeaux : où les placer ? Quelle doit être leur apparence ? Sont-ils nécessaires ?
@@ -79,11 +79,11 @@ J'ai sélectionné quelques citations de participants à propos du phénomène d
 
 Plus généralement, j'ai apprécié cet échange entre deux participants (Poulpy et Ice Scream) sur le thème précis des marronniers :
 
-    « Ben si c'est un marronnier, c'est qu'une réponse adéquate n'a pas été apportée, ou ne l'a pas été de façon efficace. »
+    « Ben si c'est un marronnier, c'est qu'une réponse adéquate n'a pas été apportée, ou ne l'a pas été de façon efficace. »
 
-    « Non, c'est qu'il y a toujours une personne qui n'a pas suivi les autres discussions pour soulever cela. »
+    « Non, c'est qu'il y a toujours une personne qui n'a pas suivi les autres discussions pour soulever cela. »
 
-    « Les discussions sont paumées à l'intérieur du Bistro. Il faut être d'une mauvaise foi particulièrement retorse pour exiger que tout le monde se tape trois années d'archives avant de dire quelque chose. La question revient sur le tapis régulièrement. Il devrait donc y avoir une explication type à un endroit accessible. »
+    « Les discussions sont paumées à l'intérieur du Bistro. Il faut être d'une mauvaise foi particulièrement retorse pour exiger que tout le monde se tape trois années d'archives avant de dire quelque chose. La question revient sur le tapis régulièrement. Il devrait donc y avoir une explication type à un endroit accessible. »
 
     --- (`source <https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Le_Bistro/18_mars_2008#P.C3.A9nis>`__)
 
@@ -93,7 +93,7 @@ Je trouve cette dernière proposition particulièrement intéressante ; c'est d'
 Et chez nous voisins ?
 ======================
 
-Sur Wikipedia en anglais, les marronniers ont droit à une page dédiée, appelée |perennial proposals|_ (« propositions perpétuelles »). Certains sujets sont similaires à ceux de Wikipedia en français (orthographe américaine ou britannique, restriction des modifications aux utilisateurs enregistrés), d'autres pas (système de bienvenue automatique des nouveaux participants\ [#]_).
+Sur Wikipedia en anglais, les marronniers ont droit à une page dédiée, appelée |perennial proposals|_ (« propositions perpétuelles »). Certains sujets sont similaires à ceux de Wikipedia en français (orthographe américaine ou britannique, restriction des modifications aux utilisateurs enregistrés), d'autres pas (système de bienvenue automatique des nouveaux participants\ [#]_).
 
 .. |perennial proposals| replace:: *Perennial proposals*
 

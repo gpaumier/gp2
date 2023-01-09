@@ -41,7 +41,7 @@ Au fur et à mesure de mes recherches sur le sujet, de mes lectures de livres su
 
 Il a fallu un peu plus de temps (et quelques tests) pour obtenir une confirmation de la part d'experts. Même quand cette confirmation est arrivée, le doute était encore très présent auprès des membres de ma famille.
 
-La question qui revenait le plus souvent était la suivante : « Pourquoi n'a-t-on pas détecté ça plus tôt ? » En effet, l'autisme est généralement remarqué à un âge beaucoup plus jeune, et apparemment j'avais réussi à me déguiser, pendant la plus grande partie de ma vie, en « neurotypique », c'est à dire quelqu'un dont le cerveau fonctionne de façon similaire à la plupart des gens.
+La question qui revenait le plus souvent était la suivante : « Pourquoi n'a-t-on pas détecté ça plus tôt ? » En effet, l'autisme est généralement remarqué à un âge beaucoup plus jeune, et apparemment j'avais réussi à me déguiser, pendant la plus grande partie de ma vie, en « neurotypique », c'est à dire quelqu'un dont le cerveau fonctionne de façon similaire à la plupart des gens.
 
 L'hypothèse qui prévaut actuellement pour expliquer ce déguisement est basée sur un test de QI réalisé lors du processus d'évaluation. Ce test a suggéré que j'avais des capacités intellectuelles supérieures à la moyenne, qui me permettent apparemment de compenser en partie la différence de structure de mon cerveau.
 
@@ -51,7 +51,7 @@ Comme vous pouvez l'imaginer, se rendre compte à 31 ans que l'on est sur le spe
 
 Dans cet essai, je veux partager quelques unes des choses que j'ai apprises, et ma compréhension actuelle de la façon dont mon cerveau fonctionne. J'utiliserai notamment mes expériences de Wikimédien comme illustration.
 
-Je veux commencer avec une mise en garde : l'autisme est un spectre. Il y a un dicton populaire parmi les communautés d'autistes sur internet : « Vous avez rencontré un autiste, vous avez rencontré *un* autiste. » Ce que je décris ici est basé sur mon expérience personnelle, et n'est pas applicable de façon universelle à toutes les personnes autistes.
+Je veux commencer avec une mise en garde : l'autisme est un spectre. Il y a un dicton populaire parmi les communautés d'autistes sur internet : « Vous avez rencontré un autiste, vous avez rencontré *un* autiste. » Ce que je décris ici est basé sur mon expérience personnelle, et n'est pas applicable de façon universelle à toutes les personnes autistes.
 
 .. figure:: /images/2007-07-31_Taipei_Wm2007_Guillaume.jpg
 
@@ -77,7 +77,7 @@ Une bonne analogie pour aider à comprendre ce que ça fait d'être autiste dans
 
       Kirk et Spock. "`Leonard Nimoy William Shatner Star Trek 1968 <https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG>`_," by NBC Television, dans le domaine public, depuis Wikimedia Commons.
 
-Certains des moments les plus drôles de la série sont ses discussions animées avec l'irascible docteur McCoy, qui qualifie Spock d' « automate insensible » et d'« homme le plus dépourvu de sentiments qu'[il ait] jamais rencontré ». Ce à quoi Spock répond: « Oh, je vous remercie, docteur. »  [1]_
+Certains des moments les plus drôles de la série sont ses discussions animées avec l'irascible docteur McCoy, qui qualifie Spock d' « automate insensible » et d'« homme le plus dépourvu de sentiments qu'[il ait] jamais rencontré ». Ce à quoi Spock répond: « Oh, je vous remercie, docteur. »  [1]_
 
 En tant que Vulcain, Spock ne vit que par la logique. Bien qu'il ressente des émotions, elles sont profondément refoulées. Sa façon de parler est très détachée, presque clinique. Les collègues de Spock le trouvent souvent dédaigneux, dépourvu d'émotions, ou tout simplement malpoli, du fait de son point de vue logique et utilitariste.
 
@@ -125,20 +125,20 @@ Si l'on applique ce modèle à une conversation orale, on voit rapidement toutes
 
 .. [3] Tony Attwood. *Le guide complet pour le syndrome d'Asperger*. p.126
 
-Si cela est le cas pour les personnes neurotypiques (les gens avec un cerveau « typique »), imaginez combien cela peut être difficile pour les autistes comme moi. Une très bonne analogie est donnée dans le film *Imitation Game*, inspiré de la vie d'Alan Turing, qui est présenté dans le film comme appartenant au spectre autistique.
+Si cela est le cas pour les personnes neurotypiques (les gens avec un cerveau « typique »), imaginez combien cela peut être difficile pour les autistes comme moi. Une très bonne analogie est donnée dans le film *Imitation Game*, inspiré de la vie d'Alan Turing, qui est présenté dans le film comme appartenant au spectre autistique.
 
 .. class:: full-content
 .. figure:: /images/2015-07-21_imitation_game.png
 
    Photo extraite du film *Imitation Game*. © 2014 The Weinstein Company.
 
-Si l'on met de côté les critiques liées à la liberté artistique et la dramatisation, l'un de mes moments préférés dans le film est quand le jeune Alan discute avec son ami Christopher de messages codés. Christopher explique la cryptographie comme des « messages que tout le monde peut voir, mais dont personne ne sait ce qu'ils signifient, sauf si l'on a la clé. »
+Si l'on met de côté les critiques liées à la liberté artistique et la dramatisation, l'un de mes moments préférés dans le film est quand le jeune Alan discute avec son ami Christopher de messages codés. Christopher explique la cryptographie comme des « messages que tout le monde peut voir, mais dont personne ne sait ce qu'ils signifient, sauf si l'on a la clé. »
 
 Alan répond, très perplexe :
 
     En quoi est-ce différent d'une discussion ? [...] Quand les gens parlent entre eux, ils ne disent jamais ce qu'ils pensent, ils disent autre chose. Et on est censé comprendre exactement ce qu'ils veulent dire. Seulement, moi, je ne comprends jamais.
 
-Les personnes autistes sont caractérisées par de nombreuses spécificités, mais l'une des plus répandues est la cécité sociale : nous avons du mal à lire les émotions des autres. Nous manquons de « `Théorie de l'esprit <https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l%27esprit>`_ », qui sert aux personnes neurotypiques à déterminer les états mentaux (comme les croyances et les intentions) des autres. Nous prenons souvent les choses au premier degré, parce que les sous-entendus nous échappent: il est difficile pour nous de lire entre les lignes.
+Les personnes autistes sont caractérisées par de nombreuses spécificités, mais l'une des plus répandues est la cécité sociale : nous avons du mal à lire les émotions des autres. Nous manquons de « `Théorie de l'esprit <https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l%27esprit>`_ », qui sert aux personnes neurotypiques à déterminer les états mentaux (comme les croyances et les intentions) des autres. Nous prenons souvent les choses au premier degré, parce que les sous-entendus nous échappent: il est difficile pour nous de lire entre les lignes.
 
 Liane Holliday Willey, autiste, auteure et conférencière, l'explique ainsi :
 
@@ -151,11 +151,11 @@ Liane Holliday Willey, autiste, auteure et conférencière, l'explique ainsi :
 Comment ça va ?
 ===============
 
-Dans beaucoup de langues, il existe une expression usuelle pour demander à quelqu'un comment il va, que ce soit « Comment ça va ? » en français, « *How are you?* » en anglais, ou « *Wie geht's?* » en allemand.
+Dans beaucoup de langues, il existe une expression usuelle pour demander à quelqu'un comment il va, que ce soit « Comment ça va ? » en français, « *How are you?* » en anglais, ou « *Wie geht's?* » en allemand.
 
-Quand je suis arrivé aux États-Unis, chaque fois que quelqu'un me demandais en anglais: « *How are you?* » (« Comment ça va ? »), je devais faire une pause de quelques secondes pour réfléchir à la réponse. Depuis, j'ai appris que c'est une expression phatique, une question rhétorique. Si l'on me pose cette question, je donne désormais la réponse attendue : « *Great, how are you?* » (« Très bien, et toi, comment ça va ? »). Mon cerveau n'a besoin que de quelques millisecondes pour court-circuiter le processus de question-réponse. Mais si les gens dévient de cette salutation habituelle, ce raccourci mental ne fonctionne plus.
+Quand je suis arrivé aux États-Unis, chaque fois que quelqu'un me demandais en anglais: « *How are you?* » (« Comment ça va ? »), je devais faire une pause de quelques secondes pour réfléchir à la réponse. Depuis, j'ai appris que c'est une expression phatique, une question rhétorique. Si l'on me pose cette question, je donne désormais la réponse attendue : « *Great, how are you?* » (« Très bien, et toi, comment ça va ? »). Mon cerveau n'a besoin que de quelques millisecondes pour court-circuiter le processus de question-réponse. Mais si les gens dévient de cette salutation habituelle, ce raccourci mental ne fonctionne plus.
 
-Il y a quelques semaines, quelqu'un de mon bureau m'a demandé: « *How is your world?* » (« Quoi de neuf dans ton univers ? »), et j'ai bloqué pendant quelques secondes. Afin de répondre à cette question, mon cerveau était en train de passer en revue tout ce qui se passait dans « mon univers » (et « mon univers » est immense !) ; après quelques secondes, je me suis rendu compte que j'avais seulement besoin de répondre « *Great, thank you!* » (« Super, merci ! »).
+Il y a quelques semaines, quelqu'un de mon bureau m'a demandé: « *How is your world?* » (« Quoi de neuf dans ton univers ? »), et j'ai bloqué pendant quelques secondes. Afin de répondre à cette question, mon cerveau était en train de passer en revue tout ce qui se passait dans « mon univers » (et « mon univers » est immense !) ; après quelques secondes, je me suis rendu compte que j'avais seulement besoin de répondre « *Great, thank you!* » (« Super, merci ! »).
 
 .. figure:: /images/2015-07-21_small_talk.png
 
@@ -178,7 +178,7 @@ La conséquence la plus commune que j'ai remarquée dans mon expérience, et dan
 
 Imaginez que nous sommes en train de nous parler en face à face. Vous ne me connaissez pas vraiment, mais j'ai l'air sympathique, donc vous commencez à parler de choses et d'autres. Je ne dis pas grand chose, et vous avez besoin de faire avancer la discussion, notamment lors des silences inconfortables. Quand je me mets à parler, c'est d'une façon très monotone, comme si je n'y accordais pas vraiment d'importance. Vous faites plus d'efforts, par exemple en me posant des questions, mais j'hésite, j'ai du mal à maintenir le contact visuel, et je détourne mon regard sans cesse, comme si j'essayais d'inventer une réponse de toutes pièces.
 
-Maintenant, voici ce qui est en train de se passer de mon point de vue : je suis en train de parler avec quelqu'un que je ne connais pas très bien, mais vous avez l'air sympathique. Je ne sais pas de quoi parler, alors je ne dis pas grand chose. Les petits silences ne me gênent pas : je suis content d'être en votre compagnie. Ce dont nous parlons ne m'émeut pas outre mesure, donc je parle très calmement. Vous me posez des questions, et il me faut bien entendu un certain temps pour réfléchir à la bonne réponse. Le « contact visuel » qu'on m'a enseigné à l'école me prend beaucoup de ressources mentales qui seraient bien mieux utilisées à penser à la réponse à votre question, donc de temps en temps je détourne mon regard pour mieux me concentrer.
+Maintenant, voici ce qui est en train de se passer de mon point de vue : je suis en train de parler avec quelqu'un que je ne connais pas très bien, mais vous avez l'air sympathique. Je ne sais pas de quoi parler, alors je ne dis pas grand chose. Les petits silences ne me gênent pas : je suis content d'être en votre compagnie. Ce dont nous parlons ne m'émeut pas outre mesure, donc je parle très calmement. Vous me posez des questions, et il me faut bien entendu un certain temps pour réfléchir à la bonne réponse. Le « contact visuel » qu'on m'a enseigné à l'école me prend beaucoup de ressources mentales qui seraient bien mieux utilisées à penser à la réponse à votre question, donc de temps en temps je détourne mon regard pour mieux me concentrer.
 
 Cet exemple illustre l'une des nombreuses situations dans lesquelles le filtre de perception de chaque personne crée une déconnexion complète entre les façons dont la situation est perçue de chaque côté.
 
@@ -192,7 +192,7 @@ Il y a aussi de nombreux obstacles professionnels associés au fait d'être sur 
 
 En gardant ça en tête, imaginez quelles sont les opportunités de carrière possibles pour quelqu'un qui ne sait pas mentir, quelqu'un pour qui faire de l'excellent travail compte beaucoup, mais qui ne s'inquiète pas de s'en attribuer le mérite, quelqu'un qui ne comprend pas les intrigues de bureau, qui non seulement fait des faux-pas sociaux et fâche ses collègues, mais en plus ne s'en rend même pas compte, quelqu'un qui est incapable de parler de la pluie et du beau temps. Imaginez cette personne, et quel genre de carrière elle peut avoir, même si elle est très bonne dans son travail.
 
-Les discussions occasionnelles avec les collègues et les connaissances sont généralement superficielles ; les enjeux des discussions autour de la machine à café sont faibles, ce qui fait que les gens sont plus enclins à pardonner les faux-pas. Par contre, les relations amicales sont une autre paire de manches, et pour la plus grande partie de ma vie, je n'ai pas vraiment eu d'amis (sauf si l'on utilise la définition de Facebook). La maladresse sociale est généralement tolérée, mais rarement recherchée. Elle n'est pas « cool ».
+Les discussions occasionnelles avec les collègues et les connaissances sont généralement superficielles ; les enjeux des discussions autour de la machine à café sont faibles, ce qui fait que les gens sont plus enclins à pardonner les faux-pas. Par contre, les relations amicales sont une autre paire de manches, et pour la plus grande partie de ma vie, je n'ai pas vraiment eu d'amis (sauf si l'on utilise la définition de Facebook). La maladresse sociale est généralement tolérée, mais rarement recherchée. Elle n'est pas « cool ».
 
 La plupart de ces problèmes surviennent parce qu'il est difficile pour les neurotypiques de savoir que la personne à qui ils sont en train de parler est différente. Spock lui, avait ses oreilles pointues pour signaler qu'il n'était pas humain. Si l'équipage de l'*Enterprise* l'a accepté en son sein, c'est en grande partie grâce aux relations qu'il a pu nouer avec ses compagnons de bord. Ces relations auraient sans doute été plus difficiles à établir si l'équipage n'avait pas su en quoi Spock était différent.
 
@@ -225,12 +225,12 @@ Un exemple majeur de communication en ligne à grande échelle est le mouvement 
    .. figure:: /images/2015-07-21_wikipedians_with_autism.png
       :figclass: framed-img
 
-      La catégorie « `Wikipédiens autistes <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_ » sur Wikipedia en anglais
+      La catégorie « `Wikipédiens autistes <https://en.wikipedia.org/wiki/Category:Wikipedians_with_autism>`_ » sur Wikipedia en anglais
 
 
 Par exemple, ma première modification, il y a dix ans, a été de corriger une faute d'orthographe. La deuxième, une faute de conjugaison. La troisième, une faute d'orthographe *et* une faute de conjugaison. C'est comme ça que mon voyage de Wikipédien a commencé.
 
-Les Wikipédiens vénèrent les citations, les références et la vérifiabilité ; les faits sont rois, et l'interprétation est taboue. Du moins tant que l'on reste dans l'espace principal. Dès que l'on quitte les articles encyclopédiques et que l'on s'aventure dans les pages de discussion et autres « bistros » Wikipédiens, ces exigences ne s'appliquent plus. Les discussions entre Wikipédiens regorgent d'opinions, d'exagérations, et de déclarations non sourcées.
+Les Wikipédiens vénèrent les citations, les références et la vérifiabilité ; les faits sont rois, et l'interprétation est taboue. Du moins tant que l'on reste dans l'espace principal. Dès que l'on quitte les articles encyclopédiques et que l'on s'aventure dans les pages de discussion et autres « bistros » Wikipédiens, ces exigences ne s'appliquent plus. Les discussions entre Wikipédiens regorgent d'opinions, d'exagérations, et de déclarations non sourcées.
 
 À tout ceci s'ajoutent les difficultés mentionnées plus tôt. En tant qu'autiste, il peut être difficile de lâcher prise au cours des débats et des disputes sur des sujets qui nous tiennent à cœur. On dit souvent que les personnes autistes manquent d'empathie, ce qui donne l'impression que nous sommes des robots dépourvus d'émotions. Cependant, il faut faire la différence entre la capacité à *lire les sentiments* de la personne en face de nous, et le fait d'*éprouver de la compassion* pour cette personne. Les personnes neurotypiques possèdent des neurones miroirs, qui leur font ressentir ce que la personne en face d'elles ressent ; les personnes autistes en possèdent beaucoup moins, ce qui signifie qu'elles ont besoin de scruter les signaux et d'essayer de comprendre ce que l'interlocuteur ressent. Elles n'en restent pas moins des personnes avec des émotions.
 
@@ -254,7 +254,7 @@ Steve Silberman, qui a écrit un livre sur l'histoire de l'autisme, explique le 
 
 .. _forgotten history: http://www.ted.com/talks/steve_silberman_the_forgotten_history_of_autism
 
-Malgré tout, être autiste a un coût, et parfois, lors de nos interactions, vous vous sentirez vexé. Parfois, vous vous sentirez frustrés. Et parfois, vous vous direz « Waouh, je n'aurais jamais pensé à faire ça comme ça ».
+Malgré tout, être autiste a un coût, et parfois, lors de nos interactions, vous vous sentirez vexé. Parfois, vous vous sentirez frustrés. Et parfois, vous vous direz « Waouh, je n'aurais jamais pensé à faire ça comme ça ».
 
 Comme je l'ai mentionné plus tôt, je pense que Spock n'a été en mesure de construire une relation avec ses collègues au fil du temps que parce qu'ils étaient au courant de sa différence, et qu'ils ont appris à la comprendre et à l'adopter. Spock a également beaucoup appris des humains en cours de route.
 

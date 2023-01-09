@@ -13,11 +13,11 @@ Ce mercredi, je participais à une réunion de l'équipe technique de la Wikimed
 
 Un incident de climatisation dans le `centre de traitement de données <http://fr.wikipedia.org/wiki/Centre_de_traitement_de_donn%C3%A9es>`__ d'Amsterdam a déclenché un mécanisme de protection des serveurs, qui se sont automatiquement arrêtés afin de se protéger de la chaleur. Le centre d'Amsterdam gère généralement le trafic des sites Wikimedia en Europe ; Wikimedia dispose de procédures automatiques afin de pallier rapidement ce type d'incident en redirigeant l'ensemble des requêtes européennes vers les serveurs situés en Floride.
 
-Ce processus de redirection est basé sur le `DNS <http://fr.wikipedia.org/wiki/Domain_Name_System>`__, c'est à dire le système qui fait le lien entre un nom de domaine (par exemple, « wikipedia.org ») et l'adresse IP de la machine qui l'héberge (par exemple, « 208.80.152.2 »). Malheureusement, ce système de redirection était défaillant au moment de l'incident de climatisation. L'équipe a rapidement identifié et corrigé le problème, mais c'était trop tard : l'erreur s'était propagée sur Internet dans les bases de données DNS.
+Ce processus de redirection est basé sur le `DNS <http://fr.wikipedia.org/wiki/Domain_Name_System>`__, c'est à dire le système qui fait le lien entre un nom de domaine (par exemple, « wikipedia.org ») et l'adresse IP de la machine qui l'héberge (par exemple, « 208.80.152.2 »). Malheureusement, ce système de redirection était défaillant au moment de l'incident de climatisation. L'équipe a rapidement identifié et corrigé le problème, mais c'était trop tard : l'erreur s'était propagée sur Internet dans les bases de données DNS.
 
 En tout et pour tout, l'incident de climatisation et l'incident de DNS interne n'ont duré que quelques minutes. Mais à cette chaîne d'incidents s'est ajouté un autre problème : les bases de données DNS sur le web ont conservé les valeurs erronées trop longtemps, malgré les consignes des serveurs de Wikimedia, qui indiquaient qu'elles devaient être corrigées rapidement. Ainsi, les utilisateurs ne pouvaient pas accéder à Wikipedia, même si Wikipedia était bien là, en parfaite santé.
 
-Cette série d'incidents est assez semblable aux chaînes d'incidents utilisées dans l'analyse des catastrophes aériennes (modèle de Reason, aussi appelé « effet gruyère ») : pris séparément, ces problèmes ne sont pas graves, ni même visibles, mais leur combinaison a rendu Wikipedia inaccessible pendant plusieurs heures.
+Cette série d'incidents est assez semblable aux chaînes d'incidents utilisées dans l'analyse des catastrophes aériennes (modèle de Reason, aussi appelé « effet gruyère ») : pris séparément, ces problèmes ne sont pas graves, ni même visibles, mais leur combinaison a rendu Wikipedia inaccessible pendant plusieurs heures.
 
 Cependant, ce n'est pas la fin de l'histoire.
 
@@ -29,7 +29,7 @@ Du coup, l'équipe technique a décidé de désactiver temporairement secure.wik
 
 La situation est revenue à la normale après quelques heures, au fur et à mesure que les bases de données DNS ont mis à jour leurs entrées. secure.wikimedia.org a été réactivé peu de temps après, quand la charge serveur est redevenue raisonnable.
 
-L'un des projets sur lesquels l'équipe technique de Wikimedia a prévu de travailler prochainement est la création d'un « indicateur de statut » *(status board)*, qui indiquera aux utilisateurs la « santé » des sites Wikimedia à un moment donné, un peu à la manière du |apps dashboard|_. Cet indicateur, qui sera hébergé de façon indépendante, permettra de tenir les utilisateurs informés des éventuels soucis et du retour à la normale.
+L'un des projets sur lesquels l'équipe technique de Wikimedia a prévu de travailler prochainement est la création d'un « indicateur de statut » *(status board)*, qui indiquera aux utilisateurs la « santé » des sites Wikimedia à un moment donné, un peu à la manière du |apps dashboard|_. Cet indicateur, qui sera hébergé de façon indépendante, permettra de tenir les utilisateurs informés des éventuels soucis et du retour à la normale.
 
 .. |apps dashboard| replace:: *Google apps status dashboard*
 

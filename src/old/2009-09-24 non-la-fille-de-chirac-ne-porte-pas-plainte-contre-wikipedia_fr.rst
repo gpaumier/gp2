@@ -4,7 +4,7 @@
 .. date: 2009-09-24 20:17:55
 .. tags: Wikimedia
 
-Le buzz d'aujourd'hui sur Internet concerne une plainte apparemment portée par Anh Đào Traxel, la fille adoptive de Jacques Chirac, contre « Wikipedia ». J'ai `abordé ce dossier il y a une dizaine de jours <http://guillaumepaumier.com/fr/2009/09/15/anh-dao-traxel-et-diffamation-sur-wikipedia/>`__, suite à la publication de l'article du Parisien.
+Le buzz d'aujourd'hui sur Internet concerne une plainte apparemment portée par Anh Đào Traxel, la fille adoptive de Jacques Chirac, contre « Wikipedia ». J'ai `abordé ce dossier il y a une dizaine de jours <http://guillaumepaumier.com/fr/2009/09/15/anh-dao-traxel-et-diffamation-sur-wikipedia/>`__, suite à la publication de l'article du Parisien.
 
 Le buzz d'aujourd'hui a consisté à reprendre l'information (Anh Đào Traxel porte plainte pour diffamation contre un internaute) et à l'arranger histoire qu'elle fasse plus de bruit (elle porte aussi plainte contre Wikipedia). Retour sur l'origine du buzz et sur sa propagation.
 
@@ -53,7 +53,7 @@ L'article est de nouveau remodifié à 18h28 ; le titre devient alors un panach�
 
 Difficile de suivre toutes ces modifications... Au moins, pour les pages de Wikipedia, tout est transparent, puisque l'historique des pages permet de consulter toutes les modifications qui y ont été apportées, toutes les versions précédentes, ainsi que leurs auteurs.
 
-On notera également que l'auteur de l'article du Post est Arash Derambarsh, un spécialiste du buzz, puisque c'est lui qui s'était `autoproclamé « Président de Facebook » <http://www.20minutes.fr/article/204039/High-Tech-La-formidable-histoire-d-Arash-Derambarsh-autoproclame-president-de-Facebook.php>`__ en janvier 2008.
+On notera également que l'auteur de l'article du Post est Arash Derambarsh, un spécialiste du buzz, puisque c'est lui qui s'était `autoproclamé « Président de Facebook » <http://www.20minutes.fr/article/204039/High-Tech-La-formidable-histoire-d-Arash-Derambarsh-autoproclame-president-de-Facebook.php>`__ en janvier 2008.
 
 
 Les bons élèves
@@ -81,6 +81,6 @@ L'article de 01.net est publié à 18h50 : |01net|_. Les faits rapportés sont p
 Un buzz qui s'emballe
 =====================
 
-Mais voilà, en fin de journée, il est trop tard. Le buzz a fait son effet, et l'information erronée navigue maintenant sur la toile. Détail amusant, l'article du Post était ce matin marqué comme « relu » et « vérifié par la rédaction du Post ». La deuxième version, corrigée, est retombée à l'état « brut », indiquant que l'information est « non vérifiée par la rédaction du Post » et que « l'opinion exprimée n'engage que son auteur ». De quoi inciter à la plus grande prudence quand vous lisez Le Post, même s'ils indiquent que leur information est « validée » et « vérifiée ».
+Mais voilà, en fin de journée, il est trop tard. Le buzz a fait son effet, et l'information erronée navigue maintenant sur la toile. Détail amusant, l'article du Post était ce matin marqué comme « relu » et « vérifié par la rédaction du Post ». La deuxième version, corrigée, est retombée à l'état « brut », indiquant que l'information est « non vérifiée par la rédaction du Post » et que « l'opinion exprimée n'engage que son auteur ». De quoi inciter à la plus grande prudence quand vous lisez Le Post, même s'ils indiquent que leur information est « validée » et « vérifiée ».
 
 `De manière similaire aux blogs <http://guillaumepaumier.com/fr/2009/06/28/consanguinite-bloguesque-ou-le-phenomene-de-reblogging/>`__, les journaux ont l'habitude de se recopier l'un l'autre à la vitesse grand V. Personne ne veut passer à côté d'une info ; ils préfèrent généralement recopier des âneries plutôt que de se faire prendre de vitesse. Et puis, comme je l'écrivais plus tôt, `il est de bon ton, en France, de dénigrer Wikipedia <http://guillaumepaumier.com/fr/2009/09/24/la-releve-du-maljournalisme-est-assuree/>`__. La presse ne rate donc jamais une occasion de faire du bruit à ce sujet ; après tout, qui cela gêne-t-il ?

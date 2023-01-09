@@ -5,7 +5,7 @@
 .. tags: Wikimedia
 
 
-Depuis quelques années, le logiciel MediaWiki (sur lequel reposent `Wikipedia <http://fr.wikipedia.org>`__ et tous les autres sites hébergés par la `Wikimedia Foundation <http://wikimediafoundation.org>`__) permet de visualiser directement le contenu d'un fichier `DjVu <http://fr.wikipedia.org/wiki/DjVu>`__. DjVu est un « format de fichier destiné à l'archivage de documents numériques ».
+Depuis quelques années, le logiciel MediaWiki (sur lequel reposent `Wikipedia <http://fr.wikipedia.org>`__ et tous les autres sites hébergés par la `Wikimedia Foundation <http://wikimediafoundation.org>`__) permet de visualiser directement le contenu d'un fichier `DjVu <http://fr.wikipedia.org/wiki/DjVu>`__. DjVu est un « format de fichier destiné à l'archivage de documents numériques ».
 
 Cette fonctionnalité de lecture directe est particulièrement utile pour le projet `Wikisource <http://fr.wikisource.org>`__, la bibliothèque numérique construite par Wikimedia. Les participants du projet Wikisource relisent des documents scannés, convertis en format DjVu, et les transcrivent en plein texte.
 
@@ -29,7 +29,7 @@ Cette nouvelle fonctionnalité sera également particulièrement utile dans le c
 
 
 
-.. [#] Par l'intermédiaire d'une extension de MediaWiki appelée |proofread|_, autrement dit « relecture de page ».
+.. [#] Par l'intermédiaire d'une extension de MediaWiki appelée |proofread|_, autrement dit « relecture de page ».
 
 .. |proofread| replace:: *Proofread Page*
 

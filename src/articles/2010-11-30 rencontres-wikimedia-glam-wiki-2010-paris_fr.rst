@@ -1,4 +1,4 @@
-.. title: Rencontres Wikimedia 2010 : « GLAM-WIKI » à Paris
+.. title: Rencontres Wikimedia 2010 : « GLAM-WIKI » à Paris
 .. category: articles-fr
 .. slug: rencontres-wikimedia-glam-wiki-2010-paris
 .. date: 2010-11-30 00:00:00
@@ -9,7 +9,7 @@
 
 .. highlights::
 
-    Il y a quelques jours, j'ai assisté à la conférence « GLAM-WIKI (FR) » à Paris, dont l'objectif était de bâtir des relations et des partenariats entre le mouvement Wikimedia et le secteur culturel, qui partagent une mission de diffusion de la connaissance.
+    Il y a quelques jours, j'ai assisté à la conférence « GLAM-WIKI (FR) » à Paris, dont l'objectif était de bâtir des relations et des partenariats entre le mouvement Wikimedia et le secteur culturel, qui partagent une mission de diffusion de la connaissance.
 
 .. sidebar::
 
@@ -17,14 +17,14 @@
 
       Les Invalides sous la neige.
 
-Cette conférence, appelée « `Rencontres Wikimedia 2010 <http://rencontres.wikimedia.fr>`__ » en français, était la deuxième édition d'un colloque Wikimedia annuel qui se cherche encore (ce qui est naturel pour un évènement si jeune) ; le `colloque précédent de 2007 <http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Premier_colloque_francophone_sur_Wikip%C3%A9dia>`__ visait davantage le monde universitaire et les « experts ».
+Cette conférence, appelée « `Rencontres Wikimedia 2010 <http://rencontres.wikimedia.fr>`__ » en français, était la deuxième édition d'un colloque Wikimedia annuel qui se cherche encore (ce qui est naturel pour un évènement si jeune) ; le `colloque précédent de 2007 <http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Premier_colloque_francophone_sur_Wikip%C3%A9dia>`__ visait davantage le monde universitaire et les « experts ».
 
-« GLAM-WIKI » est le nom d'une séries de conférences, débutées `en 2009 à Canberra <http://www.wikimedia.org.au/wiki/GLAM-WIKI>`__ (Australie), et suivie de `celle de Londres <http://uk.wikimedia.org/wiki/GLAM-WIKI>`__ il y a quelques semaines. Les institutions culturelles sont appelées « GLAM » dans le milieu, un acronyme pour *galleries, libraries, archives and museums* : galeries, bibliothèques, archives et musées. Je leur préfère le nom de « *memory institutions* », également utilisé en anglais.
+« GLAM-WIKI » est le nom d'une séries de conférences, débutées `en 2009 à Canberra <http://www.wikimedia.org.au/wiki/GLAM-WIKI>`__ (Australie), et suivie de `celle de Londres <http://uk.wikimedia.org/wiki/GLAM-WIKI>`__ il y a quelques semaines. Les institutions culturelles sont appelées « GLAM » dans le milieu, un acronyme pour *galleries, libraries, archives and museums* : galeries, bibliothèques, archives et musées. Je leur préfère le nom de « *memory institutions* », également utilisé en anglais.
 
 Une conférence introductive efficace
 ====================================
 
-Le programme était intéressant, en proposant de bonnes synthèses sur Wikipedia, Wikimedia, et quelques initiatives et partenariats réalisés pendant les dernières années. Il s'agissait de « *panels* » et de présentations (la traduction en français par  « tables rondes » est assez maladroite).
+Le programme était intéressant, en proposant de bonnes synthèses sur Wikipedia, Wikimedia, et quelques initiatives et partenariats réalisés pendant les dernières années. Il s'agissait de « *panels* » et de présentations (la traduction en français par  « tables rondes » est assez maladroite).
 
 Même si, au final, le programme visait davantage les représentants des organismes culturels, certaines sessions m'ont également été utiles (en tant que bénévole Wikimédien, et d'employé de la Wikimedia Foundation), notamment celle sur les métadonnées. C'est un domaine que je n'ai pu qu'effleurer lors du `Multimedia usability project <http://usability.wikimedia.org/wiki/Multimedia:Hub>`__, mais auquel j'espère pouvoir consacrer du temps en 2011.
 
@@ -44,7 +44,7 @@ Je conçois parfaitement que ce type d'évènement ait été une première en Fr
 
 Bien qu'ils aient semblé être en minorité, de nombreux Wikimédiens s'étaient déplacés pour assister à cette conférence, certains venus d'autres pays. Je trouve dommage qu'il n'y ait pas eu davantage d'opportunités de réelles rencontres et d'ateliers.
 
-En comparaison, l'`atelier Wikimedia <http://www.archimuse.com/mw2010/abstracts/prg_335002379.html>`__ de la conférence « |museums and the web|_ » en avril 2010 avait vraiment permis aux membres des deux communautés de se rencontrer, au travers de discussions en petits groupes sur des sujets particuliers.
+En comparaison, l'`atelier Wikimedia <http://www.archimuse.com/mw2010/abstracts/prg_335002379.html>`__ de la conférence « |museums and the web|_ » en avril 2010 avait vraiment permis aux membres des deux communautés de se rencontrer, au travers de discussions en petits groupes sur des sujets particuliers.
 
 .. |museums and the web| replace:: *Museums and the Web*
 

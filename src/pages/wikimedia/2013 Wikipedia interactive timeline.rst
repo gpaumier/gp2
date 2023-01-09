@@ -12,7 +12,7 @@
     An illustrated interactive timeline that highlights the main and coolest stories about what happened on Wikipedia and across the Wikimedia movement in 2013.
 
 
-`Open the timeline » </timelines/wikipedia-in-2013/>`__
+`Open the timeline » </timelines/wikipedia-in-2013/>`__
 
 I love timelines. They present facts in a logical, natural way and are a great tool for looking at the past and understanding how it has brought us to where we are now.
 

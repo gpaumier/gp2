@@ -5,23 +5,23 @@
 .. tags: Wikimedia
 .. todo: find original SVG file
 
-Le `feuilleton Anh Đào Traxel <http://guillaumepaumier.com/fr/2009/09/15/anh-dao-traxel-et-diffamation-sur-wikipedia/>`__ continue avec une `dépêche AFP <http://www.google.com/hostednews/afp/article/ALeqM5hblitWCSw6tI7P34-i34Erv4aqew>`__ selon laquelle l'auteur possible des propos estimés diffamatoires s'est dénoncé. Vous remarquerez que je ne parle plus de « fille adoptive des Chirac » étant donné que, malgré le matraquage médiatique des dernières semaines, Mme Traxel n'a jamais été adoptée au sens légal du terme par le couple Chirac.
+Le `feuilleton Anh Đào Traxel <http://guillaumepaumier.com/fr/2009/09/15/anh-dao-traxel-et-diffamation-sur-wikipedia/>`__ continue avec une `dépêche AFP <http://www.google.com/hostednews/afp/article/ALeqM5hblitWCSw6tI7P34-i34Erv4aqew>`__ selon laquelle l'auteur possible des propos estimés diffamatoires s'est dénoncé. Vous remarquerez que je ne parle plus de « fille adoptive des Chirac » étant donné que, malgré le matraquage médiatique des dernières semaines, Mme Traxel n'a jamais été adoptée au sens légal du terme par le couple Chirac.
 
 La dépêche contient également des propos de son mari rapportés par l'AFP:
 
-    Estimant que ces propos portent « atteinte à son honneur », [Mme Traxel] veut désormais « lutter contre l'anonymat sur internet » et a saisi le député UMP Jean-François Copé.
+    Estimant que ces propos portent « atteinte à son honneur », [Mme Traxel] veut désormais « lutter contre l'anonymat sur internet » et a saisi le député UMP Jean-François Copé.
 
-    « Elle se sent abandonnée, par la classe politique », et en l'absence de réaction de celle-ci, toutes étiquettes politiques confondues, est prête à faire une « grève de la faim ».
+    « Elle se sent abandonnée, par la classe politique », et en l'absence de réaction de celle-ci, toutes étiquettes politiques confondues, est prête à faire une « grève de la faim ».
 
-Comme je le disais `dès le début de cette affaire <http://guillaumepaumier.com/fr/2009/09/15/anh-dao-traxel-et-diffamation-sur-wikipedia/>`__, il est temps d'arrêter le `FUD <http://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt>`__ à propos du grand méchant Internet rempli d'anonymes et où tout est permis. Il est assez contradictoire de parler, dans une même dépêche, de l'identification de l'auteur d'une part, et de la « lutte contre l'anonymat sur Internet » d'autre part [#]_.
+Comme je le disais `dès le début de cette affaire <http://guillaumepaumier.com/fr/2009/09/15/anh-dao-traxel-et-diffamation-sur-wikipedia/>`__, il est temps d'arrêter le `FUD <http://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt>`__ à propos du grand méchant Internet rempli d'anonymes et où tout est permis. Il est assez contradictoire de parler, dans une même dépêche, de l'identification de l'auteur d'une part, et de la « lutte contre l'anonymat sur Internet » d'autre part [#]_.
 
 
 Chronologie et statistiques
 ===========================
 
-Concernant la « grève de la faim », loin de moi l'idée de minimiser l'éventuel traumatisme de Mme Traxel, mais cette réaction me semble disproportionnée (il est vrai jamais vraiment compris le principe d'une grève de la faim ; quel est l'intérêt d'une autoprivation de nourriture ?).
+Concernant la « grève de la faim », loin de moi l'idée de minimiser l'éventuel traumatisme de Mme Traxel, mais cette réaction me semble disproportionnée (il est vrai jamais vraiment compris le principe d'une grève de la faim ; quel est l'intérêt d'une autoprivation de nourriture ?).
 
-Le « large lectorat » dont parlait Mme Traxel et qui a pu prendre connaissance des propos polémiques n'est, en tout et pour tout, que d'environ 4000 personnes, sur une période de trois mois (voir chronologie et statistiques ci-dessous).
+Le « large lectorat » dont parlait Mme Traxel et qui a pu prendre connaissance des propos polémiques n'est, en tout et pour tout, que d'environ 4000 personnes, sur une période de trois mois (voir chronologie et statistiques ci-dessous).
 
 Par ailleurs, j'ignore combien de temps a été nécessaire au dépôt de plainte, mais il est certain que si Mme Traxel s'était immédiatement manifestée auprès des bénévoles de Wikipedia [#]_, l'impact aurait été encore moindre. Une moyenne quotidienne de 44 visiteurs, c'est très peu pour un article de Wikipedia. Je ne veux froisser l'ego de personne, mais à titre de comparaison, la `biographie de Pikachu <http://stats.grok.se/fr/200907/Pikachu>`__ est au moins deux fois plus visitée que `celle de Mme Traxel <http://stats.grok.se/fr/200907/Anh_%C4%90%C3%A0o_Traxel>`__ [#]_.
 

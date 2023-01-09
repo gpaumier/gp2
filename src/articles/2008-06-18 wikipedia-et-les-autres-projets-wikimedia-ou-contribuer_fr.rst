@@ -26,7 +26,7 @@ Des articles comme |paris|_, avec tous leurs satellites, pourraient donner lieu 
 Wikipedia est une `encyclopédie <http://fr.wikipedia.org/wiki/Encyclop%C3%A9die>`__ et, en tant que telle, ne devrait pas héberger des bibliographies qui sont des `recueils de documents, éventuellement annotés <http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Ce_que_Wikip%C3%A9dia_n%27est_pas#Une_liste_d.27informations>`__. Je suis entièrement conscient que ce type de contenu est utile ; je voudrais simplement que les Wikipédiens comprennent qu'elle a davantage sa place sur des projets dédiés.
 
 
-« Exil du contenu »
+« Exil du contenu »
 ===================
 
 J'ai l'impression (plusieurs fois vérifiée) que les Wikipédiens considèrent, de façon assez hautaine, que les « autres projets » ne sont pas assez « nobles » ; ils n'apparaissent pas dans les premiers résultats de Google, on n'en parle pas dans les média, donc les gens ne veulent pas y contribuer. Certains pensent d'ailleurs que déplacer du contenu sur un autre projet Wikimedia revient à « exiler le contenu » vers un projet-« poubelle ».

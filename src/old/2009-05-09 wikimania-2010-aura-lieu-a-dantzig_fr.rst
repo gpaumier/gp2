@@ -13,9 +13,9 @@
 Trois villes européennes candidates
 ===================================
 
-Trois villes s'étaient `portées candidates <http://meta.wikimedia.org/wiki/Wikimania_2010/Bids>`__ pour organiser l'évènement Wikimedia en 2010 : `Amsterdam <http://meta.wikimedia.org/wiki/Wikimania_2010/Bids/Amsterdam>`__ (Pays-Bas), `Oxford <http://meta.wikimedia.org/wiki/Wikimania_2010/Bids/Oxford>`__ (Royaume-Uni) et `Dantzig <http://meta.wikimedia.org/wiki/Wikimania_2010/Bids/Gda%C5%84sk>`__ (Pologne), alias *Gdańsk*. Il n'y a eu que des candidatures européennes ; une explication possible est le critère de « rotation continentale », officiellement reconnu pour la première fois par le jury de Wikimania 2008 [#]_.
+Trois villes s'étaient `portées candidates <http://meta.wikimedia.org/wiki/Wikimania_2010/Bids>`__ pour organiser l'évènement Wikimedia en 2010 : `Amsterdam <http://meta.wikimedia.org/wiki/Wikimania_2010/Bids/Amsterdam>`__ (Pays-Bas), `Oxford <http://meta.wikimedia.org/wiki/Wikimania_2010/Bids/Oxford>`__ (Royaume-Uni) et `Dantzig <http://meta.wikimedia.org/wiki/Wikimania_2010/Bids/Gda%C5%84sk>`__ (Pologne), alias *Gdańsk*. Il n'y a eu que des candidatures européennes ; une explication possible est le critère de « rotation continentale », officiellement reconnu pour la première fois par le jury de Wikimania 2008 [#]_.
 
-« Rotation continentale » signifie que, deux candidatures étant égales par ailleurs, le jury peut décider de privilégier une ville située sur un continent qui n'a pas récemment accueilli Wikimania. Force est de constater que depuis la première édition en 2005, les emplacements ont bien « tourné » :
+« Rotation continentale » signifie que, deux candidatures étant égales par ailleurs, le jury peut décider de privilégier une ville située sur un continent qui n'a pas récemment accueilli Wikimania. Force est de constater que depuis la première édition en 2005, les emplacements ont bien « tourné » :
 
 -  2005 : Francfort, Allemagne (Europe)
 -  2006 : Cambridge, USA (Amérique du nord)

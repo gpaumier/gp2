@@ -8,13 +8,13 @@
 
 .. highlights::
 
-    Dans la rubrique « les astuces techniques dont vous vous demandez comment vous avez fait pour vous en passer » voici la création de frises chronologiques dans Wikipedia qui génère automatiquement une image vectorielle (donc redimensionnable et modifiable à volonté sans perte de qualité).
+    Dans la rubrique « les astuces techniques dont vous vous demandez comment vous avez fait pour vous en passer » voici la création de frises chronologiques dans Wikipedia qui génère automatiquement une image vectorielle (donc redimensionnable et modifiable à volonté sans perte de qualité).
 
 
 L'extension EasyTimeline
 ========================
 
-Un bref rappel technique : `Wikipedia <http://www.wikipedia.org>`__ repose sur le logiciel `MediaWiki <http://www.mediawiki.org>`__ et un certain nombre d'`extensions <http://www.mediawiki.org/wiki/Extension_Matrix>`__ qui *étendent* les fonctionnalités du logiciel de base. L'une de ces extensions, |easy timeline|_ (« chronologie facile [#]_ »), permet de construire des frises chronologiques. Son auteur est `Erik Zachte <http://en.wikipedia.org/w/index.php?title=User:Erik_Zachte&oldid=264663975>`__, qui entre temps a été recruté par la Wikimedia Foundation pour maintenir à jour un système de statistiques sur les sites Wikimedia.
+Un bref rappel technique : `Wikipedia <http://www.wikipedia.org>`__ repose sur le logiciel `MediaWiki <http://www.mediawiki.org>`__ et un certain nombre d'`extensions <http://www.mediawiki.org/wiki/Extension_Matrix>`__ qui *étendent* les fonctionnalités du logiciel de base. L'une de ces extensions, |easy timeline|_ (« chronologie facile [#]_ »), permet de construire des frises chronologiques. Son auteur est `Erik Zachte <http://en.wikipedia.org/w/index.php?title=User:Erik_Zachte&oldid=264663975>`__, qui entre temps a été recruté par la Wikimedia Foundation pour maintenir à jour un système de statistiques sur les sites Wikimedia.
 
 .. |easy timeline| replace:: *EasyTimeline*
 
@@ -24,9 +24,9 @@ Un bref rappel technique : `Wikipedia <http://www.wikipedia.org>`__ repose sur l
 Comment ça fonctionne
 =====================
 
-En résumé, pour ajouter une frise chronologique dans Wikipedia, il faut entrer les données dans un code spécifique qu'Erik juge « raisonnablement intuitif ». Il ajoute cependant que « pour les débutants, « Chronologie Facile » peut ne pas être facile du tout ».
+En résumé, pour ajouter une frise chronologique dans Wikipedia, il faut entrer les données dans un code spécifique qu'Erik juge « raisonnablement intuitif ». Il ajoute cependant que « pour les débutants, « Chronologie Facile » peut ne pas être facile du tout ».
 
-Il recommande donc de s'inspirer du code de frises déjà existantes et de les adapter en fonction de ses besoins. Le code devient rapidement complexe et imposant, à tel point qu'il est souvent exilé dans des pages spécifiques (« `modèles <http://en.wikipedia.org/wiki/Category:Graphical_timeline_templates>`__ ») dont uniquement le résultat est affiché dans l'article de Wikipedia.
+Il recommande donc de s'inspirer du code de frises déjà existantes et de les adapter en fonction de ses besoins. Le code devient rapidement complexe et imposant, à tel point qu'il est souvent exilé dans des pages spécifiques (« `modèles <http://en.wikipedia.org/wiki/Category:Graphical_timeline_templates>`__ ») dont uniquement le résultat est affiché dans l'article de Wikipedia.
 
 Il est ainsi possible de créer des frises chronologiques sur l'`histoire de l'Empire Ottoman <http://en.wikipedia.org/w/index.php?title=Template:Timeline_of_the_Ottoman_Empire&oldid=213868355>`__ ou les `modèles successifs d'iPod <http://en.wikipedia.org/w/index.php?title=Template:Timeline_of_iPod_models&oldid=284533582>`__.
 
@@ -63,7 +63,7 @@ Une version `vectorielle <http://fr.wikipedia.org/wiki/Image_vectorielle>`__ est
 Certes, je n'ai jamais été un expert en frises chronologiques sur Wikipedia, mais il m'aura fallu presque quatre ans pour découvrir cette fonctionnalité.
 
 
-..  [#] J'avoue, j'ai hésité à traduire ça par « frise facile », mais j'ai déjà dépassé mon quota de jeux de mots de la journée.
+..  [#] J'avoue, j'ai hésité à traduire ça par « frise facile », mais j'ai déjà dépassé mon quota de jeux de mots de la journée.
 
 .. [#] Non, ça ne m'arrive pas tous les jours. Soyez coopératifs, c''est pour les besoins de l'expérience.
 

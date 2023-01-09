@@ -26,11 +26,11 @@ L'usage du conditionnel dans les médias est un sujet que j'aborde régulièreme
 
 .. figure:: /images/2009-05-27_patates_vidberg_conditionnel.png
 
-    Extrait de la planche « `Faut-il supprimer le conditionnel ? <http://vidberg.blog.lemonde.fr/2009/05/27/faut-il-supprimer-le-conditionnel/>`__ » par Martin Vidberg, `utilisation occasionnelle permise <http://vidberg.blog.lemonde.fr/utiliser-un-dessin/>`__.
+    Extrait de la planche « `Faut-il supprimer le conditionnel ? <http://vidberg.blog.lemonde.fr/2009/05/27/faut-il-supprimer-le-conditionnel/>`__ » par Martin Vidberg, `utilisation occasionnelle permise <http://vidberg.blog.lemonde.fr/utiliser-un-dessin/>`__.
 
 Le conditionnel sur Wikipedia
 =============================
 
-Mais si la presse doit faire vendre, Wikipedia, elle n'en a aucune obligation. Wikipedia doit reposer sur des faits et des affirmations sourcées. Une rapide recherche révèle, à l'heure où j'écris cet article, plus de `27 000 occurrences du verbe « serait » <http://fr.wikipedia.org/w/index.php?ns0=1&search=serait&title=Sp%C3%A9cial%3ARecherche&fulltext=Advanced+search&fulltext=Rechercher>`__ et `29 000 pour « aurait » <http://fr.wikipedia.org/w/index.php?ns0=1&search=aurait&title=Sp%C3%A9cial%3ARecherche&fulltext=Advanced+search&fulltext=Rechercher>`__. Il faut retrancher à ces nombres les faux positifs (essentiellement les citations), que j'estime cependant peu nombreux.
+Mais si la presse doit faire vendre, Wikipedia, elle n'en a aucune obligation. Wikipedia doit reposer sur des faits et des affirmations sourcées. Une rapide recherche révèle, à l'heure où j'écris cet article, plus de `27 000 occurrences du verbe « serait » <http://fr.wikipedia.org/w/index.php?ns0=1&search=serait&title=Sp%C3%A9cial%3ARecherche&fulltext=Advanced+search&fulltext=Rechercher>`__ et `29 000 pour « aurait » <http://fr.wikipedia.org/w/index.php?ns0=1&search=aurait&title=Sp%C3%A9cial%3ARecherche&fulltext=Advanced+search&fulltext=Rechercher>`__. Il faut retrancher à ces nombres les faux positifs (essentiellement les citations), que j'estime cependant peu nombreux.
 
-Je suis pour un remplacement systématique du conditionnel par l'indicatif dans les articles de Wikipedia. Si le fait est avéré d'après plusieurs sources fiables, alors il faut utiliser l'indicatif et indiquer les sources. Soit le fait est sujet à caution, et il faut faire exactement pareil : utiliser l'indicatif et indiquer les sources, en ajoutant un « selon Untel ».
+Je suis pour un remplacement systématique du conditionnel par l'indicatif dans les articles de Wikipedia. Si le fait est avéré d'après plusieurs sources fiables, alors il faut utiliser l'indicatif et indiquer les sources. Soit le fait est sujet à caution, et il faut faire exactement pareil : utiliser l'indicatif et indiquer les sources, en ajoutant un « selon Untel ».

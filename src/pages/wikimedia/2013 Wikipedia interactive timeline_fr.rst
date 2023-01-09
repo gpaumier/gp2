@@ -6,7 +6,7 @@
 
     Une frise chronologique interactive qui retrace les temps forts de Wikipédia et du mouvement Wikimedia en 2013.
 
-`Voir la frise » </fr/frises/wikipedia-en-2013/>`__
+`Voir la frise » </fr/frises/wikipedia-en-2013/>`__
 
 J'aime beaucoup les frises chronologiques. Elles permettent de présenter les faits de façon logique et naturelle, et je trouve qu'elles sont très utiles pour comprendre comment les évènements passés ont mené au présent.
 

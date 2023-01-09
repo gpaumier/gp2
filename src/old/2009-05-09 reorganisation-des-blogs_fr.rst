@@ -9,7 +9,7 @@
 
     La fin de ma thèse et la rédaction de mon livre ont diminué ma présence en ligne ces derniers mois. Je relance maintenant la machine et j'en profite pour annoncer une réorganisation de printemps.
 
-Mon ancien blog « wednesday morning », hébergé sur wordpress.com, est maintenant fermé. Il est remplacé par ``www.gpaumier.fr/blog`` (pour les articles en français) et ``www.gpaumier.org/blog`` (pour ceux en anglais). Si c'est pertinent, un même article peut être disponible dans les deux langues, mais ce n'est pas nécessairement le cas. Ces deux blogs hébergent principalement des réflexions sur Wikipedia, Wikimedia, la connaissance libre en général ; j'y ajouterai également quelques idées en vrac de temps en temps :)
+Mon ancien blog « wednesday morning », hébergé sur wordpress.com, est maintenant fermé. Il est remplacé par ``www.gpaumier.fr/blog`` (pour les articles en français) et ``www.gpaumier.org/blog`` (pour ceux en anglais). Si c'est pertinent, un même article peut être disponible dans les deux langues, mais ce n'est pas nécessairement le cas. Ces deux blogs hébergent principalement des réflexions sur Wikipedia, Wikimedia, la connaissance libre en général ; j'y ajouterai également quelques idées en vrac de temps en temps :)
 
 J'ai également ouvert un site pro sur ``www.unfoldscience.com``, dédié à la communication scientifique et au management de recherche. Son homologue en français est situé à l'adresse ``www.unfoldscience.fr`` et tous les articles sont disponibles dans les deux langues (anglais et français).
 

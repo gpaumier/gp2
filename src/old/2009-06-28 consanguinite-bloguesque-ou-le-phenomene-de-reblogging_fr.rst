@@ -17,7 +17,7 @@ Pierrot `exprimait avant-hier son agacement <http://wikirigoler.over-blog.com/ar
 
 M'étant fait la même réflexion un peu plus tôt, j'ai commenté l'article de Pierrot :
 
-    Je me suis fait exactement la même réflexion avant-hier. À vue de nez, sur 100 derniers billets de blog agrégés dans Wikio sur Wikipedia, il y en a bien 40 sur cette « version imprimée de Wikipedia », 30 sur « Wikipedia arrive sur Google News » et 20 sur « l'arrivée de la video sur Wikipedia ». Et le pire, comme tu dis, ce n'est pas que chacun se sente obliger de recopier une dépêche à l'identique, mais qu'ils essayent de faire original en y insérant des erreurs grotesques. Par exemple, j'ai lu à plusieurs reprises que la « version imprimée de Wikipedia » contenait l'intégralité des 3 millions d'articles (alors qu'il n'y en a que ~2500), ou que « Wikipedia allait maintenant autoriser l'upload de video », ce qu'elle fait depuis des années.
+    Je me suis fait exactement la même réflexion avant-hier. À vue de nez, sur 100 derniers billets de blog agrégés dans Wikio sur Wikipedia, il y en a bien 40 sur cette « version imprimée de Wikipedia », 30 sur « Wikipedia arrive sur Google News » et 20 sur « l'arrivée de la video sur Wikipedia ». Et le pire, comme tu dis, ce n'est pas que chacun se sente obliger de recopier une dépêche à l'identique, mais qu'ils essayent de faire original en y insérant des erreurs grotesques. Par exemple, j'ai lu à plusieurs reprises que la « version imprimée de Wikipedia » contenait l'intégralité des 3 millions d'articles (alors qu'il n'y en a que ~2500), ou que « Wikipedia allait maintenant autoriser l'upload de video », ce qu'elle fait depuis des années.
 
 
 Quelques pistes
@@ -33,14 +33,14 @@ La question que pose Pierrot (pourquoi ce comportement ?) n'a pas vraiment trouv
 Rebloguons, rebloguons, il en restera toujours quelque chose
 ============================================================
 
-Pourtant, **le reblogging est considéré comme une « mauvaise pratique »** par les moteurs de recherche. Il est listé comme la première des « choses à ne pas faire » dans les recommandations de Technorati, la référence en matière de recherche parmi les blogs :
+Pourtant, **le reblogging est considéré comme une « mauvaise pratique »** par les moteurs de recherche. Il est listé comme la première des « choses à ne pas faire » dans les recommandations de Technorati, la référence en matière de recherche parmi les blogs :
 
     Ne republiez pas le contenu d'autres sites sans y ajouter un commentaire ou une réaction.
 
     --- *Blog Quality Guidelines* de Technorati [#]_
 
 
-Cette pratique de « reblogging » s'apparente à celle du « retwitting », où les utilisateurs de la plate-forme de microblogging `Twitter <http://twitter.com/>`__ (ou son équivalent libre `identica <http://identi.ca>`__) republient tout ou une partie du contenu d'un message déjà publié par un autre utilisateur. J'ai trouvé peu d'études sur le reblogging, sensiblement plus sur le retwitting [#]_.
+Cette pratique de « reblogging » s'apparente à celle du « retwitting », où les utilisateurs de la plate-forme de microblogging `Twitter <http://twitter.com/>`__ (ou son équivalent libre `identica <http://identi.ca>`__) republient tout ou une partie du contenu d'un message déjà publié par un autre utilisateur. J'ai trouvé peu d'études sur le reblogging, sensiblement plus sur le retwitting [#]_.
 
 Cela dit, en survolant ce dernier article sur le retweeting, j'ai trouvé la référence d'une thèse de doctorat du MIT publiée en 2005. Intitulée *Structural Determinants of Media Contagion*, elle semble se concentrer sur les blogs. Je ne l'ai pas encore lue (le document fait 158 pages), mais cela me semble un bon point de départ pour comprendre le phénomène de reblogging [#]_.
 
@@ -60,9 +60,9 @@ Cette traduction libre d'une `conclusion de Russel Beattie <http://www.russellbe
 
 
 
-.. [#] Cet article de Pierrot a d'ailleurs servi de point de départ à une amusante « chaîne de reblogging » parmi les blogueurs Wikipediens. `Pymouss <http://pymouss.blogspot.com/2009/06/pas-pu-men-empecher.html>`__ s'est ainsi ému que `Popo <http://choixduchaos.blogspot.com/2009/06/pas-pu-men-empecher.html>`__ critique `Darko <http://darkoneko.wordpress.com/2009/06/25/pas-pu-men-empecher/>`__ qui copie `Poulpy <http://poulpy.blogspot.com/2009/06/pas-pu-men-empecher.html>`__ sans mentionner `Pierrot <http://wikirigoler.over-blog.com/article-33075335.html>`__. Ou inversement.
+.. [#] Cet article de Pierrot a d'ailleurs servi de point de départ à une amusante « chaîne de reblogging » parmi les blogueurs Wikipediens. `Pymouss <http://pymouss.blogspot.com/2009/06/pas-pu-men-empecher.html>`__ s'est ainsi ému que `Popo <http://choixduchaos.blogspot.com/2009/06/pas-pu-men-empecher.html>`__ critique `Darko <http://darkoneko.wordpress.com/2009/06/25/pas-pu-men-empecher/>`__ qui copie `Poulpy <http://poulpy.blogspot.com/2009/06/pas-pu-men-empecher.html>`__ sans mentionner `Pierrot <http://wikirigoler.over-blog.com/article-33075335.html>`__. Ou inversement.
 
-.. [#] « Do not republish content from other sites without adding your original commentary or reaction. » |guidelines|_ de Technorati.
+.. [#] « Do not republish content from other sites without adding your original commentary or reaction. » |guidelines|_ de Technorati.
 
 .. |guidelines| replace:: *Blog Quality Guidelines*
 
@@ -91,7 +91,7 @@ Cette traduction libre d'une `conclusion de Russel Beattie <http://www.russellbe
 
 .. _republishing: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-447/paper8.pdf
 
-.. [#] « I guess, hey, just like it's your blog, it's your Twitter stream and you can write whatever you want there and if I don't like it, I can just unfollow you. But obviously, if I'm following you, I want to know about what you're doing or thinking... not what \*others\* are doing/thinking but what you are. Just a thought. » -- Russel Beattie, |retweeting|_
+.. [#] « I guess, hey, just like it's your blog, it's your Twitter stream and you can write whatever you want there and if I don't like it, I can just unfollow you. But obviously, if I'm following you, I want to know about what you're doing or thinking... not what \*others\* are doing/thinking but what you are. Just a thought. » -- Russel Beattie, |retweeting|_
 
 .. |retweeting| replace:: *Retweeting?*
 

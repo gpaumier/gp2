@@ -6,7 +6,7 @@ Respect de la vie privée
 
 Ce site ne montre pas de publicités, de vous piste pas avec des cookies, et n'utilise aucun outil externe de suivi ou de statistiques. Je ne garde aucune trace ou historique de votre activité sur le site.
 
-J'évite d'inclure dans les pages de ce site du contenu chargé depuis des sites externes ; dans certains cas, c'est inévitable, par exemple pour la lecture de vidéos. Pour les vidéos chargées depuis YouTube, j'utilise le `mode spécial « respect de la vie privée » <https://support.google.com/youtube/answer/171780?hl=en>`__ qui fait en sorte que YouTube ne charge pas de cookies sauf si vous lancez la vidéo.
+J'évite d'inclure dans les pages de ce site du contenu chargé depuis des sites externes ; dans certains cas, c'est inévitable, par exemple pour la lecture de vidéos. Pour les vidéos chargées depuis YouTube, j'utilise le `mode spécial « respect de la vie privée » <https://support.google.com/youtube/answer/171780?hl=en>`__ qui fait en sorte que YouTube ne charge pas de cookies sauf si vous lancez la vidéo.
 
 
 Colophon

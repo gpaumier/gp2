@@ -18,16 +18,16 @@ La Grande Vague
 
 .. figure:: /images/The_Great_Wave_off_Kanagawa.jpg
 
-    `Copie de « La Grande Vague de Kanagawa » <https://commons.wikimedia.org/wiki/File:The_Great_Wave_off_Kanagawa.jpg>`__
+    `Copie de « La Grande Vague de Kanagawa » <https://commons.wikimedia.org/wiki/File:The_Great_Wave_off_Kanagawa.jpg>`__
 
-Les « sessions poster » des conférences internationales sont la plupart du temps soporifiques. Les chercheurs oublient souvent que les scientifiques qui assistent à une conférence ont très peu de temps à consacrer aux posters. J'ai donc décidé d'utiliser un design original pour attirer les visiteurs, à qui je pourrais ensuite vanter mes résultats de recherche.
+Les « sessions poster » des conférences internationales sont la plupart du temps soporifiques. Les chercheurs oublient souvent que les scientifiques qui assistent à une conférence ont très peu de temps à consacrer aux posters. J'ai donc décidé d'utiliser un design original pour attirer les visiteurs, à qui je pourrais ensuite vanter mes résultats de recherche.
 
-Le sujet de mon poster était une nouvelle méthode de création de vagues dans des microcanaux en utilisant des mélangeurs basés sur des polymères. En naviguant dans la |categorie-waves|_ (« vagues ») de Wikimedia Commons, la médiathèque libre, je me suis rappelé de cette vieille peinture japonaise intitulée |great wave|_. J'ai trouvé une version en haute résolution et je l'ai utilisée comme image de fond pour mon poster `A0 <http://en.wikipedia.org/wiki/File:A_size_illustration.svg>`__ poster.
+Le sujet de mon poster était une nouvelle méthode de création de vagues dans des microcanaux en utilisant des mélangeurs basés sur des polymères. En naviguant dans la |categorie-waves|_ (« vagues ») de Wikimedia Commons, la médiathèque libre, je me suis rappelé de cette vieille peinture japonaise intitulée |great wave|_. J'ai trouvé une version en haute résolution et je l'ai utilisée comme image de fond pour mon poster `A0 <http://en.wikipedia.org/wiki/File:A_size_illustration.svg>`__ poster.
 
 .. |great wave| replace:: *La Grande Vague de Kanagawa*
 .. _great wave: http://fr.wikipedia.org/wiki/La_Grande_Vague_de_Kanagawa
 
-.. |categorie-waves| replace:: catégorie « *Waves* »
+.. |categorie-waves| replace:: catégorie « *Waves* »
 .. _categorie-waves: http://commons.wikimedia.org/wiki/Category:Waves
 
 .. class:: rowspan-4
