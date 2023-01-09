@@ -1,0 +1,8 @@
+@use '../common/layout';
+
+/////////////////////////////////////////////////////////////
+
+.baking1,
+.baking2 {
+  @include layout.side-by-side-figures(.5rem);
+}
