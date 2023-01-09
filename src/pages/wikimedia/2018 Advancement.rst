@@ -21,6 +21,7 @@
 
    I lead Revenue Strategy research and the development of new revenue models for financial growth and long-term sustainability. I also provide expertise and guidance to other teams in the Advancement department, notably the Major Gifts team.
 
+----
 
 Revenue Strategy
 ================
@@ -46,6 +47,7 @@ Following this directive, I started working with Lisa Seitz-Gruwell, the Foundat
 
 In 2022, I led a new Revenue Strategy process to take stock of what the organization had accomplished since 2018, and determine how to develop resources to support the ambitions of the Wikimedia movement.
 
+----
 
 Revenue Streams for the Movement
 --------------------------------
@@ -65,6 +67,7 @@ In 2018–2020, I worked with Megan Hernandez, the Foundation's VP of Advancemen
 
 I was also part of the final group of "`integrators <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2018-20/Working_Groups/Integrators>`__" who brought together all the recommendations across working groups, integrated the feedback received across communities, and synthesized them into a coherent whole of `ten consolidated recommendations <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2018-20/Recommendations/Recommendations>`__ in March 2020.
 
+----
 
 Long-term thinking
 ==================
@@ -99,6 +102,7 @@ In February 2021, I led a similar workshop with Advancement staff, painting a pi
 
 Future-oriented thinking helps build resilience by shifting the perspective of the organization's leaders to the long view, and leading them to imagine the future consequences of current events and choices they make today.
 
+----
 
 Major Gifts & Endowment
 =======================

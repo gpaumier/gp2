@@ -1,7 +1,7 @@
 .. title: Fonctionnalisation de surface pour immunotests à fluorescence & microsystèmes
 .. subtitle: Immuno-test sur chimie CEA-2 et fonctionnalisation CEA-2 en phase vapeur
 .. category: projects-fr-featured
-.. slug: biochips
+.. slug: biopuces
 
 
 .. figure:: /images/DNA_microarray_23.svg
@@ -15,6 +15,8 @@
    Les biopuces en microréseaux contiennent des milliers de points avec des sondes biologiques, comme de l'ADN ou des protéines, fixées à la surface par une couche chimique. Elles reposent sur la fluorescence et permettent aux scientifiques de tester de nombreux échantillons différents en parallèle.
 
    Mon objectif était d'adapter un test biologique antigène-anticorps, développé dans des capillaires, à un format planaire conçu pour les biopuces à ADN. J'ai réuni ces deux techniques et me suis associé à des laboratoires voisins pour étudier cette interaction biologique à l'aide de fluorescence en temps réel, de lasers, et de neutrons. J'ai également adapté le protocole pour qu'il fonctionne dans des microsystèmes fragiles utilisés pour la préparation d'échantillons et l'analyse de protéines.
+
+----
 
 Vue d'ensemble
 ==============

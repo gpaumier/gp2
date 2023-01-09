@@ -124,7 +124,7 @@ My most recent work at the Wikimedia Foundation has focused on long-term thinkin
 .. sidebar::
    :class: rowstart-7
 
-   In the Star Trek universe, ship's counselors, like Commander Deanna Troi in *Star Trek: The Next Generation*, are particularly empathetic individuals responsible for the mental well-being of the crew. They provide advice and emotional support, and help resolve disputes. (Read more on `Memory Alpha <https://memory-alpha.fandom.com/wiki/Counselor>`__, the Star Trek wiki.)
+   In the Star Trek universe, ship counselors, like Commander Deanna Troi in *Star Trek: The Next Generation*, are particularly empathetic individuals responsible for the mental well-being of the crew. They provide advice and emotional support, and help resolve disputes. (Read more on `Memory Alpha <https://memory-alpha.fandom.com/wiki/Counselor>`__, the Star Trek wiki.)
 
 
 ----

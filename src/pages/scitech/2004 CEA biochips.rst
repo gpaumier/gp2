@@ -24,6 +24,7 @@
 
    My goal was to adapt an antigen-antibody biological test, which had been developed in capillaries, to a planar format designed for DNA biochips. I brought these two techniques together and partnered with nearby labs to study this biological interaction with real-time fluorescence, lasers, and neutrons. I also adapted the protocol to work in fragile microsystems used in the preparation of samples and the analysis of proteins.
 
+----
 
 Overview
 ========
@@ -148,6 +149,7 @@ The CEA-2 protocol is an established way to attach biological molecules to surfa
 
       In technical terms, after a surface activation in a basic environment, the silanization binds 5,6-epoxyhexyltriethoxysilane to the surface and creates Si--O--Si bonds. The silane's epoxide function is then opened into a diol function by acid hydrolysis. The last step, which consists in oxidizing the diol into an aldehyde, is done immediately before grafting biological probes, whose amine functions bind to the silane's aldehyde.
 
+----
 
 Antibody microarray on CEA-2 protocol
 =====================================
@@ -205,6 +207,8 @@ Parameter study & protocol optimization
 Biological tests, and immunoassays in particular, can be difficult to control because they depend on so many different parameters: duration and temperature of the successive steps, humidity, blocking proteins, buffers, etc. In order to increase the reproducibility of our tests, I worked with fellow engineer Isabelle Mingam to study those parameters and optimize them for the most consistent results.
 
 The tests confirmed the need for blocking proteins to limit background noise, and a small amount of glycerol to limit the evaporation of droplets. We also found out that the drying step, done by centrifuge for DNA microarrays in the lab, might be too strong for antibodies: a softer drying method better preserved their integrity, in particular their antigen-binding site (paratope) needed to recognize and attach molecules of interest.
+
+----
 
 Alternative detection methods
 =============================
@@ -323,6 +327,7 @@ LMN1 peptide + BSA + control antibody    5.7              1.2     1.2
 
    Confirming the presence of the mixed layer of antigens and blocking protein would require deuterating one of those two substances, meaning replacing hydrogen by its heavier isotope, deuterium, to vary their contrast. To avoid the possible denaturation of antibodies, preparing buffers using D\ :subscript:`2`\ O and silicon-matched water would provide contrast while preserving a physiological environment adapted to biological molecules. Although I wasn't able to conduct these follow-up experiments before the end of my contract, I still felt privileged to have been able to glimpse into this entirely different field of physics.
 
+----
 
 Vapor-phase silanization for proteomics
 =======================================
@@ -420,6 +425,7 @@ The experiment was a success, with the antigens attaching to their specific anti
          * Antibody mAb SP31 1 μM, 10% glycerol
          * Control antibody Il2-73 1 μM, 10% glycerol
 
+----
 
 Peptidic digestion & Mass spectrometry
 ======================================

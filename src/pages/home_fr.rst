@@ -1,14 +1,14 @@
 .. title: Accueil
 .. slug: index
 .. subtitle: Je demêle les choses et je les réassemble en leur donnant du sens.
-.. h1-override: Bonjour, je m'appelle Guillaume..
+.. h1-override: Bonjour, je m'appelle Guillaume.
 
 .. figure:: /images/2017-08-20_GPaumier_warm.jpg
    :figclass: lead-figure
 
 .. highlights::
 
-   Bonjour à tous ; je suis Guillaume Paumier. Dans mon travail, je résous des problèmes techniques et sociaux complexes, par exemple en organisant un processus de stratégie collaborative pour un mouvement social de plus de 70 000 bénévoles.\ [#Wikimedia2030]_ Ou en développant des dispositifs microfluidiques de bioanalyse à base de polymères thermosensibles.\ [#PNIPAM]_ Ou en concevant le logiciel derrière le plus grand concours de photographie au monde.
+   Bonjour à tou·te·s ; je suis Guillaume Paumier. Dans mon travail, je résous des problèmes techniques et sociaux complexes, par exemple en organisant un processus de stratégie collaborative pour un mouvement social de plus de 70 000 bénévoles.\ [#Wikimedia2030]_ Ou en développant des dispositifs microfluidiques de bioanalyse à base de polymères thermosensibles.\ [#PNIPAM]_ Ou en concevant le logiciel derrière le plus grand concours de photographie au monde.
 
    Je passe beaucoup de temps à réfléchir sur les sujets de la connaissance, du temps, et des dynamiques de pouvoir. Je sers également comme agent de confiance, éminence grise, et partenaire de réflexion pour les dirigeants. Je travaille actuellement à la Wikimedia Foundation, l'organisation à but non lucratif qui apporte la connaissance à des centaines de millions de personnes chaque mois, et leur permet de travailler ensemble pour donner un sens au monde dans lequel nous vivons.
 
@@ -48,7 +48,7 @@ Je suis capable d'absorber d'énormes quantités d'informations sur presque tous
 
 Je communique en faisant preuve de beaucoup de curiosité : je pose de nombreuses questions pour en savoir plus sur un problème, le déconstruire, et identifier les hypothèses sous-jacentes. Je cherche souvent à comprendre le « pourquoi » et j'essaie de corriger mes convictions si je reçois de nouvelles informations. Lorsque deux choix opposés ne sont pas satisfaisants, j'essaie d'en trouver un troisième.\ [#CreatingGreatChoices]_ Je suis rarement attaché à une réponse particulière, et je préfère plutôt résoudre un problème ensemble en utilisant la méthode socratique.
 
-.. [#CreatingGreatChoices] Ce processus me vient naturellement, mais Roger Martin et Jennifer Riel l'appellent « pensée intégrative » dans leur livre de 2017, *Creating Great Choices : A Leader's Guide to Integrative Thinking* (Harvard Business Review Press. ISBN 978-1633692961). Leur travail s'appuie sur le livre précédent de Roger Martin, *The Opposable Mind*, qui décrit les personnes capables d'« avoir deux idées opposées en tête en même temps, puis de parvenir à une synthèse qui améliore réellement chacune d'elles." (Harvard Business Review Press, 2007. ISBN 978-1422118924).
+.. [#CreatingGreatChoices] Ce processus me vient naturellement, mais Roger Martin et Jennifer Riel l'appellent « pensée intégrative » dans leur livre de 2017, *Creating Great Choices : A Leader's Guide to Integrative Thinking* (Harvard Business Review Press. ISBN 978-1633692961). Leur travail s'appuie sur le livre précédent de Roger Martin, *The Opposable Mind*, qui décrit les personnes capables d'« avoir deux idées opposées en tête en même temps, puis de parvenir à une synthèse qui améliore réellement chacune d'elles. » (Harvard Business Review Press, 2007. ISBN 978-1422118924).
 
 ----
 
@@ -130,14 +130,14 @@ Ingénieur et physicien de formation, j'ai toujours voulu comprendre comment les
 
 Il y a longtemps, j'ai d'abord étudié les mathématiques et l'informatique avant de me tourner vers l'ingénierie physique et d'obtenir un double diplôme en matériaux & semiconducteurs et en nanotechnologie. Je me suis ensuite spécialisé dans la recherche et le développement interdisciplinaires, en combinant les technologies et les outils de la fabrication microélectronique dans des environnements de salles blanches, avec les méthodes et les problèmes de chimie et de biologie.
 
-Pendant mon séjour au CEA-Léti, j'ai développé des :doc:`procédés chimiques pour les biopuces <biochips>`, et j'ai adapté un immunotest en capillaire à un substrat planaire sur lame de verre. J'ai également mis au point un protocole de silanisation en phase vapeur destiné à être utilisé dans des microsystèmes de digestion peptidique.
+Pendant mon séjour au CEA-Léti, j'ai développé des :doc:`procédés chimiques pour les biopuces <biopuces>`, et j'ai adapté un immunotest en capillaire à un substrat planaire sur lame de verre. J'ai également mis au point un protocole de silanisation en phase vapeur destiné à être utilisé dans des microsystèmes de digestion peptidique.
 
 .. class:: rowstart-3 rowspan-2
 .. sidebar::
 
    .. figure:: /images/Biochips_236-29_532s.jpg
 
-      :doc:`Immunotest à fluorescence avec l'anticorps mAb SP31 <biochips>` (rangées 1 & 2) et l'anticorps témoin Il2-73 (rangée 3), fixés sur une couche de silane greffée par fonctionnalisation CEA-2 en phase liquide.
+      :doc:`Immunotest à fluorescence avec l'anticorps mAb SP31 <biopuces>` (rangées 1 & 2) et l'anticorps témoin Il2-73 (rangée 3), fixés sur une couche de silane greffée par fonctionnalisation CEA-2 en phase liquide.
 
 En 2008, j'ai terminé mon doctorat au LAAS-CNRS, où j'ai travaillé sur les dispositifs microfluidiques pour l'analyse chimique et biologique. J'ai développé des :doc:`technologies basées sur le PNIPAM <pnipam>`, un polymère dont les propriétés changent avec la température. J'ai également exploré des applications comme le contrôle électro-osmotique et la préparation d'échantillons pour la chromatographie nano-liquide, par adsorption et libération contrôlées de protéines.
 

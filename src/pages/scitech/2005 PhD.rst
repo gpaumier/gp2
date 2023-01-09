@@ -24,6 +24,7 @@
 
    Using techniques developed for microelectronics, researchers are able to miniaturize entire lab functions to the size of a microchip, paving the way for cheap, reliable testing kits and biomedical devices that fit in your pocket. However, shrinking a whole lab onto a chip changes the balance of physical forces, and how liquids behave at the microscale.
 
+----
 
 Overview
 ========
@@ -59,6 +60,7 @@ Technical abstract
 
       --- Dr. F. Sedat Tardu, Laboratoire des Écoulements Géophysiques et Industriels, 2008.
 
+----
 
 Honey, I shrunk the lab.
 ========================
@@ -106,15 +108,15 @@ Test kits integrated on a chip are often portable and usable by people with limi
       Microfluidic devices developed at NIST. G. Cooksey, NIST: `1 <https://commons.wikimedia.org/wiki/File:Microfluidic_palette_(5880463875).jpg>`__, `2 <https://commons.wikimedia.org/wiki/File:Microfluidic_Device_(6842746147).jpg>`__, Public domain // Frank Schwemmer et al. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:LabDisk_for_SAXS.gif>`__ (3), `CC BY 3.0 <https://creativecommons.org/licenses/by/3.0/legalcode>`__.
 
 
+----
+
 Microfluidics
 =============
-
 
 .. figure:: /images/Maple_leaf_structure.jpg
    :alt: Photograph of three maple leaves showing their network of veins. The rest of the leaf has been removed with a semiconductor etch.
 
    `Steve Jurvetson <https://www.flickr.com/people/jurvetson/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Maple_leaf_structure.jpg>`__ // `CC BY 2.0 <https://creativecommons.org/licenses/by/2.0/legalcode>`__.
-
 
 In nature, the capillary action inside the tiny veins of a plant manages to overcome the force of gravity to draw water upwards to its leaves. Similarly, shrinking a whole lab onto a chip changes the balance of physical forces, and how liquids behave at the microscale.
 
@@ -159,6 +161,7 @@ More complex microfluidic functions include magnetic or optical elements coming 
 
       * :math:`ν` is the kinematic viscosity of the fluid (m²/s).
 
+----
 
 PNIPAM
 ======
@@ -204,6 +207,7 @@ The simplest way to describe PNIPAM is as a goey substance that changes when it 
 
 While there are some uses for PNIPAM in liquid solutions, it often needs to be grafted to a surface. Attaching chemical molecules to a surface is a broad field of chemistry known as *surface functionalization*.
 
+----
 
 Surface functionalization
 =========================
@@ -282,6 +286,7 @@ Measuring the angle of a droplet of water is limited in the amount of informatio
 
 Using Attenuated total reflectance infrared spectroscopy (ATR-IR) and Fourier-transform infrared spectroscopy (FTIR), our colleagues were able to confirm the presence of chemisorbed PNIPAM and its grafting silane layer.
 
+----
 
 Controlling surface properties with PNIPAM
 ==========================================
@@ -363,6 +368,7 @@ The temperature study of the electro-osmotic flow in microchannels coated with P
 
 .. Thèse Bertrand Marty: http://thesesups.ups-tlse.fr/696/
 
+----
 
 Microfluidic chip
 =================
@@ -409,6 +415,7 @@ The microfluidic device therefore consists of a flexible, transparent PDMS molde
 
    3D model of the molded PDMS chip on a glass substrate (left) and close-up on the entropic trap and the flat center section (right). The yellow line represents the Joule heating element.
 
+----
 
 Heating elements
 ================
@@ -477,6 +484,7 @@ After building the heating element, I measured the temperature using an infrared
 
 Other materials could be investigated to improve the heating element, e.g. polysilicum that would generate heat at lower volage. Gold and polysilicium are both opaque, but there are different ways to maintain transparency for biological applications. For example, indium tin oxide (ITO) is a transparent material that conducts electricity. Another solution is a more elaborate design, based on parallel opaque resistors on each side of the channel.
 
+----
 
 Catching proteins
 =================

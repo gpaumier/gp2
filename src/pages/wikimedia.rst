@@ -74,6 +74,7 @@ I lead :doc:`Revenue Strategy research <wikimedia-revenue-strategy>` and the dev
 
    :doc:`learn more about my current work <advancement>`
 
+----
 
 Wikimedia 2030
 --------------
@@ -129,6 +130,7 @@ This is something I started to ponder `back in 2010 </fr/articles/reference-nece
 
 Wikipedians organize, weigh, and contextualize facts; as a collective, they constitute a formidable sensemaking engine. Wikipedia, as a website, is merely the current manifestation and artifact of that ethos.
 
+----
 
 Working as a community
 ----------------------
@@ -162,6 +164,7 @@ While mostly reminiscent of 18th- and 19th-century rural North America, barn rai
 
 Wikis are built by people coming together to achieve something that one person couldn't do alone. Most human endeavors are no different; it takes a collective effort to carry our burdens together, and build in the wiki spirit of good-faith collaboration. Only then can we raise the barn as a community.
 
+----
 
 Stating our Values
 ------------------
@@ -204,6 +207,8 @@ Keeping a history of nearly everything is central to the Wikipedia culture. Some
       My adaptation of the "`X all the things <https://knowyourmeme.com/memes/all-the-things>`__" meme, based on the original artwork by `Hyperbole and a Half <http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html>`__ (all rights reserved).
 
 The obsession of Wikipedians with documentation and record-keeping is both a blessing and a curse when it comes to studying the history of the Wikimedia movement. A blessing because hardly anything ever disappears completely from the archives of the site. A curse because the overabundance of historical artifacts and documents makes wikiarchaeology a relentless exercise in endurance, perseverance, and often luck.
+
+----
 
 Who documents the documenters?
 ------------------------------
@@ -265,6 +270,7 @@ In this role, I also produced a research report on the `roles performed by Wikip
 
 .. TODO: Ajouter image et note à propos de Systems Dynamics https://meta.wikimedia.org/wiki/User:Guillaume_(WMF)/Dynamics_of_Wikimedia_systems
 
+----
 
 Multimedia usability project
 ----------------------------
@@ -299,6 +305,8 @@ As of January 2023, UploadWizard has been used to upload over 20 million files t
 
 .. 2023-01-02 tally: 20,231,516 files uploaded with UW
 .. Quarry link for future updates: https://quarry.wmcloud.org/query/42025
+
+----
 
 Technical writing
 -----------------
@@ -345,7 +353,6 @@ Community organizing
 
 Wikimedia affiliates are local and thematic organizations that organize events and run programs to support Wikipedia and its sister sites. I got involved with Wikimedia France in 2006, and later organized one of the first annual meetings of Wikimedia affiliates in Berlin.
 
-
 Wikimédia France
 ----------------
 
@@ -362,6 +369,7 @@ As a Board member, and later also Secretary, I focused on transparency, efficien
 
 .. TODO: :doc:`the first of many <speaking>`
 
+----
 
 Wikimedia Chapters conference 2009
 ----------------------------------
@@ -406,6 +414,7 @@ I created and designed corporate documents and graphics, such as press kits and 
 
 .. https://wikimania2007.wikimedia.org/wiki/File:Wikimania_2007_Presskit.pdf
 
+----
 
 Volunteer response team (VRT)
 -----------------------------
@@ -464,6 +473,8 @@ I quickly moved on to reverting damaging edits made by vandals, contributing to 
       The avatar of the Seven-League Bot was Gustave Doré's 19th century engraving of *Le chat botté* (Puss in Boots). `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Gustave_Dore_le_chat_botte.jpg>`__ // Public domain.
 
 Since then, I have made over 50,000 edits across hundreds of Wikimedia wikis, and I have spent most of my professional career supporting the Wikimedia movement in various roles. I still occasionally make the odd edit when I come across something I can fix on a Wikipedia page.
+
+----
 
 Crosswiki service work
 ----------------------

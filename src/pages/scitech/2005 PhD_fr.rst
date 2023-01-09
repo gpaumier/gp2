@@ -30,11 +30,11 @@ Résumé technique
 
 .. container:: technical-abstract
 
-   Les laboratoires sur puce sont des dispositifs intégrés rassemblant, sur un subtrat miniaturisé, une ou plusieurs fonctions de laboratoire, généralement dédiées à la manipulation d'échantillons chimiques oubiologiques. L'objectif de ces travaux est l'intégration dans les microsystèmes d'un polymère intelligent, le poly(*N*-isopropylacrylamide) (PNIPAM), afin de développer une nouvelle filière technologique pour les laboratoires sur puce.
+   Les laboratoires sur puce sont des dispositifs intégrés rassemblant, sur un subtrat miniaturisé, une ou plusieurs fonctions de laboratoire, généralement dédiées à la manipulation d'échantillons chimiques ou biologiques. L'objectif de ces travaux est l'intégration dans les microsystèmes d'un polymère intelligent, le poly(*N*-isopropylacrylamide) (PNIPAM), afin de développer une nouvelle filière technologique pour les laboratoires sur puce.
    
    Le PNIPAM est un polymère thermosensible subissant un changement réversible, d'un état hydrophile et gonflé sous sa température de transition (LCST ~ 32°C) à un état hydrophobe et replié au-delà. La technologie développée repose sur des éléments chauffants et un protocole de greffage du PNIPAM sur des surfaces.
    
-   Nos travaux montrent que le contrôle thermique du PNIPAM permet de moduler le flux électro-osmotique, ouvrant ainsi la voie au développement de mélangeurs électrocinétiques. Ce contrôle permet également l'accrochage, partiellement réversible, de protéines sur des billes fonctionnalisées,pour des applications dans le domaine de la préparation d'échantillon.
+   Nos travaux montrent que le contrôle thermique du PNIPAM permet de moduler le flux électro-osmotique, ouvrant ainsi la voie au développement de mélangeurs électrocinétiques. Ce contrôle permet également l'accrochage, partiellement réversible, de protéines sur des billes fonctionnalisées, pour des applications dans le domaine de la préparation d'échantillon.
 
 ----
 
