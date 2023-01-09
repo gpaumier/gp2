@@ -40,4 +40,4 @@ Résumé technique
 
 ----
 
-En attendant que je traduise le reste de cette page, vour pouvez consulter sa `version en anglais </scitech/biochips>`__.
+En attendant que je traduise le reste de cette page, vous pouvez consulter sa `version en anglais </scitech/biochips>`__.
