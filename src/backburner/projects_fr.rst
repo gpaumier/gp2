@@ -4,7 +4,7 @@
 
 .. highlights::
 
-    J’aime faire des trucs.
+    J'aime faire des trucs.
 
 Je suis actuellement (septembre 2016) en train de parcourir mes archives afin de résumer les projets que j'ai menés au fil des ans. J'ai commencé par en rédiger quelques uns en anglais ; si vous comprenez la langue de Shakespeare, vous pouvez les consulter en attendant que je finisse de les traduire dans celle de Molière.
 

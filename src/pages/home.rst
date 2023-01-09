@@ -171,9 +171,9 @@ Playfulness & Creativity
 
 Over the years, I've dabbled in archery, ballet, martial arts, stage acting, fencing, ballroom dancing, playwriting, photography, and singing. These days, I enjoy powerlifting, reading, hiking, writing, learning new languages, and discovering new places and new cultures.
 
-I like to do things with my hands and move my body around. Whether it’s building things, folding paper, hiking, tending to plants, lifting heavy weights, doing pirouettes, belting out songs, or kneading bread, it provides an escape from intellectual work and intense thinking.
+I like to do things with my hands and move my body around. Whether it's building things, folding paper, hiking, tending to plants, lifting heavy weights, doing pirouettes, belting out songs, or kneading bread, it provides an escape from intellectual work and intense thinking.
 
-I like to let my mind wander; it’s often when I focus on my body and let my brain work out problems subconsciously that epiphanies happen. Playfulness and fun are great sources of inspiration and creativity.
+I like to let my mind wander; it's often when I focus on my body and let my brain work out problems subconsciously that epiphanies happen. Playfulness and fun are great sources of inspiration and creativity.
 
 .. class:: continue-reading
 

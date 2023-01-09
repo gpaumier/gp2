@@ -15,7 +15,7 @@
 
 En anglais, « *free* » signifie à la fois « libre » (comme dans *freedom*, liberté) et « gratuit » (comme dans *free sample*, échantillon gratuit). `Cette ambiguïté <http://en.wikipedia.org/wiki/Gratis_versus_Libre>`__ a toujours rendu la vie difficile aux personnes qui tentent d'expliquer ce qu'est le `logiciel libre <http://www.framasoft.net/article4127.html>`__ ou le contenu libre. Un logiciel libre n'est pas forcément gratuit, et un logiciel gratuit n'est pas forcément libre.
 
-Les francophones s'estiment souvent bien contents de ne pas avoir ce problème d’ambiguïté ; expliquer ce qu'est une licence libre est suffisamment compliqué pour ne pas, de surcroît, rajouter des ambiguïtés sémantiques.
+Les francophones s'estiment souvent bien contents de ne pas avoir ce problème d'ambiguïté ; expliquer ce qu'est une licence libre est suffisamment compliqué pour ne pas, de surcroît, rajouter des ambiguïtés sémantiques.
 
 Le problème est que les francophones ont leur propre ambiguïté, basée sur l'expression « **libre de droits** ». « Libre de droits » est une traduction de l'anglais « |royalty free|_ » qui désigne un système de gestion des `redevances <http://fr.wikipedia.org/wiki/Redevance>`__, utilisé dans le domaine de l'édition et de la presse. Il s'oppose généralement au système de « droits gérés » (« |rights managed|_ », en anglais).
 

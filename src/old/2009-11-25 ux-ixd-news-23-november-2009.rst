@@ -5,7 +5,7 @@
 .. tags: Wikimedia
 .. keywords: Multimedia usability, UX, Design, Wikimedia
 .. image: /images/2009-11-25_Japanese_Cast_Iron_Tea_Kettle_by_Steven_Depolo.jpg
-.. image-caption: 418 — “I’m a teapot.”
+.. image-caption: 418 — “I'm a teapot.”
 
 
 .. highlights::

@@ -30,11 +30,11 @@ Résumé technique
 
 .. container:: technical-abstract
 
-   Au cours de cette étude, nous avons transposé sur support plan un test immunologique utilisé au format capillaire au LÉRI (CEA-Saclay). Le modèle biologique choisi concerne un neuropeptide, la substance P (SP), et l’anticorps monoclonal anti-SP mAb SP31.
+   Au cours de cette étude, nous avons transposé sur support plan un test immunologique utilisé au format capillaire au LÉRI (CEA-Saclay). Le modèle biologique choisi concerne un neuropeptide, la substance P (SP), et l'anticorps monoclonal anti-SP mAb SP31.
 
    Le greffage de ces molécules a été effectué sur des lames de verre fonctionnalisées avec la chimie de surface CEA-2, développée au CEA-Léti et basée sur le 5,6-époxyhexyltriéthoxysilane. Les protéines et peptides se fixent de façon covalente aux fonctions aldéhyde du silane par leurs terminaisons amine NH\ :sub:`2`. Deux voies possibles ont été testées : greffage des anticorps et reconnaissance par des antigènes marqués (fluorophores), puis greffage des peptides et reconnaissance par des anticorps marqués. Le greffage des sondes biologiques (anticorps ou antigènes) sur la surface, ainsi que les étapes de reconnaissance avec la cible en solution, ont été optimisés.
 
-   Afin de faciliter le transfert de ce procédé dans les microsystèmes, nous avons développé un protocole de silanisation CEA-2 en phase vapeur. Il a été caractérisé par mesure d’angle de contact et microscopie à force atomique. Son optimisation et sa validation sur lames de verre avec notre modèle anticorps-antigène a permis son transfert vers les microsystèmes pour la protéomique. En particulier, nous avons inité une étude sur la silanisation en phase vapeur dans les réacteurs de digestion peptidique développés dans le cadre du projet Biochiplab.
+   Afin de faciliter le transfert de ce procédé dans les microsystèmes, nous avons développé un protocole de silanisation CEA-2 en phase vapeur. Il a été caractérisé par mesure d'angle de contact et microscopie à force atomique. Son optimisation et sa validation sur lames de verre avec notre modèle anticorps-antigène a permis son transfert vers les microsystèmes pour la protéomique. En particulier, nous avons inité une étude sur la silanisation en phase vapeur dans les réacteurs de digestion peptidique développés dans le cadre du projet Biochiplab.
 
 ----
 

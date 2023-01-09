@@ -9,7 +9,7 @@
 
 .. highlights::
 
-    I recently had to investigate how to customize the “meta” widget provided by WordPress. I couldn’t find a good how-to at the time, so I wanted to share how I did it, in case other people needed to do the same.
+    I recently had to investigate how to customize the “meta” widget provided by WordPress. I couldn't find a good how-to at the time, so I wanted to share how I did it, in case other people needed to do the same.
 
 
 .. note::

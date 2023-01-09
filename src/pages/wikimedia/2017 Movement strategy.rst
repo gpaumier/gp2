@@ -325,7 +325,7 @@ When drafting this first version of the strategic direction, I chose intentional
 
 I had another goal for using simple language and relying on metaphors: I wanted the strategic direction to be easily translatable to other languages and cultural contexts. It was reasonable to assume that all languages had ways to convey universal meanings like "roads," "bridges," "villages," "journey," "tools," "shapes," and "colors:"
 
-  The strategic direction of the Wikimedia movement for 2030 is to become the roads, bridges, and villages that support the world’s journey towards free knowledge. We, the Wikimedia movement, will forge the tools and build the foundations for creating and accessing trusted knowledge in many shapes and colors. ...\ [#DirectionWikimania]_
+  The strategic direction of the Wikimedia movement for 2030 is to become the roads, bridges, and villages that support the world's journey towards free knowledge. We, the Wikimedia movement, will forge the tools and build the foundations for creating and accessing trusted knowledge in many shapes and colors. ...\ [#DirectionWikimania]_
 
 The "roads and bridges" were a direct reference to Nadia Eghbal's excellent research report for the Ford Foundation, in which she described the importance of the free and open-source code infrastructure "on which all of digital society relies."\ [#EghbalRoadsBridges]_ I used the same metaphor to describe the knowledge infrastructure that Wikimedia was aspiring to, and added the "villages" to highlight the central role of communities in the movement.
 

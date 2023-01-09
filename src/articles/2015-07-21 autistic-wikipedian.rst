@@ -146,7 +146,7 @@ Autistic people are characterized by many different traits, but one of the most 
 
 Liane Holliday Willey, an autistic author and speaker, once summarized it this way:
 
-    You wouldn’t need a Theory of Mind if everyone spoke their mind.
+    You wouldn't need a Theory of Mind if everyone spoke their mind.
 
     --- Liane Holliday Willey [4]_
 

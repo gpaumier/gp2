@@ -29,11 +29,11 @@ There has been much interest in the academic world about "Who writes Wikipedia?'
 
 .. [#] \E. H. Chi, N. Kittur, B. Pendleton, and B. Suh. `Long tail of user participation in Wikipedia <http://asc-parc.blogspot.com/2007/05/long-tail-and-power-law-graphs-of-user.html>`__.
 
-.. [#] \R. Priedhorsky, J. Chen, S. T. K. Lam, K. Panciera, L. Terveen, and J. Riedl. Creating, destroying, and restoring value in Wikipedia. In *GROUP’07: Proceedings of the 2007 international ACM conference on Supporting group work*, pages 259–268, New York, NY, USA, 2007. ACM. (`PDF <http://www-users.cs.umn.edu/~reid/papers/group282-priedhorsky.pdf>`__, 250KB)
+.. [#] \R. Priedhorsky, J. Chen, S. T. K. Lam, K. Panciera, L. Terveen, and J. Riedl. Creating, destroying, and restoring value in Wikipedia. In *GROUP'07: Proceedings of the 2007 international ACM conference on Supporting group work*, pages 259–268, New York, NY, USA, 2007. ACM. (`PDF <http://www-users.cs.umn.edu/~reid/papers/group282-priedhorsky.pdf>`__, 250KB)
 
 .. [#] \C. Roth, D. Taraborelli, and N. Gilbert. Measuring wiki viability. An empirical assessment of the social dynamics of a large sample of wikis. In *Proceedings of the 4th International Symposium on Wikis - WikiSym2008*, New York, NY, USA, 2008. ACM. (`PDF <http://epubs.surrey.ac.uk/cgi/viewcontent.cgi?article=1021&context=cress>`__, 311KB)
 
-.. [#] \C. Roth. Viable wikis: Struggle for life in the wikisphere. In *WikiSym’07: Proceedings of the 2007 international symposium on Wikis*, pages 119–124, New York, NY, USA, 2007. ACM. (`PDF <http://www.patres-project.eu/images/4/47/ViableWikis.pdf>`__, 334KB)
+.. [#] \C. Roth. Viable wikis: Struggle for life in the wikisphere. In *WikiSym'07: Proceedings of the 2007 international symposium on Wikis*, pages 119–124, New York, NY, USA, 2007. ACM. (`PDF <http://www.patres-project.eu/images/4/47/ViableWikis.pdf>`__, 334KB)
 
 .. class:: rowstart-3 rowspan-4
 

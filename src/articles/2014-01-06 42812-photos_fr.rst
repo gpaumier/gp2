@@ -9,7 +9,7 @@
 
 .. highlights::
 
-    42 812. C’est le nombre de fichiers qui résident actuellement dans mon dossier « photos ». Ces images représentent le résultat de sept années de photographie, sur trois continents, et sont témoins de l’évolution au fil des ans de mes goûts, mon degré d’expérience et mon matériel. Cette mosaïque marque l’inauguration de la partie « galerie » de ce site, où je vais partager les photos que j’aime le plus.
+    42 812. C'est le nombre de fichiers qui résident actuellement dans mon dossier « photos ». Ces images représentent le résultat de sept années de photographie, sur trois continents, et sont témoins de l'évolution au fil des ans de mes goûts, mon degré d'expérience et mon matériel. Cette mosaïque marque l'inauguration de la partie « galerie » de ce site, où je vais partager les photos que j'aime le plus.
 
 
 Pour être honnête, un grand nombre de photos qui occupent mon disque dur sont similaires. Je prends souvent des séries de photos quasi identiques afin d'augmenter la probabilité qu'il y en aura au moins une d'acceptable dans le lot. C'est notamment le cas, par exemple, lorsque je prends des photos dans un endroit peu éclairé, ou lorsque je photographie un sujet en mouvement, que ce soit un avion qui voltige, un écureuil qui court ou un politicien qui discourt. Il y a aussi de réels doublons dus à des conversions de format.

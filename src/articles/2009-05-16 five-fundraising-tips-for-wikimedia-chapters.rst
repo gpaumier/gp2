@@ -7,7 +7,7 @@
 
 .. highlights::
 
-    Last year, I started to learn about fundraising. Originally, I did it because I intended to use what I would learn to improve Wikimedia France’s management of fundraising. I eventually distanced myself from Wikimedia France for various reasons, but I figured I’d still share a few thoughts that may prove useful to all chapters. Although this article is mainly Wikimedia-focused, the general principles are universal.
+    Last year, I started to learn about fundraising. Originally, I did it because I intended to use what I would learn to improve Wikimedia France's management of fundraising. I eventually distanced myself from Wikimedia France for various reasons, but I figured I'd still share a few thoughts that may prove useful to all chapters. Although this article is mainly Wikimedia-focused, the general principles are universal.
 
 
 1. Do your research

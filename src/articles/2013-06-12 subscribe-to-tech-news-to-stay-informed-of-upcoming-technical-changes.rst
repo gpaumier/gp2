@@ -13,7 +13,7 @@
 
 .. highlights::
 
-    If you’ve ever wanted to be kept informed of technical changes likely to impact your Wikimedia experience, you'll want to subscribe to Tech News, a weekly newsletter than can be delivered directly to your talk page.
+    If you've ever wanted to be kept informed of technical changes likely to impact your Wikimedia experience, you'll want to subscribe to Tech News, a weekly newsletter than can be delivered directly to your talk page.
 
 .. figure:: /images/2013-06-12_tech_news_en.png
    :figclass: framed

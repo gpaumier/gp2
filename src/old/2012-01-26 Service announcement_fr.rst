@@ -4,7 +4,7 @@
 
 .. highlights::
 
-    Ce site a bénéficié d’un grand ménage de printemps (un peu en avance).
+    Ce site a bénéficié d'un grand ménage de printemps (un peu en avance).
 
 
 Ce site a été en hibernation depuis environ un an. Je travaille à une nouvelle version du site, et je ne voulais donc pas consacrer beaucoup de temps à réparer la version actuelle. L'inconvénient est que, du coup, il était difficile de publier sur un site à moitié cassé.

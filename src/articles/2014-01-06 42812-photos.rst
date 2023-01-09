@@ -10,7 +10,7 @@
 
 .. highlights::
 
-    42,812. That’s the number of files currently residing in my “photos” folder. They span seven years of photography, three continents, and an evolving mix of taste, experience and equipment. This mosaic marks the inauguration of the gallery section of this site, where I’ll be sharing the pictures I like the most.
+    42,812. That's the number of files currently residing in my “photos” folder. They span seven years of photography, three continents, and an evolving mix of taste, experience and equipment. This mosaic marks the inauguration of the gallery section of this site, where I'll be sharing the pictures I like the most.
 
 
 To be fair, many of the photos sitting in my hard drive are similar to each other. I often take series of nearly-identical pictures to increase the likelihood of getting at least one good shot out of the lot. This can be, for example, when taking photos in low light without stabilization, or when photographing a moving subject like a flying plane, a running squirrel or a babbling politician. There's also, in the lot, quite a bit of actual duplicates that exist in different formats.

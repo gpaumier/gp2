@@ -37,4 +37,4 @@ My other main focus was on content: I scheduled communications, created original
 
 • I supported engineering staff in communicating on their accomplishments through various channels, notably the Wikimedia Blog. I scheduled and reviewed articles on a wide variety of topics, from general updates to unapologetically technical, in-depth, industry-focused posts.
 
-• I coordinated the writing of a chapter on the architecture of MediaWiki, for inclusion in the ‘Architecture of Open Source Applications’ book. Pulling information from multiple sources, I hierarchized and organized content into a logical, up-to-date and comprehensive description of Wikipedia's software.
+• I coordinated the writing of a chapter on the architecture of MediaWiki, for inclusion in the ‘Architecture of Open Source Applications' book. Pulling information from multiple sources, I hierarchized and organized content into a logical, up-to-date and comprehensive description of Wikipedia's software.

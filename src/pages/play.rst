@@ -209,7 +209,7 @@ I used to find the piles of unread books daunting, until I learned about Umberto
 
 .. sidebar::
 
-   .. [#antilibrary] `Umberto Eco’s Antilibrary: Why Unread Books Are More Valuable to Our Lives than Read Ones <https://www.themarginalian.org/2015/03/24/umberto-eco-antilibrary/>`__. Maria Popova. The Marginalian, 2015.
+   .. [#antilibrary] `Umberto Eco's Antilibrary: Why Unread Books Are More Valuable to Our Lives than Read Ones <https://www.themarginalian.org/2015/03/24/umberto-eco-antilibrary/>`__. Maria Popova. The Marginalian, 2015.
 
    .. [#tsundoku] `Tsundoku <https://en.wikipedia.org/wiki/Tsundoku>`__ (積ん読) is Japanese slang for the practice of "acquiring reading materials but letting them pile up in one's home without reading them."
 

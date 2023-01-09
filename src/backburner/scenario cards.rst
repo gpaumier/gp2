@@ -113,7 +113,7 @@ Unstable Asia
 
    Unstable Asia
 
-* China’s ambitions for control and expansion increases geopolitical tensions in the South China Sea.
+* China's ambitions for control and expansion increases geopolitical tensions in the South China Sea.
 * Earthquakes, tsunamis, and violent storms further destabilize the region.
 * Border skirmish between India and Pakistan escalates into a larger regional conflict.
 
@@ -168,7 +168,7 @@ Wikipedia is everywhere online
 
    Wikipedia is everywhere online
 
-* Wikimedia’s opulence enabled its content to become more accessible and embeddable into all the major devices and experiences that have emerged in the past ten years.
+* Wikimedia's opulence enabled its content to become more accessible and embeddable into all the major devices and experiences that have emerged in the past ten years.
 * Knowledge is more structured, bite-sized, and media-driven.
 * The concept of the encyclopedia has now disappeared.
 
@@ -200,13 +200,13 @@ Exploitation of the digital commons
 
 `Ibama <https://www.flickr.com/people/145872537@N06>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Terra_Ind%C3%ADgena_Pirititi,_Roraima_(42409980882).jpg>`__ // `CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__.
 
-Wikipedia’s disappearing act
+Wikipedia's disappearing act
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: /images/Große_Linde_bei_Teuchatz_P1320563-PS.jpg
    :figwidth: 30em
 
-   Wikipedia’s disappearing act
+   Wikipedia's disappearing act
 
 * As the margins of big tech corporations waned, so did their scruples and seemingly benevolent intentions. Their smaller size made them both more desperate and less subject to scrutiny
 * Tech corporations are aggressively exploiting the digital commons without any desire to invest in its long-term sustainability.
@@ -280,7 +280,7 @@ Machines become smarter
 
    Machines become smarter
 
-* Third-party corporations don’t even need new content from Wikipedia any more.
+* Third-party corporations don't even need new content from Wikipedia any more.
 * Machines can automatically assemble information that is more relevant, more local, and more timely than what humans can produce.
 * Knowledge is served by algorithms to customers in their preferred tongue, through their interface of the moment, at the level of detail they need.
 
@@ -294,7 +294,7 @@ The Great Equalizer of Knowledge
 
    The Great Equalizer of Knowledge
 
-* Thanks to the machines’ ability to ingest and understand content in any language, knowledge and news from historically disenfranchised populations have entered the global knowledge corpus.
+* Thanks to the machines' ability to ingest and understand content in any language, knowledge and news from historically disenfranchised populations have entered the global knowledge corpus.
 * Knowledge is available to all, regardless of culture, region, or language.
 
 `James Cridland <https://www.flickr.com/people/18378655@N00>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:The_scales_of_justice_(4984060658).jpg>`__ // `CC BY 2.0 <https://creativecommons.org/licenses/by/2.0/legalcode>`__.

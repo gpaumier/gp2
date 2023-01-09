@@ -9,7 +9,7 @@
 
 .. highlights::
 
-    Wikimedia Commons is a treasure trove of freely-reusable images and other multimedia files, particularly useful to students, teachers and small publishers. But the fact that it’s relatively unknown, coupled to an archaic and inadequate interface, makes it quite difficult to use it to its full potential.
+    Wikimedia Commons is a treasure trove of freely-reusable images and other multimedia files, particularly useful to students, teachers and small publishers. But the fact that it's relatively unknown, coupled to an archaic and inadequate interface, makes it quite difficult to use it to its full potential.
 
 In 2007, I covered many political rallies organized as part of the campaign for the French Presidential elections. As a result, I've uploaded a fair amount of pictures of politicians to `Wikimedia Commons <http://commons.wikimedia.org>`__ and flickr.
 

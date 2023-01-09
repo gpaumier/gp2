@@ -8,7 +8,7 @@
 
 .. highlights::
 
-    In an effort to consolidate PR materials about Wikipedia and Wikimedia, we’re starting an inventory of all known materials in all languages. You can help by adding items to the inventory, to make sure we don’t miss anything.
+    In an effort to consolidate PR materials about Wikipedia and Wikimedia, we're starting an inventory of all known materials in all languages. You can help by adding items to the inventory, to make sure we don't miss anything.
 
 
 `Casey Brown <http://meta.wikimedia.org/wiki/User:Cbrown1023>`__ and I have decided to revive the `PR material cleanup project <http://meta.wikimedia.org/wiki/PR_material_cleanup>`__. This project was started by `Sean Whitton <http://meta.wikimedia.org/wiki/User:Sean_Whitton>`__ as a `ComProj <http://meta.wikimedia.org/wiki/ComProj>`__ initiative in August 2008, but it slowly died of inactivity. This time, fewer people are involved, but hopefully they'll commit more time to this much needed project. This project is the first step of a major revamp of PR materials related to Wikimedia projects. We're currently in the middle of the `inventory <http://meta.wikimedia.org/wiki/PR_material_cleanup/Inventory>`__, which includes a very needed assessment of out-of-dateness of all documents.

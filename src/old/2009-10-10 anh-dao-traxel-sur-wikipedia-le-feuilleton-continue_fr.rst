@@ -27,7 +27,7 @@ Par ailleurs, j'ignore combien de temps a été nécessaire au dépôt de plaint
 
 .. figure:: /images/2009-10-10_stats_traxel.png
 
-    Statistiques complètes de consultation de la biographie d’Anh Đào Traxel sur Wikipedia entre juin et octobre 2009
+    Statistiques complètes de consultation de la biographie d'Anh Đào Traxel sur Wikipedia entre juin et octobre 2009
 
 
 Méthodologie

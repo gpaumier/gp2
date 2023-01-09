@@ -8,7 +8,7 @@
 
 .. highlights::
 
-    Le livre *Open Advice* (dont le titre pourrait être traduit par « Conseils libres ») est un recueil d'essais et de retours d’expérience compilés par la communauté du logiciel libre. Il est maintenant officiellement disponible, et contient notamment un chapitre que j'ai écrit sur l'ergonomie logicielle.
+    Le livre *Open Advice* (dont le titre pourrait être traduit par « Conseils libres ») est un recueil d'essais et de retours d'expérience compilés par la communauté du logiciel libre. Il est maintenant officiellement disponible, et contient notamment un chapitre que j'ai écrit sur l'ergonomie logicielle.
 
 .. class:: rowspan-6
 .. sidebar::

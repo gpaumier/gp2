@@ -57,7 +57,7 @@ En tant que l'un des gestionnaires du système OTRS de Wikimedia, je m'assure r�
 Un modèle ambigu
 ----------------
 
-Le dernier problème (et non le moindre) que je vois avec l'opération telle qu'elle a été menée est qu'elle donne **l'illusion d'un changement de modèle de Wikipedia**, où désormais l'internaute soumet un contenu qui est accepté ou pas par l'équipe de Wikipedia. Illusion d'ailleurs marquée par l'article d'ecrans.fr, qui indique que « les administrateurs proposent d’envoyer directement ses clichés [par e-mail] ».
+Le dernier problème (et non le moindre) que je vois avec l'opération telle qu'elle a été menée est qu'elle donne **l'illusion d'un changement de modèle de Wikipedia**, où désormais l'internaute soumet un contenu qui est accepté ou pas par l'équipe de Wikipedia. Illusion d'ailleurs marquée par l'article d'ecrans.fr, qui indique que « les administrateurs proposent d'envoyer directement ses clichés [par e-mail] ».
 
 Les « administrateurs » ne proposent rien du tout ; les administrateurs n'ont pas de responsabilité éditoriale ou managériale, ils ne sont que des participants comme les autres qui ont juste accès à quelques outils techniques supplémentaires de maintenance. Et en aucun cas le rôle des administrateurs n'est de valider *a priori* ou non les contenus photographiques soumis par les internautes. Le rôle des administrateurs est de supprimer *a posteriori* les contenus non acceptables qui sont portés à leur attention par la communauté.
 

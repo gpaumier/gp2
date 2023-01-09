@@ -14,15 +14,15 @@ Je vous invite à `lire l'article en question <http://lanouvelliste.wordpress.co
 
 Par ailleurs, il est mal avisé de prédire la mort de Wikipedia. En janvier 2007, `Francis Marmande s'était fendu d'un article <http://www.lemonde.fr/web/article/0,1-0@2-3232,36-861770,0.html>`__, méprisant au possible, dans Le Monde, dans lequel il prédisait que « dans deux ans Wikipédia aura[it] laissé une trace aussi indélébile que le hula hoop, le Teppaz et la Juvaquatre ». Nous sommes deux ans et demi après, et Wikipedia est dans le top 10 des sites web les plus visités au monde.
 
-    Depuis sa création en 2001, l’encyclopédie a cru de façon exponentielle, comme tout bon site que nous retrouvons sur le Web.
+    Depuis sa création en 2001, l'encyclopédie a cru de façon exponentielle, comme tout bon site que nous retrouvons sur le Web.
 
 L'encyclopédie n'a rien cru du tout. Elle a crû, par contre. Orthographe à part, que comprendre de cette phrase ? Que tous les « sites » croissent de façon exponentielle ? Ou seulement les « bons » ? Que les « mauvais » sites ne croissent pas ? Encore des généralités pour masquer l'absence de recherche documentaire et d'analyse sérieuse.
 
-    Jusqu’à environ deux ans, les utilisateurs de Wikipedia ajoutaient, en moyenne, 2 200 articles par jour. La version anglaise du site a atteint trois millions d’articles en août, surpassant l’encyclopédie chinoise Yongle, vieille de plus de 600 ans.
+    Jusqu'à environ deux ans, les utilisateurs de Wikipedia ajoutaient, en moyenne, 2 200 articles par jour. La version anglaise du site a atteint trois millions d'articles en août, surpassant l'encyclopédie chinoise Yongle, vieille de plus de 600 ans.
 
 D'où proviennent ces nombres ? Ah, toujours du même article de time.com, que l'auteur reprend sans citer la source.
 
-    Or, au début de 2007, la courbe de croissance de Wikipedia a atteint un plateau. Les utilisateurs sont devenus plus craintifs. Aucune modification n’était apportée, aucun article n’était créé. Wikipedia a finalement atteint un sommet en mars 2007. 820 000 auteurs.
+    Or, au début de 2007, la courbe de croissance de Wikipedia a atteint un plateau. Les utilisateurs sont devenus plus craintifs. Aucune modification n'était apportée, aucun article n'était créé. Wikipedia a finalement atteint un sommet en mars 2007. 820 000 auteurs.
 
 Lis-je bien ? L'auteur affirme que début 2007, plus aucune modification n'était effectuée et plus aucun article créé. C'est tout simplement... faux ; et assez hilarant. Pas moins de 17000 nouveaux articles ont été créés sur Wikipedia en français en janvier 2007 [#]_. Il y a toujours aujourd'hui `plusieurs dizaines de modifications à la minute <http://fr.wikipedia.org/w/index.php?namespace=0&title=Sp%C3%A9cial%3AModifications+r%C3%A9centes>`__ sur la seule version francophone de Wikipedia, et ce ne sont pas les `créations de nouvelles pages <http://fr.wikipedia.org/wiki/Sp%C3%A9cial:Nouvelles_pages>`__ qui manquent non plus.
 
@@ -30,11 +30,11 @@ Par ailleurs, il y a contradiction flagrante dans ces quelques phrases : l'auteu
 
 Le nombre de participants est également sorti de son contexte. Les `statistiques officielles de Wikipedia en français <http://stats.wikimedia.org/EN/ChartsWikipediaFR.htm>`__ indiquent certes que le nombre total de participants tend à se stabiliser. Est-ce à dire que Wikipedia ne recrute plus de participants ? Bien sûr que non. Certains participants partent, d'autres arrivent, il existe une véritable dynamique (qui mériterait une analyse en profondeur).
 
-    Mais alors, qu’est-ce qui explique ce ralentissement? Une seule et unique explication subsiste.
+    Mais alors, qu'est-ce qui explique ce ralentissement? Une seule et unique explication subsiste.
 
 C'est évident ; plusieurs facteurs ne sauraient entrer en compte. Après tout, on parle d'analyser le dynamisme d'un site web alimenté par des centaines de milliers de participants, et consulté par des millions d'internautes. Non, vraiment, il serait absurde de penser qu'un tel phénomène est soumis à l'influence de nombreux facteurs (humains comme technologiques). Il ne peut y avoir qu'une seule raison, et cette raison, l'auteur va nous la donner.
 
-    Wikipedia a atteint la limite naturelle d’expansion des connaissances.
+    Wikipedia a atteint la limite naturelle d'expansion des connaissances.
 
 Ben voyons. Ça y est, les copains, vous pouvez arrêter d'écrire. On a fini !
 
@@ -46,7 +46,7 @@ Plus sérieusement, l'auteur passe complètement à côté de facteurs cruciaux 
 
 Et puis, quand bien même le nombre d'articles de Wikipedia se stabiliserait plus ou moins, en quoi serait-ce un signe que l'encyclopédie est « victime de son succès » ?
 
-    Au début, monsieur et madame tout-le-monde (pas des tit-clins, on s’entend) publiait des articles sur l’histoire de chaque ville du pays dans lequel ils habitent, sur les personnages d’une série télévisée, etc. À quoi peut-on, maintenant, s’attendre de plus? À des articles sur l’esotérisme?
+    Au début, monsieur et madame tout-le-monde (pas des tit-clins, on s'entend) publiait des articles sur l'histoire de chaque ville du pays dans lequel ils habitent, sur les personnages d'une série télévisée, etc. À quoi peut-on, maintenant, s'attendre de plus? À des articles sur l'esotérisme?
 
 Je passe sur la faute d'accord et sur le mépris de l'ésotérisme. Je signale par contre que de nombreuses villes attendent encore qu'on leur consacre un article digne de ce nom, qui ne soit pas qu'une simple accumulation de données statistiques générées automatiquement (il y en a encore `plusieurs milliers rien que pour la France <http://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia:%C3%A9bauche_commune_fran%C3%A7aise>`__).
 
@@ -54,7 +54,7 @@ Je passe sur la faute d'accord et sur le mépris de l'ésotérisme. Je signale p
 
 Soupir. L'`appel aux bénévoles <http://volunteer.wikimedia.org>`__ pour le plan stratégique, actuellement lié depuis toutes les pages de Wikipedia, est pourtant explicite : Michael Snow est le Président de la Wikimedia Foundation *(Chair of the Board of Trustees)* ; c'est Jimmy Wales qui est le fondateur de Wikipedia. Un minimum de recherche documentaire aurait permis d'éviter une erreur aussi grossière.
 
-    Toutefois, les problèmes rencontrés par l’encyclopédie montrent bel et bien les limites du Web 2.0. Après tout, lorsqu’une communauté idéalisée prend de l’expansion, elle risque de devenir dysfonctionnelle. Comme tout autre organisation.
+    Toutefois, les problèmes rencontrés par l'encyclopédie montrent bel et bien les limites du Web 2.0. Après tout, lorsqu'une communauté idéalisée prend de l'expansion, elle risque de devenir dysfonctionnelle. Comme tout autre organisation.
 
 Quels sont les problèmes rencontrés par l'encyclopédie ? Quelles sont les limites du web 2.0 ? Voilà les questions intéressantes ; voilà les sujets qui méritent d'être développés et qui sont suceptibles d'une réelle analyse. Malheureusement, elles n'arrivent qu'à la fin et ne sont pas développées au-delà des généralités péremptoires. En résumé, cet article est du `réchauffé immangeable <http://guillaumepaumier.com/fr/2009/06/28/consanguinite-bloguesque-ou-le-phenomene-de-reblogging/>`__ dans lequel on a en plus fait tomber la salière. Un exemple classique de blog qui cherche à exister en faisant du contenu rapide bâti sur des généralités, des affirmations péremptoires et en négligeant les analyses de fond. L'auteur indique que son objectif est de « `Se faire lire! <http://lanouvelliste.wordpress.com/about/>`__ » Au moins, c'est honnête. Ce n'est pas comme si l'objectif d'un journaliste était d'informer.
 

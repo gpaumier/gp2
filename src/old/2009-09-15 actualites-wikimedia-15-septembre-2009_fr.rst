@@ -38,7 +38,7 @@ Le « Wikipedia de la photo » existe déjà, et c'est d'ailleurs un projet lié
 Anh Đào Traxel et diffamation sur Wikipedia
 ===========================================
 
-Le Parisien a publié un article sur le lancement d’une enquête pour diffamation dont la victime est Anh Đào Traxel, la fille adoptive de Jacques Chirac, et dont le médium est la biographie qui lui est consacrée sur Wikipedia.
+Le Parisien a publié un article sur le lancement d'une enquête pour diffamation dont la victime est Anh Đào Traxel, la fille adoptive de Jacques Chirac, et dont le médium est la biographie qui lui est consacrée sur Wikipedia.
 
 La réaction typique de l'intéressée a été de demander la création d'une instance de contrôle d'Internet ; j'y ai consacré un `article dédié, plus détaillé <http://guillaumepaumier.com/fr/2009/09/15/anh-dao-traxel-et-diffamation-sur-wikipedia/>`__.
 

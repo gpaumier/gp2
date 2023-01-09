@@ -12,7 +12,7 @@ Le Parisien a publié un `article sur le lancement d'une enquête pour diffamati
 
 Ce qui m'intéresse est la réaction de l'intéressée :
 
-    À travers sa plainte, la fille de cœur des Chirac veut faire bouger la législation autour d’Internet. « N’importe qui peut écrire n’importe quoi sur une personne dans le but de lui nuire et de la salir sans qu’il soit mis en place de système de contrôle, déplore-t-elle. Ce mal peut surprendre toute personne à n’importe quel moment et détruire ses actions ou son honorabilité. Une autorité de régulation spécifique à l’emploi d’Internet est plus que nécessaire à l’avenir. »
+    À travers sa plainte, la fille de cœur des Chirac veut faire bouger la législation autour d'Internet. « N'importe qui peut écrire n'importe quoi sur une personne dans le but de lui nuire et de la salir sans qu'il soit mis en place de système de contrôle, déplore-t-elle. Ce mal peut surprendre toute personne à n'importe quel moment et détruire ses actions ou son honorabilité. Une autorité de régulation spécifique à l'emploi d'Internet est plus que nécessaire à l'avenir. »
 
 C'est typique : à chaque fois que quelqu'un fait les frais, sur Internet, d'un plaisantin ou d'une personne mal intentionnée, il en appelle à la mise en place d'un « système de contrôle », d'une « autorité de régulation ». Il serait temps de se rendre compte qu'il ne sera jamais possible de mettre en place une structure de contrôle a priori des publications sur Internet. **L'éducation des citoyens ne se fait pas en restreignant leur liberté d'expression**, mais en leur faisant réaliser que leurs actions ont des conséquences, que ce soit sur Internet ou ailleurs.
 

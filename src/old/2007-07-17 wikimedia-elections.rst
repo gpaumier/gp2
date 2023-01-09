@@ -8,7 +8,7 @@
 
 .. highlights::
 
-    Because many Wikipedians and Wikimedians aren’t interested in the politics and inner workings of the Wikimedia Foundation and its movement, elections for the Board of Trustees often turn into a notoriety contest, instead of an weighed expression of agreement with a candidate’s opinions and plans.
+    Because many Wikipedians and Wikimedians aren't interested in the politics and inner workings of the Wikimedia Foundation and its movement, elections for the Board of Trustees often turn into a notoriety contest, instead of an weighed expression of agreement with a candidate's opinions and plans.
 
 From June 28 to July 7, elections for the Board of the `Wikimedia Foundation <http://wikimediafoundation.org>`__ were held. Eligible voters were regular editors from all Wikimedia projects (see `requirements <http://meta.wikimedia.org/w/index.php?title=Board_elections/2007/en&oldid=619516#Voters>`__ and `results <http://meta.wikimedia.org/w/index.php?title=Board_elections/2007/Results&oldid=627326>`__).
 

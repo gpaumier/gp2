@@ -7,12 +7,12 @@
 .. source-link: https://blog.wikimedia.org/2010/08/07/prototype-upload-wizard/
 .. source-label: Wikimedia Tech blog
 .. image: /images/2010-08-07_UploadWizard_screenshot.png
-.. image-caption: Screenshot of the prototype’s interface
+.. image-caption: Screenshot of the prototype's interface
 
 
 .. highlights::
 
-    If you’ve ever tried to upload a file to Wikimedia Commons, you may have grown frustrated. Our new upload wizard aims to make it easier to contribute multimedia works to Wikimedia projects, and the first test results look promising.
+    If you've ever tried to upload a file to Wikimedia Commons, you may have grown frustrated. Our new upload wizard aims to make it easier to contribute multimedia works to Wikimedia projects, and the first test results look promising.
 
 
 `Wikimedia Commons <http://commons.wikimedia.org>`__ is the media library associated with Wikipedia; it is a central repository for all Wikimedia projects, and any media file shared there can be used in any Wikipedia page in any language. Wikimedia Commons is curated by a multilingual community and recently reached 7 million files.
@@ -31,7 +31,7 @@ Over the past few months, Neil Kandalgaonkar (`NeilK <http://www.mediawiki.org/w
    .. figure:: /images/2010-08-07_UploadWizard_screenshot.png
       :figclass: framed-img
 
-      Screenshot of the prototype’s interface
+      Screenshot of the prototype's interface
 
 We recently conducted a User experience study, both to evaluate the current upload interface and to make a first check on our prototype. Our first results look promising and show a clear improvement over the current interface (:doc:`watch the videos <wikimedia-multimedia-ux-testing-videos>`); we're hoping to share the full videos in the coming weeks. We've also taken into account the `informal feedback <http://usability.wikimedia.org/wiki/Multimedia_talk:Upload_wizard>`__ already provided by the first community testers.
 

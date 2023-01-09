@@ -76,17 +76,17 @@ Research publications
 
 * Electrokinetic mixers based on stimuli-responding surfaces
 
-  * Guillaume Paumier, Jan Sudor, Emmanuel Collé, Bertrand Marty, Aurélien Bancaud, Thierry Camps, Anne-Marie Gué, 11th International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS’07), Paris, France, October 7–11, 2007, pp.910–912. \| `Download the high-resolution PDF file </documents/poster-paumier-microtas.pdf>`__ (4.4 MB).
+  * Guillaume Paumier, Jan Sudor, Emmanuel Collé, Bertrand Marty, Aurélien Bancaud, Thierry Camps, Anne-Marie Gué, 11th International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS'07), Paris, France, October 7–11, 2007, pp.910–912. \| `Download the high-resolution PDF file </documents/poster-paumier-microtas.pdf>`__ (4.4 MB).
 
 * Spatio-temporal tuning of stimuli-responding surfaces for dynamic control of electroosmotic flows
 
-  * Jan Sudor, Guillaume Paumier, Anne-Marie Gué, Françoise Vinet, Alain Estève, Mehdi Djafari-Rouhani, 10th International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS’06), Tokyo, Japan, November 5–11, 2006, pp.74–76.
+  * Jan Sudor, Guillaume Paumier, Anne-Marie Gué, Françoise Vinet, Alain Estève, Mehdi Djafari-Rouhani, 10th International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS'06), Tokyo, Japan, November 5–11, 2006, pp.74–76.
 
 * Surfaces decorated with active polymers for spatio-temporal control of electrokinetic flows
 
   * Jan Sudor, Guillaume Paumier, Anne-Marie Gué, Françoise Vinet, Meng Li, Yves J. Chabal, Alain Estève, Mehdi Djafari-Rouhani, 3\ :sup:`e` Congrès Français de Microfluidique, Toulouse, France, December 12–14, 2006.
 
-* Contrôle nano-hydrodynamique de l’interface solide-liquide par des polymères actifs : Effets sur le flux électrocinétique dans les microcanaux
+* Contrôle nano-hydrodynamique de l'interface solide-liquide par des polymères actifs : Effets sur le flux électrocinétique dans les microcanaux
 
   * Guillaume Paumier. Technical report (Institut National des Sciences Appliquées de Toulouse & LAAS-CNRS, 2005).
 

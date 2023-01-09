@@ -11,7 +11,7 @@
 
 .. highlights::
 
-    *Miltonia? Miltoniopsis?* Regardless of the precise taxonomic genus of these orchids, I’m always amazed by the complexity and beauty nature can achieve.
+    *Miltonia? Miltoniopsis?* Regardless of the precise taxonomic genus of these orchids, I'm always amazed by the complexity and beauty nature can achieve.
 
 
 
@@ -32,7 +32,7 @@ This photo depicts the flower of a plant that was labeled as being from the |mil
 
 I'm by no means an expert in orchids, so I'll leave this to the experts on Wikimedia Commons, like `User:Orchi <https://commons.wikimedia.org/wiki/User:Orchi>`__ who has been relentlessly categorizing all the photos of orchids uploaded to the site.
 
-The exposition was organized by the `San Francisco Orchid Society <http://www.orchidsanfrancisco.org/poe.html>`__ and took place in Fort Mason Center’s Festival Pavilion. This old military building (converted into an exhibit hall) was filled with orchids of all shapes, sizes and colors.
+The exposition was organized by the `San Francisco Orchid Society <http://www.orchidsanfrancisco.org/poe.html>`__ and took place in Fort Mason Center's Festival Pavilion. This old military building (converted into an exhibit hall) was filled with orchids of all shapes, sizes and colors.
 
 Entering the huge building felt like walking into a tropical forest. Due to their anthropomorphic allure, these orchids also looked like they had escaped from Wonderland and were ready to start `talking to Alice <https://en.wikipedia.org/wiki/List_of_minor_Characters_in_the_Alice_Series#Live_Flowers>`__. Some of the talking flowers from the `1951 Disney movie <https://en.wikipedia.org/wiki/Alice_in_Wonderland_%281951_film%29>`__ are actually pansies.
 

@@ -6,7 +6,7 @@
 
 .. highlights::
 
-    … and I’m neither saying you should, nor you shouldn’t.
+    … and I'm neither saying you should, nor you shouldn't.
 
 
 Apparently, it's `Quit Facebook Day <http://www.quitfacebookday.com>`__. The interwebs have been raging with angry articles about `facebook <http://www.facebook.com>`__, how it's turning evil, and violating people's privacy, etc. My personal opinion is that you're the best and only guardian of your own privacy.

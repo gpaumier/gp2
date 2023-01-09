@@ -34,7 +34,7 @@ The importance of Revenue Strategy for the Wikimedia Foundation lies in two main
 Revenue strategy for the Foundation
 -----------------------------------
 
-The :doc:`Strategic direction for 2030 <wikimedia2030>`, whose development I led in 2017, set out ambitious aspirations for the Wikimedia movement, aspirations not attainable with the resources then at our disposal. In 2018 the Wikimedia Foundation's Board of Trustees, recognizing this gap, mandated the Foundation to "invest the resources necessary to support the growth and evolution required for the next chapter of Wikimedia’s future."\ [#ChristopheResources]_
+The :doc:`Strategic direction for 2030 <wikimedia2030>`, whose development I led in 2017, set out ambitious aspirations for the Wikimedia movement, aspirations not attainable with the resources then at our disposal. In 2018 the Wikimedia Foundation's Board of Trustees, recognizing this gap, mandated the Foundation to "invest the resources necessary to support the growth and evolution required for the next chapter of Wikimedia's future."\ [#ChristopheResources]_
 
 .. [#ChristopheResources] `Wikimedia Foundation Board statement endorsing future resourcing and direction of the movement <https://lists.wikimedia.org/pipermail/wikimedia-l/2018-January/089500.html>`__. Christophe Henner. Wikimedia-l. January 24, 2018.
 

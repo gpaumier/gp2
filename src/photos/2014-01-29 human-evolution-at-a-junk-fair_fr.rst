@@ -6,7 +6,7 @@
 
 .. highlights::
 
-    Un vieux livre de biologie, un globe terrestre et un crâne humain qui porte des lunettes : c’est le genre d’arrangements bizarres sur lesquels on peut tomber au détour d’une foire à la brocante.
+    Un vieux livre de biologie, un globe terrestre et un crâne humain qui porte des lunettes : c'est le genre d'arrangements bizarres sur lesquels on peut tomber au détour d'une foire à la brocante.
 
 
 J'aime beaucoup les foires à la brocante ; je n'y achète jamais rien, mais j'aime m'y promener car on y trouve plein de vieux objets, parfois juxtaposés de façon absurde ou amusante, comme c'est le cas dans cette image. J'aime aussi la composition et la complémentarité des couleurs de cette photo.

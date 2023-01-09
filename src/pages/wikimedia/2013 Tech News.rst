@@ -108,7 +108,7 @@ One of the things we realized while writing the first issues of the newsletter w
 
 .. figure:: /images/2013-12-16_Tech_news_process_1_-_Monitoring_and_writing.svg
 
-    Tech ambassadors monitor technical activity across many channels, select noteworthy information and simplify it to make it accessible to readers who don’t have specialized technical expertise.
+    Tech ambassadors monitor technical activity across many channels, select noteworthy information and simplify it to make it accessible to readers who don't have specialized technical expertise.
 
 
 Using simple language is also a requirement as we cater to a multilingual audience. Many Wikimedians who read the newsletter aren't native English speakers, so it's easier for them if we keep the text simple and avoid colloquialisms.

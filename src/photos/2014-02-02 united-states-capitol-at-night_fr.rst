@@ -7,7 +7,7 @@
 
 .. highlights::
 
-    Une allégorie de la dualité de l’appareil politique : propre et majestueux en devanture, flou et douteux en coulisses.
+    Une allégorie de la dualité de l'appareil politique : propre et majestueux en devanture, flou et douteux en coulisses.
 
 
 Mon travail me donne parfois l'occasion de voyager. En 2012, j'ai passé quelques jours à Washington, D.C. à l'occasion de la conférence annuelle Wikimania et j'ai notamment pris cette photo.

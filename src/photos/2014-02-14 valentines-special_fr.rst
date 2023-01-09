@@ -5,7 +5,7 @@
 
 .. highlights::
 
-    Pas de cœurs roses, d’angelots ou de cartes kitsch. Juste quelques photos.
+    Pas de cœurs roses, d'angelots ou de cartes kitsch. Juste quelques photos.
 
 
 Ces photos apparaissent régulièrement dans de nombreuses publications papier et sur internet.

@@ -15,11 +15,11 @@ J'utilise `wikio <http://www.wikio.fr>`__ pour agréger les flux d'articles de b
 
 Je passe sur les titres accrocheurs des dépêches (la presse fait bien pire). Voici deux extraits des articles en question. J'ai mis en italique les assertions fausses. Sur `eteignezvotreordinateur.com <http://www.eteignezvotreordinateur.com/wikipedia-piegee-par-un-petit-rigolo/>`__ :
 
-    la fiche wikipédia de Michael Jackson a été la cible d’un petit plaisantin *la nuit dernière*. [...] La fiche en question n’a été finalement corrigée que *vers 11 h ce matin*, donc elle est restée ainsi au moins *pendant plusieurs heures*, alors que *des milliers de fans* étaient dessus à la consulter.
+    la fiche wikipédia de Michael Jackson a été la cible d'un petit plaisantin *la nuit dernière*. [...] La fiche en question n'a été finalement corrigée que *vers 11 h ce matin*, donc elle est restée ainsi au moins *pendant plusieurs heures*, alors que *des milliers de fans* étaient dessus à la consulter.
 
 On retrouve le même récit sur `melty <http://www.melty.fr/un-plaisantin-piege-wikipedia-actu20117.html>`__ et paperblog :
 
-    un internaute s’est amusé à réécrire l’histoire de la mort de M.J. à sa manière sur la fiche Wikipédia de la star. Résultat, *des milliers de fans* ont pu lire cette connerie *pendant plusieurs heures*. Wikipédia ayant corrigé l’erreur aujourd’hui *en fin de matinée*.
+    un internaute s'est amusé à réécrire l'histoire de la mort de M.J. à sa manière sur la fiche Wikipédia de la star. Résultat, *des milliers de fans* ont pu lire cette connerie *pendant plusieurs heures*. Wikipédia ayant corrigé l'erreur aujourd'hui *en fin de matinée*.
 
 
 Les faits

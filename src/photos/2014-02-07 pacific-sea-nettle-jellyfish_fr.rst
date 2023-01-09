@@ -7,7 +7,7 @@
 
 .. highlights::
 
-    On aura du mal à me convaincre d’aller nager dans des eaux où il risque d’y avoir des méduses. Par contre, une fois derrière une vitre, je peux rester à les regarder pendant des heures.
+    On aura du mal à me convaincre d'aller nager dans des eaux où il risque d'y avoir des méduses. Par contre, une fois derrière une vitre, je peux rester à les regarder pendant des heures.
 
 
 Il est très difficile de prendre des photos dans un aquarium. Il faut éviter non seulement les réflexions sur la vitre, mais aussi les déformations dues au verre spécial qui y est utilisé. Je n'avais pas encore acheté ma `Lenskirt <http://www.lenskirt.com/>`__ quand j'ai visité l'Aquarium du Pacifique à Long Beach, près de Los Angeles. Pour éviter les réflexions, j'ai collé l'objectif à la vitre, ce qui a plutôt bien fonctionné dans l'ensemble, mais a rendu la mise au point plus difficile.

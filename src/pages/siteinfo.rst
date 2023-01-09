@@ -21,4 +21,4 @@ Previous versions of this website are available in the Internet Archive's `WayBa
 Impressum
 =========
 
-This site is owned and edited by Guillaume Paumier, and hosted by `Netlify <https://www.netlify.com>`__. See `Netlify’s commitment to protect your data <https://www.netlify.com/gdpr-ccpa>`__.
+This site is owned and edited by Guillaume Paumier, and hosted by `Netlify <https://www.netlify.com>`__. See `Netlify's commitment to protect your data <https://www.netlify.com/gdpr-ccpa>`__.

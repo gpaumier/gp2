@@ -10,7 +10,7 @@
 
 .. highlights::
 
-    Over the years, the design of MediaWiki has been solely driven by software developers. This has caused an unfortunate technology-based approach of the front-end and the features (implemented or missing), relying mostly on the implementation model. The consequence is that the interface & features are too far from the users’ mental model.
+    Over the years, the design of MediaWiki has been solely driven by software developers. This has caused an unfortunate technology-based approach of the front-end and the features (implemented or missing), relying mostly on the implementation model. The consequence is that the interface & features are too far from the users' mental model.
 
 .. class:: rowspan-2
 .. sidebar::

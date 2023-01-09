@@ -9,7 +9,7 @@
 
 .. highlights::
 
-    Il y a quelques jours, j’ai assisté à la conférence « GLAM-WIKI (FR) » à Paris, dont l’objectif était de bâtir des relations et des partenariats entre le mouvement Wikimedia et le secteur culturel, qui partagent une mission de diffusion de la connaissance.
+    Il y a quelques jours, j'ai assisté à la conférence « GLAM-WIKI (FR) » à Paris, dont l'objectif était de bâtir des relations et des partenariats entre le mouvement Wikimedia et le secteur culturel, qui partagent une mission de diffusion de la connaissance.
 
 .. sidebar::
 
