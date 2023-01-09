@@ -1,4 +1,5 @@
 .. title: Surface functionalization for fluorescence immunoassays and microsystems
+.. subtitle: Immunoassay on CEA-2 chemistry and vapor-phase CEA-2 functionalization
 .. category: projects-en
 .. slug: biochips
 .. date: 2004-05-01T00:00:00
@@ -8,7 +9,6 @@
 .. class: hero-h2-golden
 .. tags: biochips, surface functionalization, silane
 .. template: page_hero.j2
-
 
 
 .. figure:: /images/DNA_microarray_23.svg

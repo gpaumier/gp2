@@ -5,6 +5,7 @@
 .. template: page_hero.j2
 .. styles: page_homepage
 .. class: hero-h2-golden
+.. image: /images/2017-08-20_GPaumier_warm.jpg
 
 .. TODO: change h1 to Guillaume Paumier
 
@@ -27,7 +28,7 @@
    
       .. [#Wikimedia2030] :doc:`Wikimedia 2030 <wikimedia2030>`: participatory strategy for a global movement
 
-      .. [#PNIPAM] :doc:`PNIPAM technologies for labs-on-chips <phd>` (Ph.D thesis)
+      .. [#PNIPAM] :doc:`PNIPAM technologies for labs-on-chips <pnipam>` (Ph.D thesis)
 
 .. .. [3] :doc:`Wikimedia Commons UploadWizard <uploadwizard>`
 
@@ -103,14 +104,14 @@ I have been serving the Wikimedia community as a volunteer since 2005 in almost 
 
 After making a few small corrections to Wikipedia articles in 2005, I became more and more involved in the encyclopedia and its universe, serving the movement in almost every possible volunteer capacity. What started with a single edit eventually led to writing books, immigrating to the United States, creating software, managing teams of volunteers, photographing heads of state & Hollywood celebrities, and learning more about copyright laws than any human being ever should.
 
-I joined the Wikimedia Foundation in 2009 and spent almost a decade working on the technical platform that powers Wikipedia. I notably designed and led the development of UploadWizard, the customizable file upload software for Wikimedia Commons. I also wrote technical reports and other publications to increase collaboration between the engineers who code the platform, and the people who use the platform to write Wikipedia.
+I joined the Wikimedia Foundation in 2009 and spent almost a decade working on the technical platform that powers Wikipedia. I notably designed and led the development of UploadWizard, the customizable file upload software for Wikimedia Commons. I also wrote technical reports and other publications to increase collaboration between the engineers who code the platform, and the contributors who use the platform to write Wikipedia.
 
 .. sidebar::
    :class: rowstart-4 rowspan-3
 
    .. figure:: /images/Wikimedia_2018-20_Recommendation_13.svg
 
-      `Svenja Kirsch, Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_2018-20_Recommendation_13.svg>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
+      `Svenja Kirsch & Anna Lena Schiller <https://www.riesenspatz.de/>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_2018-20_Recommendation_13.svg>`__ // `CC By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
 Later on, I was a Lead Architect for "Wikimedia 2030," guiding dozens of organizations and thousands of individuals through a global strategy and movement-building process. I led the synthesis of all inputs, conversations, and research, and I was the main author of the resulting Strategic Direction of "Knowledge Equity and Knowledge as a Service."
 
@@ -147,16 +148,16 @@ During my time at CEA-Léti, I developed :doc:`chemical processes for biochips <
 
       :doc:`Fluorescence immunoassay with antibody mAb SP31 <biochips>` (rows 1 & 2) and control antibody Il2-73 (row 3), attached on a silane layer grafted through liquid-phase CEA-2 functionalization.
 
-In 2008, I completed my Ph.D at LAAS-CNRS, where I worked on microfluidic devices for chemical & biological analysis. I developed :doc:`technologies based on PNIPAM <phd>`, a polymer whose properties change with temperature. I also explored applications in controlled electro-osmosis and sample preparation for nano-liquid chromatography, through on-demand adsorption and release of proteins.
+In 2008, I completed my Ph.D at LAAS-CNRS, where I worked on microfluidic devices for chemical & biological analysis. I developed :doc:`technologies based on PNIPAM <pnipam>`, a polymer whose properties change with temperature. I also explored applications in controlled electro-osmosis and sample preparation for nano-liquid chromatography, through on-demand adsorption and release of proteins.
 
 .. class:: rowspan-2
 .. sidebar::
 
    .. figure:: /images/2008-06-11_PNIPAM-microsystems-at-LAAS-CNRS-011.jpg
 
-      :doc:`Silica capillary coated with PNIPAM <phd>` under a fluorescence microscope, and placed on a thermoelectric Peltier module to control the temperature of the polymer.
+      :doc:`Silica capillary coated with PNIPAM <pnipam>` under a fluorescence microscope, and placed on a thermoelectric Peltier module to control the temperature of the polymer.
 
-I never completely left science and engineering. I continue to learn and work in interdisciplinary contexts across scientific fields, and I also write software in various coding languages when needed.
+I still consider myself a scientist and engineer. I continue to learn and work in interdisciplinary contexts across scientific fields, and I also write software in various coding languages when needed.
 
 .. TODO: Add link to studies page once written: :doc:`engineering physics and nanotechnology <studies>`,
 
@@ -170,7 +171,9 @@ Playfulness & Creativity
 
 Over the years, I've dabbled in archery, ballet, martial arts, stage acting, fencing, ballroom dancing, playwriting, photography, and singing. These days, I enjoy powerlifting, reading, hiking, writing, learning new languages, and discovering new places and new cultures.
 
-I like to do things with my hands and move my body around. Whether it’s building things, folding paper, hiking, tending to plants, lifting heavy weights, doing pirouettes, belting out songs, or kneading bread, it provides an escape from intellectual work and intense thinking. I like to let my mind wander; it’s often when I focus on my body and let my brain work out problems subconsciously that epiphanies happen. Playfulness and fun are great sources of inspiration and creativity.
+I like to do things with my hands and move my body around. Whether it’s building things, folding paper, hiking, tending to plants, lifting heavy weights, doing pirouettes, belting out songs, or kneading bread, it provides an escape from intellectual work and intense thinking.
+
+I like to let my mind wander; it’s often when I focus on my body and let my brain work out problems subconsciously that epiphanies happen. Playfulness and fun are great sources of inspiration and creativity.
 
 .. class:: continue-reading
 

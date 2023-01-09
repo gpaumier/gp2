@@ -1,7 +1,7 @@
 .. title: PNIPAM technologies for labs-on-a-chip
 .. category: projects-en-featured
 .. subtitle: Ph.D thesis
-.. slug: phd
+.. slug: pnipam
 .. date: 2005-09-01T00:00:00
 .. end: 2008-11-06T00:00:00
 .. image: /images/PNIPAM_microsystems_at_LAAS_CNRS_022_June_2008.jpg
@@ -14,7 +14,7 @@
 
 .. figure:: /images/PNIPAM_microsystem.jpg
    :figclass: lead-figure
-   :alt: Photograph of a glass and polymer microchip under the green light of a fluorescence microscope
+   :alt: Photograph of a silica capillary under the blue light of a fluorescence microscope
 
 
 

@@ -121,7 +121,7 @@ I recognized myself early on in the Wikipedia vision of collecting and sharing "
 
 Wikipedians have a unique affinity and talent for collecting and curating free, reliable knowledge. In a world of information overload, bias, and misinformation, they provide discernment, sensemaking, and human judgment on information, which all contributes to building trust.
 
-This is something I started to ponder `back in 2010 </fr/articles/reference-necessaire/>`__ (fr) when I mused about how Wikipedians' habit of adding reliable sources to Wikipedia articles was seeping into many other areas of their lives, something I had experienced myself when I was writing my :doc:`Ph.D. thesis <phd>`: the jury said they had never read such a well-referenced and well-structured thesis. This realization finally crystallized much later as I was reflecting on the Wikimedia Foundation's :doc:`revenue strategy <wikimedia-revenue-strategy>` and identifying sustainable differentiators of Wikipedia.
+This is something I started to ponder `back in 2010 </fr/articles/reference-necessaire/>`__ (fr) when I mused about how Wikipedians' habit of adding reliable sources to Wikipedia articles was seeping into many other areas of their lives, something I had experienced myself when I was writing my :doc:`Ph.D. thesis <pnipam>`: the jury said they had never read such a well-referenced and well-structured thesis. This realization finally crystallized much later as I was reflecting on the Wikimedia Foundation's :doc:`revenue strategy <wikimedia-revenue-strategy>` and identifying sustainable differentiators of Wikipedia.
 
 .. figure:: /images/2012-02-14_Wikipedian_meme.png
 

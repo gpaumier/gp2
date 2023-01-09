@@ -64,7 +64,7 @@ Research publications
 
 * Technologies PNIPAM pour les laboratoires sur puce
 
-  * Guillaume Paumier. Ph.D dissertation (Université Toulouse III — Paul Sabatier, 2008) \| `Full text <https://upload.wikimedia.org/wikipedia/commons/f/fe/Guillaume_Paumier_-_Technologies_PNIPAM_pour_les_laboratoires_sur_puces.pdf>`__ (PDF) \| :doc:`Read more <phd>`
+  * Guillaume Paumier. Ph.D dissertation (Université Toulouse III — Paul Sabatier, 2008) \| `Full text <https://upload.wikimedia.org/wikipedia/commons/f/fe/Guillaume_Paumier_-_Technologies_PNIPAM_pour_les_laboratoires_sur_puces.pdf>`__ (PDF) \| :doc:`Read more <pnipam>`
 
 * Nanoscale actuation of electrokinetic flows on thermoreversible surfaces
 

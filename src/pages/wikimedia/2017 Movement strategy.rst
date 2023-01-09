@@ -49,7 +49,7 @@ We didn't know how we were going to do it. We didn't know how it was going to go
 
 Building a strategy is hard, but we are a movement of smart, passionate people obsessed with facts, citations, and intellectual integrity. We have in common a passion for free knowledge and a commitment to serving all human beings. If anyone could build a collaborative strategy, we could.
 
-And so it began. We put together a team. We designed a process, and adjusted it many times. Our aim was to identify a common strategic direction that would unite and inspire people across our movement on our way to 2030, and help us make decisions. I was a Lead Architect in the small core team driving this process,\ [#CoreTeam]_ along with other employees of the Wikimedia Foundation and in the movement, and the folks at williamsworks.\ [#Williamsworks]_
+And so it began. We put together a team. We designed a process, and adjusted it many times. Our aim was to identify a common strategic direction that would unite and inspire people across our movement on our way to 2030, and help us make decisions. I was a Lead Architect in the small core team driving this process,\ [#CoreTeam]_ along with other employees of the Wikimedia Foundation and in the movement,  the folks at williamsworks,\ [#Williamsworks]_ and our fearless leader, Katherine Maher.
 
 .. [#CoreTeam] `Strategy > Wikimedia movement > 2017 > People > Core team <https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017/People/Core_team>`__. Meta-Wiki, 2017.
 
