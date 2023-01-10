@@ -173,5 +173,5 @@ J'aime laisser mon esprit vagabonder ; c'est souvent lorsque je me concentre sur
 
 .. class:: continue-reading
 
-   :doc:`lire la suite <play>`
+   :doc:`lire la suite <loisirs>`
 
