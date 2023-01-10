@@ -21,7 +21,7 @@ Wikipedia : Découvrir, utiliser, contribuer
 
 In 2008, I wrote a Wikipedia handbook in French with `Florence Devouard <http://www.devouard.org/accueil/a-propos-de-moi>`__, one of the earliest Wikipedians and the former Chair of the Board of the Wikimedia Foundation. The book covered the history of Wikipedia, good practices on how to use it wisely, and a guide on how to start contributing to it.
 
-* Guillaume Paumier and Florence Devouard, *Wikipedia : Découvrir, utiliser, contribuer* (Presses Universitaires de Grenoble, 2009). ISBN 978-2706114953
+* Guillaume Paumier & Florence Devouard, *Wikipedia : Découvrir, utiliser, contribuer* (Presses Universitaires de Grenoble, 2009). ISBN 978-2706114953
 
   * `Read on Wikibooks <https://fr.wikibooks.org/wiki/Wikip%C3%A9dia>`__ \| `Buy on Amazon <http://www.amazon.fr/dp/2706114959/>`__
 
@@ -55,7 +55,7 @@ The Architecture of Open Source Applications, Volume II
 
 In 2011, I authored a chapter about the architecture of `MediaWiki <https://www.mediawiki.org>`__, the software that powers Wikipedia and its sister sites, for inclusion in the book *The Architecture of Open Source Applications, volume 2*. The chapter was based on the shared knowledge of MediaWiki developers, and written in collaboration with Sumana Harihareswara.
 
-* Guillaume Paumier and Sumana Harihareswara, "MediaWiki," in *The Architecture of Open Source Applications, Volume II*, ed. Amy Brown and Greg Wilson (Lulu.com, 2012). ISBN 978-1105571817
+* Guillaume Paumier & Sumana Harihareswara, "MediaWiki," in *The Architecture of Open Source Applications, Volume II*, ed. Amy Brown & Greg Wilson (Lulu.com, 2012). ISBN 978-1105571817
 
   * `Read online <https://aosabook.org/en/mediawiki.html>`__ \| `Buy on Amazon <https://www.amazon.com/dp/1105571815/>`__
 

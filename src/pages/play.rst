@@ -1,5 +1,5 @@
 .. title: Playfulness and Creativity
-.. subtitle: playfulness & creativity
+.. subtitle: Not all those whose mind wanders are lost
 .. slug: play
 .. icon: fa-palette
 .. template: page_hero.j2
@@ -77,10 +77,12 @@ Building LEGO sets was probably my favorite activity as a kid. I rediscovered th
 
 ----
 
-Wood and stuff
---------------
+Wood & stuff
+------------
 
-I also like to build new things, often for a functional purpose. Several homes ago, I built a modular home office with shelves out of Ikea poles and wood planks. More recently, I built a platform to anchor a squat rack that serves as a home gym. I also built a modular deadlift platform out of lumber and plywood, which I can adjust for block pulls and deficit deadlifts. As of 2022, I'm slowly getting into more ambitious woodworking projects, partly motivated by the need to store books from my ever-expanding personal library.
+I also like to build new things, often for a functional purpose. Several homes ago, I built a modular home office with shelves out of Ikea poles and wood planks. More recently, I built a platform to anchor a squat rack that serves as a home gym. I also built a modular deadlift platform out of lumber and plywood, which I can adjust for block pulls and deficit deadlifts.
+
+As of 2022, I'm slowly getting into more ambitious woodworking projects, partly motivated by the need to store books from my ever-expanding personal library.
 
 ----
 
@@ -119,8 +121,8 @@ Another pandemic project was little terrariums with succulents. I combined figur
 
 ----
 
-Moving around
-=============
+Physical activity
+=================
 
 .. figure:: /images/lifting_3881.jpg
 
@@ -209,7 +211,7 @@ Curiosity & learning
 
 .. figure:: /images/reading_0269.jpg
 
-It's no exaggeration to say that learning is probably my favorite thing to do. I spend a lot of my free time learning about All The Things and trying to keep my brain stimulated.
+It's no exaggeration to say that learning is probably my favorite thing to do. I spend a lot of my free time learning about All The Things and trying to keep my little gray cells stimulated.
 
 Books, books, books
 -------------------

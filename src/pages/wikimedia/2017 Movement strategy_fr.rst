@@ -2,6 +2,7 @@
 .. category: projects-fr-featured
 .. subtitle: stratégie participative pour un mouvement mondial
 .. slug: wikimedia2030
+.. class: no
 
 
 .. figure:: /images/luca-baggio-eKU3JGNCCMg-unsplash.jpg
@@ -14,7 +15,10 @@
 .. highlights::
 
    In 2016–2017, j'ai été l'architecte principal de « Wikimedia 2030 » ; dans ce rôle, j'ai guidé des dizaines d'organisations et des milliers d'individus à travers un processus global de stratégie et de construction de mouvement social.
-   
+
+Équité du savoir, et connaissance en tant que service
+=====================================================
+
 J'ai dirigé la synthèse de toutes les contributions, conversations, et rapports de recherche, et j'ai été l'auteur principal de l'orientation stratégique qui a vu le jour. Elle a ensuite été approuvée par une centaine d'organisations Wikimedia dans le monde.
 
 La direction stratégique d'« équité du savoir, et connaissance en tant que service » sert maintenant de boussole pour la planification stratégique pluriannuelle des organisations Wikimedia, et guide la prise de décision concernant les rôles, les responsabilités et les ressources dans le mouvement Wikimedia.

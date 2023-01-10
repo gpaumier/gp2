@@ -110,7 +110,13 @@ Plus récemment, mon travail à la Wikimedia Foundation a porté sur la réflexi
 
 .. class:: continue-reading
 
-   :doc:`lire la suite <wikimedia>`
+   `lire la suite (en anglais) </wikimedia>`__
+
+.. TODO: uncomment when the French Wikimedia page has more content
+
+.. .. class:: continue-reading
+
+..    :doc:`lire la suite <wikimedia>`
 
 .. sidebar::
    :class: rowstart-7
