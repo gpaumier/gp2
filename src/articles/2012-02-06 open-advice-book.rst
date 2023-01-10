@@ -1,4 +1,5 @@
-.. title: Free software community shares lessons learned in “Open Advice” book
+.. title: Open Advice book
+.. subtitle: Lessons learned by the free software community
 .. category: articles-en
 .. slug: open-advice-book
 .. date: 2012-02-06 12:24:23

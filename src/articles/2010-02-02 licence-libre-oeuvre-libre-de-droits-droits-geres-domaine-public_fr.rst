@@ -1,4 +1,5 @@
-.. title: Licence libre, œuvre libre de droits, droits gérés, domaine public : mise au point
+.. title: Licence libre, œuvre libre de droits, droits gérés, domaine public
+.. subtitle: une mise au point
 .. category: articles-fr
 .. slug: licence-libre-oeuvre-libre-de-droits-droits-geres-domaine-public
 .. date: 2010-02-02 20:56:59

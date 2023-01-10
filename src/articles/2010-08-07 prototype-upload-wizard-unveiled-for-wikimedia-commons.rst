@@ -1,6 +1,6 @@
-.. title: Prototype upload wizard unveiled for Wikimedia Commons
+.. title: Prototype upload wizard for Wikimedia Commons
 .. category: articles-en
-.. slug: prototype-upload-wizard-unveiled-for-wikimedia-commons
+.. slug: prototype-upload-wizard-for-wikimedia-commons
 .. date: 2010-08-07 00:06:18
 .. tags: Wikimedia
 .. keywords: Multimedia usability, Wikimedia Commons, Engineering
