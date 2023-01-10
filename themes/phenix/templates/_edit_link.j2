@@ -2,8 +2,13 @@
     <p id="edit-link">
         <span id="edit-link-icon" aria-hidden="true">✍</span>
         <span id="edit-link-text">
-            <a href="{{ messages('edit_link_github_prefix') + post.post_name + post.source_ext() | urlencode() }}">{{ messages('edit_link_label') }}</a>
+            {% set language_suffix = '' %}
+            {% if lang != default_lang and post.is_translation_available(default_lang) %}
+              {% set language_suffix = '_' + lang %}
+            {% endif %}
+            {% set edit_url = messages('edit_link_github_prefix') + post.post_name | urlencode() + language_suffix + post.source_ext() %}
+            <a href="{{ edit_url }}">{{ messages('edit_link_label') }}</a>
         </span>
     </p>
-    <link rel="alternate" type="application/x-wiki" title="{{ messages('edit_link_label') }}" href="{{ messages('edit_link_github_prefix') + post.post_name + post.source_ext() | urlencode() }}"/>
+    <link rel="alternate" type="application/x-wiki" title="{{ messages('edit_link_label') }}" href="{{ edit_url }}"/>
 </aside>
