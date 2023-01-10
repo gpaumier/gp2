@@ -7,7 +7,7 @@ import jinja_filters
 # Data about this site
 BLOG_AUTHOR = "Guillaume Paumier"  # (translatable)
 BLOG_TITLE = "Guillaume Paumier"  # (translatable)
-SITE_URL = "https://guillaumepaumier.com/"
+SITE_URL = "https://www.guillaumepaumier.com/"
 # BASE_URL = "https://guillaumepaumier.com/"
 BLOG_EMAIL = "gp@guillaumepaumier.com"
 BLOG_DESCRIPTION = {"en": "defying the Second Law of Thermodynamics since 1982", "fr": "défiant la deuxième loi de la thermodynamique depuis 1982"}
