@@ -37,7 +37,7 @@ J'ai plié environ 750 grues en 2018, une centaine tout au long de 2019, et term
 
 .. figure:: /images/cranes_3758.jpg
 
-   Le *senbazuru* complet affiché dans mon ancien appartement à San Francisco.
+   Le *senbazuru* complet accroché dans mon ancien appartement à San Francisco.
 
 
 ----
@@ -105,7 +105,7 @@ Tout allait bien jusqu'à ce que je décide de quitter San Francisco quelques mo
 Jardins miniatures
 ------------------
 
-Un autre projet de confinement a été de créer petits terrariums avec des plantes succulentes. J'ai utilisé des figurines achetées sur Etsy, des succulentes, de la mousse, des récipients géométriques, et des bocaux de cuisine pour créer de petites scènes qui ajoutent un peu de fantaisie à mon appartement.
+Un autre projet de confinement a été de créer de petits terrariums avec des plantes succulentes. J'ai utilisé des figurines achetées sur Etsy, des succulentes, de la mousse, des récipients géométriques, et des bocaux de cuisine pour créer de petites scènes qui ajoutent un peu de fantaisie à mon appartement.
 
 .. figure:: /images/plants_3611.jpg
 
@@ -130,7 +130,7 @@ Peu après, j'ai également commencé un cours de ballet pour adultes débutants
 
 .. figure:: /images/ballet_497.jpg
    
-   En 2019, j'ai pratiqué le ballet dans le cadre d'un cours pour adultes débutants. Je ne faisais par particulièrement preuve d'élégance ou de grand équilibre, mais c'était un défi intéressant.
+   En 2019, j'ai pratiqué le ballet dans le cadre d'un cours pour adultes débutants. Je ne faisais pas particulièrement preuve d'élégance ou de grand équilibre, mais c'était un défi intéressant.
 
 
 
@@ -153,7 +153,7 @@ Boulangerie
 
 .. figure:: /images/baking_0885.jpg
 
-Après avoir déménagé (de nouveau) aux États-Unis, j'avais du mal à trouver du bon pain. Ayant grandi et vécu en France pendant la majeure partie de ma vie, l'absence de bonne boulangerie dans la petite ville californienne où je vivais me rendait triste.
+Après avoir déménagé (de nouveau) aux États-Unis, j'avais du mal à trouver du bon pain. Ayant grandi et vécu en France pendant la plus grande partie de ma vie, l'absence de bonne boulangerie dans la petite ville californienne où je vivais me rendait triste.
 
 En 2017, j'ai pris quelques jours de congé pour participer à un atelier de fabrication de pain au *San Francisco Baking Institute*. Pendant cinq jours, j'ai appris la théorie et la pratique des types de farine, de la levure, des préferments, du gluten, du façonnage, du rainurage, et de la cuisson des pains. À la fin de la journée, j'apportais tout le pain que j'avais fait ce jour-là au bureau de Wikimedia, pour le plus grand plaisir de mes collègues gourmands.
 
@@ -196,7 +196,7 @@ J'adore chanter, j'ai mis en scène et joué dans des pièces de théâtre, et j
 
 J'ai commencé à chanter au collège dans la chorale de l'école, puis dans sa maîtrise. J'ai continué à chanter dans des chorales jusqu'au lycée.
 
-Plus tard, j'ai également rejoint la chorale de l'INSA, où j'ai fait mes études supérieures. J'y ai écrit le livret pour les comédies musicales que nous avons montées et je les ai mises en scène. Avec quelques amis, j'ai joué dans un quatuor (puis quintet) a capella pendant quelques années. J'ai également rejoint les Enfoiros, un groupe d'étudiants inspiré par les Enfoirés, qui donnent des concerts et organisent d'autres activités pour soutenir les personnes à faibles revenus de la région.
+Plus tard, j'ai également rejoint la chorale de l'INSA, où j'ai fait mes études supérieures. J'y ai écrit le livret pour les comédies musicales que nous avons montées et je les ai mises en scène. Avec quelques amis, j'ai chanté dans un quatuor (puis quintet) a capella pendant quelques années. J'ai également rejoint les Enfoiros, un groupe d'étudiants inspiré par les Enfoirés, qui donnent des concerts et organisent d'autres activités pour soutenir les personnes à faibles revenus de la région.
 
 .. TODO: :doc:`Enfoiros <enfoiros>`
 
@@ -226,7 +226,7 @@ Je mets la lecture en dernier sur cette page, parce que bien que les livres soie
 
    Ces dernières années, j'ai commencé à lire des bandes dessinées américaines, ce qui me change des bandes dessinées franco-belges avec lesquelles j'ai grandi.
 
-Auparavant, les piles de livres non lus me semblaient décourageantes. Puis j'ai appris l'existence du concept d'anti-bibliothèque d'Umberto Eco\ [#antilibrary]_, et j'ai décidé de ne plus être intimidé par le tsundoku.\ [#tsundoku]_ Le fait d'être entouré de livres me réconforte désormais,plutôt que de me faire sentir coupable. J'arrive à en lire certains de temps en temps. J'aime avoir la possibilité d'apprendre sur tant de sujets, en ayant les livres à portée de main, n'attendant que le bon moment d'inspiration.
+Auparavant, les piles de livres non lus me semblaient décourageantes. Puis j'ai appris l'existence du concept d'anti-bibliothèque d'Umberto Eco,\ [#antilibrary]_ et j'ai décidé de ne plus être intimidé par le tsundoku.\ [#tsundoku]_ Le fait d'être entouré de livres me réconforte désormais,plutôt que de me faire sentir coupable. J'arrive à en lire certains de temps en temps. J'aime avoir la possibilité d'apprendre sur tant de sujets, en ayant les livres à portée de main, n'attendant que le bon moment d'inspiration.
 
 .. sidebar::
 
@@ -257,4 +257,4 @@ J'ai appris l'anglais et l'allemand à l'école, bien que mon allemand n'ait jam
    
       Duolingo fait son cinéma !
 
-Comme je voulais me faliliariser un peu avec d'autres familles linguistiques, j'ai commencé à apprendre le tagalog avec *Rosetta Stone*, mais j'ai dû faire une pause jusqu'à ce que je puisse en apprendre davantage sur la grammaire de cette langue. J'ai également fait mes premiers pas en arabe.
+Comme je voulais me familiariser un peu avec d'autres familles linguistiques, j'ai commencé à apprendre le tagalog avec *Rosetta Stone*, mais j'ai dû faire une pause jusqu'à ce que je puisse en apprendre davantage sur la grammaire de cette langue. J'ai également fait mes premiers pas en arabe.
