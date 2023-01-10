@@ -10,7 +10,7 @@
 
    Bonjour à tou·te·s ; je suis Guillaume Paumier. Dans mon travail, je résous des problèmes techniques et sociaux complexes, par exemple en organisant un processus de stratégie collaborative pour un mouvement social de plus de 70 000 bénévoles.\ [#Wikimedia2030]_ Ou en développant des dispositifs microfluidiques de bioanalyse à base de polymères thermosensibles.\ [#PNIPAM]_ Ou en concevant le logiciel derrière le plus grand concours de photographie au monde.
 
-   Je passe beaucoup de temps à réfléchir sur les sujets de la connaissance, du temps, et des dynamiques de pouvoir. Je sers également comme agent de confiance, éminence grise, et partenaire de réflexion pour les dirigeants. Je travaille actuellement à la Wikimedia Foundation, l'organisation à but non lucratif qui apporte la connaissance à des centaines de millions de personnes chaque mois, et leur permet de travailler ensemble pour donner un sens au monde dans lequel nous vivons.
+   Je passe beaucoup de temps à réfléchir sur les sujets de la connaissance, du temps, et des dynamiques de pouvoir. Je sers également comme agent de confiance, éminence grise, et partenaire de réflexion pour les dirigeants. Je travaille actuellement à la Wikimedia Foundation, l'organisation à but non lucratif derrière Wikipédia, qui amène le savoir à des centaines de millions de personnes chaque mois, et leur permet de travailler ensemble pour donner un sens au monde dans lequel nous vivons.
 
    Lisez la suite pour en savoir plus sur moi, ou :ref:`défilez jusqu'en bas <footer-contact>` pour me contacter.
 
