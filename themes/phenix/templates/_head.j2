@@ -8,6 +8,8 @@
 {% endif %}
 {% if description %}
     <meta name="description" content="{{ description|e }}">
+{% elif post %}
+    <meta name="description" content="{{ post.text() | get_lead_text | striptags | replace('"', '') | replace("'", "’")}}">
 {% endif %}
 
 {% if title == blog_title %}
