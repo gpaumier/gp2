@@ -18,10 +18,16 @@
     <title>{{ title|e }} | {{ blog_title|e }}</title>
 {% endif %}
 
+<link rel="canonical" href="{{ abs_link(permalink) }}">
+{% for langname in translations|sort %}
+    {% if post.is_translation_available(langname) %}
+    <link rel="alternate" hreflang="{{langname}}" href="{{ post.permalink(lang = langname, absolute = True) }}" />
+    {% endif %}
+{% endfor %}
+
 <link href="/assets/styles/phenix.css" rel="stylesheet">
 
 {{ base.html_feedlinks() }}
-<link rel="canonical" href="{{ abs_link(permalink) }}">
 
 {% if favicons %}
     {% for name, file, size in favicons %}
