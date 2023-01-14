@@ -29,6 +29,8 @@
 
 {{ base.html_feedlinks() }}
 
+{% include "_opengraph.j2" %}
+
 {% if favicons %}
     {% for name, file, size in favicons %}
         <link rel="{{ name }}" href="{{ file }}" sizes="{{ size }}"/>

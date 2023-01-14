@@ -1,0 +1,31 @@
+<meta property="og:title" content="{{ post.title()|e }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ abs_link(permalink) }}" />
+{% if post.meta('image') %}
+<meta name="og:image" content="{{ abs_link(_link("root", None, 'en')) | trim('/') + post.meta('image') }}">
+    {% if post.meta('image_alt') %}
+<meta name="og:image:alt" content="{{ post.meta('image_alt') }}">
+    {% endif %}
+{% else %}
+<meta name="og:image" content="{{ abs_link(_link("root", None, 'en')) + messages('opengraph_default_image') }}">
+<meta name="og:image:alt" content="{{ messages('opengraph_default_image_alt') }}">
+{% endif %}
+{% if description %}
+<meta name="og:description" content="{{ description | e | truncate(199, False, '…', 0)}}">
+{% else %}
+<meta name="og:description" content="{{ post.text() | get_lead_text | striptags | replace('"', '') | replace("'", "’") | truncate(199, False, '…', 0) }}">
+{% endif %}
+<meta property="og:site_name" content="{{ blog_title|e }}" />
+<meta property="og:locale" content="{{ messages('locale') }}" />
+{% for langname in translations|sort %}
+    {% if langname != lang %}
+        {% if post.is_translation_available(langname) %}
+<meta property="og:locale:alternate" content="{{ messages("locale", langname) }}" />
+        {% endif %}
+    {% endif %}
+{% endfor %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="{{ messages('twitter_card_site') }}">
+<meta name="twitter:creator" content="{{ messages('twitter_card_creator') }}">
+
+

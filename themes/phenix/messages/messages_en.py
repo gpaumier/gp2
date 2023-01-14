@@ -80,5 +80,10 @@ MESSAGES = {
     "contact_form_message_placeholder": "Type your message here",
     "contact_form_button_label": "Send message",
     "edit_link_github_prefix": "https://github.com/gpaumier/gp2/tree/main/",
-    "edit_link_label": "Edit this page or view its history on GitHub"
+    "edit_link_label": "Edit this page or view its history on GitHub",
+    "twitter_card_site": "@gpaumier",
+    "twitter_card_creator": "@gpaumier",
+    "opengraph_default_image": "images/2017-08-20_GPaumier_warm.jpg",
+    "opengraph_default_image_alt": "Photograph of Guillaume Paumier. He is a white man with short brown hair, slightly smilin, looking down, and wearing a black fleece. Behind him is the blurry background of a Parisian restaurant, showing warm hues.",
+    "locale": "en_US",
 }

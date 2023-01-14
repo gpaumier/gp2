@@ -68,5 +68,6 @@ MESSAGES = {
     "contact_form_message_label": "Message&nbsp;:",
     "contact_form_message_placeholder": "Écrivez votre message ici",
     "contact_form_button_label": "Envoyer le message",
-    "edit_link_label": "Modifier cette page ou voir son historique sur GitHub"
+    "edit_link_label": "Modifier cette page ou voir son historique sur GitHub",
+    "locale": "fr_FR",
 }
