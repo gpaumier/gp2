@@ -6,11 +6,13 @@
 .. styles: page_homepage
 .. class: hero-h2-golden
 .. image: /images/2017-08-20_GPaumier_warm.jpg
+.. image_alt: Photograph of Guillaume Paumier. He is a white man with short brown hair, slightly smilin, looking down, and wearing a black fleece. Behind him is the blurry background of a Parisian restaurant, showing warm hues.
 
 .. TODO: change h1 to Guillaume Paumier
 
 .. figure:: /images/2017-08-20_GPaumier_warm.jpg
    :figclass: lead-figure
+   :alt: Photograph of Guillaume Paumier. He is a white man with short brown hair, slightly smiling, looking down, and wearing a black fleece. Behind him is the blurry background of a Parisian restaurant, showing warm hues.
 
 .. highlights::
 

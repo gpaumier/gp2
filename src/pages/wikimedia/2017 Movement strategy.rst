@@ -8,6 +8,7 @@
 .. styles: page_wikimedia2030
 .. class: hero-h2-golden
 .. image: /images/luca-baggio-eKU3JGNCCMg-unsplash.jpg
+.. image_alt: Photograph of rocks in water under a big sky full of stars and showing the Milky Way.
 .. roles: architect, writer
 .. tags: Wikimedia, strategy
 

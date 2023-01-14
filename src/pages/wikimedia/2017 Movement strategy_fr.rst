@@ -3,6 +3,7 @@
 .. subtitle: stratégie participative pour un mouvement mondial
 .. slug: wikimedia2030
 .. class: no
+.. image_alt: Photographie de rochers dans l'eau sous un grand ciel rempli d'étoiles et montrant la Voie lactée.
 
 
 .. figure:: /images/luca-baggio-eKU3JGNCCMg-unsplash.jpg
@@ -14,7 +15,7 @@
 
 .. highlights::
 
-   In 2016–2017, j'ai été l'architecte principal de « Wikimedia 2030 » ; dans ce rôle, j'ai guidé des dizaines d'organisations et des milliers d'individus à travers un processus global de stratégie et de construction de mouvement social.
+   En 2016–2017, j'ai été l'architecte principal de « Wikimedia 2030 » ; dans ce rôle, j'ai guidé des dizaines d'organisations et des milliers d'individus à travers un processus global de stratégie et de construction de mouvement social.
 
 Équité du savoir, et connaissance en tant que service
 =====================================================
