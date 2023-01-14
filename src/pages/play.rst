@@ -102,7 +102,7 @@ For many years, I was afraid to get any sort of plants for fear of unwittingly k
 
    Plants, books, and LEGO: my main coping mechanisms during confinement.
 
-This was all well and good until I decided to leave San Francisco a few months later and move to the East coast. I didn't want to leave my plants behind, so the only way to take them wtih me was to rent a moving truck and drive it across the country. Most of them made it unscathed and have acclimated well to their new environment. Some of them have now grown so large that I have to organize my apartment around them.
+This was all well and good until I decided to leave San Francisco a few months later and move to the East coast. I didn't want to leave my plants behind, so the only way to take them with me was to rent a moving truck and drive it across the country. Most of them made it unscathed and have acclimated well to their new environment. Some of them have now grown so large that I have to organize my apartment around them.
 
 ----
 

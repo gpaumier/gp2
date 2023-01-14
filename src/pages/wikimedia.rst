@@ -68,7 +68,7 @@ I currently lead special projects for the Wikimedia Foundation's Chief Advanceme
 
       Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_182.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-I lead :doc:`Revenue Strategy research <wikimedia-revenue-strategy>` and the development of new revenue models for financial growth and long-term sustainability. I also provide expertise and guidance to other teams in the Advancement department, notably the Major Gifts team.
+I lead :doc:`Revenue Strategy research <wikimedia-revenue-strategy>` and the development of new revenue models for financial growth and long-term sustainability. I also provide expertise and guidance to other teams in the Advancement department, like the Major Gifts team.
 
 .. class:: continue-reading
 
@@ -363,7 +363,7 @@ In 2006, I gave my first presentation about Wikipedia, the first of many. I star
 
    .. figure:: /images/2007-08-05_Wikimania_2007_Commons_puzzle_piece.jpg
 
-      Holding the Commons with `Brianna <https://commons.wikimedia.org/wiki/User:Pfctdayelise>`__ and `Cary <https://commons.wikimedia.org/wiki/User:Bastique>`__ at Wikimania 2007 in Taipei, Taiwai. (From `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimania_2007_Commons_puzzle_piece.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.)
+      Holding the Commons with `Brianna <https://commons.wikimedia.org/wiki/User:Pfctdayelise>`__ and `Cary <https://commons.wikimedia.org/wiki/User:Bastique>`__ at Wikimania 2007 in Taipei, Taiwan. (From `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimania_2007_Commons_puzzle_piece.jpg>`__ // `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.)
 
 As a Board member, and later also Secretary, I focused on transparency, efficiency, and community organizing at the local level: I managed membership logistics, engaged donors, and streamlined the Board's decision making process. In addition to a Board member's usual responsibilities around governance, I also created an internal newsletter to keep members informed, and organized the chapter's activities into working groups to facilitate the involvement of volunteers.
 

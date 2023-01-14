@@ -57,7 +57,7 @@ I have the ability to absorb massive amounts of information on almost any topic,
 
 .. _The Pretender: https://en.wikipedia.org/wiki/The_Pretender_(TV_series)
 
-I communicate from a place of curiosity: I ask lots of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. I dig into the "why" a lot, and try to diligently revise my beliefs based on new information. When two opposite choices are unsatisfactory, I try to find a third one.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, and prefer instead to arrive at solutions with others using the Socratic method.
+I communicate from a place of curiosity: I ask lots of questions to learn more about a problem, deconstruct it, and identify underlying assumptions. I dig into the "why" a lot, and try to diligently revise my beliefs based on new information. When two opposite choices are unsatisfactory, I try to find a third one.\ [#CreatingGreatChoices]_ I am rarely attached to specific answers, but prefer instead to arrive at solutions with others using the Socratic method.
 
 .. [#CreatingGreatChoices] This process comes naturally to me, but Roger Martin and Jennifer Riel refer to it as "integrative thinking" in their 2017 book, *Creating Great Choices: A Leader's Guide to Integrative Thinking* (Harvard Business Review Press. ISBN 978-1633692961). Their work builds on Martin's earlier book, *The Opposable Mind*, which focused on leaders who "can hold two opposing ideas in their minds at once, and then reach a synthesis that actually improves on each." (Harvard Business Review Press, 2007. ISBN 978-1422118924).
 
@@ -106,7 +106,7 @@ I have been serving the Wikimedia community as a volunteer since 2005 in almost 
 
 After making a few small corrections to Wikipedia articles in 2005, I became more and more involved in the encyclopedia and its universe, serving the movement in almost every possible volunteer capacity. What started with a single edit eventually led to writing books, immigrating to the United States, creating software, managing teams of volunteers, photographing heads of state & Hollywood celebrities, and learning more about copyright laws than any human being ever should.
 
-I joined the Wikimedia Foundation in 2009 and spent almost a decade working on the technical platform that powers Wikipedia. I notably designed and led the development of UploadWizard, the customizable file upload software for Wikimedia Commons. I also wrote technical reports and other publications to increase collaboration between the engineers who code the platform, and the contributors who use the platform to write Wikipedia.
+I joined the Wikimedia Foundation in 2009 and spent almost a decade working on the technical platform that powers Wikipedia. I notably designed and led the development of UploadWizard, the customizable file upload software for Wikimedia Commons. I also wrote technical reports and other publications to increase collaboration between the engineers who code the platform and the contributors who use the platform to write Wikipedia.
 
 .. sidebar::
    :class: rowstart-4 rowspan-3
