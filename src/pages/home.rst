@@ -117,17 +117,13 @@ I joined the Wikimedia Foundation in 2009 and spent almost a decade working on t
 
 Later on, I was a Lead Architect for "Wikimedia 2030," guiding dozens of organizations and thousands of individuals through a global strategy and movement-building process. I led the synthesis of all inputs, conversations, and research, and I was the main author of the resulting Strategic Direction of "Knowledge Equity and Knowledge as a Service."
 
-My most recent work at the Wikimedia Foundation has focused on long-term thinking, strategy, and initiatives for executives. I also play unofficial roles as a Wikimedia historian, mentor, and "ship's counselor."
+My most recent work at the Wikimedia Foundation has focused on long-term thinking, strategy, and initiatives for executives. I also play unofficial roles as a Wikimedia historian, mentor, and "ship's counselor."\ [#shipscounselor]_
+
+.. [#shipscounselor] In the Star Trek universe, ship counselors, like Commander Deanna Troi in *Star Trek: The Next Generation*, are particularly empathetic individuals responsible for the mental well-being of the crew. They provide advice and emotional support, and help resolve disputes. (Read more on `Memory Alpha <https://memory-alpha.fandom.com/wiki/Counselor>`__, the Star Trek wiki.)
 
 .. class:: continue-reading
 
    :doc:`continue reading <wikimedia>`
-
-.. sidebar::
-   :class: rowstart-7
-
-   In the Star Trek universe, ship counselors, like Commander Deanna Troi in *Star Trek: The Next Generation*, are particularly empathetic individuals responsible for the mental well-being of the crew. They provide advice and emotional support, and help resolve disputes. (Read more on `Memory Alpha <https://memory-alpha.fandom.com/wiki/Counselor>`__, the Star Trek wiki.)
-
 
 ----
 

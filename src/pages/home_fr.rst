@@ -38,7 +38,7 @@ J'apprécie la métacognition et la conscience de soi émotionnelle, car compren
 Intégrer des informations
 -------------------------
 
-Je suis capable d'absorber d'énormes quantités d'informations sur presque tous les sujets, et de comprendre rapidement de nouveaux paradigmes. Bien qu'ingénieur en physique au départ, j'ai occupé de nombreux rôles différents au fil des ans, ce qui m'a valu de la part de mes collègues des surnoms tels que « l'économiste », « le philosophe », ou encore  « l'âme de l'organisation ».
+Je suis capable d'absorber d'énormes quantités d'informations sur presque tous les sujets, et de comprendre rapidement de nouveaux paradigmes.\ [#Pretender]_ Bien qu'ingénieur en physique au départ, j'ai occupé de nombreux rôles différents au fil des ans, ce qui m'a valu de la part de mes collègues des surnoms tels que « l'économiste », « le philosophe », ou encore  « l'âme de l'organisation ».
 
 .. [#Pretender] Un peu comme le personnage principal, Jarod, dans la série |The Pretender|_ de la trilogie du samedi sur M6, sauf que je suis un peu moins extraordinaire, et que je n'ai pas été enlevé puis poursuivi par une organisation secrète aux buts néfastes basée au Delaware.
 
@@ -106,7 +106,9 @@ J'ai rejoint la Wikimedia Foundation en 2009 et j'ai passé près de dix ans à 
 
 Plus tard, j'ai été l'architecte principal de « Wikimedia 2030 » ; dans ce rôle, j'ai guidé des dizaines d'organisations et des milliers d'individus à travers un processus global de stratégie et de construction de mouvement social. J'ai dirigé la synthèse de toutes les contributions, conversations, et rapports de recherche, et j'ai été l'auteur principal de la direction stratégique qui en a résulté : « l'équité du savoir, et la connaissance en tant que service ».
 
-Plus récemment, mon travail à la Wikimedia Foundation a porté sur la réflexion à long terme, la stratégie, et les initiatives spéciales des dirigeants. Je joue également des rôles officieux en tant qu'historien de Wikimedia, de mentor, et de « conseiller-thérapeute de bord ».
+Plus récemment, mon travail à la Wikimedia Foundation a porté sur la réflexion à long terme, la stratégie, et les initiatives spéciales des dirigeants. Je joue également des rôles officieux en tant qu'historien de Wikimedia, de mentor, et de « conseiller-thérapeute de bord ».\ [#shipscounselor]_
+
+.. [#shipscounselor] Dans l'univers de Star Trek, les conseillers de bord, comme la Commandante Deanna Troi dans *Star Trek : La Nouvelle Génération*, sont des individus particulièrement empathiques, responsables du bien-être mental de l'équipage. Ils fournissent des conseils et un soutien émotionnel, et aident à résoudre les conflits. (Pour en savoir plus, voir `Memory Alpha <https://memory-alpha.fandom.com/fr/wiki/Conseiller>`__, le wiki dédié à Star Trek).
 
 .. class:: continue-reading
 
@@ -117,11 +119,6 @@ Plus récemment, mon travail à la Wikimedia Foundation a porté sur la réflexi
 .. .. class:: continue-reading
 
 ..    :doc:`lire la suite <wikimedia>`
-
-.. sidebar::
-   :class: rowstart-7
-
-   Dans l'univers de Star Trek, les conseillers de bord, comme la Commandante Deanna Troi dans *Star Trek : La Nouvelle Génération*, sont des individus particulièrement empathiques, responsables du bien-être mental de l'équipage. Ils fournissent des conseils et un soutien émotionnel, et aident à résoudre les conflits. (Pour en savoir plus, voir `Memory Alpha <https://memory-alpha.fandom.com/fr/wiki/Conseiller>`__, le wiki dédié à Star Trek).
 
 
 ----
