@@ -102,7 +102,7 @@ Knowledge belongs to all of us
 
    `Jason Krüger <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_Group_photo_4.jpg>`__ for Wikimedia Deutschland e.V. // `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-I have been serving the Wikimedia community as a volunteer since 2005 in almost every possible role, and have devoted a large part of my professional career to advancing the Wikimedia mission. I do this out of a deep commitment to free knowledge for all, and a belief that knowledge makes the world a better place. 
+I have been serving the Wikimedia community as a volunteer since 2005 in a variety of roles, and have devoted a large part of my professional career to advancing the Wikimedia mission. I do this out of a deep commitment to free knowledge for all, and a belief that knowledge makes the world a better place. 
 
 After making a few small corrections to Wikipedia articles in 2005, I became more and more involved in the encyclopedia and its universe, serving the movement in almost every possible volunteer capacity. What started with a single edit eventually led to writing books, immigrating to the United States, creating software, managing teams of volunteers, photographing heads of state & Hollywood celebrities, and learning more about copyright laws than any human being ever should.
 
