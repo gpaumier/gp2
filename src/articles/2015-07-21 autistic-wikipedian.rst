@@ -13,10 +13,6 @@
 
     Two years ago, I discovered that I was on the autism spectrum. As I learned more about myself and the way my brain worked, I started to look at past experiences through the lens of this newly-found aspect. In this essay, I share some of what I've learned along the way about my successes, my failures, and many things that confused me in the past, notably in my experiences in the Wikimedia movement.
 
-.. note::
-
-    This essay was the basis of the `talk of the same name <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ that I gave at the Wikimania 2015 conference. It is not an exact transcript.
-
 
 Introduction
 ============
@@ -31,6 +27,10 @@ I don't have many memories about that time, but my parents remember that, while 
 It wasn't that I didn't like them; it was because the school was much quieter than during weekdays, and I had all the toys to myself. I didn't have to interact with other children, or share the pencils, or the room. I could do whatever I wanted without worrying about the other kids.
 
 I didn't know it at the time, but it would take me nearly 30 years to look back at this story and understand how it made complete sense.
+
+.. sidebar::
+
+   This essay was the basis of the `talk of the same name <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ that I gave at the Wikimania 2015 conference. It is not an exact transcript.
 
 
 Today

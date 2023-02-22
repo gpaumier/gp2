@@ -11,11 +11,6 @@
     Il y a deux ans, j'ai découvert que j'appartenais au spectre autistique. Cela m'a permis de mieux comprendre comment je fonctionnais, et comment mon cerveau fonctionnait; j'ai ainsi pu analyser mes expériences passées d'un nouvel œil. Dans cet essai, je souhaite partager ce que j'ai appris au cours de ce processus, à travers mes succès, mes échecs, et de nombreuses situations que je n'ai pas comprises à l'époque, notamment au cours de mes interactions avec d'autres Wikipédiens.
 
 
-.. note::
-
-    Cet essai est à l'origine de ma `présentation du même nom <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ donnée lors de la conférence Wikimania 2015. Il ne s'agit pas d'une retranscription exacte.
-
-
 Introduction
 ============
 
@@ -29,6 +24,11 @@ Je n'ai pas beaucoup de souvenirs de cette époque, mais mes parents se rappelle
 Je n'avais rien contre eux personnellement ; l'école était simplement plus calme le samedi. Je n'avais pas à interagir avec les autres enfants, et je n'avais pas besoin de partager les crayons, les jouets, ou même la pièce. Je pouvais faire ce que je voulais sans avoir à me soucier des autres enfants.
 
 Je ne le savais pas à l'époque, mais il me faudrait près de 30 ans pour regarder cette anecdote sous un nouveau jour, et comprendre en quoi elle était en fait complètement logique.
+
+.. sidebar::
+
+   Cet essai est à l'origine de ma `présentation du même nom <https://wikimania2015.wikimedia.org/wiki/Submissions/My_life_as_an_autistic_Wikipedian>`_ donnée lors de la conférence Wikimania 2015. Il ne s'agit pas d'une retranscription exacte.
+
 
 Aujourd'hui
 ===========
