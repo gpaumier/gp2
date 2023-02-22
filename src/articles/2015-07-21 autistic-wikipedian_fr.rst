@@ -3,6 +3,8 @@
 .. slug: wikipedien-autiste
 .. tags: Wikimedia
 
+.. figure:: /images/2013-03-08_Death_Valley_5903.jpg
+   :figclass: lead-figure
 
 .. highlights::
 

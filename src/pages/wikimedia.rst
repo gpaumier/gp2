@@ -180,7 +180,7 @@ This project was also an opportunity for me to better understand my own motivati
 
       My colleagues in the Foundation's Talent & Culture team have been leading the efforts to bring those values to life and integrate them into the employee life cycle, from hiring to onboarding and performance evaluation. In 2018, we organized a workshop to invite employees to express how they approached the values in their work. They did so through a variety of media ranging from poetry to mixed media, dance, clay, or just plain discussion.
 
-In 2022, I was part of an effort to refresh those values through a small-group discussions among Foundation staff, initially focusing on "We are in this together." This worked continued into 2023, extending to the other values.
+In 2022, I was part of an effort to refresh those values through a small-group discussions among Foundation staff, initially focusing on "We are in this together." This work continued into 2023, extending to the other values.
 
 ----
 
