@@ -17,9 +17,9 @@
 
 .. highlights::
 
-   I currently lead special projects for the Wikimedia Foundation's Chief Advancement Officer, serving as the department's de facto chief of staff. In this role, I am leading the organization's future thinking towards resilience in a changing world, navigating unknowns in technology, policy, industry, society, and climate, notably through scenario planning.
+   I previously led special projects for the Wikimedia Foundation's Chief Advancement Officer, serving as the department's de facto chief of staff. In this role, I was leading the organization's future thinking towards resilience in a changing world, navigating unknowns in technology, policy, industry, society, and climate, notably through scenario planning.
 
-   I lead Revenue Strategy research and the development of new revenue models for financial growth and long-term sustainability. I also provide expertise and guidance to other teams in the Advancement department, notably the Major Gifts team.
+   I led Revenue Strategy research and the development of new revenue models for financial growth and long-term sustainability. I also provided expertise and guidance to other teams in the Advancement department, notably the Major Gifts team.
 
 ----
 
@@ -111,10 +111,10 @@ Major Gifts & Endowment
 
    `Myleen Hollero <http://myleenhollero.com/>`__ // `CC-BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode>`__.
 
-In my current role, I also work with other teams in Advancement, for example providing expertise and guidance to the Strategic Partnerships team, and the Major Gifts, Foundations, and Endowment team.
+In my previous role, I also worked with other teams in Advancement, for example providing expertise and guidance to the Strategic Partnerships team, and the Major Gifts, Foundations, and Endowment team.
 
-I currently support the Community & Grantmaking Committee of the Endowment Board of Directors, and prevously staffed their Investment committee. I have also crafted proposals tailored to high-net-worth prospects and created a modular prospectus aimed for a wider audience. In 2019, I co-wrote the Wikimedia Foundation's application for the 100&Change challenge,\ [#100andchange]_ including what would become my essay on the :doc:`Stakes of Knowledge <stakes-of-knowledge>`.
+I supported the Community & Grantmaking Committee of the Endowment Board of Directors, and prevously staffed their Investment Committee. I also crafted proposals tailored to high-net-worth prospects and created a modular prospectus aimed for a wider audience. In 2019, I co-wrote the Wikimedia Foundation's application for the 100&Change challenge,\ [#100andchange]_ including what would become my essay on the :doc:`Stakes of Knowledge <stakes-of-knowledge>`.
 
 .. [#100andchange] The `100&Change challenge <https://www.100andchange.org/>`__ is a competition organized by the MacArthur Foundation for a $100 million grant to "fund a single proposal that promises real and measurable progress in solving a critical problem of our time."
 
-More recently, I produced a research report about the future of the Endowment, and guided the Endowment Board and its Community & Grantmaking Committee through their strategy discussions, notably around what kind of work they might decide to fund.
+In 2022, I produced a research report about the future of the Endowment, and guided the Endowment Board and its Community & Grantmaking Committee through their strategy discussions, notably around what kind of work they might decide to fund.

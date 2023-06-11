@@ -52,14 +52,14 @@ Recent work
 
    `Photoholgic <https://unsplash.com/@photoholgic>`__ on `Unsplash <https://unsplash.com/photos/kKWcOwioewA>`__.
 
-My most recent work at the Wikimedia Foundation has focused on long-term thinking, strategy, and executive initiatives. I also play unofficial roles as a Wikimedia historian, mentor, and "ship's counselor."
+My most recent work at the Wikimedia Foundation has focused on long-term thinking, strategy, and executive initiatives. I also play unofficial roles as a Wikimedia historian, mentor, and "ship's counselor." I am currently serving as Chief of Staff to the Chief Product and Technology Officer.
 
 Revenue strategy and long-term thinking
 ---------------------------------------
 
 .. TODO: add group photo of department after all-hands?
 
-I currently lead special projects for the Wikimedia Foundation's Chief Advancement Officer, serving as the department's de facto chief of staff. In this role, I am leading the organization's future thinking towards resilience in a changing world, navigating unknowns in technology, policy, industry, society, and climate, notably through :doc:`scenario planning <2031-scenarios>`.
+I previously led special projects for the Wikimedia Foundation's Chief Advancement Officer, serving as the department's de facto chief of staff. In this role, I was leading the organization's future thinking towards resilience in a changing world, navigating unknowns in technology, policy, industry, society, and climate, notably through :doc:`scenario planning <2031-scenarios>`.
 
 .. sidebar::
    :class: rowspan-2
@@ -68,7 +68,7 @@ I currently lead special projects for the Wikimedia Foundation's Chief Advanceme
 
       Jason Krüger for Wikimedia Deutschland e.V. on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Wikimedia_Summit_2019_-_182.jpg>`__ //  `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-I lead :doc:`Revenue Strategy research <wikimedia-revenue-strategy>` and the development of new revenue models for financial growth and long-term sustainability. I also provide expertise and guidance to other teams in the Advancement department, like the Major Gifts team.
+I led :doc:`Revenue Strategy research <wikimedia-revenue-strategy>` and the development of new revenue models for financial growth and long-term sustainability. I also provided expertise and guidance to other teams in the Advancement department, like the Major Gifts team.
 
 .. class:: continue-reading
 
