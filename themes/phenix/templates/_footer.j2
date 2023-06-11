@@ -18,7 +18,7 @@
       <ul>
         {% for elsewhere in ['twitter', 'mastodon', 'instagram', 'linkedin'] %}
             <li>
-                <a href="{{ messages('menu_' + elsewhere + '_link')}}" class="item">{{ messages('menu_' + elsewhere + '_label')}}</a>{{ messages('menu_description_separator')}}{{ messages('menu_' + elsewhere + '_description')}}
+                <a href="{{ messages('menu_' + elsewhere + '_link')}}" rel="me" class="item">{{ messages('menu_' + elsewhere + '_label')}}</a>{{ messages('menu_description_separator')}}{{ messages('menu_' + elsewhere + '_description')}}
             </li>
         {% endfor %}
       </ul>
