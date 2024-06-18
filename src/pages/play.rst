@@ -137,6 +137,8 @@ Shortly after, I also started a ballet class for adult beginners, as well as bal
    In 2019, I started ballet as part of a class for adult beginners. I was not graceful. I didn't have great balance. But I had fun challenging myself.
 
 
+I started playing dodgeball in a local queer pick-up league in 2023, and volleyball in Summer 2024.
+
 .. ----
 
 .. Travel & Photography
