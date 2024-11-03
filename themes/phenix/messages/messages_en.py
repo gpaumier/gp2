@@ -65,7 +65,7 @@ MESSAGES = {
     "menu_instagram_description": "travel pics, random pics, and the occasional thirst trap",
     "menu_linkedin_link": "https://www.linkedin.com/in/gpaumier",
     "menu_linkedin_label": "linkedin",
-    "menu_linkedin_description": "idk, “networking”",
+    "menu_linkedin_description": "professional connections",
     "menu_description_separator": ": ",
     "menu_section_contact": "Contact",
     "contact_form_action_target": "/message-sent",

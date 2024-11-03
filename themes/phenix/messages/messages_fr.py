@@ -56,7 +56,7 @@ MESSAGES = {
     "menu_section_elsewhere": "Ailleurs sur la toile",
     "menu_threads_description": "jeux de mots, mèmes, pensées en vrac, et (més)aventures romantiques",
     "menu_instagram_description": "photos de voyages, photos en vrac, et autoportraits occasionnels",
-    "menu_linkedin_description": "jsp, « networking »",
+    "menu_linkedin_description": "connexions professionnelles",
     "menu_description_separator": "&nbsp;: ",
     "menu_section_contact": "Contact",
     "contact_form_action_target": "/fr/message-envoye",
