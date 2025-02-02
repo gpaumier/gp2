@@ -34,8 +34,8 @@ export function buildStyles() {
   return gulp.src(sassSrc)
     .pipe(sourcemaps.init())
     .pipe(sass.sync({
-      outputStyle: 'compressed',
-      includePaths: ['node_modules/normalize.css']
+      style: 'compressed',
+      loadPaths: ['node_modules/normalize.css']
       }).on('error', sass.logError))
     .pipe(cleanCSS())
     .pipe(sourcemaps.write('./maps'))
