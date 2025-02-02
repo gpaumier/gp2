@@ -5,6 +5,8 @@ body > footer {
 
   @extend %golden-grid-skeleton;
   min-height: 0.5vh;
+  background-color: rgb(80, 0, 0);
+  color: #cca0a0;
 
   // Layout
 
@@ -39,9 +41,6 @@ body > footer {
   }
 
   // Appearance
-
-  background-color: rgb(80, 0, 0);
-  color: #cca0a0;
 
   a {
     color: #cca0a0;
