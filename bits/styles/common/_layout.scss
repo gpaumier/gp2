@@ -218,7 +218,7 @@ svg {
     }
 
     // Place side elements in the sidebar:
-    .footnote,
+    .footnote-list,
     .sidebar,
     figcaption,
     .caption,
@@ -231,10 +231,10 @@ svg {
       grid-column: unset;
     }
 
-    // Align <figcaption>, .caption, and .footnote elements at the start for a Tufter look:
+    // Align <figcaption>, .caption, and .footnote-list elements at the start for a Tufter look:
     figcaption,
     .caption,
-    .footnote,
+    .footnote-list,
     .admonition {
       align-self: end;
     }
