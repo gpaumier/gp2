@@ -34,7 +34,7 @@ J'ai rejoint la Wikimedia Foundation en 2009 et j'ai passé près de dix ans à 
 
 Plus tard, j'ai été l'architecte principal de « Wikimedia 2030 » ; dans ce rôle, j'ai guidé des dizaines d'organisations et des milliers d'individus à travers un processus global de stratégie et de construction de mouvement social. J'ai dirigé la synthèse de toutes les contributions, conversations, et rapports de recherche, et j'ai été l'auteur principal de la direction stratégique qui en a résulté : « l'équité du savoir, et la connaissance en tant que service ».
 
-Plus récemment, mon travail à la Wikimedia Foundation a porté sur la réflexion à long terme, la stratégie, et les initiatives spéciales des dirigeants. Je joue également des rôles officieux en tant qu'historien de Wikimedia, de mentor, et de « conseiller-thérapeute de bord ».
+Plus récemment, mon travail à la Wikimedia Foundation a porté sur la réflexion à long terme, la stratégie, et les initiatives spéciales des dirigeants. J'ai également servi officieusement en tant qu'historien de Wikimedia, de mentor, et de « conseiller-thérapeute de bord ».
 
 .. sidebar::
 

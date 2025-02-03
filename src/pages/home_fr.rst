@@ -10,9 +10,9 @@
 
    Bonjour à tou·te·s ; je suis Guillaume Paumier. Dans mon travail, je résous des problèmes techniques et sociaux complexes, par exemple en organisant un processus de stratégie collaborative pour un mouvement social de plus de 70 000 bénévoles.\ [#Wikimedia2030]_ Ou en développant des dispositifs microfluidiques de bioanalyse à base de polymères thermosensibles.\ [#PNIPAM]_ Ou en concevant le logiciel derrière le plus grand concours de photographie au monde.
 
-   Je passe beaucoup de temps à réfléchir sur les sujets de la connaissance, du temps, et des dynamiques de pouvoir. Je sers également comme agent de confiance, éminence grise, et partenaire de réflexion pour les dirigeants. Je travaille actuellement à la Wikimedia Foundation, l'organisation à but non lucratif derrière Wikipédia, qui amène le savoir à des centaines de millions de personnes chaque mois, et leur permet de travailler ensemble pour donner un sens au monde dans lequel nous vivons.
+   Je passe beaucoup de temps à réfléchir sur les sujets de la connaissance, du temps, et des dynamiques de pouvoir. Je sers également comme agent de confiance, éminence grise, et partenaire de réflexion pour les dirigeants. J'ai récemment occupé le poste de chef de cabinet à la Wikimedia Foundation, l'organisation à but non lucratif qui gère Wikipédia.
 
-   Lisez la suite pour en savoir plus sur moi, ou :ref:`défilez jusqu'en bas <footer-contact>` pour me contacter.
+   J'accepte actuellement des clients et des demandes de renseignements ; :ref:`contactez-moi maintenant <footer-contact>` pour discuter de vos besoins, ou lisez la suite pour en savoir plus sur moi.
 
    .. class:: rowstart-1 rowspan-2 sidebar 
 
@@ -106,7 +106,7 @@ J'ai rejoint la Wikimedia Foundation en 2009 et j'ai passé près de dix ans à 
 
 Plus tard, j'ai été l'architecte principal de « Wikimedia 2030 » ; dans ce rôle, j'ai guidé des dizaines d'organisations et des milliers d'individus à travers un processus global de stratégie et de construction de mouvement social. J'ai dirigé la synthèse de toutes les contributions, conversations, et rapports de recherche, et j'ai été l'auteur principal de la direction stratégique qui en a résulté : « l'équité du savoir, et la connaissance en tant que service ».
 
-Plus récemment, mon travail à la Wikimedia Foundation a porté sur la réflexion à long terme, la stratégie, et les initiatives spéciales des dirigeants. Je joue également des rôles officieux en tant qu'historien de Wikimedia, de mentor, et de « conseiller-thérapeute de bord ».\ [#shipscounselor]_
+Plus récemment, mon travail à la Wikimedia Foundation a porté sur la réflexion à long terme, la stratégie, et les initiatives spéciales des dirigeants. J'ai également servi officieusement en tant qu'historien de Wikimedia, de mentor, et de « conseiller-thérapeute de bord ».\ [#shipscounselor]_
 
 .. [#shipscounselor] Dans l'univers de Star Trek, les conseillers de bord, comme la Commandante Deanna Troi dans *Star Trek : La Nouvelle Génération*, sont des individus particulièrement empathiques, responsables du bien-être mental de l'équipage. Ils fournissent des conseils et un soutien émotionnel, et aident à résoudre les conflits. (Pour en savoir plus, voir `Memory Alpha <https://memory-alpha.fandom.com/fr/wiki/Conseiller>`__, le wiki dédié à Star Trek).
 

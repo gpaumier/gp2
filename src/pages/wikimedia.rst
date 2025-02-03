@@ -52,7 +52,7 @@ Recent work
 
    `Photoholgic <https://unsplash.com/@photoholgic>`__ on `Unsplash <https://unsplash.com/photos/kKWcOwioewA>`__.
 
-My most recent work at the Wikimedia Foundation has focused on long-term thinking, strategy, and executive initiatives. I also play unofficial roles as a Wikimedia historian, mentor, and "ship's counselor." I am currently serving as Chief of Staff to the Chief Product and Technology Officer.
+My most recent work at the Wikimedia Foundation focused on long-term thinking, strategy, and executive initiatives. I also played unofficial roles as a Wikimedia historian, mentor, and "ship's counselor." In my last position, I served as Chief of Staff to the Chief Product and Technology Officer.
 
 Revenue strategy and long-term thinking
 ---------------------------------------
@@ -72,7 +72,7 @@ I led :doc:`Revenue Strategy research <wikimedia-revenue-strategy>` and the deve
 
 .. class:: continue-reading
 
-   :doc:`learn more about my current work <advancement>`
+   :doc:`learn more about my work on Revenue and strategy <advancement>`
 
 ----
 

@@ -18,9 +18,9 @@
 
    Hi there; I'm Guillaume Paumier.\ [#pronunciation]_ In my work, I focus on bringing clarity to complex social and technical problems, like when I led a global movement of 70,000+ volunteers through a collaborative strategy process.\ [#Wikimedia2030]_ Or when I developed bioanalysis microfluidic devices based on thermosensitive polymers.\ [#PNIPAM]_ Or when I designed software that powers the world's largest photography competition.
 
-   I think a lot about knowledge, time, and power. I have also developed a specialty of serving as a trusted agent, confidant, and thought partner for executives. I currently work at the Wikimedia Foundation, the nonprofit organization that supports Wikipedia and brings free knowledge to hundreds of millions of people every month, and supports them as they collectively make sense of our world.
+   I think a lot about knowledge, time, and power. I have also developed a specialty of serving as a trusted agent, confidant, and thought partner for executives. I served most recently as a Chief of Staff at the Wikimedia Foundation, the nonprofit organization that supports Wikipedia.
 
-   Read on to learn more about my story, or :ref:`skip ahead <footer-contact>` to contact me.
+   I am currently accepting new clients and inquiries; :ref:`contact me today <footer-contact>` to discuss your needs, or read on to learn more about me.
 
    .. class:: rowstart-1 rowspan-2 sidebar 
 
@@ -104,7 +104,7 @@ Knowledge belongs to all of us
 
 I have been serving the Wikimedia community as a volunteer since 2005 in a variety of roles, and have devoted a large part of my professional career to advancing the Wikimedia mission. I do this out of a deep commitment to free knowledge for all, and a belief that knowledge makes the world a better place. 
 
-After making a few small corrections to Wikipedia articles in 2005, I became more and more involved in the encyclopedia and its universe, serving the movement in almost every possible volunteer capacity. What started with a single edit eventually led to writing books, immigrating to the United States, creating software, managing teams of volunteers, photographing heads of state & Hollywood celebrities, and learning more about copyright laws than any human being ever should.
+After making a few small corrections to Wikipedia articles in 2005, I became more and more involved in the encyclopedia and its universe, serving the movement in almost every possible volunteer capacity. What started with a single edit eventually led to writing books, immigrating to the United States, creating software, managing teams of volunteers, photographing heads of state & Hollywood celebrities, and learning more about copyright law than any human being ever should.
 
 I joined the Wikimedia Foundation in 2009 and spent almost a decade working on the technical platform that powers Wikipedia. I notably designed and led the development of UploadWizard, the customizable file upload software for Wikimedia Commons. I also wrote technical reports and other publications to increase collaboration between the engineers who code the platform and the contributors who use the platform to write Wikipedia.
 
@@ -117,7 +117,7 @@ I joined the Wikimedia Foundation in 2009 and spent almost a decade working on t
 
 Later on, I was a Lead Architect for "Wikimedia 2030," guiding dozens of organizations and thousands of individuals through a global strategy and movement-building process. I led the synthesis of all inputs, conversations, and research, and I was the main author of the resulting Strategic Direction of "Knowledge Equity and Knowledge as a Service."
 
-My most recent work at the Wikimedia Foundation has focused on long-term thinking, strategy, and initiatives for executives. I also play unofficial roles as a Wikimedia historian, mentor, and "ship's counselor."\ [#shipscounselor]_
+My most recent work at the Wikimedia Foundation focused on long-term thinking, strategy, and initiatives for executives. I also played unofficial roles as a Wikimedia historian, mentor, and "ship's counselor."\ [#shipscounselor]_
 
 .. [#shipscounselor] In the Star Trek universe, ship counselors, like Commander Deanna Troi in *Star Trek: The Next Generation*, are particularly empathetic individuals responsible for the mental well-being of the crew. They provide advice and emotional support, and help resolve disputes. (Read more on `Memory Alpha <https://memory-alpha.fandom.com/wiki/Counselor>`__, the Star Trek wiki.)
 
