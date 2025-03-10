@@ -1,12 +1,17 @@
 .. title: Tech news
 .. category: projects-en
-.. subtitle: the Wikimedia technical newsletter
 .. slug: tech-news
 .. date: 2013-05-16T00:00:00
 .. end: 2015-08-17T00:00:00
 .. image: /images/2013-12-16_Tech_news_process_-_Overview.svg
 .. roles: writer, project lead
 .. tags: Wikimedia, Engineering, Wikipedia, writing, translation, technology, technical communication
+
+.. figure:: /images/2013-12-16_Tech_news_process_-_Overview.svg
+   :figclass: lead-figure
+   :alt: Diagram of the process for putting together the weekly technical newsletter, from monitoring changes and writing the newsletter, to translating it, to assembling the consolidated multilingual content and distributing it to technical ambassadors across language editions of Wikipedia and its sister sites.
+
+   Diagram of the process for putting together the weekly technical newsletter, from monitoring changes and writing the newsletter, to translating it, to assembling the consolidated multilingual content and distributing it to technical ambassadors across language editions of Wikipedia and its sister sites
 
 .. highlights::
 

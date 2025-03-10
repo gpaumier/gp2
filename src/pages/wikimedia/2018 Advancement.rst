@@ -43,7 +43,7 @@ The Board specifically recommended that the Foundation "support the fundraising 
 
 .. [#BoardStatement] `Statement endorsing future resourcing and direction of the organization <https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Board_noticeboard/November_2017_-_Statement_endorsing_future_resourcing_and_direction_of_the_organization>`__. Wikimedia Foundation Board of Trustees. Meta-Wiki, November 2017.
 
-Following this directive, I started working with Lisa Seitz-Gruwell, the Foundation's Chief Advancement Officer, as well as Jeremy Gregg, to explore new revenue streams for the Wikimedia Foundation. In addition to specific proposals, I also published a :doc:`strategic summary <wikimedia-revenue-strategy>` of my reflection. 
+Following this directive, I started working with Lisa Seitz-Gruwell, the Foundation's Chief Advancement Officer, as well as `Jeremy Gregg <https://jeremygregg.com>`__, to explore new revenue streams for the Wikimedia Foundation. In addition to specific proposals, I also published a :doc:`strategic summary <wikimedia-revenue-strategy>` of my reflection. 
 
 In 2022, I led a new Revenue Strategy process to take stock of what the organization had accomplished since 2018, and determine how to develop resources to support the ambitions of the Wikimedia movement.
 

@@ -62,7 +62,7 @@ MESSAGES = {
     "menu_threads_description": "puns, memes, random thoughts, and (mis)adventures in gay dating",
     "menu_instagram_link": "https://instagram.com/guillaume.paumier",
     "menu_instagram_label": "instagram",
-    "menu_instagram_description": "travel pics, random pics, and the occasional thirst trap",
+    "menu_instagram_description": "snapshots of life",
     "menu_linkedin_link": "https://www.linkedin.com/in/gpaumier",
     "menu_linkedin_label": "linkedin",
     "menu_linkedin_description": "professional connections",
