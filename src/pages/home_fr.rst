@@ -1,4 +1,4 @@
-.. title: Accueil
+.. title: Chef de cabinet stratégique et démêleur de problèmes complexes
 .. slug: index
 .. subtitle: Je demêle les choses et je les réassemble en leur donnant du sens.
 .. h1-override: Bonjour, je m'appelle Guillaume.

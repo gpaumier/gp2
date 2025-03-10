@@ -249,6 +249,10 @@ h3 {
     @extend %phenix-serif-italic;
     font-style: italic;
   }
+
+  strong {
+    @extend %phenix-serif-bold;
+  }
 }
 
 p.continue-reading {

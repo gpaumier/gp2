@@ -1,4 +1,4 @@
-.. title: Homepage
+.. title: Strategic Chief of Staff & Untangler of non-obvious problems
 .. subtitle: I'm an expert at untangling things and weaving them in ways that make sense.
 .. h1-override: Hi, I'm Guillaume.
 .. slug: index
@@ -16,21 +16,17 @@
 
 .. highlights::
 
-   Hi there; I'm Guillaume Paumier.\ [#pronunciation]_ In my work, I focus on bringing clarity to complex social and technical problems, like when I led a global movement of 70,000+ volunteers through a collaborative strategy process.\ [#Wikimedia2030]_ Or when I developed bioanalysis microfluidic devices based on thermosensitive polymers.\ [#PNIPAM]_ Or when I designed software that powers the world's largest photography competition.
+   Hi there; I'm Guillaume Paumier.\ [#pronunciation]_ I am a Strategic Chief of Staff with a knack for untangling tricky situations and solving complex non-obvious problems. I have fifteen years of experience in the tech and nonprofit sectors, ten of which partnering directly with CEOs and executives across Revenue, Product, and Technology. I offer a unique blend of strategic thinking, operational expertise, and relationship building.
 
-   I think a lot about knowledge, time, and power. I have also developed a specialty of serving as a trusted agent, confidant, and thought partner for executives. I served most recently as a Chief of Staff at the Wikimedia Foundation, the nonprofit organization that supports Wikipedia.
+   **I focus on getting leaders and siloed teams unstuck, aligned, and moving forward.** I partner with executives in mission-driven organizations experiencing challenges due to growth, unclear direction, or misaligned accountability, and who are ready to address those roadblocks with humility, openness, and determination. I served most recently as a Chief of Staff at the Wikimedia Foundation, the nonprofit organization that supports Wikipedia.
 
-   I am currently accepting new clients and inquiries; :ref:`contact me today <footer-contact>` to discuss your needs, or read on to learn more about me.
+   I am currently open to opportunities and accepting new clients; :ref:`contact me today <footer-contact>` to discuss your needs, or read on to learn more about me.
 
-   .. class:: rowstart-1 rowspan-2 sidebar 
+   .. class:: rowstart-1 rowspan-1 sidebar 
 
    .. container::
 
       .. [#pronunciation] pronounced "gui-yom pom-yeh" (:abbr:`IPA (International Phonetic Alphabet)`: [ɡijom pɔmje]).
-   
-      .. [#Wikimedia2030] :doc:`Wikimedia 2030 <wikimedia2030>`: participatory strategy for a global movement
-
-      .. [#PNIPAM] :doc:`PNIPAM technologies for labs-on-chips <pnipam>` (Ph.D thesis)
 
 .. .. [3] :doc:`Wikimedia Commons UploadWizard <uploadwizard>`
 
