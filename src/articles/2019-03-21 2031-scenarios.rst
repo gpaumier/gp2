@@ -17,6 +17,8 @@
 
    As part of my work on revenue strategy for Wikimedia, I imagined three scenarios about the world in 2031 and the organization's place in it. I used these stories to spark discussions and shift conversations from day-to-day concerns and busywork to longer-term strategic thinking.
 
+   The scenarios all contained both favorable and unfavorable story elements, to ensure that people engaging with them wouldn't be tempted to pick one as the future they favored. The actual future that would come to pass was likely to be a combination of elements from all these stories. These stories were the basis of the :doc:`revenue strategy <wikimedia-revenue-strategy>` I devised in 2019.
+
 ----
 
 2031: The War of the Words
@@ -111,11 +113,13 @@ Beyond the scenarios
 
    Black swan *(cygnus atratus)* by `Rikiwiki2 <https://commons.wikimedia.org/wiki/User:Rikiwiki2>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:NSG_Vogelfreist%C3%A4tte_Feldheimer_Stausee_-_Trauerschwan_als_Gast.jpg>`__ // `CC-By-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`__.
 
-*If all you've ever known is white swans, you think black ones can't exist.*
-
 The point of this exercise was not to choose a scenario over another: we can't choose what the future will look like, just like we can't change the past. Our temporal agency is limited to the decisions we make in the present, based on our understanding of the past and the future. The goal was to provoke thinking, devise strategies, and guide decisions that would help us adapt to the variety of possible futures.
 
-The scenarios all contained both favorable and unfavorable story elements, to ensure that people engaging with them wouldn't be tempted to pick one as the future they favored. The actual future that would come to pass was likely to be a combination of elements from all these stories. These stories were the basis of the :doc:`revenue strategy <wikimedia-revenue-strategy>` I devised in 2019.
+
+Workshop & Chaotic Story
+------------------------
+
+During a department retreat, I organized a workshop with :doc:`Advancement <advancement>` staff, using full-page cards representing story elements of the scenarios, to encourage long-term thinking while tapping into the participants' own expertise and imagination. The cards provided the framework for the discussion, but let the participants weave them together in new ways.
 
 .. figure:: /images/2031_scenario_cards.jpg
    :alt: Photograph of two dozen scenario cards printed on large sheets of thick paper, showing various images with titles, and messily arranged on a surface.
@@ -123,15 +127,29 @@ The scenarios all contained both favorable and unfavorable story elements, to en
 
    Projecting ourselves into the future (for example, with scenarios and unexpected events) is a helpful way to chart a course for the future, and become antifragile in an uncertain world.
 
-During a department retreat, I organized a workshop with :doc:`Advancement <advancement>` staff, using full-page cards representing story elements of the scenarios, to encourage long-term thinking while tapping into the participants' own expertise and imagination. The cards provided the framework for the discussion, but let the participants weave them together in new ways.
+By fragmenting the scenarios into individual story cards, I inadvertently applied a powerful game design technique known as the *chaotic story*. Jane McGonigal describes this approach as breaking a story "into thousands of pieces like a jigsaw puzzle," compelling players to "actively make sense of the game content for themselves and for each other …. Until players put a chaotic story together, it doesn’t really exist—it's just a web of evidence, the raw materials for a story. It's up to the players to do the actual final storytelling."\ [#McGonigal2011a]_
 
-I also introduced “black swan” cards halfway through the activity,\ [#blackswan]_ picked at random among a few options. The goal was to prompt the participants to contend with unpredictable, `wild card <https://en.wikipedia.org/wiki/Wild_card_(foresight)>`__ events and consider how their draft strategies would fare in those new circumstances.
+.. [#McGonigal2011a] Jane McGonigal. *Reality Is Broken: Why Games Make Us Better and How They Can Change the World* (Penguin Press, 2011), 287.
 
-.. class:: rowspan-2
-.. [#blackswan] The `black swan theory <https://en.wikipedia.org/wiki/Black_swan_theory>`__ was developed by Nassim Nicholas Taleb in his 2007 book |blackswanbook|_. Black swan events are low-probability occurrences with a dramatic impact on the history considered. The phrase was used by Europeans for over 1500 years to refer to something that couldn't exist, until they encountered Australia's black swans in the 17th century.
+
+Black swans & building adaptability
+-----------------------------------
+
+*If all you've ever known is white swans, you think black ones can't exist.*
+
+Halfway through the activity, I introduced "Black swan" cards,\ [#blackswan1]_ picked at random among a few options. The goal was to prompt the participants to contend with unpredictable, `wild card <https://en.wikipedia.org/wiki/Wild_card_(foresight)>`__ events and consider how their draft strategies would fare in those new circumstances.
+
+.. sidebar::  
+   :class: rowspan-2
+
+   .. [#blackswan1] The `black swan theory <https://en.wikipedia.org/wiki/Black_swan_theory>`__ was developed by Nassim Nicholas Taleb in his 2007 book |blackswanbook|_. Black swan events are low-probability occurrences with a dramatic impact on the history considered. The phrase was used by Europeans for over 1500 years to refer to something that couldn't exist, until they encountered Australia's black swans in the 17th century.
 
 .. |blackswanbook| replace:: *The Black Swan: The Impact of the Highly Improbable*
 
 .. _blackswanbook: https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable
 
-The workshop was a high point of the retreat, and I've held similar workshops for Advancement and Wikimedia staff over the years. Future-oriented thinking helps build resilience by shifting the perspective of the organization's leaders to the long view, and leading them to imagine the future consequences of current events and choices they make today.
+Those unexpected disruptions further amplified the effectiveness of the chaotic story technique, demanding real-time adaptation and fostering a playful, creative problem-solving atmosphere. Instead of passively receiving predefined futures, participants engaged in dynamic interpretation and collaboration, significantly enhancing their ability to navigate ambiguity.
+
+This experience underscored the value of incorporating game mechanics into strategic thinking, not only to enhance engagement but also to build adaptability. Effective scenario planning is less about predicting specific outcomes and more about equipping teams with the agility, creativity, and collaborative skills needed to thrive in uncertain and rapidly changing environments.
+
+The workshop was a high point of the retreat, and I've held similar sessions for Advancement and Wikimedia staff over the years, all the way up to the executive team and the Board of Trustees. Future-oriented thinking helps build resilience by shifting the perspective of the organization's leaders to the long view, and leading them to imagine the future consequences of current events and choices they make today.
