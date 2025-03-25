@@ -167,7 +167,13 @@ Over the years, I've dabbled in archery, ballet, martial arts, stage acting, fen
 
 I like to do things with my hands and move my body around. Whether it's building things, folding paper, hiking, tending to plants, lifting heavy weights, doing pirouettes, belting out songs, or kneading bread, it provides an escape from intellectual work and intense thinking.
 
-I like to let my mind wander; it's often when I focus on my body and let my brain work out problems subconsciously that epiphanies happen. Playfulness and fun are great sources of inspiration and creativity.
+I like to let my mind wander; it's often when I focus on my body and let my brain work out problems subconsciously that epiphanies happen.\ [#incubation]_ Playfulness and fun are great sources of inspiration and creativity.
+
+.. class:: rowstart-3 rowspan-2 sidebar 
+
+   .. container::
+
+      .. [#incubation] Social psychologist Graham Wallas referred to this stage of the creative process as "`incubation <https://en.wikipedia.org/wiki/Incubation_(psychology)>`__," "the stage during which he was not consciously thinking about the problem," and that led to the "illumination:" the "appearance of the 'happy idea'." Graham Wallas, *The Art of Thought*, (Solis Press, 2014), 95.
 
 .. class:: continue-reading
 
