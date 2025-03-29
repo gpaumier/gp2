@@ -287,7 +287,7 @@ The `Multimedia Usability Project <https://meta.wikimedia.org/wiki/Multimedia_us
    .. figure:: /images/upwiz.png
       :figclass: framed-img
 
-      As a Product Manager, I led the development of UploadWizard, a multi-file upload system designed to make it easier for contributors to upload pictures to Wikipedia. It has now been used to upload over 37 million files.
+      As a Product Manager, I led the development of UploadWizard, a multi-file upload system designed to make it easier for contributors to upload pictures to Wikipedia. It has now been used to upload over 38 million files.
 
 Two main products were delivered as part of the project, both based on extensive user research: a new multi-file upload system for Wikimedia Commons, featuring a wizard-style interface; and an illustrated licensing tutorial, explaining the basics of copyright and free licenses in plain language. More features were added after the completion of the grant, notably to support campaigns and contests like Wiki Loves Monuments, a worldwide contest that was recognized by the Guinness Book of Records as the largest photography competition.
 
@@ -301,7 +301,7 @@ Two main products were delivered as part of the project, both based on extensive
 
       I worked with a graphic artist to develop an illustrated tutorial explaining the basics of copyright law and free licensing to new contributors.
 
-As of March 2025, UploadWizard has been used to upload over 37 million files to Wikimedia Commons.
+As of March 2025, **1.8 million unique users** have used UploadWizard to upload over **38 million files** to Wikimedia Commons.
 
 .. UploadWizard metrics: https://meta.wikimedia.org/wiki/User:Guillom/UploadWizard
 

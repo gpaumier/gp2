@@ -36,14 +36,8 @@ One major issue, though, was the number of conflicting talks: there were up to e
 
 .. figure:: /images/2010-07-07_WikiSym2010_Guillaume_by_Blue_Oxen_Associates.jpg
 
-    Me trying not to burst into song, being on stage in such a nice Concert hall. (|guillaume|_ by `Blue Oxen Associates`_, under `CC-By-SA`_, from flickr.)
+    Me presenting research findings at WikiSym 2010 on the stage of the Dom Muzyka, a historic music academy in Gdańsk, Poland (and trying not to burst into song).  (`Blue Oxen Associates <https://flickr.com/photos/blueoxen/>`__ on `flickr <https://flickr.com/photos/blueoxen/4789291960/>`__ // `CC-By-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/legalcode>`__)
 
-.. |guillaume| replace:: *Guillaume*
-.. _guillaume: https://secure.flickr.com/photos/blueoxen/4789291960/
-
-.. _Blue Oxen Associates: https://secure.flickr.com/photos/blueoxen/
-
-.. _CC-By-SA: https://creativecommons.org/licenses/by-sa/2.0/legalcode
 
 I gave a presentation entitled *Understanding the users of Wikimedia Commons*, a summary of the user research I did for the Multimedia usability project, and it was pretty well received. The audience particularly liked :doc:`the video I showed <wikimedia-multimedia-ux-testing-videos>` from our UX study. The `supporting slides <http://commons.wikimedia.org/wiki/File:Guillaume_Paumier_-_Understanding_the_users_of_Wikimedia_Commons_-_WikiSym_2010.pdf>`__ are available on Commons (`download the PDF <http://upload.wikimedia.org/wikipedia/commons/7/7b/Guillaume_Paumier_-_Understanding_the_users_of_Wikimedia_Commons_-_WikiSym_2010.pdf>`__; 504 KB). Unfortunately, the presentation wasn't recorded, but it was similar to the one I gave at Wikimania, whose recording will be available soonish.
 

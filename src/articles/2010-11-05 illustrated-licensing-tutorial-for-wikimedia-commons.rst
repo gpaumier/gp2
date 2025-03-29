@@ -15,8 +15,7 @@
     Free knowledge is the foundation of all Wikimedia projects: anyone is free to use, modify and redistribute the content for any purpose. But copyright and free licenses are very confusing for new users, especially when they want to contribute pictures and other media files. A new illustrated licensing tutorial will now guide new users through the basics of copyright and free licenses to make their first steps easier.
 
 
-
-You may remember that the Wikimedia Foundation :doc:`unveiled a prototype of upload wizard <prototype-upload-wizard-unveiled-for-wikimedia-commons/>` for Wikimedia Commons (the repository of freely reusable media files used in all of our projects) a few months ago. The prototype was developed as part of the Multimedia usability project, a grant-funded, one-year project aiming to increase multimedia participation on Wikimedia websites.
+You may remember that the Wikimedia Foundation :doc:`unveiled a prototype of upload wizard <prototype-upload-wizard-for-wikimedia-commons>` for Wikimedia Commons (the repository of freely reusable media files used in all of our projects) a few months ago. The prototype was developed as part of the Multimedia usability project, a grant-funded, one-year project aiming to increase multimedia participation on Wikimedia websites.
 
 One of the main issues identified early on is that the current workflow of the upload process attempts to provide an advanced course in worldwide copyright when the user uploads a file. In reality, :doc:`our research <wikimedia-multimedia-ux-testing-videos>` showed (unsurprisingly) that most users either gave up in front of the overwhelming instructions, or simply ignored them.
 

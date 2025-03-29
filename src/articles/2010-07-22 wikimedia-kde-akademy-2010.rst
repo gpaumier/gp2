@@ -2,16 +2,22 @@
 .. category: articles-en
 .. slug: wikimedia-kde-akademy-2010
 .. date: 2010-07-22 10:28:32
+.. template: post_hero.j2
 .. tags: Wikimedia
 .. keywords: aKademy, Multimedia usability, UX, video, Engineering, KDE, Wikimedia
 .. image: /images/2010-07-03_Qt_duck.jpg
-.. image-caption: “Take the duck from your desk, look at your code and explain to the duck—line by line—what it does.”
 
+.. figure:: /images/2010-07-03_Qt_duck.jpg
+   :figclass: lead-figure
+
+   “Take the duck from your desk, look at your code and explain to the duck—line by line—what it does.”
 
 .. highlights::
 
     Three weeks ago, I attended the KDE Akademy 2010 conference in Tampere, Finland. Besides the talk Parul Vora and I gave to share experience about User experience, I also took this opportunity to meet with the KDE community and discuss collaboration opportunities.
 
+Wikimedia & KDE
+===============
 
 The talk we gave at `KDE Akademy <http://akademy.kde.org>`__ was entitled *Wikimedia User Experience programs: lowering the barriers of entry*. Basically, we presented the work done as part of the Wikipedia usability initiative, and the Multimedia usability project.
 
@@ -50,9 +56,6 @@ I've had some interaction with the KDE community before. I used to live in the s
 
 Besides our presentation, Akademy was also an opportunity to get together with the "gearheads," to discuss collaboration opportunities, and of course to get my `debugging duck <http://developer.qt.nokia.com/duck>`__.
 
-.. figure:: /images/2010-07-03_Qt_duck.jpg
-
-   "Take the duck from your desk, look at your code and explain to the duck—line by line—what it does.""
 
 Working hand in hand
 ====================

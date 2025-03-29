@@ -67,7 +67,7 @@ With the help of Jay Walsh (our Head of Communications), we were able to find a 
 
    .. figure:: /images/Puzzly.svg
 
-      Puzzly is a character developed by Michael Bartalos in collaboration with experienced Wikimedians.
+      Puzzly is a character created by Michael Bartalos in collaboration with experienced Wikimedians.
 
 Michael was extremely accommodating with our hands-on, iterative and open process. Wikimedians are used to completely open, very inclusive processes, but it isn't as natural in other fields, particularly in art-related disciplines. In the world of illustration, in particular, you usually try to keep all your preliminary and in-progress artwork secret to prevent other people from stealing your still-rough ideas.
 

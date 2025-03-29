@@ -2,17 +2,22 @@
 .. category: articles-en
 .. slug: reuse-buttons-wikimedia-commons
 .. date: 2010-10-04 22:11:42
+.. template: post_hero.j2
 .. tags: Wikimedia
 .. keywords: Multimedia usability, UX, Wikimedia Commons
 .. image: /images/2010-10-04_Democracy_Memorial_Hall_Summer_2007_0054.jpg
-.. todo: original image
 
+.. figure:: /images/2010-10-04_Democracy_Memorial_Hall_Summer_2007_0054.jpg
+   :figclass: lead-figure
+
+   A `photograph <https://commons.wikimedia.org/wiki/File:Democracy_Memorial_Hall_-_Summer_2007_0054.jpg>`__ of the front gate of `Chiang Kai-shek Memorial Hall <https://en.wikipedia.org/wiki/Chiang_Kai-shek_Memorial_Hall>`__ in Taipei that I took when I attended my first annual Wikimania conference, and which I used in some of my design mockups.
 
 .. highlights::
 
     Our volunteers are awesome. More specifically, Magnus Manske is awesome. He just made reusing pictures from Wikimedia Commons a hundred times easier.
 
-
+One-click reuse cases
+=====================
 
 About a year ago, I created some mock-ups of what the `ideal file description page <http://usability.wikimedia.org/w/index.php?title=File:GPaumier_multimedia_usability_draft_mock-ups_Oct09.pdf&page=6>`__ should look like on Commons. One of my suggestions was to add a series of buttons for `one-click reuse cases <http://usability.wikimedia.org/w/index.php?title=File:GPaumier_multimedia_usability_draft_mock-ups_Oct09.pdf&page=8>`__, to make it easier for people to reuse the more than 7 million files available on Wikimedia Commons.
 
