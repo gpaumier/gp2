@@ -11,7 +11,13 @@
     Where our hero makes an early Christmas wishlist and implores the developer fairies to give Wikimedia Commons some much-needed love.
 
 
-MIT's *Technology Review* recently published an article about `improvements to come regarding the management of video content <http://www.technologyreview.com/web/22900/page1/>`__ on Wikipedia and Wikimedia websites. I heard a lot of people say: "Good, but what about pictures?" Some technical improvements described by the *Technology Review* will be useful for both images and videos, such as the `media and upload wizard <http://techblog.wikimedia.org/2009/03/add-media-wizard-and-firefogg-on-testwikipediaorg/>`__ currently developed by Michael Dale. However, Wikimedia Commons still needs many little (or big) features that would dramatically improve its user-friendliness.
+MIT's *Technology Review* recently published an article about improvements to come regarding the management of video content on Wikipedia and Wikimedia websites.\ [#MITvideo]_ I heard a lot of people say: "Good, but what about pictures?" Some technical improvements described by the *Technology Review* will be useful for both images and videos, such as the media and upload wizard currently developed by Michael Dale.\ [#MDale2009]_ However, Wikimedia Commons still needs many little (or big) features that would dramatically improve its user-friendliness.
+
+.. [#MITvideo] David Talbot. "`Wikipedia Gets Ready for a Video Upgrade <https://www.technologyreview.com/2009/06/19/212480/wikipedia-gets-ready-for-a-video-upgrade/>`__. *MIT Technology Review*, June 19, 2009.
+
+.. [#MDale2009] Michael Dale. "`Add Media Wizard and Firefogg on test.wikipedia.org <https://diff.wikimedia.org/2009/03/28/add-media-wizard-and-firefogg-on-testwikipediaorg/>`__." *Diff*, March 28, 2009.
+
+
 
 Browsing & reusing
 ==================
@@ -46,7 +52,7 @@ Full metadata support is the cornerstone of many other features. EXIF is probabl
 Editing
 =======
 
-6. Built-in **basic editing features** (lossless rotate, crop) and ability to save under another name (i.e. for crops). Similarly, a built-in **geocoding feature** using OpenStreetMap. `Geocoding <http://commons.wikimedia.org/wiki/Commons:Geocoding>`__ images means attaching geographic information about the place where the work was made. This may be made easier by the `current initiative to integrate OpenStreetMap <http://techblog.wikimedia.org/2009/04/openstreetmap-maps-will-be-added-to-wikimedia-projects/>`__ with Wikimedia projects. And of course it should save the coordinates as metadata.
+6. Built-in **basic editing features** (lossless rotate, crop) and ability to save under another name (i.e. for crops). Similarly, a built-in **geocoding feature** using OpenStreetMap. `Geocoding <https://commons.wikimedia.org/wiki/Commons:Geocoding>`__ images means attaching geographic information about the place where the work was made. This may be made easier by the `current initiative to integrate OpenStreetMap <https://diff.wikimedia.org/2009/04/04/openstreetmap-maps-will-be-added-to-wikimedia-projects/>`__ with Wikimedia projects. And of course it should save the coordinates as metadata.
 
 Rating
 ======
@@ -58,6 +64,6 @@ Searching
 
 With currently more than 4.6 million files (and counting), it is becoming increasingly important to improve the search features of Wikimedia Commons.
 
-8.  **An "advanced search" feature** similar to `flickr's <http://www.flickr.com/search/advanced/?>`__. It should be possible to search by media type, by license, and to add toggles such as "safe mode" (explicit content) or "personality rights."
+8.  **An "advanced search" feature** similar to `flickr's <https://www.flickr.com/search/advanced/?>`__. It should be possible to search by media type, by license, and to add toggles such as "safe mode" (explicit content) or "personality rights."
 9.  **Multilingual search**: Files on Commons are ordered in hierarchical categories, using English as *lingua franca*. If you want to find a file, you have to search in English. I imagine it is possible to use some dictionary (coupled to the language detection) to give good results for a search in any language.
 10. **Google-Images-friendliness**. A lot of people use Google Images to find pictures, but images from Wikimedia Commons rarely appear in these results (unless they are used on a Wikipedia page).

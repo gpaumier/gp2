@@ -22,7 +22,7 @@ Or, précisément, `un accord a été signé <http://wikimediafoundation.org/wik
 Support du format TIFF
 ======================
 
-Il a été `annoncé sur le blog technique Wikimedia <http://techblog.wikimedia.org/2009/09/full-tiff-support-is-comming/>`__ que Wikimedia Deutschland finançait actuellement le développement d'un support natif du format de fichier TIFF par MediaWiki, le logiciel grâce auquel fonctionnent Wikipedia et les autres projets Wikimedia.
+Il a été `annoncé sur le blog technique Wikimedia <https://diff.wikimedia.org/2009/09/full-tiff-support-is-comming/>`__ que Wikimedia Deutschland finançait actuellement le développement d'un support natif du format de fichier TIFF par MediaWiki, le logiciel grâce auquel fonctionnent Wikipedia et les autres projets Wikimedia.
 
 L'objectif est de permettre une gestion plus facile des restaurations d'image et de faciliter les partenariats avec les musées, bibliothèques et autres institutions, dont les fonds numérisés sont souvent stockés au format TIFF.
 
