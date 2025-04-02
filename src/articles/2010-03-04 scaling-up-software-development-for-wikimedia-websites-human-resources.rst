@@ -30,7 +30,7 @@
 
 .. |usability lab| replace:: *Brighton Uni Usability Lab*
 
-.. _usability lab: https://commons.wikimedia.org/wiki/File:Japanese_Tea_pot_by_Denis_Savard.jpg
+.. _usability lab: https://commons.wikimedia.org/wiki/File:Brighton_University_usability_lab_by_Danny_Hope.png
 
 .. _Danny Hope: https://secure.flickr.com/photos/yandle/
 
