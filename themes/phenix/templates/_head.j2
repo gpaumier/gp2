@@ -12,17 +12,16 @@
     <meta name="description" content="{{ post.text() | get_lead_text | striptags | replace('"', '') | replace("'", "’")}}">
 {% endif %}
 
-{% if post and post.meta('subtitle') %}
-    {% set full_title = post.title() ~ ': ' ~ post.meta('subtitle') %}
+{% if post %}
+    {% if post.meta('subtitle') and abs_link(permalink) != abs_link('/') %}
+        {% set full_title = post.title() ~ ': ' ~ post.meta('subtitle') %}
+    {% else %}
+        {% set full_title = post.title() %}
+    {% endif %}
 {% else %}
     {% set full_title = title %}
 {% endif %}
-
-{% if full_title == blog_title %}
-    <title>{{ blog_title|e }}</title>
-{% else %}
-    <title>{{ full_title|e }} | {{ blog_title|e }}</title>
-{% endif %}
+<title>{{ full_title|e }} | {{ blog_title|e }}</title>
 
 <link rel="canonical" href="{{ abs_link(permalink) }}">
 {% for langname in translations|sort %}
