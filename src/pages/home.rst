@@ -64,6 +64,10 @@ Centering the human element
 
 Very few problems are purely technical; solving a problem often means understanding the human emotions in the room, as well as cognitive biases, power dynamics, historical context, privilege, and structural inequity. My own journey of self-discovery has taught me how to better consider the variety of subjective human experiences. In particular, when solving problems, I believe it is essential to accept our human fallibility, acknowledge failures, and learn from them.
 
+.. sidebar::
+
+   I recently explored how AI can support neurodivergent people, not just with productivity, but with emotional regulation, extended memory, and co-thinking. The essay also has birds, rubber ducks, and puppies. :doc:`Continue reading <ai-neurodivergent-support>` ☞
+
 I feel compelled to use my skills for the common good, and I have a particular affinity for mission-driven organizations that seek transformative social change. I find John Rawls's "veil of ignorance" approach to be a useful basis for a theory of justice, particularly in the context of the climate crisis. I believe in building a fair, just, pluralistic society, and in dismantling systems of oppression.
 
 .. sidebar::
