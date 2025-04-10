@@ -53,6 +53,10 @@
 
 // Language selector
 
+// Language selector
+
+// Language selector
+
 #languages {
   grid-column: side-content;
   align-self: center;
@@ -69,7 +73,7 @@
   flex-direction: row;
   column-gap: .5rem;
 }
-  
+
 #language-selector-icon {
   height: 1.7rem;
   width: 1.7rem;
@@ -95,9 +99,8 @@
 }
 
 .masthead-disabled-item {
-
   opacity: 0.6;
-  cursor: not-allowed;;
+  cursor: not-allowed;
 
   &::before {
     padding-right: .5rem;
@@ -105,6 +108,28 @@
   }
 }
 
+// Fix submenu overflow issue
+
+#languages .clicky-menu ul.menu {
+  position: absolute;
+  top: 100%;
+  left: auto;
+  right: 0;
+  max-width: none;
+  width: max-content;
+  overflow-x: hidden;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(0);
+  white-space: nowrap;
+}
+
+#languages .clicky-menu ul.menu[aria-hidden="false"] {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+}
 
 // Common rules for all h1 titles (with or without hero image)
 
