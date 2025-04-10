@@ -83,4 +83,5 @@ MESSAGES = {
     "opengraph_default_image": "images/2017-08-20_GPaumier_warm.jpg",
     "opengraph_default_image_alt": "Photograph of Guillaume Paumier. He is a white man with short brown hair, slightly smilin, looking down, and wearing a black fleece. Behind him is the blurry background of a Parisian restaurant, showing warm hues.",
     "locale": "en_US",
+    "schemaorg_author_name": "Guillaume Paumier",
 }

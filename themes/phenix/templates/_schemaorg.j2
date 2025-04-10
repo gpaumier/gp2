@@ -1,0 +1,31 @@
+{% if post %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{% if post.meta('type') == 'page' or post.is_page %}WebPage{% else %}Article{% endif %}",
+  "headline": {{ post.title()|tojson }},
+  "description": {{ description | default(post.text() | get_lead_text | striptags | truncate(199, False, '…', 0)) | tojson }},
+  {% if post.tags %}
+  "keywords": {{ post.tags | join(', ') | tojson }},
+  {% endif %}
+  "image": {{ image_url|tojson }},
+  "url": {{ abs_link(permalink)|tojson }},
+  "datePublished": "{{ post.date.isoformat() }}",
+  {% if post.updated_date %}
+  "dateModified": "{{ post.updated_date.isoformat() }}",
+  {% endif %}
+  "author": {
+    "@type": "Person",
+    "name": {{ messages("schemaorg_author_name")|tojson }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ messages("schemaorg_author_name")|tojson }}
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ abs_link(permalink)|tojson }}
+  }
+}
+</script>
+{% endif %}

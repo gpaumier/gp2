@@ -30,6 +30,7 @@
 {{ base.html_feedlinks() }}
 
 {% include "_opengraph.j2" %}
+{% include "_schemaorg.j2" %}
 
 {% if favicons %}
     {% for name, file, size in favicons %}
