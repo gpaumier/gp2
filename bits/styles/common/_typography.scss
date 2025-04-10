@@ -15,7 +15,7 @@ body {
   font-size: $base-unit;
   line-height: $phi; // use the golden ratio here as well
   @extend %phenix-serif;
-  color: $body-font-color;
+  color: var(--text-color);
 }
 
 h1 {
@@ -201,7 +201,7 @@ figcaption, .caption {
     color: #6a6a6a;
 
     &:hover {
-      color: $primary-color;
+      color: var(--primary-color);
     }
   }
 }
@@ -210,11 +210,11 @@ figcaption, .caption {
 a {
   text-decoration-line: underline;
   text-decoration-style: solid;
-  text-decoration-color: $primary-color;
-  color: $body-font-color;
+  text-decoration-color: var(--primary-color);
+  color: var(--text-color);
 
   &:hover {
-    color: $primary-color;
+    color: var(--primary-color);
   }
 
   // for youtube privacy disclaimers:

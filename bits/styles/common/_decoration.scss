@@ -4,7 +4,7 @@
 .framed-img img {
 
   //margin-bottom: .5rem;
-  border: 1px solid $primary-color-faded2;
+  border: 1px solid var(--primary-color-faded2);
   //margin-bottom: 0;
 }
 
@@ -76,10 +76,10 @@ hr {
 // Tables
 
 thead tr {
-  background: $primary-color-faded2;
+  background: var(--primary-color-faded2);
 }
 
 tbody tr:nth-child(even) {
-  background: $primary-color-faded3;
+  background: var(--primary-color-faded3);
 }
 

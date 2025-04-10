@@ -14,7 +14,7 @@
 
   &::after {
     content: '';
-    border-left: 1px solid $primary-color;
+    border-left: 1px solid var(--primary-color);
     height: #{$golden1 * 100%};
     grid-column: 8/9;
     grid-row: 1/2;
@@ -127,7 +127,7 @@
 
     &::after {
       content: "";
-      border-bottom: 1px solid $primary-color;
+      border-bottom: 1px solid var(--primary-color);
       display: block;
       //we want the width of this border to be in a golden relationship with the whitespace on either side of it
       width: #{$golden1 * 100%};

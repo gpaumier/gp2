@@ -59,7 +59,7 @@ blockquote {
 }
 
 blockquote:not(.highlights) {
-  border-left: .4rem solid $primary-color;
+  border-left: .4rem solid var(--primary-color);
   margin-left: -1rem;
   padding-left: 1rem;
 }
@@ -455,7 +455,7 @@ svg {
     content: '';
     grid-column: full;
     grid-row: 2/3;
-    background-color: #ecececde;
+    background-color: var(--hero-accent-bg);
     z-index: 5;
   }
 
@@ -498,7 +498,7 @@ svg {
 
       &::after {
         content: "";
-        border-bottom: 1px solid $primary-color;
+        border-bottom: 1px solid var(--primary-color);
         display: block;
         //we want the width of this border to be in a golden relationship with the whitespace on either side of it
         width: #{$golden2 * 100%};

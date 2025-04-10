@@ -3,11 +3,30 @@
 // base unit aka font size for <p>
 $base-unit: calc(1.2rem + .5vw);
 
-$primary-color: rgb(158, 0, 0);
-$primary-color-faded: rgb(222, 120, 120);
-$primary-color-faded2: rgb(234, 180, 180);
-$primary-color-faded3: rgb(240, 216, 216);
-$body-font-color: #333;
+//  Light Mode
+
+$bg-light: #fafafa;
+$text-light: #333;
+$primary-light: rgb(158, 0, 0);
+$primary-faded-light: rgb(222, 120, 120);
+$primary-faded2-light: rgb(234, 180, 180);
+$primary-faded3-light: rgb(240, 216, 216);
+$border-light: #ccc;
+$hero-accent-bg-light: #ecececde;
+
+// Dark Mode
+
+$bg-dark: #121212;
+$text-dark: #e0e0e0;
+$primary-dark: #ff8a80;
+$primary-faded-dark: #ffb3ab;
+$primary-faded2-dark: #ffd8d2;
+$primary-faded3-dark: #ffebe8;
+$border-dark: #666;
+$hero-accent-bg-dark: #1c1c1cee;
+
+// Layout / Typography
+
 $breakpoint-large: 1024px;
 $breakpoint-medium: 750px;
 $breakpoint-small: 450px;
@@ -19,10 +38,35 @@ $golden2: math.div(1, math.pow($phi, 2));
 // $golden4: 1 / ( math.pow($phi, 4) );
 $main-content-max-width: 65ch;
 
+// CSS Custom Properties – Light Mode
+:root {
+  --bg-color: #{$bg-light};
+  --text-color: #{$text-light};
+  --primary-color: #{$primary-light};
+  --primary-color-faded: #{$primary-faded-light};
+  --primary-color-faded2: #{$primary-faded2-light};
+  --primary-color-faded3: #{$primary-faded3-light};
+  --border-color: #{$border-light};
+  --hero-accent-bg: #{$hero-accent-bg-light};
+}
+
+// CSS Custom Properties – Dark Mode
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #{$bg-dark};
+    --text-color: #{$text-dark};
+    --primary-color: #{$primary-dark};
+    --primary-color-faded: #{$primary-faded-dark};
+    --primary-color-faded2: #{$primary-faded2-dark};
+    --primary-color-faded3: #{$primary-faded3-dark};
+    --border-color: #{$border-dark};
+    --hero-accent-bg: #{$hero-accent-bg-dark};
+  }
+}
+
 body {
-  //background-color: #eee7d9;
-  //background-color: #fdf6e3;
-  background-color: #fafafa;
+  background-color: var(--bg-color);
+  color: var(--text-color);
 }
 
 // For reference:

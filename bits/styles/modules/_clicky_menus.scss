@@ -4,83 +4,89 @@
 	padding: 0;
 	list-style: none;
 	display: flex;
-
+  
 	/* General Link & Button Styles */
-	
 	a,
 	button {
-		background: transparent;
-    }
-
+	  background: transparent;
+	  color: var(--text-color);
+	}
+  
 	a:hover {
-		background: #fff;
+	  background: var(--primary-color-faded2);
+	  @media (prefers-color-scheme: dark) {
+		background-color: #8e0000;
+	  }
 	}
-
+  
 	/* Caret */
-
 	[aria-expanded="true"] #current-language::after {
-		content: '⌃';
+	  content: '⌃';
 	}
-	
+  
 	/* Top Level Items */
-
 	& > li {
-		position: relative;
-		flex: 1 1 auto;
+	  position: relative;
+	  flex: 1 1 auto;
+	  display: flex;
+	  justify-content: stretch;
+	  flex-wrap: wrap;
+  
+	  a,
+	  button,
+	  span {
+		flex: 1 0 auto;
 		display: flex;
-		justify-content: stretch;
 		flex-wrap: wrap;
-
-		a,
-		button,
-		span {
-			flex: 1 0 auto;
-			display: flex;
-			flex-wrap: wrap;
-			align-items: center;
-			border: 0;
-			justify-content: center;	
-			}
-
-		a,
-		button {
-			cursor: pointer;
-		}
+		align-items: center;
+		border: 0;
+		justify-content: center;
+	  }
+  
+	  a,
+	  button {
+		cursor: pointer;
+	  }
 	}
-
+  
 	/* Submenu Styles */
 	ul {
-		min-width: 100%;
-		margin-top: .25em;
-		padding: 0;
-		list-style: none;
-		background-color: #eee;
-		border-radius: 3px;
+	  min-width: 100%;
+	  margin-top: 0.25em;
+	  padding: 0;
+	  list-style: none;
+	  background-color: var(--primary-color-faded3);
+	  border-radius: 3px;
+	  border: 1px solid var(--border-color); // optional for visibility
 
-		/* Submenu Links */
-
-		a,
-		span {
-			display: block;
-			padding: .375em 1em;
-			white-space: nowrap;
-		}	
-
-		/* Responsive Submenu Behavior */
-		
-		&[aria-hidden="false"] {
-			position: static;
-			width: 100%;
-			flex: 0 0 auto;
-
-			@media (min-width: 540px) {
-				position: absolute;
-				width: auto;
-			}
+	  @media (prefers-color-scheme: dark) {
+		background-color: rgb(80, 0, 0);
+	  }
+  
+	  /* Submenu Links */
+	  a,
+	  span {
+		color: var(--text-color);
+		display: block;
+		padding: 0.375em 1em;
+		white-space: nowrap;
+	  }
+  
+	  /* Responsive Submenu Behavior */
+	  &[aria-hidden="false"] {
+		position: static;
+		width: 100%;
+		flex: 0 0 auto;
+  
+		@media (min-width: 540px) {
+		  position: absolute;
+		  width: auto;
 		}
+	  }
 	}
-
+  
 	& [aria-expanded="true"] #language-selector-caret {
-		transform: scaleY(-1);
+	  transform: scaleY(-1);
 	}
-}
+  }
+  

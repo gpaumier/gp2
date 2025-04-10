@@ -105,7 +105,7 @@ This insight reframes inertia not as procrastination, but as a neurological bott
 
 
 .. figure:: /images/chatgpt_cleaning_task_initiation.png
-   :figclass: framed-img
+   :figclass: framed-img light-img
    :alt: A screenshot of a user asking ChatGPT for help starting to clean their apartment. The user says, “I need to clean my apartment but I don't know where to start. Help me by prioritizing cleaning tasks and giving them to me one at a time.” The AI responds with encouragement and offers Task 1: “Grab a laundry basket or a bag and do a sweep of your apartment for anything that doesn’t belong in the room it’s in,” listing dirty clothes, dishes, and trash as examples.
 
    This interaction I had with ChatGPT is an illustration of how AI can support task initiation by providing structure without overwhelm. For neurodivergent people (especially those with ADHD), getting started on a task often feels like the hardest part due to executive dysfunction and dopamine-related inertia. By explicitly asking for *one task at a time,* I can avoid cognitive overload and create a doable entry point. Conversational AI tools can serve as low-pressure scaffolding that breaks down complex goals into gentle momentum-building steps.
@@ -140,7 +140,7 @@ Even small misunderstandings or neutral feedback can trigger a cascade of shame,
 In these moments, AI offers a valuable buffer and can help regulate those emotional responses. When you're afraid to send a message, it can offer reassurance or help rephrase it. When you're confused about an incoming message, it can analyze its tone and meaning. When you're spiraling about whether you upset someone, it can offer objective feedback.
 
 .. figure:: /images/gemini_text_interpretation.png
-   :figclass: framed-img
+   :figclass: framed-img light-img
    :alt: A screenshot of the Gemini AI interface evaluating a user-written message: “I think I’ll go with ‘It was ok. I did a few small things and my taxes. Ready to see and hug everyone at dodgeball tonight.’” The AI responds with a positive assessment, explaining that the message is warm, friendly, and appropriate. It highlights three reasons: it’s “Neutral and Honest,” “Brief and to the Point,” and “Positive and Inclusive.”
 
    This screenshot of a chat I had with Gemini, Google's AI assistant, shows how conversational AI can help users interpret or validate their own social messages. By affirming tone and intention, AI can reduce anxiety, boost confidence, and make emotionally complex tasks (like texting a friend during a difficult time) feel more manageable for neurodivergent people.
@@ -168,7 +168,7 @@ In this context, agentic AI can step in to support daily executive functioning. 
 Combined with Todoist and automation tools like `IFTTT <https://ifttt.com/chatgpt>`__ or `Zapier <https://zapier.com>`__, AI can orchestrate a **productivity ecosystem** that adapts to how your brain works. I use it to prioritize tasks and break them down, set up soft nudges and reminders, and automate routines so I don't rely on my own memory and processes alone. It's like having an assistant who never forgets and never judges.
 
 .. figure:: /images/chatgpt_checkin.png
-   :figclass: framed-img
+   :figclass: framed-img light-img
    :alt: Screenshot of a GPT-generated weekly task check-in titled “GPT Scheduled Tasks Check-In: Systems Snapshot.” The check-in is broken into sections with emoji headers: MBA coursework, an article on AI and neurodivergence, and personal infrastructure. Each includes short, clear to-dos with checkboxes, and the message opens with a gentle tone acknowledging ADHD-friendly support.
 
    This screenshot is an example of a ChatGPT check-in to stay on top of open loops across different projects. This kind of structured reflection, automatically triggered and customized, can help with executive function and avoiding overwhelm while maintaining momentum.
@@ -190,7 +190,7 @@ This idea is at the heart of Clark & Chalmers's **Extended Mind theory**, which 
 
 
 .. figure:: /images/chatgpt_2020_prompt.png
-   :figclass: framed-img
+   :figclass: framed-img light-img
    :alt:  Screenshot of a prompt in ChatGPT where the user uploads a file named “2020.docx” and asks the AI to analyze their personal daily logs from that year. The user requests a high-level summary and a list of fun things they may have forgotten.
 
    I keep daily personal logs and document them on my home wiki. I asked ChatGPT to analyze my log entries from 2020 and to give me a high-level summary, plus a list of fun things I may have forgotten. This is one of my favorite examples of how AI can facilitate cognitive tasks: I can offload years of personal memories to an external system so I don't have to hold it all in my head, and use AI to help me retrieve meaning and moments that matter. This example of cognitive offloading and retrieval is exactly the kind of interaction described in Clark and Chalmers's Extended Mind theory.
@@ -199,7 +199,7 @@ AI is uniquely positioned to support cognitive offloading by bringing together i
 
 
 .. figure:: /images/chatgpt_2020_highlevel.png
-   :figclass: framed-img
+   :figclass: framed-img light-img
    :alt:  Screenshot of a structured AI-generated summary titled “High-Level Summary of 2020,” with sections like Daily Life & Routines, Work, Fitness & Movement, and Learning & Creativity. It describes the user’s routines, job activities at the Wikimedia Foundation, fitness habits, and learning interests.
 
    This summary of my daily 2020 log entries helped me see the shape of my year: what I was working on, how my routines adapted, what I learned, and where my energy went. The AI processed my logs and gave back a clear narrative. It's not just memory support; it's cognitive synthesis. 
@@ -208,7 +208,7 @@ AI is uniquely positioned to support cognitive offloading by bringing together i
 I personally rely on a suite of tools that contain different types of information stored in various systems that can't be centralized: Todoist for tasks; a personal wiki for notes and journals; a `book catalog <https://www.librarything.com/catalog/gpaumier>`__ on LibraryThing; PDF references on my hard drive; and online documents and spreadsheets, just to name a few. AI can act as a **connective layer** across these silos, helping you search, summarize, and integrate content that would otherwise remain scattered or mentally inaccessible. It can parse vast amounts of text, identify relevant patterns, and surface what matters most, whether that's a forgotten idea from a past journal entry or the next action step buried in a meeting transcript.
 
 .. figure:: /images/chatgpt_2020_fun_things.png
-   :figclass: framed-img
+   :figclass: framed-img light-img
    :alt: Screenshot of a playful AI-generated list titled “A Few Fun Things You May Have Forgotten,” recounting small personal wins from 2020 like watching musicals, building Lego sets, and folding paper cranes. The list is styled in a cheerful, accessible tone.
 
    In a neurodivergent life where memory can be patchy or nonlinear, moments of joy are easy to lose track of. This list of fun things I did in 2020 made me laugh and feel proud, for example by reminding me of my :doc:`1,000 paper cranes <play>`. I'd forgotten most of these things until ChatGPT surfaced them.
@@ -249,7 +249,7 @@ In a way, this mirrors how AI itself is built and refined, through a process cal
 
 
 .. figure:: /images/chatgpt-nd-thinking-companion.png
-   :figclass: framed-img full-content
+   :figclass: framed-img full-content light-img
    :alt: Screenshot of a custom GPT setup screen titled “The Neurodivergent Thinking Companion.” On the left, configuration fields include the name, a description (“Supportive co-thinker for ADHD, autism, and nonlinear minds”), detailed instructions for how the assistant should respond (with emotional validation, gentle structure, and low-pressure prompts), and suggested conversation starters like “I’m feeling overwhelmed and don’t know where to start.” On the right, a preview of the assistant’s response to the trigger phrase /panic offers a calm, supportive message asking what the panic feels like, what may have triggered it, and what kind of support might help, such as distraction, validation, or a grounding exercise.
 
    Screenshot of the "Neurodivergent Thinking Companion," a custom GPT I created as a proof of concept to support autistic, ADHD, and nonlinear brains. The left panel shows its tailored instructions, emphasizing gentle structure, emotional validation, and flexible, affirming language. The right panel displays the response to a custom ``/panic`` command, offering calming prompts to help navigate moments of overwhelm with clarity and care.
@@ -292,6 +292,7 @@ AI doesn't erase disability, but it helps reframe it. Instead of asking people t
 These tools don't replace our abilities. They extend them. They reduce friction. They help us thrive in a world not built with our brains in mind. They help unlock potential that's often been sidelined, hidden, or dismissed. And in doing so, they broaden the conversation about diversity and inclusion, not just in hiring or representation, but in how we build systems, tools, and cultures that truly accommodate the full range of human minds.
 
 .. figure:: /images/partially_peeled_Navel_orange.jpg
+   :figclass: light-img
    :alt: A peeled Navel orange sits on a white surface, its skin unfolded around it like petals. The segments of the orange remain intact at the center.
 
    `Famartin <https://commons.wikimedia.org/wiki/User:Famartin>`__ on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:2022-04-24_18_46_13_A_partially_peeled_Navel_orange_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg>`__ // `CC-BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.en>`__.
