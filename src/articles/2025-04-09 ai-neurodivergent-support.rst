@@ -4,8 +4,9 @@
 .. slug: ai-neurodivergent-support
 .. date: 2025-04-09
 .. template: post_hero.j2
-.. tags: Wikimedia
+.. tags: neurodivergence, neurodiversity, ADHD, autism, executive function, accessibility, assistive technology, AI tools, ChatGPT, rubber duck debugging, cognitive diversity, extended mind, metacognition, productivity tools, Zapier, Todoist, tech ethics
 .. image: /images/Bananas_on_black_background_02.jpg
+.. image_alt: Two ripe yellow bananas rest side by side on a glossy black surface, their curved shapes casting subtle reflections. The bananas are unpeeled, with a few small brown spots and natural markings on their skins, contrasting against the dark background.
 
 
 .. figure:: /images/Bananas_on_black_background_02.jpg
