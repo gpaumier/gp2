@@ -39,10 +39,6 @@ figcaption, .caption {
 
 // darken light images in dark mode
 
-.light-img img {
-  transition: filter 0.3s ease;
-}
-
 @media (prefers-color-scheme: dark) {
   .light-img img {
     filter: brightness(0.8) contrast(1.1);
