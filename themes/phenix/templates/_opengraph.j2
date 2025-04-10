@@ -1,6 +1,8 @@
-<meta property="og:title" content="{{ post.title()|e }}" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="{{ abs_link(permalink) }}" />
+{% if post.meta('subtitle') %}
+  {% set full_title = post.title() ~ ': ' ~ post.meta('subtitle') %}
+{% else %}
+  {% set full_title = post.title() %}
+{% endif %}
 {% if post.meta('image') %}
     {% set image_url = abs_link(_link("root", None, 'en')) | trim('/') + post.meta('image') %}
     {% set image_alt = post.meta('image_alt') %}
@@ -8,13 +10,13 @@
     {% set image_url = abs_link(_link("root", None, 'en')) + messages('opengraph_default_image') %}
     {% set image_alt = messages('opengraph_default_image_alt') %}
 {% endif %}
+{% set description_fallback = description | default(post.text() | get_lead_text | striptags | truncate(199, False, '…', 0), true) %}
+<meta property="og:title" content="{{ full_title | e }}">
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ abs_link(permalink) }}" />
 <meta property="og:image" content="{{ image_url }}">
 <meta property="og:image:alt" content="{{ image_alt }}">
-{% if description %}
-<meta name="og:description" content="{{ description | e | truncate(199, False, '…', 0)}}">
-{% else %}
-<meta name="og:description" content="{{ post.text() | get_lead_text | striptags | replace('"', '') | replace("'", "’") | truncate(199, False, '…', 0) }}">
-{% endif %}
+<meta name="og:description" content="{{ description_fallback | e }}">
 <meta property="og:site_name" content="{{ blog_title|e }}" />
 <meta property="og:locale" content="{{ messages('locale') }}" />
 {% for langname in translations|sort %}
@@ -27,7 +29,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="{{ messages('twitter_card_site') }}">
 <meta name="twitter:creator" content="{{ messages('twitter_card_creator') }}">
-<meta name="twitter:title" content="{{ post.title()|e }}">
-<meta name="twitter:description" content="{{ description | default(post.text() | get_lead_text | striptags | truncate(199, False, '…', 0)) | e }}">
+<meta name="twitter:title" content="{{ full_title | e }}">
+<meta name="twitter:description" content="{{ description_fallback | e }}">
 <meta name="twitter:image" content="{{ image_url }}">
 <meta name="twitter:image:alt" content="{{ image_alt }}">

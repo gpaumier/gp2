@@ -1,9 +1,19 @@
 {% if post %}
+  {% if post.meta('image') %}
+          {% set image_url = abs_link(_link("root", None, 'en')) | trim('/') + post.meta('image') %}
+      {% else %}
+          {% set image_url = abs_link(_link("root", None, 'en')) + messages('opengraph_default_image') %}
+      {% endif %}
+  {% if post.meta('subtitle') %}
+    {% set full_title = post.title() ~ ': ' ~ post.meta('subtitle') %}
+  {% else %}
+    {% set full_title = post.title() %}
+  {% endif %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "{% if post.meta('type') == 'page' or post.is_page %}WebPage{% else %}Article{% endif %}",
-  "headline": {{ post.title()|tojson }},
+  "headline": {{ full_title|tojson }},
   "description": {{ description | default(post.text() | get_lead_text | striptags | truncate(199, False, '…', 0)) | tojson }},
   {% if post.tags %}
   "keywords": {{ post.tags | join(', ') | tojson }},
