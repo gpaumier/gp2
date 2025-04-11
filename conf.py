@@ -219,3 +219,18 @@ GLOBAL_CONTEXT = {
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+
+# Favicons
+
+FAVICONS = [
+    ("icon", "/assets/images/favicon.svg", "any"), 
+    ("icon", "/assets/images/favicon-16x16.png", "16x16"),
+    ("icon", "/assets/images/favicon-32x32.png", "32x32"),
+    ("icon", "/assets/images/favicon-48x48.png", "48x48"),
+    ("icon", "/assets/images/favicon-64x64.png", "64x64"),
+    ("icon", "/assets/images/favicon-180x180.png", "180x180"),
+    ("icon", "/assets/images/favicon-192x192.png", "192x192"),
+    ("icon", "/assets/images/favicon-512x512.png", "512x512"),
+    ("icon", "/assets/images/favicon-1200x1200.png", "1200x1200"),
+]

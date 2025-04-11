@@ -24,7 +24,7 @@
 
                     <div>{{ post.text() | get_lead_text }}</div>
 
-                    <p class="snippet-date"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date( messages('date_format_long'))|e }}</time></p>
+                    <p class="snippet-date"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date( messages('date_format_long'))|e }}</time></p>
                 </div>
             </article>
 

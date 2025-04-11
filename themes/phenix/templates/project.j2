@@ -5,20 +5,20 @@
 {% endblock %}
 
 {% block content %}
-<article class="post-default-project post-{{ post.meta('slug') }} h-entry hentry postpage {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" itemscope="itemscope" itemtype="http://schema.org/Article">
+<article class="post-default-project post-{{ post.meta('slug') }} h-entry hentry postpage {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}">
 
     {% if post.meta('image') %}
         <img src="{{ post.meta('image') }}" class="post-image"/>
     {% endif %}
 
     <header>
-        <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>
+        <h1 class="p-name entry-title">{{ post.title()|e }}</h1>
 
         {% if post.meta('subtitle') %}
             <h1 class="subheader post-subtitle">{{ post.meta('subtitle') }}</h1>
         {% endif %}
 
-        <p class="dateline"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date( messages('date_format_long'))|e }}</time></p>
+        <p class="dateline"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date( messages('date_format_long'))|e }}</time></p>
 
         {% if post.meta('end') %}
             <p>{{ post.meta('end') }}</p>
@@ -26,7 +26,7 @@
 
     </header>
 
-    <div class="e-content entry-content" itemprop="articleBody text">
+    <div class="e-content entry-content">
     {{ post.text() }}
     </div>
 

@@ -14,22 +14,22 @@
 {% endblock %}
 
 {% block content %}
-<article class="post-{{ post.meta('type') }} h-entry hentry postpage {% if post.meta('class') %}{{ post.meta('class') }}{% endif %} custom-{{ post.meta('slug') }}" itemscope="itemscope" itemtype="http://schema.org/Article">
+<article class="post-{{ post.meta('type') }} h-entry hentry postpage {% if post.meta('class') %}{{ post.meta('class') }}{% endif %} custom-{{ post.meta('slug') }}" >
 
     <header>
 
         <div class="titleblock">
-          <h1 class="p-name entry-title" itemprop="headline name">{{ post.title()|e }}</h1>
+          <h1 class="p-name entry-title">{{ post.title()|e }}</h1>
         </div>
 
         <img src="{{ post.meta('image1') }}" class="image1" />
         <img src="{{ post.meta('image2') }}" class="image2" />
         <img src="{{ post.meta('image3') }}" class="image3" />
 
-        <p class="dateline"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date( messages('date_format_long'))|e }}</time></p>
+        <p class="dateline"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date( messages('date_format_long'))|e }}</time></p>
     </header>
 
-    <div class="e-content entry-content" itemprop="articleBody text">
+    <div class="e-content entry-content">
     {{ post.text() }}
     </div>
 

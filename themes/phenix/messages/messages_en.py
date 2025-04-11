@@ -84,4 +84,13 @@ MESSAGES = {
     "opengraph_default_image_alt": "Photograph of Guillaume Paumier. He is a white man with short brown hair, slightly smilin, looking down, and wearing a black fleece. Behind him is the blurry background of a Parisian restaurant, showing warm hues.",
     "locale": "en_US",
     "schemaorg_author_name": "Guillaume Paumier",
+    "schemaorg_logo_url": "/assets/images/favicon-1200x1200.png",
+    "schemaorg_logo_alt": "Owl logo of Guillaume Paumier",
+    "schemaorg_bsky_link": "https://bsky.app/profile/guillaumepaumier.com",
+    "schemaorg_github_link": "https://github.com/gpaumier/",
+    "schemaorg_wikipedia_link": "https://en.wikipedia.org/wiki/User:Guillom",
+    "schemaorg_wikidata_link": "https://www.wikidata.org/wiki/Q19683907",
+    "schemaorg_librarything_link": "https://www.librarything.com/profile/gpaumier",
+    "schemaorg_diffwikimedia_link": "https://diff.wikimedia.org/author/gpaumier/",
+    "meta_author_url": "https://www.guillaumepaumier.com",
 }

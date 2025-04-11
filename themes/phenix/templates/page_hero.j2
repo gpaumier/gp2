@@ -14,10 +14,10 @@
 {% endblock %}
 
 {% block content %}
-<article class="page page-{{ post.meta('slug') }} h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<article class="page page-{{ post.meta('slug') }} h-entry hentry postpage">
 
   <header id="article-header-hero">
-    <h1 class="p-name entry-title" itemprop="headline name">
+    <h1 class="p-name entry-title">
       {% if post.meta('h1-override') %}
         {{ post.meta('h1-override') }}
       {% else %}
@@ -34,7 +34,7 @@
     {{ post.text() | get_lead_figure }}
   </header>
 
-  <div id="article-content-hero" class="e-content entry-content {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" itemprop="articleBody text">
+  <div id="article-content-hero" class="e-content entry-content {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" >
     {{ post.text() | remove_lead_figure }}
   </div>
 

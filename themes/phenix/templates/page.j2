@@ -14,10 +14,10 @@
 {% endblock %}
 
 {% block content %}
-<article class="page page-{{ post.meta('slug') }} h-entry hentry postpage page-default " itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<article class="page page-{{ post.meta('slug') }} h-entry hentry postpage page-default ">
 
     <header id="article-header-default">
-      <h1 class="p-name entry-title" itemprop="headline name">
+      <h1 class="p-name entry-title">
         {{ post.title()|e }}
       </h1>
 
@@ -28,7 +28,7 @@
       {% endif %}
     </header>
 
-    <div id="article-content-default" class="e-content entry-content {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" itemprop="articleBody text">
+    <div id="article-content-default" class="e-content entry-content {% if post.meta('class') %}{{ post.meta('class') }}{% endif %}" >
       {{ post.text() }}
     </div>
 

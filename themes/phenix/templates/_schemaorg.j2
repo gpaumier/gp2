@@ -26,12 +26,25 @@
   {% endif %}
   "author": {
     "@type": "Person",
-    "name": {{ messages("schemaorg_author_name")|tojson }}
+    "name": {{ messages("schemaorg_author_name")|tojson }},
+    "url": "{{ messages('meta_author_url') }}",
+    "sameAs": [
+      {% set socials = ['menu_linkedin_link', 'menu_threads_link', 'menu_instagram_link', 'schemaorg_bsky_link', 'schemaorg_github_link', 'schemaorg_wikipedia_link', 'schemaorg_wikidata_link', 'schemaorg_librarything_link', 'schemaorg_diffwikimedia_link' ] %}
+      {% for key in socials %}
+      "{{ messages(key) }}"{% if not loop.last %},{% endif %}
+      
+      {% endfor %}
+    ]
   },
   "publisher": {
-    "@type": "Organization",
-    "name": {{ messages("schemaorg_author_name")|tojson }}
-  },
+  "@type": "Organization",
+  "name": {{ messages("schemaorg_author_name")|tojson }},
+  "logo": {
+    "@type": "ImageObject",
+    "url": {{ abs_link(messages("schemaorg_logo_url"))|tojson }},
+    "description": {{ messages("schemaorg_logo_alt")|tojson }}
+  }
+},
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": {{ abs_link(permalink)|tojson }}
