@@ -1,5 +1,11 @@
 # old_link newlink
-https://guillaumepaumier.com/2015/07/29/autistic-wikipedian/   https://www.guillaumepaumier.com/articles/autistic-wikipedian/
-https://www.guillaumepaumier.com/2015/07/29/autistic-wikipedian/   https://www.guillaumepaumier.com/articles/autistic-wikipedian/
-https://guillaumepaumier.com/fr/2015/07/29/wikipedien-autiste/   https://www.guillaumepaumier.com/fr/articles/wikipedien-autiste/
-https://www.guillaumepaumier.com/fr/2015/07/29/wikipedien-autiste/   https://www.guillaumepaumier.com/fr/articles/wikipedien-autiste/
+/schedule  https://app.reclaim.ai/m/gpaumier  301
+/bio/  / 301
+/2010/03/05/scaling-up-software-development-for-wikimedia-websites-tools/ /articles/scaling-up-software-development-for-wikimedia-websites-tools/ 301
+/2010/10/04/reuse-buttons-wikimedia-commons/  /articles/reuse-buttons-wikimedia-commons/  301
+/2015/07/29/autistic-wikipedian/      /articles/autistic-wikipedian/      301
+/fr/2015/07/29/wikipedien-autiste/   /fr/articles/wikipedien-autiste/    301
+/project/file-metadata-cleanup-drive/  /wikimedia/file-metadata-cleanup-drive/     301
+/pt-br/2015/08/31/minha-vida-como-autista-e-wikipedista/ /articles/autistic-wikipedian/ 301
+/wp-content/plugins/*   /404.html   410
+/category/*/feed        /404.html   410
