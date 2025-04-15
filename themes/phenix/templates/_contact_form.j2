@@ -2,15 +2,25 @@
 <form
   name="contact"
   method="POST"
-  action="{{ messages('contact_form_action_target')}}"
-  data-netlify="true">
+  action="{{ messages('contact_form_action_target') }}"
+  data-netlify="true"
+  netlify-honeypot="winnie">
+  <p hidden>
+    <label>Don’t fill this out if you’re human:
+      <input name="winnie" />
+    </label>
+  </p>
   <p>
-    <label for="contact_form_name">{{ messages('contact_form_name_label')}}</label>
-    <input type="text" name="name" id="contact_form_name" placeholder="{{ messages('contact_form_name_placeholder')}}"/>
-    <label for="contact_form_email">{{ messages('contact_form_email_label')}}</label>
-    <input type="email" name="email" id="contact_form_email" placeholder="{{ messages('contact_form_email_placeholder')}}" required />
-    <label for="contact_form_message">{{ messages('contact_form_message_label')}}</label>
-    <textarea name="message" id="contact_form_message" placeholder="{{ messages('contact_form_message_placeholder')}}" required></textarea>
-    <button type="submit">{{ messages('contact_form_button_label')}}</button>
+    <label for="contact_form_name">{{ messages('contact_form_name_label') }}</label>
+    <input type="text" name="name" id="contact_form_name" placeholder="{{ messages('contact_form_name_placeholder') }}"/>
+
+    <label for="contact_form_email">{{ messages('contact_form_email_label') }}</label>
+    <input type="email" name="email" id="contact_form_email" placeholder="{{ messages('contact_form_email_placeholder') }}" required />
+
+    <label for="contact_form_message">{{ messages('contact_form_message_label') }}</label>
+    <textarea name="message" id="contact_form_message" placeholder="{{ messages('contact_form_message_placeholder') }}" required></textarea>
+
+    <button type="submit">{{ messages('contact_form_button_label') }}</button>
   </p>
 </form>
+
