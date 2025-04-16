@@ -65,6 +65,10 @@ body > footer {
       row-gap: 1rem;
     }
 
+    form p.pooh {
+      display: none;
+    }
+
     // By default we stack everything
     label,
     input,
@@ -115,3 +119,5 @@ body > footer {
   }
 
 }
+
+
