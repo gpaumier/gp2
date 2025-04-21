@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="204.10001mm"
+   height="62.970001mm"
+   viewBox="0 0 204.10001 62.970003"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1 (unknown)"
+   sodipodi:docname="uploadwizard_markers_boundaries.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     showgrid="true"
+     inkscape:zoom="3.553"
+     inkscape:cx="348.29721"
+     inkscape:cy="80.495356"
+     inkscape:window-width="3840"
+     inkscape:window-height="2088"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-95.000008"
+       originy="-80"
+       spacingx="5"
+       spacingy="5"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="10"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-95,-80)">
+    <g
+       id="g7"
+       transform="translate(4.999802,5.0000379)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#cccccc;stroke-width:0.264583"
+         x="247.49023"
+         y="98.635254"
+         id="text1-1-8-1-3-9-2"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';fill:#cccccc;stroke-width:0.264583"
+           x="247.49023"
+           y="98.635254"
+           id="tspan4-9-9-0-2">log: “Uploaded a work by $1 from $2 with UploadWizard”</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264496px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 95,125.16709 H 255"
+         id="path1-1" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="100.15028"
+         y="132.58359"
+         id="text1-13"><tspan
+           sodipodi:role="line"
+           id="tspan1-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';stroke-width:0.264583"
+           x="100.15028"
+           y="132.58359">2010</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="119.95428"
+         y="132.49985"
+         id="text1-1-9"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';stroke-width:0.264583"
+           x="119.95428"
+           y="132.49985"
+           id="tspan2-3">2012</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="124.89952"
+         y="118.66693"
+         id="text1-1-9-2"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';stroke-width:0.264583"
+           x="124.89952"
+           y="118.66693"
+           id="tspan2-3-5">2012-08-23T20:33:03Z</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="109.45125"
+         y="108.6574"
+         id="text1-1-9-2-2"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';stroke-width:0.264583"
+           x="109.45125"
+           y="108.6574"
+           id="tspan2-3-5-3">2010-11-30T11:29:00</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="174.95941"
+         y="118.66693"
+         id="text1-1-9-2-8"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';stroke-width:0.264583"
+           x="174.95941"
+           y="118.66693"
+           id="tspan2-3-5-6">2017-05-10T19:47:57Z</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="169.81339"
+         y="132.91948"
+         id="text1-1-8-4"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';stroke-width:0.264583"
+           x="169.81339"
+           y="132.91948"
+           id="tspan4-1">2017</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="200.0538"
+         y="132.77797"
+         id="text1-1-8-1-5"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';stroke-width:0.264583"
+           x="200.0538"
+           y="132.77797"
+           id="tspan4-9-0">2020</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="249.55911"
+         y="132.45656"
+         id="text1-1-8-1-8-8"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';stroke-width:0.264583"
+           x="249.55911"
+           y="132.45656"
+           id="tspan4-9-1-3">2025</tspan></text>
+      <rect
+         style="fill:#a67873;fill-opacity:1;stroke:none;stroke-width:0.109858"
+         id="rect5-5"
+         width="20"
+         height="5"
+         x="105"
+         y="80" />
+      <rect
+         style="fill:#d6cab4;fill-opacity:1;stroke:none;stroke-width:0.219715"
+         id="rect5-8-6"
+         width="80"
+         height="5"
+         x="175"
+         y="105" />
+      <rect
+         style="fill:#c97d7d;fill-opacity:1;stroke:none;stroke-width:0.1737"
+         id="rect5-7-5"
+         width="50"
+         height="5"
+         x="125"
+         y="90" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#89a6a0;stroke-width:0.2;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5-7-3-9"
+         width="49.829288"
+         height="4.829288"
+         x="205.08536"
+         y="90.085358" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#c97d7d;stroke-width:0.2;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5-7-3-9-3"
+         width="29.984276"
+         height="4.8671217"
+         x="174.96838"
+         y="90.085175" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#a67873;stroke-width:0.2;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5-7-3-9-3-4"
+         width="39.771923"
+         height="4.7719231"
+         x="125.11403"
+         y="80.114037" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#d4a15a;stroke-width:0.2;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5-7-3-1-9"
+         width="49.829288"
+         height="4.829288"
+         x="205.08536"
+         y="95.085358" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.188663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 120.09257,125 v 2.5"
+         id="path5-07"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.188663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 170.09433,125 v 2.5"
+         id="path5-4-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.188663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 200.09433,125 v 2.5"
+         id="path5-5-3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.188663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 250.09433,125 v 2.5"
+         id="path5-0-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.188663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 100.09433,125 v 2.5"
+         id="path5-6-6"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#cccccc;stroke-width:0.264583"
+         x="239.43808"
+         y="93.635246"
+         id="text1-1-8-1-3-1"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';fill:#cccccc;stroke-width:0.264583"
+           x="239.43808"
+           y="93.635246"
+           id="tspan4-9-9-50">log: “Uploaded own work with UploadWizard”</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="157.84705"
+         y="93.635246"
+         id="text1-1-8-1-3-8-6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';stroke-width:0.264583"
+           x="157.84705"
+           y="93.635246"
+           id="tspan4-9-9-5-50">log: “User created page with UploadWizard”</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="167.24403"
+         y="83.635246"
+         id="text1-1-8-1-3-8-3-8"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';stroke-width:0.264583"
+           x="167.24403"
+           y="83.635246"
+           id="tspan4-9-9-5-5-1">revision: “Category:Uploaded with UploadWizard removed per community decision.”</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#1a1a1a;stroke-width:0.264583"
+         x="188.93109"
+         y="108.46239"
+         id="text1-1-8-1-3-9-5-6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';fill:#1a1a1a;stroke-width:0.264583"
+           x="188.93109"
+           y="108.46239"
+           id="tspan5-9">tag: uploadwizard</tspan></text>
+      <path
+         style="fill:#e6e6e6;stroke:#b2b2b2;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 105.075,85 v 40"
+         id="path6" />
+      <path
+         style="fill:#e6e6e6;stroke:#b2b2b2;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 125.075,85 v 40"
+         id="path6-9" />
+      <path
+         style="fill:#e6e6e6;stroke:#b2b2b2;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 175.075,95 v 29.87241"
+         id="path6-9-3" />
+    </g>
+  </g>
+</svg>
