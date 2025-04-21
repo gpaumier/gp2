@@ -239,6 +239,7 @@
     grid-column: full;
     box-shadow: 0 0 2rem 0 #44000077;
     z-index: 4;
+    pointer-events: none;
   }
 
   // gradient for better legibility of text on the left side. Pseudo-element needs to be a child of the grid in order to be placed on it.
@@ -250,6 +251,7 @@
     grid-column: full;
     grid-row: header-golden-full;
     z-index: 2;
+    pointer-events: none;
   }
 
   @media screen and (min-width: $breakpoint-medium) {
