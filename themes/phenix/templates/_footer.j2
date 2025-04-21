@@ -16,7 +16,7 @@
     <section id="footer-elsewhere">
       <h3>{{ messages('menu_section_elsewhere')}}</h3>
       <ul>
-        {% for elsewhere in ['linkedin', 'newsletter', 'instagram', 'threads'] %}
+        {% for elsewhere in ['linkedin', 'newsletter', 'instagram', 'threads', 'mastodon'] %}
             <li>
                 <a href="{{ messages('menu_' + elsewhere + '_link')}}" rel="me" class="item">{{ messages('menu_' + elsewhere + '_label')}}</a>{{ messages('menu_description_separator')}}{{ messages('menu_' + elsewhere + '_description')}}
             </li>

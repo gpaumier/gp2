@@ -69,6 +69,9 @@ MESSAGES = {
     "menu_newsletter_link": "https://buttondown.com/gpaumier",
     "menu_newsletter_label": "Newsletter",
     "menu_newsletter_description": "Occasional notes on tech, mind, and systems. Starting April 2025",
+    "menu_mastodon_link": "https://piaille.fr/@gpaumier",
+    "menu_mastodon_label": "Mastodon",
+    "menu_mastodon_description": "like Threads but nerdier",
     "menu_description_separator": ": ",
     "menu_section_contact": "Contact",
     "contact_form_action_target": "/message-sent",
@@ -96,4 +99,5 @@ MESSAGES = {
     "schemaorg_librarything_link": "https://www.librarything.com/profile/gpaumier",
     "schemaorg_diffwikimedia_link": "https://diff.wikimedia.org/author/gpaumier/",
     "meta_author_url": "https://www.guillaumepaumier.com",
+    "meta_fediverse_creator": "@gpaumier@piaille.fr",
 }

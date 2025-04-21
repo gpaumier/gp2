@@ -58,6 +58,7 @@ MESSAGES = {
     "menu_instagram_description": "photos de voyages, photos en vrac, et autoportraits occasionnels",
     "menu_linkedin_description": "connexions professionnelles",    "menu_newsletter_label": "Infolettre",
     "menu_newsletter_description": "Chroniques occasionnelles sur la technologie, la cognition et les systèmes. Début en avril 2025",
+    "menu_mastodon_description": "comme Threads mais encore plus geek",
     "menu_description_separator": "&nbsp;: ",
     "menu_section_contact": "Contact",
     "contact_form_action_target": "/fr/message-envoye",

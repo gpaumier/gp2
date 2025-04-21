@@ -29,7 +29,7 @@
     "name": {{ messages("schemaorg_author_name")|tojson }},
     "url": "{{ messages('meta_author_url') }}",
     "sameAs": [
-      {% set socials = ['menu_linkedin_link', 'menu_threads_link', 'menu_instagram_link', 'schemaorg_bsky_link', 'schemaorg_github_link', 'schemaorg_wikipedia_link', 'schemaorg_wikidata_link', 'schemaorg_librarything_link', 'schemaorg_diffwikimedia_link' ] %}
+      {% set socials = ['menu_linkedin_link', 'menu_threads_link','menu_mastodon_link', 'menu_instagram_link', 'schemaorg_bsky_link', 'schemaorg_github_link', 'schemaorg_wikipedia_link', 'schemaorg_wikidata_link', 'schemaorg_librarything_link', 'schemaorg_diffwikimedia_link' ] %}
       {% for key in socials %}
       "{{ messages(key) }}"{% if not loop.last %},{% endif %}
       
