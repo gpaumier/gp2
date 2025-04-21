@@ -26,6 +26,7 @@ body > footer {
       #footer-main-links {
         grid-column: 1/2;
         grid-row: 1/2;
+        align-self: start;
       }
 
       #footer-elsewhere {
