@@ -9,6 +9,15 @@
    Leonardo da Vinci's Codex Atlanticus, f. 272 verso, sur `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Ambrosiana-Codice-Atlantico-Codex-Atlanticus-f-272-verso.jpg>`__ // Domaine public.
 
 
+
+Sélection d'articles et essais
+==============================
+
+.. post-list::
+   :categories: articles-fr-featured
+   :template: project_list_featured.j2
+  
+
 Livres
 ======
 
@@ -94,16 +103,9 @@ Publications scientifiques
   * Guillaume Paumier. Technical report (Institut national des sciences appliquées de Toulouse & CEA-Léti, 2004) \| :doc:`En savoir plus <biopuces>`
 
 
-Sélection d'articles et essais
-==============================
 
-.. post-list::
-   :categories: articles-fr-featured
-   :template: project_list_featured.j2
-
-
-Tous les articles
-=================
+Autres articles
+===============
 
 .. post-list::
    :categories: articles-fr

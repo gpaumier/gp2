@@ -1,5 +1,5 @@
 .. title: My life as an autistic Wikipedian
-.. category: articles-en-featured
+.. category: articles-en
 .. slug: autistic-wikipedian
 .. date: 2015-07-29 17:14:00
 .. tags: Wikimedia

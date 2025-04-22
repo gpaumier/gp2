@@ -11,6 +11,14 @@
    Leonardo da Vinci's Codex Atlanticus, f. 272 verso, on `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Ambrosiana-Codice-Atlantico-Codex-Atlanticus-f-272-verso.jpg>`__ // Public domain.
 
 
+Featured essays
+===============
+
+.. post-list::
+   :categories: articles-en-featured
+   :template: project_list_featured.j2
+
+
 Books
 =====
 
@@ -95,16 +103,9 @@ Research publications
   * Guillaume Paumier. Technical report (Institut national des sciences appliquées de Toulouse & CEA-Léti, 2004) \| :doc:`Read more <biochips>`
 
 
-Featured articles and essays
-============================
 
-.. post-list::
-   :categories: articles-en-featured
-   :template: project_list_featured.j2
-
-
-All articles and essays
-=======================
+Other articles and essays
+=========================
 
 .. post-list::
    :categories: articles-en
