@@ -4,7 +4,6 @@
 .. slug: uploadwizard-metrics
 .. date: 2025-04-21
 .. template: post_hero.j2
-.. tags: uploadwizard, metrics, wikimedia commons, metadata analysis, product analytics, digital preservation, institutional memory, open knowledge
 .. image: /images/Goldmark_-_Merlin_-_Zaubergarten_-_Hermann_Burghart_1886.png
 .. image_alt: Stage design of the Enchanted Garden by Hermann Burghart for the opera Merlin, featuring dramatic arches, misty foliage, and magical lighting in a painterly, theatrical style.
 
@@ -18,7 +17,7 @@
 
 .. highlights::
 
-   One in three pictures you see on Wikipedia was added through UploadWizard, a tool I designed in 2009. Over the past 15 years, **1.8 million unique volunteers** have uploaded a total of **41 million files** with UploadWizard to Commons, Wikipedia's media library. But unearthing those metrics turned out to be more complicated than I expected. What began as a straightforward question became a journey through over a decade of evolving logging practices, overwritten traces, and quietly deleted markers. The road of metadata archaeology is wild and wicked, winding through the wood. Follow me, my friend, to glory at the end.
+   One in three pictures you see on Wikipedia was added through UploadWizard, a tool I designed in 2009. Over the past 15 years, **1.8 million unique volunteers** have uploaded over **42 million files** with UploadWizard to Commons, Wikipedia's media library. But unearthing those metrics turned out to be more complicated than I expected. What began as a straightforward question became a journey through over a decade of evolving logging practices, overwritten traces, and quietly deleted markers. The road of metadata archaeology is wild and wicked, winding through the wood. Follow me, my friend, to glory at the end.
 
 
 The Tower, Reversed
@@ -150,11 +149,11 @@ Winding Out of Time
 
 Through my digging, I came across a few related tickets in Phabricator, Wikimedia's platform for tracking feature requests and bugs. One of them was a request to "Use an informative, custom edit summary for every file uploaded with UploadWizard" (`T142687 <https://phabricator.wikimedia.org/T142687>`__), which gave me a scare because it would have made it impossible to do any sort of counting in the future. But I also found a request to "Mark UploadWizard uploads with a change tag" (`T121872 <https://phabricator.wikimedia.org/T121872>`__).
 
-In MediaWiki, change tags are annotations for certain types of edits, for example if it was made by the visual editor or if it reverted the content to a previous version.\ [#mw_tags]_ Matthias Mullie had added an ``uploadwizard`` tag to the software in May 2017 (`gerrit:337566 <https://gerrit.wikimedia.org/r/c/mediawiki/extensions/UploadWizard/+/337566>`__). Unfortunately, the tag would only be applied to future uploads. Still, **the tag provided a new, easy, and reliable method** for counting post-2017 uploads, especially those after 2020 when the log message was split into two patterns.
+In MediaWiki, change tags are annotations for certain types of edits, for example if it was made with the visual editor, or if it reverted the content to a previous version.\ [#mw_tags]_ Matthias Mullie had added an ``uploadwizard`` tag to the software in May 2017 (`gerrit:337566 <https://gerrit.wikimedia.org/r/c/mediawiki/extensions/UploadWizard/+/337566>`__), as well as an ``uploadwizard-flickr`` tag for files from flickr. Unfortunately, the tags would only be applied to future uploads. Still, **the tags provided a new, easy, and reliable method** for counting post-2017 uploads, especially those after 2020 when the log message was split into two patterns.
 
 .. [#mw_tags] "`Manual:Tags <https://www.mediawiki.org/wiki/Manual:Tags>`__," *MediaWiki*, last modified April 12, 2024.
 
-In the end, I had identified five methods for counting uploads: 1. the removal of the original category, 2. the original log comment, 3. the change tag, 4. the log comment for own works, and 5. the log comment for third-party works. I could safely ignore the latter two, but the remaining **three methods still overlapped** over many years, so I needed to figure out exact timestamps and boundaries to avoid double-counting.
+In the end, I had identified five methods for counting uploads: 1. the removal of the original category, 2. the original log comment, 3. the two change tags, 4. the log comment for own works, and 5. the log comment for third-party works. I could safely ignore the latter two, but the remaining **three methods still overlapped** over many years, so I needed to figure out exact timestamps and boundaries to avoid double-counting.
 
 .. figure:: /images/uploadwizard_markers.svg
    :figclass: light-img framed-img full-content
@@ -163,7 +162,7 @@ In the end, I had identified five methods for counting uploads: 1. the removal o
    Timeline of the five distinct detection methods used to identify uploads made with UploadWizard over its lifetime, illustrating the fragmented nature of its historical metadata. Each method corresponds to a different metadata marker introduced at different stages: removal of the original category (2010−2016), original log comment (2012−2020), the uploadwizard change tag (2017 onward), and the now-undeeded log comments introduced in 2020.
 
 
-A few more queries later, I had identified the timestamp for the first upload to use the log comment in 2012 (2012-08-23T20:33:03Z, `query/92207 <https://quarry.wmcloud.org/query/92207>`__), and the one for the first upload to use the change tag (2017-05-10T19:47:57Z, `query/92206 <https://quarry.wmcloud.org/query/92206>`__). The early uploads from 2010−2012 were trickier because the removal of the category was a more fragile detection method.
+A few more queries later, I had identified the timestamps for the first upload to use the log comment in 2012 (2012-08-23T20:33:03Z, `query/92207 <https://quarry.wmcloud.org/query/92207>`__), and for the first one to use the change tag (2017-05-10T19:47:57Z, `query/92206 <https://quarry.wmcloud.org/query/92206>`__). The early uploads from 2010−2012 were trickier because the removal of the category was a more fragile detection method.
 
 I went looking through the archives of the Server admin log, which documents software deployments and other system operations in the Wikimedia infrastructure. An entry by Roan Kattouw indicated that UploadWizard had been deployed to Commons on November 30, 2010 at 11:29.\ [#catrope_SAL]_
 
@@ -174,6 +173,7 @@ This gave me a strict boundary and it narrowed down the search for the first fil
 .. sidebar::
 
    When I investigated false positives from the category removal method, I found examples where volunteers had accidentally added the category manually even though they hadn't used UploadWizard (`permalink/190105979 <https://commons.wikimedia.org/w/index.php?diff=190105979>`__). I considered looking for pages whose *first revision* included the category (meaning it would have been added by the software itself), but revision text unfortunately can't be queried on Quarry.
+
 
 Pulling back the curtain
 ========================
@@ -187,12 +187,13 @@ And so, at last, I had all the ingredients for my spell: I had three detection m
    This timeline shows the precise the start and end dates for each metadata marker used to detect UploadWizard uploads, making it possible to measure  usage across its full history without overlap.
 
 
-Once I had assembled a methodology and carved out clean timestamp boundaries for each detection method, I was finally able to begin extracting numbers, and stories.
+Once I had assembled a methodology and carved out clean timestamp boundaries for each detection method, I was finally able to begin extracting numbers, and the stories they told.
 
-As of April 20, 2025, **1,820,570 unique volunteers** have uploaded a total of **40,948,742 media files** to Commons with UploadWizard (`query/92995 <https://quarry.wmcloud.org/query/92995>`__, `query/92994 <https://quarry.wmcloud.org/query/92994>`__). The monthly breakdown in the following chart shows the growth rate over the past 15 years, as well as the yearly spikes corresponding to contribution campaigns and global contests like Wiki Loves Monuments (in September−October each year).
+As of April 21, 2025, **1,820,907 unique volunteers** have uploaded a total of **42,596,080 media files** to Commons with UploadWizard (`query/92995 <https://quarry.wmcloud.org/query/92995>`__, `query/92994 <https://quarry.wmcloud.org/query/92994>`__). The monthly breakdown in the following chart shows the growth rate over the past 15 years, as well as the yearly spikes corresponding to contribution campaigns and global contests like Wiki Loves Monuments (in September−October each year).
 
-.. FIXME
+.. sidebar::
 
+   It seems somehow fitting that the final tally is 42 million and change, as if representing the answer to Life, Commons, and Everything.
 
 .. figure:: /images/uploadwizard_uploads_by_month.svg
    :figclass: light-img framed-img full-content
@@ -203,22 +204,20 @@ As of April 20, 2025, **1,820,570 unique volunteers** have uploaded a total of *
 
 To better understand contributor behavior, I ran a query to group UploadWizard users into buckets based on how many files they had uploaded over time (`query/92997 <https://quarry.wmcloud.org/query/92997>`__). The engagement distribution reveals a classic long-tail pattern: of the 1.8 million volunteers who used UploadWizard, nearly half uploaded only a single file, and another 40% contributed fewer than ten. These numbers are consistent with Commons’ role as an open platform, where many users participate sporadically, often to share a single image of personal or local relevance. These numbers were evidence of a tool doing the work it was designed to do: helping people contribute freely licensed media to the world.
 
-.. FIXME
-
 .. figure:: /images/uploadwizard_contributors_buckets.svg
    :figclass: light-img framed-img
-   :alt: The horizontal bar chart titled "UploadWizard Contributors by Number of Uploads" visualizes the distribution of users based on how many files they uploaded using the tool. It shows that 893,192 users uploaded just one file, while 735,584 users uploaded between 2 and 10 files. Another 165,640 users uploaded between 11 and 100 files, and 21,935 users uploaded between 101 and 1,000 files. At the highest end of the spectrum, 4,222 users uploaded over a thousand files each.
+   :alt: The horizontal bar chart titled "UploadWizard Contributors by Number of Uploads" visualizes the distribution of users based on how many files they uploaded using the tool. It shows that 891,614 users uploaded just one file, while 736,928 users uploaded between 2 and 10 files. Another 165,996 users uploaded between 11 and 100 files, and 22,068 users uploaded between 101 and 1,000 files. At the highest end of the spectrum, 4,302 users uploaded over a thousand files each.
 
-   Distribution of UploadWizard contributors by number of uploads. While the tool lowers barriers for newcomers (over half the users uploaded only once), it’s also used by dedicated contributors—more than 4,000 users have uploaded over a thousand files each, highlighting the tool’s long-term utility and wide adoption.
+   Distribution of UploadWizard contributors by number of uploads. While the tool lowers barriers for newcomers (over half the users uploaded only once), it's also used by dedicated contributors: more than 4,300 users have uploaded over a thousand files each, highlighting the tool’s long-term utility and wide adoption.
 
 
-But another story also lies in the deeper tiers: almost 22,000 contributors uploaded between 101 and 1,000 files, and more than 4,000 users crossed the 1,000-file threshold. These power contributors (just 0.2% of all uploaders) account for a disproportionate share of Commons' visual knowledge. Their sustained participation underscores that **UploadWizard isn't just a tool for newcomers**. This highlights the importance of balancing ease of use with the advanced needs of experienced users. Designing for both ends of that spectrum is key to growing and sustaining Commons' media ecosystem. 
+But another story also lies in the deeper tiers: over 22,000 contributors uploaded between 101 and 1,000 files, and more than 4,300 users crossed the 1,000-file threshold. These power contributors (just 0.2% of all uploaders) account for a disproportionate share of Commons' visual knowledge. Their sustained participation underscores that **UploadWizard isn't just a tool for newcomers**. This highlights the importance of balancing ease of use with the advanced needs of experienced users. Designing for both ends of that spectrum is key to growing and sustaining Commons' media ecosystem. 
 
 
 No One Mourns the Wizard's metadata
 ===================================
 
-Looking back, the amount of effort it took to reconstruct the history of UploadWizard's usage is perhaps the most ironic aspect of this excavation. Wikimedia is a movement obsessed with preservation: we document every edit, every template, every discussion. We track every page's revision history in minute detail. And yet, the historical record of one of the most significant tools used to contribute content to Commons was never formally maintained. The lost memory was quiet, gradual, and bureaucratically tidy.
+Looking back, the amount of effort it took to reconstruct the history of UploadWizard's usage is perhaps the most ironic aspect of this excavation. Wikimedia is a movement obsessed with preservation: we document every edit, every template, every discussion. We track every page's revision history in minute detail. And yet, the historical record of one of the most significant tools used to contribute content to Commons was never formally maintained.
 
 That's not to say it was malicious, or even careless. It was simply a mismatch of priorities. The category was seen by volunteers as clutter and removed, a reasonable decision made in good faith. But from a product perspective, such decisions can carry unintended consequences, like the **loss of institutional memory**.
 
