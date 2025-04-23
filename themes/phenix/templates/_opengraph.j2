@@ -3,7 +3,10 @@
 {% else %}
   {% set full_title = post.title() %}
 {% endif %}
-{% if post.meta('image') %}
+{% if post.meta('image_og') %}
+    {% set image_url = abs_link(_link("root", None, 'en')) | trim('/') + post.meta('image_og') %}
+    {% set image_alt = post.meta('image_alt') %}
+{% elif post.meta('image') %}
     {% set image_url = abs_link(_link("root", None, 'en')) | trim('/') + post.meta('image') %}
     {% set image_alt = post.meta('image_alt') %}
 {% else %}

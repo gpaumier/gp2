@@ -5,6 +5,7 @@
 .. date: 2025-04-21
 .. template: post_hero.j2
 .. image: /images/Goldmark_-_Merlin_-_Zaubergarten_-_Hermann_Burghart_1886.png
+.. image_og: /images/Goldmark_-_Merlin_-_Zaubergarten_-_Hermann_Burghart_1886_smaller.png
 .. image_alt: Stage design of the Enchanted Garden by Hermann Burghart for the opera Merlin, featuring dramatic arches, misty foliage, and magical lighting in a painterly, theatrical style.
 
 

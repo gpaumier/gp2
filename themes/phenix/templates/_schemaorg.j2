@@ -1,9 +1,11 @@
 {% if post %}
-  {% if post.meta('image') %}
-          {% set image_url = abs_link(_link("root", None, 'en')) | trim('/') + post.meta('image') %}
-      {% else %}
-          {% set image_url = abs_link(_link("root", None, 'en')) + messages('opengraph_default_image') %}
-      {% endif %}
+  {% if post.meta('image_og') %}
+    {% set image_url = abs_link(_link("root", None, 'en')) | trim('/') + post.meta('image_og') %}
+  {% elif post.meta('image') %}
+    {% set image_url = abs_link(_link("root", None, 'en')) | trim('/') + post.meta('image') %}
+  {% else %}
+    {% set image_url = abs_link(_link("root", None, 'en')) + messages('opengraph_default_image') %}
+  {% endif %}
   {% if post.meta('subtitle') %}
     {% set full_title = post.title() ~ ': ' ~ post.meta('subtitle') %}
   {% else %}
