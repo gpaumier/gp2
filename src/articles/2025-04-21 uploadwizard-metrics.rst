@@ -67,7 +67,7 @@ The tracking category had given us a built-in count, accessible to anyone and di
 
    Screenshot of the file history for `one of my uploads <https://commons.wikimedia.org/wiki/File:Tour_Hertzienne_de_Mesnil-Esnard_(Seine-Maritime)_001.jpg#filehistory>`__ to Wikimedia Commons. The log entry shows the automated comment "User created page with UploadWizard."
 
-The `Quarry <https://meta.wikimedia.org/wiki/Research:Quarry>`__ tool makes it possible to run queries on a copy of Common's database. In October 2016, `Steinsplitter <https://commons.wikimedia.org/wiki/User:Steinsplitter>`__ used the log comment method on Quarry and counted 10,228,537 uploads (`query/13031 <https://quarry.wmcloud.org/query/13031>`__).
+The `Quarry <https://meta.wikimedia.org/wiki/Research:Quarry>`__ tool makes it possible to run queries on a copy of Commons' database. In October 2016, `Steinsplitter <https://commons.wikimedia.org/wiki/User:Steinsplitter>`__ used the log comment method on Quarry and counted 10,228,537 uploads (`query/13031 <https://quarry.wmcloud.org/query/13031>`__).
 
 .. figure:: /images/uploadwizard_log_comment_query_2016.png
    :figclass: light-img framed-img
