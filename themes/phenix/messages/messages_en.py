@@ -68,7 +68,7 @@ MESSAGES = {
     "menu_linkedin_description": "professional connections",
     "menu_newsletter_link": "https://buttondown.com/gpaumier",
     "menu_newsletter_label": "Newsletter",
-    "menu_newsletter_description": "Occasional notes on tech, mind, and systems. Starting May 2025",
+    "menu_newsletter_description": "Occasional notes on tech, mind, and systems. Coming in 2026",
     "menu_mastodon_link": "https://piaille.fr/@gpaumier",
     "menu_mastodon_label": "Mastodon",
     "menu_mastodon_description": "like Threads but nerdier",
