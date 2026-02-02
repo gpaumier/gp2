@@ -216,7 +216,7 @@ However, this model of computer-mediated communication is much closer to the com
 
 What there is online, instead, is plenty of time, time that we can use to collect our thoughts and formulate a carefully crafted answer. Whereas voice is synchronous and mostly irreversible, text can be edited, crafted, deleted, reworded, or rewritten until it's exactly what we want it to be; *then* we can send it. This is true of asynchronous channels like email and wikis, but it also extends to semi-synchronous tools like instant messaging or IRC.
 
-It's not all rainbows and unicorns, though. For example, autistics like me are still very much clueless about politics and reading between the lines. We tend to be radically honest, which doesn't fly very well, whether online or offline. autistics are also more susceptible to trolling, and may not always realize that the way people act online isn't the same as the way they act in the physical world. The Internet medium tends to desensitize people, and autistics might emulate behavior that isn't actually acceptable, regardless of the venue.
+It's not all rainbows and unicorns, though. For example, autistics like me are still very much clueless about politics and reading between the lines. We tend to be radically honest, which doesn't fly very well, whether online or offline. Autistics are also more susceptible to trolling, and may not always realize that the way people act online isn't the same as the way they act in the physical world. The Internet medium tends to desensitize people, and autistics might emulate behavior that isn't actually acceptable, regardless of the venue.
 
 
 Autism in the Wikimedia community
